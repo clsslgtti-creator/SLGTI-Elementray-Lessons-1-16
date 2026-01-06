@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "t'i're",
+        "word_text": "knife",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Do you check the t'i're pressure regularly?",
+        "sentence_text": "Do you always use a sharp knife to cut vegetables?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "dr'i've",
+        "word_text": "slice",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Always dr'i've carefully on wet roads.",
+        "sentence_text": "Do you always slice the bread evenly?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.png"
+        "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "t'igh'ten",
+        "word_text": "frying",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Do you always t'igh'ten the bolts on the wheel properly?",
+        "sentence_text": "The chef is frying fish in the pan.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.jpeg"
+        "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "al'i'gn",
+        "word_text": "spice",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Al'i'gn the headlights properly.",
+        "sentence_text": "Add some spice to the curry.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_4.jpeg"
       }
     ]
   },
