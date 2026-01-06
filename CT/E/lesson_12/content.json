@@ -1,0 +1,632 @@
+{
+  "meta": {
+    "lesson_no": 12,
+    "level": "Elementary",
+    "section": "Construction Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /aɪ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "s'i'te",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The workers are at the construction s'i'te.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "p'i'le",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The p'i'le of sand was next to the tar bitumen drums.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "gr'i'nd",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Do you always gr'i'nd the tiles with care?",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "he'igh't",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "Do you always measure the he'igh't of the wall properly?",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Simple Present, Yes/No Questions, WH-Questions",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [["You go.", "You don’t go."]],
+      [
+        ["Do you go?", "Yes, I do.", "Yes, we do."],
+        [null, "No, I don’t.", "No, we don’t."]
+      ],
+      [["When do you go?"]]
+    ],
+    "example_dialogues": [
+      {
+        "id": "e_1",
+        "img": "assets/img/Monday.png",
+        "text_a": "Do you ride a motorbike on Tuesday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you ride a motorbike?",
+        "text_d": "I ride a motorbike on Monday.",
+        "audio_a": "assets/audio/a_2_ex_1_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_ex_1_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_1_d.mp3"
+      },
+      {
+        "id": "e_2",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you play cricket on Thursday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you play cricket?",
+        "text_d": "I play cricket  on Wednesday.",
+        "audio_a": "assets/audio/a_2_ex_2_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_ex_2_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_2_d.mp3"
+      },
+      {
+        "id": "e_3",
+        "img": "assets/img/Saturday.jpeg",
+        "text_a": "Do you and your friend visit elderly relatives on Sunday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you visit your elderly relatives?",
+        "text_d": "We visit our elderly relatives on Saturday.",
+        "audio_a": "assets/audio/a_2_ex_3_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_ex_3_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_3_d.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/Monday.png",
+        "word": "Ride a motorbike"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/Tuesday.jpeg",
+        "word": "Use social media"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/Wednesday.png",
+        "word": "Play cricket"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/Thursday.jpeg",
+        "word": "Buy groceries"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/Friday.jpeg",
+        "word": "Spend time with friends"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/Saturday.jpeg",
+        "word": "Visit elderly relatives"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/Tuesday.jpeg",
+        "text_a": "Do you use social media on Wednesday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you use social media?",
+        "text_d": "I use social media on Tuesday.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i_f.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/Thursday.jpeg",
+        "text_a": "Do you buy groceries on Friday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you buy groceries?",
+        "text_d": "I buy groceries on Thursday.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i_f.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/Friday.jpeg",
+        "text_a": "Do you spend time with friends on Saturday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you spend time with friends?",
+        "text_d": "I spend time with friends on Friday.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you play cricket on Monday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you play cricket?",
+        "text_d": "I play cricket on Wednesday.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_4_d.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you and your friend play cricket on Friday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you and your friend play cricket?",
+        "text_d": "We play cricket on Wednesday.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/Friday.jpeg",
+        "text_a": "Do you and your friend spend time together on Thursday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you and your friend spend time together?",
+        "text_d": "We spend time together on Friday.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_6_d.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_c_1",
+            "sentence": "What does a construction foreman do?\n\nA construction foreman supervises workers and checks daily progress on site.",
+            "audio": "assets/audio/a_3_c_1.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_c_2",
+            "sentence": "What does a construction foreman do?\n\nHe reads blueprints and explains the layout to the masons and carpenters.",
+            "audio": "assets/audio/a_3_c_2.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_c_3",
+            "sentence": "What does a construction foreman do?\n\nHe plans the next day’s work and assigns tasks to each team.",
+            "audio": "assets/audio/a_3_c_3.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_c_4",
+            "sentence": "What does a construction foreman do?\n\nHe doesn’t check the scaffold before workers start climbing.",
+            "audio": "assets/audio/a_3_c_4.mp3",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": "g_c_5",
+            "sentence": "What does a construction foreman do?\n\nHe uses measuring tapes, spirit levels, and marking tools during inspection.",
+            "audio": "assets/audio/a_3_c_5.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_c_6",
+            "sentence": "What does a construction foreman do?\n\nHe does not ignore safety rules or missing helmets on the site.",
+            "audio": "assets/audio/a_3_c_6.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_c_7",
+            "sentence": "What does a construction foreman do?\n\nHe checks the quality of concrete and ensures it cures properly.",
+            "audio": "assets/audio/a_3_c_7.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_c_8",
+            "sentence": "What does a construction foreman do?\n\nHe orders materials like sand, cement, and steel rods in advance.",
+            "audio": "assets/audio/a_3_c_8.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_c_9",
+            "sentence": "What does a construction foreman do?\n\nHe does not record the daily work report or attendance of workers accurately.",
+            "audio": "assets/audio/a_3_c_9.mp3",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": "g_c_10",
+            "sentence": "What does a construction foreman do?\n\nHe coordinates with the site engineer and reports any construction delays.",
+            "audio": "assets/audio/a_3_c_10.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "n_3_c_1",
+          "text": "A construction foreman supervises workers and checks daily progress on site.",
+          "audio": "assets/audio/a_3_c_1.mp3"
+        },
+        {
+          "id": "n_3_c_2",
+          "text": "He reads blueprints and explains the layout to the masons and carpenters.",
+          "audio": "assets/audio/a_3_c_2.mp3"
+        },
+        {
+          "id": "n_3_c_3",
+          "text": "He plans the next day’s work and assigns tasks to each team.",
+          "audio": "assets/audio/a_3_c_3.mp3"
+        },
+        {
+          "id": "n_3_c_4",
+          "text": "He doesn’t check the scaffold before workers start climbing.",
+          "audio": "assets/audio/a_3_c_4.mp3"
+        },
+        {
+          "id": "n_3_c_5",
+          "text": "He uses measuring tapes, spirit levels, and marking tools during inspection.",
+          "audio": "assets/audio/a_3_c_5.mp3"
+        },
+        {
+          "id": "n_3_c_6",
+          "text": "He does not ignore safety rules or missing helmets on the site.",
+          "audio": "assets/audio/a_3_c_6.mp3"
+        },
+        {
+          "id": "n_3_c_7",
+          "text": "He checks the quality of concrete and ensures it cures properly.",
+          "audio": "assets/audio/a_3_c_7.mp3"
+        },
+        {
+          "id": "n_3_c_8",
+          "text": "He orders materials like sand, cement, and steel rods in advance.",
+          "audio": "assets/audio/a_3_c_8.mp3"
+        },
+        {
+          "id": "n_3_c_9",
+          "text": "He does not record the daily work report or attendance of workers accurately.",
+          "audio": "assets/audio/a_3_c_9.mp3"
+        },
+        {
+          "id": "n_3_c_10",
+          "text": "He coordinates with the site engineer and reports any construction delays.",
+          "audio": "assets/audio/a_3_c_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "READING-1",
+    "instructions": {
+      "context": {
+        "text": "Read the passage below carefully before you attempt the activities.\nපහත පරිච්ඡේදය සලකා බලන්න. ඔබ ක්‍රියාකාරකම් උත්සාහ කිරීමට පෙර.\nகீழே உள்ள பகுதியை கவனமாகப் படியுங்கள்.",
+        "audio": "assets/audio/a_4_i_h.mp3"
+      },
+      "activity_a": {
+        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "activity_b": {
+        "text": "Read the questions and choose the correct answer.\nප්‍රශ්න කියවන්න සහ නිවැරදි පිළිතුර තෝරන්න.\nகேள்விகளைப் படித்து சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_4_i_f.mp3"
+      },
+      "activity_c": {
+        "text": "Put these jumbled words in the correct order, to make a sentence.\nමෙම අකුරු ගැටුම් නිවැරදි අනුපිළිවෙලට තබා වාක්‍යයක් සාදන්න.\nஇந்த குழப்பமான வார்த்தைகளை சரியான வரிசையில் வைத்து ஒரு வாக்கியமாக மாற்றுங்கள்.",
+        "audio": "assets/audio/a_4_i_g.mp3"
+      }
+    },
+    "context": {
+      "title": "BUILDLINE 400 – Digital Laser Level",
+      "cover": "assets/img/a_4.png",
+      "content": [
+        {
+          "section_number": "1",
+          "section_title": "Parts Identification",
+          "intro": "The BuildLine 400 Digital Laser Level helps construction workers measure level and alignment with precision.",
+          "subsections": [
+            {
+              "subtitle": "Main Components",
+              "items": [
+                "Laser Emitter – projects a visible horizontal or vertical beam for alignment.",
+                "Control Panel – includes the power button, mode selector, and sensitivity settings.",
+                "Tripod Mount – attaches the laser level securely for stable positioning.",
+                "Battery Compartment – holds rechargeable lithium batteries.",
+                "Receiver Sensor – detects the laser beam over long distances.",
+                "Bubble Vials – assist in manual levelling during setup.",
+                "Charging Port – used to recharge the internal battery.",
+                "Carrying Case – protects the device during transport."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2",
+          "section_title": "Setup and Operation",
+          "steps": [
+            "Unpack the unit and ensure all parts are included.",
+            "Attach the tripod mount on a firm surface.",
+            "Insert the batteries and press the Power button.",
+            "Adjust the bubble vials to ensure the laser is level.",
+            "Select Horizontal or Vertical Mode using the control panel.",
+            "Position the receiver sensor where the beam should fall.",
+            "Once aligned, mark the reference point or install materials accordingly.",
+            "After use, turn off the unit and store it in the carrying case."
+          ]
+        },
+        {
+          "section_number": "3",
+          "section_title": "Maintenance and Troubleshooting",
+          "subsections": [
+            {
+              "subtitle": "Common Issues and Solutions",
+              "items": [
+                "Laser Not Visible: Check battery charge or clean the laser window.",
+                "Inaccurate Level Line: Re-level the tripod or recalibrate the device.",
+                "Receiver Not Detecting Beam: Ensure there’s no bright sunlight interference.",
+                "Power Failure: Recharge the battery fully or check the charger connection."
+              ]
+            },
+            {
+              "subtitle": "Maintenance Tips",
+              "items": [
+                "Keep the laser lens and bubble vials clean.",
+                "Do not expose the unit to rain or extreme heat.",
+                "Calibrate the laser every three months for accuracy.",
+                "Use only the recommended charger.",
+                "Store in a dry, dust-free environment."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4",
+          "section_title": "Safety Precautions",
+          "items": [
+            "Never stare directly into the laser beam.",
+            "Do not point the beam at people or reflective surfaces.",
+            "Ensure the tripod is stable before operating.",
+            "Turn off the laser before moving it between locations.",
+            "Use protective gloves and boots when working on uneven ground."
+          ]
+        }
+      ]
+    },
+    "content": {
+      "activity_a": {
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "alignment",
+            "item_b": "the arrangement of parts or surfaces in a straight or correct position"
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "tripod",
+            "item_b": "a three-legged stand used to hold a device steady"
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "calibrate",
+            "item_b": "to adjust a measuring instrument to ensure correct readings"
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "extreme",
+            "item_b": "something at the highest degree or furthest range of intensity or distance"
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "reflective",
+            "item_b": "capable of reflecting light or other radiation"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "receiver",
+            "item_b": "a sensor that detects or captures a signal such as a laser beam"
+          }
+        ]
+      },
+      "activity_b": {
+        "Questions": [
+          {
+            "id": "l_4_1",
+            "question": "What is the main purpose of the BuildLine 400 Digital Laser Level?",
+            "answer": "To measure level and alignment with precision",
+            "options": [
+              "To measure temperature and humidity",
+              "To measure level and alignment with precision",
+              "To detect metal objects in walls"
+            ]
+          },
+          {
+            "id": "l_4_2",
+            "question": "Which part projects the visible beam for alignment?",
+            "answer": "Laser Emitter",
+            "options": ["Receiver Sensor", "Bubble Vials", "Laser Emitter"]
+          },
+          {
+            "id": "l_4_3",
+            "question": "What should be done if the laser line appears inaccurate?",
+            "answer": "Re-level the tripod or recalibrate the device",
+            "options": [
+              "Replace the laser lens",
+              "Re-level the tripod or recalibrate the device",
+              "Increase the laser brightness"
+            ]
+          },
+          {
+            "id": "l_4_4",
+            "question": "How often should the laser be calibrated for accuracy?",
+            "answer": "Every three months",
+            "options": ["Every month", "Every three months", "Once a year"]
+          },
+          {
+            "id": "l_4_5",
+            "question": "What is one important safety precaution when using the BuildLine 400?",
+            "answer": "Never stare directly into the laser beam",
+            "options": [
+              "Always point the beam toward shiny surfaces",
+              "Never stare directly into the laser beam",
+              "Turn on the laser before adjusting the tripod"
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "words": [
+            "Unpack",
+            "the",
+            "unit",
+            "and",
+            "ensure",
+            "all",
+            "parts",
+            "are",
+            "included",
+            "."
+          ],
+          "sentence": "Unpack the unit and ensure all parts are included."
+        },
+        {
+          "words": [
+            "Do",
+            "not",
+            "expose",
+            "the",
+            "unit",
+            "to",
+            "extreme",
+            "heat",
+            "."
+          ],
+          "sentence": "Do not expose the unit to extreme heat."
+        },
+        {
+          "words": [
+            "Calibrate",
+            "the",
+            "laser",
+            "every",
+            "three",
+            "months",
+            "."
+          ],
+          "sentence": "Calibrate the laser every three months."
+        },
+        {
+          "words": ["Store", "in", "a", "dry", "dust-free", "environment", "."],
+          "sentence": "Store in a dry, dust-free environment."
+        },
+        {
+          "words": [
+            "Do",
+            "not",
+            "point",
+            "the",
+            "beam",
+            "at",
+            "reflective",
+            "surfaces",
+            "."
+          ],
+          "sentence": "Do not point the beam at reflective surfaces."
+        }
+      ]
+    }
+  }
+}

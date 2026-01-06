@@ -1,0 +1,643 @@
+{
+  "meta": {
+    "lesson_no": 12,
+    "level": "Elementary",
+    "section": "Mechanical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /aɪ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "p'i'pe",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Fix the broken p'i'pe with sealant.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "gr'i'nd",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Gr'i'nd the surface smoothly.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.jpg"
+      },
+      {
+        "id": "p_3",
+        "word_text": "t'igh'ten",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "T'igh'ten the screw with a wrench.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.jpeg"
+      },
+      {
+        "id": "p_4",
+        "word_text": "dr'i've",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "Dr'i've the machine slowly.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.jpeg"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Simple Present, Yes/No Questions, WH-Questions",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [["You go.", "You don’t go."]],
+      [
+        ["Do you go?", "Yes, I do.", "Yes, we do."],
+        [null, "No, I don’t.", "No, we don’t."]
+      ],
+      [["When do you go?"]]
+    ],
+    "example_dialogues": [
+      {
+        "id": "e_1",
+        "img": "assets/img/Monday.png",
+        "text_a": "Do you ride a motorbike on Tuesday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you ride a motorbike?",
+        "text_d": "I ride a motorbike on Monday.",
+        "audio_a": "assets/audio/a_2_ex_1_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_ex_1_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_1_d.mp3"
+      },
+      {
+        "id": "e_2",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you play cricket on Thursday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you play cricket?",
+        "text_d": "I play cricket  on Wednesday.",
+        "audio_a": "assets/audio/a_2_ex_2_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_ex_2_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_2_d.mp3"
+      },
+      {
+        "id": "e_3",
+        "img": "assets/img/Saturday.jpeg",
+        "text_a": "Do you and your friend visit elderly relatives on Sunday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you visit your elderly relatives?",
+        "text_d": "We visit our elderly relatives on Saturday.",
+        "audio_a": "assets/audio/a_2_ex_3_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_ex_3_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_3_d.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/Monday.png",
+        "word": "Ride a motorbike"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/Tuesday.jpeg",
+        "word": "Use social media"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/Wednesday.png",
+        "word": "Play cricket"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/Thursday.jpeg",
+        "word": "Buy groceries"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/Friday.jpeg",
+        "word": "Spend time with friends"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/Saturday.jpeg",
+        "word": "Visit elderly relatives"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/Tuesday.jpeg",
+        "text_a": "Do you use social media on Wednesday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you use social media?",
+        "text_d": "I use social media on Tuesday.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i_f.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/Thursday.jpeg",
+        "text_a": "Do you buy groceries on Friday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you buy groceries?",
+        "text_d": "I buy groceries on Thursday.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i_f.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/Friday.jpeg",
+        "text_a": "Do you spend time with friends on Saturday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you spend time with friends?",
+        "text_d": "I spend time with friends on Friday.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you play cricket on Monday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you play cricket?",
+        "text_d": "I play cricket on Wednesday.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_4_d.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you and your friend play cricket on Friday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you and your friend play cricket?",
+        "text_d": "We play cricket on Wednesday.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/Friday.jpeg",
+        "text_a": "Do you and your friend spend time together on Thursday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you and your friend spend time together?",
+        "text_d": "We spend time together on Friday.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_6_d.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_m_1",
+            "sentence": "What does a mechanical foreman do?\n\nA mechanical foreman supervises technicians and checks repair work on machines.",
+            "audio": "assets/audio/a_3_m_1.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_m_2",
+            "sentence": "What does a mechanical foreman do?\n\nHe plans daily tasks and assigns jobs to fitters and welders.",
+            "audio": "assets/audio/a_3_m_2.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_m_3",
+            "sentence": "What does a mechanical foreman do?\n\nHe inspects engines, pumps, and compressors for unusual sounds.",
+            "audio": "assets/audio/a_3_m_3.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_m_4",
+            "sentence": "What does a mechanical foreman do?\n\nHe doesn’t lock out the power supply before maintenance.",
+            "audio": "assets/audio/a_3_m_4.mp3",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": "g_m_5",
+            "sentence": "What does a mechanical foreman do?\n\nHe uses measuring tools such as micrometers and vernier callipers.",
+            "audio": "assets/audio/a_3_m_5.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_m_6",
+            "sentence": "What does a mechanical foreman do?\n\nHe does not ignore oil leaks or overheating problems in machines.",
+            "audio": "assets/audio/a_3_m_6.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_m_7",
+            "sentence": "What does a mechanical foreman do?\n\nHe orders spare parts and ensures the workshop has enough tools.",
+            "audio": "assets/audio/a_3_m_7.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_m_8",
+            "sentence": "What does a mechanical foreman do?\n\nHe checks alignment and adjusts belts, pulleys, and bearings.",
+            "audio": "assets/audio/a_3_m_8.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_m_9",
+            "sentence": "What does a mechanical foreman do?\n\nHe does not record the completed jobs or report faults to the manager.",
+            "audio": "assets/audio/a_3_m_9.mp3",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": "g_m_10",
+            "sentence": "What does a mechanical foreman do?\n\nHe monitors safety practices and trains workers on proper handling of equipment.",
+            "audio": "assets/audio/a_3_m_10.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "n_3_m_1",
+          "text": "A mechanical foreman supervises technicians and checks repair work on machines.",
+          "audio": "assets/audio/a_3_m_1.mp3"
+        },
+        {
+          "id": "n_3_m_2",
+          "text": "He plans daily tasks and assigns jobs to fitters and welders.",
+          "audio": "assets/audio/a_3_m_2.mp3"
+        },
+        {
+          "id": "n_3_m_3",
+          "text": "He inspects engines, pumps, and compressors for unusual sounds.",
+          "audio": "assets/audio/a_3_m_3.mp3"
+        },
+        {
+          "id": "n_3_m_4",
+          "text": "He doesn’t lock out the power supply before maintenance.",
+          "audio": "assets/audio/a_3_m_4.mp3"
+        },
+        {
+          "id": "n_3_m_5",
+          "text": "He uses measuring tools such as micrometers and vernier callipers.",
+          "audio": "assets/audio/a_3_m_5.mp3"
+        },
+        {
+          "id": "n_3_m_6",
+          "text": "He does not ignore oil leaks or overheating problems in machines.",
+          "audio": "assets/audio/a_3_m_6.mp3"
+        },
+        {
+          "id": "n_3_m_7",
+          "text": "He orders spare parts and ensures the workshop has enough tools.",
+          "audio": "assets/audio/a_3_m_7.mp3"
+        },
+        {
+          "id": "n_3_m_8",
+          "text": "He checks alignment and adjusts belts, pulleys, and bearings.",
+          "audio": "assets/audio/a_3_m_8.mp3"
+        },
+        {
+          "id": "n_3_m_9",
+          "text": "He does not record the completed jobs or report faults to the manager.",
+          "audio": "assets/audio/a_3_m_9.mp3"
+        },
+        {
+          "id": "n_3_m_10",
+          "text": "He monitors safety practices and trains workers on proper handling of equipment.",
+          "audio": "assets/audio/a_3_m_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "READING-1",
+    "instructions": {
+      "context": {
+        "text": "Read the passage below carefully before you attempt the activities.\nපහත පරිච්ඡේදය සලකා බලන්න. ඔබ ක්‍රියාකාරකම් උත්සාහ කිරීමට පෙර.\nகீழே உள்ள பகுதியை கவனமாகப் படியுங்கள்.",
+        "audio": "assets/audio/a_4_i_h.mp3"
+      },
+      "activity_a": {
+        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "activity_b": {
+        "text": "Read the questions and choose the correct answer.\nප්‍රශ්න කියවන්න සහ නිවැරදි පිළිතුර තෝරන්න.\nகேள்விகளைப் படித்து சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_4_i_f.mp3"
+      },
+      "activity_c": {
+        "text": "Put these jumbled words in the correct order, to make a sentence.\nමෙම අකුරු ගැටුම් නිවැරදි අනුපිළිවෙලට තබා වාක්‍යයක් සාදන්න.\nஇந்த குழப்பமான வார்த்தைகளை சரியான வரிசையில் வைத்து ஒரு வாக்கியமாக மாற்றுங்கள்.",
+        "audio": "assets/audio/a_4_i_g.mp3"
+      }
+    },
+    "context": {
+      "title": "POWERPRESS 800 – Hydraulic Press Machine",
+      "cover": "assets/img/a_4.png",
+      "content": [
+        {
+          "section_number": "1",
+          "section_title": "Parts Identification",
+          "intro": "The PowerPress 800 Hydraulic Press Machine is used in mechanical workshops for shaping, bending, pressing bearings, and assembling parts under high pressure.",
+          "subsections": [
+            {
+              "subtitle": "Main Components",
+              "items": [
+                "Hydraulic Cylinder – applies pressure to compress or shape materials.",
+                "Ram (Piston Rod) – moves downward to apply force to the workpiece.",
+                "Worktable (Bed Plate) – supports the material being pressed.",
+                "Pump Handle / Motor Switch – activates the hydraulic system (manual or electric).",
+                "Pressure Gauge – displays the applied force in tons or bar.",
+                "Safety Guard – protects the operator from accidental contact.",
+                "Oil Reservoir – stores hydraulic oil for smooth operation.",
+                "Release Valve – controls the pressure release after each operation."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2",
+          "section_title": "Setup and Operation",
+          "steps": [
+            "Place the machine on a level floor and ensure it is stable.",
+            "Fill the oil reservoir with the recommended hydraulic oil (ISO VG 46).",
+            "Connect to power for the motorised version or secure the manual pump handle.",
+            "Adjust the worktable height using the locking pins according to material size.",
+            "Place the workpiece at the centre of the bed plate.",
+            "Close the release valve to build pressure.",
+            "Activate the pump handle or motor switch to lower the ram.",
+            "Monitor the pressure gauge carefully during operation.",
+            "Once the operation is complete, open the release valve slowly to raise the ram.",
+            "Turn off the motor or secure the handle before removing the workpiece."
+          ]
+        },
+        {
+          "section_number": "3",
+          "section_title": "Maintenance and Troubleshooting",
+          "subsections": [
+            {
+              "subtitle": "Common Issues and Solutions",
+              "items": [
+                "Low Pressure: Check oil level; refill or bleed air from the system.",
+                "Oil Leaks: Inspect seals, hoses, and connections for damage or leaks.",
+                "No Ram Movement: Ensure the release valve is fully closed.",
+                "Abnormal Noise: Air trapped in the system — bleed and refill oil.",
+                "Inaccurate Pressure Reading: Calibrate or replace the pressure gauge."
+              ]
+            },
+            {
+              "subtitle": "Maintenance Tips",
+              "items": [
+                "Check oil level weekly.",
+                "Replace hydraulic oil every six months.",
+                "Keep the ram and bed plate clean and lightly oiled.",
+                "Never exceed the rated capacity (80 tons).",
+                "Ensure all guards are in place before operating."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4",
+          "section_title": "Safety Precautions",
+          "items": [
+            "Operate only after receiving proper training.",
+            "Never place hands or tools under the ram while it is in motion.",
+            "Do not exceed the maximum pressure capacity.",
+            "Keep the floor area dry to avoid slips.",
+            "Turn off the main power before performing maintenance.",
+            "Always wear safety shoes, gloves, and eye protection."
+          ]
+        }
+      ]
+    },
+    "content": {
+      "activity_a": {
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "hydraulic",
+            "item_b": "operated by liquid pressure, usually oil, to create force or movement"
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "cylinder",
+            "item_b": "a hollow chamber containing a piston moving under fluid pressure"
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "ram",
+            "item_b": "the moving part of a press that applies downward force"
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "gauge",
+            "item_b": "a measuring device that shows pressure or other quantities"
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "reservoir",
+            "item_b": "a tank that stores hydraulic fluid for the system"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "compress",
+            "item_b": "to flatten or squeeze by applying pressure"
+          }
+        ]
+      },
+      "activity_b": {
+        "Questions": [
+          {
+            "id": "l_4_1",
+            "question": "What is the main function of the PowerPress 800 Hydraulic Press Machine?",
+            "answer": "To shape, bend, and press materials under high pressure",
+            "options": [
+              "To weld and cut metal sheets",
+              "To shape, bend, and press materials under high pressure",
+              "To polish and paint machine parts"
+            ]
+          },
+          {
+            "id": "l_4_2",
+            "question": "What should you do before starting the hydraulic press operation?",
+            "answer": "Close the release valve to build pressure",
+            "options": [
+              "Open the release valve fully",
+              "Close the release valve to build pressure",
+              "Turn off the motor"
+            ]
+          },
+          {
+            "id": "l_4_3",
+            "question": "What causes low pressure during operation?",
+            "answer": "Low oil level or air in the system",
+            "options": [
+              "Low oil level or air in the system",
+              "Overheating of the motor",
+              "Misaligned worktable"
+            ]
+          },
+          {
+            "id": "l_4_4",
+            "question": "How often should the hydraulic oil be replaced?",
+            "answer": "Every six months",
+            "options": ["Every month", "Once a year", "Every six months"]
+          },
+          {
+            "id": "l_4_5",
+            "question": "What is the maximum rated capacity of the PowerPress 800?",
+            "answer": "80 tons",
+            "options": ["50 tons", "80 tons", "100 tons"]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "words": [
+            "Place",
+            "the",
+            "machine",
+            "on",
+            "a",
+            "level",
+            "floor",
+            "."
+          ],
+          "sentence": "Place the machine on a level floor."
+        },
+        {
+          "words": [
+            "Ensure",
+            "all",
+            "guards",
+            "are",
+            "in",
+            "place",
+            "before",
+            "operating",
+            "."
+          ],
+          "sentence": "Ensure all guards are in place before operating."
+        },
+        {
+          "words": [
+            "Operate",
+            "only",
+            "after",
+            "receiving",
+            "proper",
+            "training",
+            "."
+          ],
+          "sentence": "Operate only after receiving proper training."
+        },
+        {
+          "words": [
+            "Keep",
+            "the",
+            "floor",
+            "area",
+            "dry",
+            "to",
+            "avoid",
+            "slips",
+            "."
+          ],
+          "sentence": "Keep the floor area dry to avoid slips."
+        },
+        {
+          "words": [
+            "Turn",
+            "off",
+            "the",
+            "power",
+            "before",
+            "performing",
+            "maintenance",
+            "."
+          ],
+          "sentence": "Turn off the power before performing maintenance."
+        }
+      ]
+    }
+  }
+}

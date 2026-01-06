@@ -1,0 +1,629 @@
+{
+  "meta": {
+    "lesson_no": 12,
+    "level": "Elementary",
+    "section": "Food Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /aɪ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "knife",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Do you always use a sharp knife to cut vegetables?",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.jpeg"
+      },
+      {
+        "id": "p_2",
+        "word_text": "slice",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Do you always slice the bread evenly?",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.jpeg"
+      },
+      {
+        "id": "p_3",
+        "word_text": "frying",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The chef is frying fish in the pan.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "spice",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "Add some spice to the curry.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.jpeg"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Simple Present, Yes/No Questions, WH-Questions",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [["You go.", "You don’t go."]],
+      [
+        ["Do you go?", "Yes, I do.", "Yes, we do."],
+        [null, "No, I don’t.", "No, we don’t."]
+      ],
+      [["When do you go?"]]
+    ],
+    "example_dialogues": [
+      {
+        "id": "e_1",
+        "img": "assets/img/Monday.png",
+        "text_a": "Do you ride a motorbike on Tuesday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you ride a motorbike?",
+        "text_d": "I ride a motorbike on Monday.",
+        "audio_a": "assets/audio/a_2_ex_1_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_ex_1_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_1_d.mp3"
+      },
+      {
+        "id": "e_2",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you play cricket on Thursday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you play cricket?",
+        "text_d": "I play cricket  on Wednesday.",
+        "audio_a": "assets/audio/a_2_ex_2_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_ex_2_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_2_d.mp3"
+      },
+      {
+        "id": "e_3",
+        "img": "assets/img/Saturday.jpeg",
+        "text_a": "Do you and your friend visit elderly relatives on Sunday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you visit your elderly relatives?",
+        "text_d": "We visit our elderly relatives on Saturday.",
+        "audio_a": "assets/audio/a_2_ex_3_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_ex_3_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_3_d.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/Monday.png",
+        "word": "Ride a motorbike"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/Tuesday.jpeg",
+        "word": "Use social media"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/Wednesday.png",
+        "word": "Play cricket"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/Thursday.jpeg",
+        "word": "Buy groceries"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/Friday.jpeg",
+        "word": "Spend time with friends"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/Saturday.jpeg",
+        "word": "Visit elderly relatives"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/Tuesday.jpeg",
+        "text_a": "Do you use social media on Wednesday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you use social media?",
+        "text_d": "I use social media on Tuesday.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i_f.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/Thursday.jpeg",
+        "text_a": "Do you buy groceries on Friday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you buy groceries?",
+        "text_d": "I buy groceries on Thursday.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i_f.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/Friday.jpeg",
+        "text_a": "Do you spend time with friends on Saturday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you spend time with friends?",
+        "text_d": "I spend time with friends on Friday.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you play cricket on Monday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you play cricket?",
+        "text_d": "I play cricket on Wednesday.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_4_d.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you and your friend play cricket on Friday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you and your friend play cricket?",
+        "text_d": "We play cricket on Wednesday.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/Friday.jpeg",
+        "text_a": "Do you and your friend spend time together on Thursday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you and your friend spend time together?",
+        "text_d": "We spend time together on Friday.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_6_d.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_f_1",
+            "sentence": "What does a food laboratory assistant do?\n\nA Food Laboratory Assistant tests food samples for quality and safety.",
+            "audio": "assets/audio/a_3_f_1.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_f_2",
+            "sentence": "What does a food laboratory assistant do?\n\nHe measures moisture, sugar, and fat content in different food products.",
+            "audio": "assets/audio/a_3_f_2.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_f_3",
+            "sentence": "What does a food laboratory assistant do?\n\nHe uses laboratory equipment like balances, pH meters, and microscopes.",
+            "audio": "assets/audio/a_3_f_3.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_f_4",
+            "sentence": "What does a food laboratory assistant do?\n\nHe throws waste materials into ordinary bins without checking.",
+            "audio": "assets/audio/a_3_f_4.mp3",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": "g_f_5",
+            "sentence": "What does a food laboratory assistant do?\n\nHe does not ignore safety rules when handling chemicals.",
+            "audio": "assets/audio/a_3_f_5.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_f_6",
+            "sentence": "What does a food laboratory assistant do?\n\nHe wears gloves and a lab coat to protect himself from contamination.",
+            "audio": "assets/audio/a_3_f_6.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_f_7",
+            "sentence": "What does a food laboratory assistant do?\n\nHe does not work alone; he works closely with food technologists and supervisors.",
+            "audio": "assets/audio/a_3_f_7.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_f_8",
+            "sentence": "What does a food laboratory assistant do?\n\nHe cleans and sterilizes glassware and instruments after use.",
+            "audio": "assets/audio/a_3_f_8.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_f_9",
+            "sentence": "What does a food laboratory assistant do?\n\nHe does not check the expiry dates of samples before testing.",
+            "audio": "assets/audio/a_3_f_9.mp3",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": "g_f_10",
+            "sentence": "What does a food laboratory assistant do?\n\nHe keeps detailed records of all test results in laboratory notebooks.",
+            "audio": "assets/audio/a_3_f_10.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "n_3_f_1",
+          "text": "A Food Laboratory Assistant tests food samples for quality and safety.",
+          "audio": "assets/audio/a_3_f_1.mp3"
+        },
+        {
+          "id": "n_3_f_2",
+          "text": "He measures moisture, sugar, and fat content in different food products.",
+          "audio": "assets/audio/a_3_f_2.mp3"
+        },
+        {
+          "id": "n_3_f_3",
+          "text": "He uses laboratory equipment like balances, pH meters, and microscopes.",
+          "audio": "assets/audio/a_3_f_3.mp3"
+        },
+        {
+          "id": "n_3_f_4",
+          "text": "He throws waste materials into ordinary bins without checking.",
+          "audio": "assets/audio/a_3_f_4.mp3"
+        },
+        {
+          "id": "n_3_f_5",
+          "text": "He does not ignore safety rules when handling chemicals.",
+          "audio": "assets/audio/a_3_f_5.mp3"
+        },
+        {
+          "id": "n_3_f_6",
+          "text": "He wears gloves and a lab coat to protect himself from contamination.",
+          "audio": "assets/audio/a_3_f_6.mp3"
+        },
+        {
+          "id": "n_3_f_7",
+          "text": "He does not work alone; he works closely with food technologists and supervisors.",
+          "audio": "assets/audio/a_3_f_7.mp3"
+        },
+        {
+          "id": "n_3_f_8",
+          "text": "He cleans and sterilizes glassware and instruments after use.",
+          "audio": "assets/audio/a_3_f_8.mp3"
+        },
+        {
+          "id": "n_3_f_9",
+          "text": "He does not check the expiry dates of samples before testing.",
+          "audio": "assets/audio/a_3_f_9.mp3"
+        },
+        {
+          "id": "n_3_f_10",
+          "text": "He keeps detailed records of all test results in laboratory notebooks.",
+          "audio": "assets/audio/a_3_f_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "READING-1",
+    "instructions": {
+      "context": {
+        "text": "Read the passage below carefully before you attempt the activities.\nපහත පරිච්ඡේදය සලකා බලන්න. ඔබ ක්‍රියාකාරකම් උත්සාහ කිරීමට පෙර.\nகீழே உள்ள பகுதியை கவனமாகப் படியுங்கள்.",
+        "audio": "assets/audio/a_4_i_h.mp3"
+      },
+      "activity_a": {
+        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "activity_b": {
+        "text": "Read the questions and choose the correct answer.\nප්‍රශ්න කියවන්න සහ නිවැරදි පිළිතුර තෝරන්න.\nகேள்விகளைப் படித்து சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_4_i_f.mp3"
+      },
+      "activity_c": {
+        "text": "Put these jumbled words in the correct order, to make a sentence.\nමෙම අකුරු ගැටුම් නිවැරදි අනුපිළිවෙලට තබා වාක්‍යයක් සාදන්න.\nஇந்த குழப்பமான வார்த்தைகளை சரியான வரிசையில் வைத்து ஒரு வாக்கியமாக மாற்றுங்கள்.",
+        "audio": "assets/audio/a_4_i_g.mp3"
+      }
+    },
+    "context": {
+      "title": "Food Mixer 2000 – Instruction Manual",
+      "cover": "assets/img/a_4.png",
+      "content": [
+        {
+          "section_number": "1",
+          "section_title": "Parts Identification",
+          "intro": "The Food Mixer 2000 is a powerful and efficient kitchen machine used for mixing, whipping, and kneading various food products.",
+          "subsections": [
+            {
+              "subtitle": "Main Parts",
+              "items": [
+                "Control Knob – used to select speed levels for different ingredients.",
+                "Mixing Bowl – holds up to 4 litres of dough or batter.",
+                "Whisk Attachment – used for whipping cream or beating eggs.",
+                "Dough Hook – for kneading bread or pastry dough.",
+                "Beater Blade – for mixing batters and sauces.",
+                "Splash Guard – prevents ingredients from spilling out during operation.",
+                "Power Cord – connects the mixer to the electrical outlet.",
+                "Overheat Indicator – lights up if the motor becomes too hot."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2",
+          "section_title": "Setup and Operation",
+          "steps": [
+            "Place the mixer on a flat, dry surface.",
+            "Attach the mixing bowl and lock it securely in position.",
+            "Insert the required attachment depending on your task.",
+            "Plug in the power cord and turn the control knob to the desired speed.",
+            "Start with a low speed for dry ingredients and increase gradually.",
+            "Do not run the mixer continuously for more than 10 minutes.",
+            "If the Overheat Indicator turns on, switch off the mixer and allow it to cool.",
+            "Always unplug the unit before removing or cleaning attachments.",
+            "Wipe the body with a damp cloth and dry it completely after use."
+          ]
+        },
+        {
+          "section_number": "3",
+          "section_title": "Safety Precautions",
+          "items": [
+            "Never place fingers or utensils inside the bowl while the mixer is running.",
+            "Avoid using the mixer with wet hands.",
+            "Do not immerse the motor housing in water.",
+            "Always ensure attachments are properly fitted before starting.",
+            "Use only original parts and accessories supplied by the manufacturer."
+          ]
+        },
+        {
+          "section_number": "4",
+          "section_title": "Maintenance",
+          "items": [
+            "Clean attachments immediately after use to prevent food residue.",
+            "Grease the moving parts lightly once every six months.",
+            "Store the mixer in a cool, dry place when not in use."
+          ]
+        }
+      ]
+    },
+    "content": {
+      "activity_a": {
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "knead",
+            "item_b": "to press and fold dough to make it smooth and elastic"
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "attachment",
+            "item_b": "a removable tool or part added for a specific purpose"
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "residue",
+            "item_b": "a small amount of something that remains after the main part is gone"
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "indicator",
+            "item_b": "a signal or light showing the machine’s condition"
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "accessory",
+            "item_b": "an additional item that supports the main equipment"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "immerse",
+            "item_b": "to dip or submerge in a liquid"
+          }
+        ]
+      },
+      "activity_b": {
+        "Questions": [
+          {
+            "id": "l_4_1",
+            "question": "What are the main functions of the Food Mixer 2000?",
+            "answer": "Mixing, whipping, and kneading various food products",
+            "options": [
+              "Grinding and slicing food",
+              "Heating and blending food",
+              "Mixing, whipping, and kneading various food products"
+            ]
+          },
+          {
+            "id": "l_4_2",
+            "question": "Which attachment is used for kneading bread or pastry dough?",
+            "answer": "Dough Hook",
+            "options": ["Whisk Attachment", "Beater Blade", "Dough Hook"]
+          },
+          {
+            "id": "l_4_3",
+            "question": "What should you do if the Overheat Indicator turns on?",
+            "answer": "Switch off the mixer and allow it to cool",
+            "options": [
+              "Add more ingredients to cool the motor",
+              "Switch off the mixer and allow it to cool",
+              "Turn the control knob to the highest speed"
+            ]
+          },
+          {
+            "id": "l_4_4",
+            "question": "How long can the mixer safely run continuously?",
+            "answer": "No more than 10 minutes",
+            "options": [
+              "Up to 20 minutes",
+              "No more than 10 minutes",
+              "About 30 minutes"
+            ]
+          },
+          {
+            "id": "l_4_5",
+            "question": "What is one key safety precaution when using the Food Mixer 2000?",
+            "answer": "Never place fingers or utensils inside the bowl while the mixer is running",
+            "options": [
+              "Use metal spoons inside the bowl while mixing",
+              "Plug in before attaching accessories",
+              "Never place fingers or utensils inside the bowl while the mixer is running"
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "words": [
+            "Unplug",
+            "the",
+            "unit",
+            "before",
+            "removing",
+            "attachments",
+            "."
+          ],
+          "sentence": "Unplug the unit before removing attachments."
+        },
+        {
+          "words": [
+            "Clean",
+            "attachments",
+            "after",
+            "use",
+            "to",
+            "prevent",
+            "food",
+            "residue",
+            "."
+          ],
+          "sentence": "Clean attachments after use to prevent food residue."
+        },
+        {
+          "words": [
+            "Store",
+            "the",
+            "mixer",
+            "in",
+            "a",
+            "cool",
+            "dry",
+            "place",
+            "."
+          ],
+          "sentence": "Store the mixer in a cool, dry place."
+        },
+        {
+          "words": [
+            "Avoid",
+            "using",
+            "the",
+            "mixer",
+            "with",
+            "wet",
+            "hands",
+            "."
+          ],
+          "sentence": "Avoid using the mixer with wet hands."
+        },
+        {
+          "words": [
+            "Do",
+            "not",
+            "immerse",
+            "the",
+            "motor",
+            "housing",
+            "in",
+            "water",
+            "."
+          ],
+          "sentence": "Do not immerse the motor housing in water."
+        }
+      ]
+    }
+  }
+}

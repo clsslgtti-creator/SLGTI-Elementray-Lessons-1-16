@@ -1,0 +1,656 @@
+{
+  "meta": {
+    "lesson_no": 12,
+    "level": "Elementary",
+    "section": "Information and Communication Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /aɪ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "f'i'le",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Do you always save the f'i'le before closing the program?",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.jpeg"
+      },
+      {
+        "id": "p_2",
+        "word_text": "t'y'pe",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Do you always t'y'pe your password carefully?",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.jpeg"
+      },
+      {
+        "id": "p_3",
+        "word_text": "s'i'te",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Visit the s'i'te for new updates.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "dev'i'ce",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "This dev'i'ce needs to be charged.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.jpeg"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Simple Present, Yes/No Questions, WH-Questions",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [["You go.", "You don’t go."]],
+      [
+        ["Do you go?", "Yes, I do.", "Yes, we do."],
+        [null, "No, I don’t.", "No, we don’t."]
+      ],
+      [["When do you go?"]]
+    ],
+    "example_dialogues": [
+      {
+        "id": "e_1",
+        "img": "assets/img/Monday.png",
+        "text_a": "Do you ride a motorbike on Tuesday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you ride a motorbike?",
+        "text_d": "I ride a motorbike on Monday.",
+        "audio_a": "assets/audio/a_2_ex_1_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_ex_1_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_1_d.mp3"
+      },
+      {
+        "id": "e_2",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you play cricket on Thursday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you play cricket?",
+        "text_d": "I play cricket  on Wednesday.",
+        "audio_a": "assets/audio/a_2_ex_2_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_ex_2_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_2_d.mp3"
+      },
+      {
+        "id": "e_3",
+        "img": "assets/img/Saturday.jpeg",
+        "text_a": "Do you and your friend visit elderly relatives on Sunday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you visit your elderly relatives?",
+        "text_d": "We visit our elderly relatives on Saturday.",
+        "audio_a": "assets/audio/a_2_ex_3_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_ex_3_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_3_d.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/Monday.png",
+        "word": "Ride a motorbike"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/Tuesday.jpeg",
+        "word": "Use social media"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/Wednesday.png",
+        "word": "Play cricket"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/Thursday.jpeg",
+        "word": "Buy groceries"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/Friday.jpeg",
+        "word": "Spend time with friends"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/Saturday.jpeg",
+        "word": "Visit elderly relatives"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/Tuesday.jpeg",
+        "text_a": "Do you use social media on Wednesday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you use social media?",
+        "text_d": "I use social media on Tuesday.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i_f.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/Thursday.jpeg",
+        "text_a": "Do you buy groceries on Friday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you buy groceries?",
+        "text_d": "I buy groceries on Thursday.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i_f.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/Friday.jpeg",
+        "text_a": "Do you spend time with friends on Saturday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you spend time with friends?",
+        "text_d": "I spend time with friends on Friday.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you play cricket on Monday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you play cricket?",
+        "text_d": "I play cricket on Wednesday.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_4_d.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you and your friend play cricket on Friday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you and your friend play cricket?",
+        "text_d": "We play cricket on Wednesday.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/Friday.jpeg",
+        "text_a": "Do you and your friend spend time together on Thursday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you and your friend spend time together?",
+        "text_d": "We spend time together on Friday.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_6_d.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_i_1",
+            "sentence": "What does an IT specialist do?\n\nAn IT specialist installs and updates operating systems on company computers.",
+            "audio": "assets/audio/a_3_i_1.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_i_2",
+            "sentence": "What does an IT specialist do?\n\nHe checks network connections and fixes internet problems quickly.",
+            "audio": "assets/audio/a_3_i_2.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_i_3",
+            "sentence": "What does an IT specialist do?\n\nHe backs up important data and protects files from viruses.",
+            "audio": "assets/audio/a_3_i_3.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_i_4",
+            "sentence": "What does an IT specialist do?\n\nHe doesn’t log error reports after solving technical issues.",
+            "audio": "assets/audio/a_3_i_4.mp3",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": "g_i_5",
+            "sentence": "What does an IT specialist do?\n\nHe uses diagnostic software to detect hardware and software faults.",
+            "audio": "assets/audio/a_3_i_5.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_i_6",
+            "sentence": "What does an IT specialist do?\n\nHe does not ignore user complaints about slow systems.",
+            "audio": "assets/audio/a_3_i_6.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_i_7",
+            "sentence": "What does an IT specialist do?\n\nHe replaces faulty cables and configures routers and printers.",
+            "audio": "assets/audio/a_3_i_7.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_i_8",
+            "sentence": "What does an IT specialist do?\n\nHe runs security scans and installs antivirus updates regularly.",
+            "audio": "assets/audio/a_3_i_8.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_i_9",
+            "sentence": "What does an IT specialist do?\n\nHe does not check the power supply before opening a computer case.",
+            "audio": "assets/audio/a_3_i_9.mp3",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": "g_i_10",
+            "sentence": "What does an IT specialist do?\n\nHe trains staff to use applications and explains troubleshooting steps.",
+            "audio": "assets/audio/a_3_i_10.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "n_3_i_1",
+          "text": "An IT specialist installs and updates operating systems on company computers.",
+          "audio": "assets/audio/a_3_i_1.mp3"
+        },
+        {
+          "id": "n_3_i_2",
+          "text": "He checks network connections and fixes internet problems quickly.",
+          "audio": "assets/audio/a_3_i_2.mp3"
+        },
+        {
+          "id": "n_3_i_3",
+          "text": "He backs up important data and protects files from viruses.",
+          "audio": "assets/audio/a_3_i_3.mp3"
+        },
+        {
+          "id": "n_3_i_4",
+          "text": "He doesn’t log error reports after solving technical issues.",
+          "audio": "assets/audio/a_3_i_4.mp3"
+        },
+        {
+          "id": "n_3_i_5",
+          "text": "He uses diagnostic software to detect hardware and software faults.",
+          "audio": "assets/audio/a_3_i_5.mp3"
+        },
+        {
+          "id": "n_3_i_6",
+          "text": "He does not ignore user complaints about slow systems.",
+          "audio": "assets/audio/a_3_i_6.mp3"
+        },
+        {
+          "id": "n_3_i_7",
+          "text": "He replaces faulty cables and configures routers and printers.",
+          "audio": "assets/audio/a_3_i_7.mp3"
+        },
+        {
+          "id": "n_3_i_8",
+          "text": "He runs security scans and installs antivirus updates regularly.",
+          "audio": "assets/audio/a_3_i_8.mp3"
+        },
+        {
+          "id": "n_3_i_9",
+          "text": "He does not check the power supply before opening a computer case.",
+          "audio": "assets/audio/a_3_i_9.mp3"
+        },
+        {
+          "id": "n_3_i_10",
+          "text": "He trains staff to use applications and explains troubleshooting steps.",
+          "audio": "assets/audio/a_3_i_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "READING-1",
+    "instructions": {
+      "context": {
+        "text": "Read the passage below carefully before you attempt the activities.\nපහත පරිච්ඡේදය සලකා බලන්න. ඔබ ක්‍රියාකාරකම් උත්සාහ කිරීමට පෙර.\nகீழே உள்ள பகுதியை கவனமாகப் படியுங்கள்.",
+        "audio": "assets/audio/a_4_i_h.mp3"
+      },
+      "activity_a": {
+        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "activity_b": {
+        "text": "Read the questions and choose the correct answer.\nප්‍රශ්න කියවන්න සහ නිවැරදි පිළිතුර තෝරන්න.\nகேள்விகளைப் படித்து சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_4_i_f.mp3"
+      },
+      "activity_c": {
+        "text": "Put these jumbled words in the correct order, to make a sentence.\nමෙම අකුරු ගැටුම් නිවැරදි අනුපිළිවෙලට තබා වාක්‍යයක් සාදන්න.\nஇந்த குழப்பமான வார்த்தைகளை சரியான வரிசையில் வைத்து ஒரு வாக்கியமாக மாற்றுங்கள்.",
+        "audio": "assets/audio/a_4_i_g.mp3"
+      }
+    },
+    "context": {
+      "title": "SmartPrint 3200 – 3-in-1 Multifunction Peripheral (Printer, Scanner & Photocopier)",
+      "cover": "assets/img/a_4.png",
+      "content": [
+        {
+          "section_number": "0",
+          "section_title": "Introduction",
+          "intro": "This manual provides comprehensive guidance on installing, configuring, operating, and maintaining the SmartPrint 3200 multifunction peripheral (MFP). The document is intended for ICT trainees and professionals familiar with computer peripherals, networking, and device drivers."
+        },
+        {
+          "section_number": "1",
+          "section_title": "Device Architecture and Components",
+          "intro": "The SmartPrint 3200 combines printing, scanning, and photocopying functions into a single compact unit. It incorporates advanced control logic, embedded firmware, and multiple connectivity interfaces.",
+          "subsections": [
+            {
+              "subtitle": "Key Components",
+              "items": [
+                "Control Interface – touch-enabled LCD panel for navigating menus and device settings.",
+                "Automatic Document Feeder (ADF) – allows batch scanning and copying of multiple pages.",
+                "Scanner Glass – supports high-resolution optical scanning (up to 1200 dpi).",
+                "Paper Input and Output Assemblies – manage document flow during print and copy operations.",
+                "Ink Cartridge Module – hosts individual colour cartridges for precision output.",
+                "Connectivity Ports – USB 2.0, Ethernet (optional), and Wi-Fi Direct for network integration.",
+                "Status LEDs – indicate power, ink, and network status.",
+                "Firmware Access Panel – used during software updates and diagnostics."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2",
+          "section_title": "Installation and Configuration",
+          "steps": [
+            "Unpack and inspect all components. Ensure the device is placed on a flat, stable surface.",
+            "Connect the power cord and press the Power button to initialise the system.",
+            "Install the ink cartridges in the correct colour slots and close the access panel securely.",
+            "Load A4 or Letter-size paper into the input tray.",
+            "Connect the device using USB, Wi-Fi Direct, or LAN (optional).",
+            "Install the SmartPrint Driver Package and Device Management Utility from the manufacturer’s website.",
+            "Execute a test print to confirm successful installation.",
+            "Perform a firmware check under “Settings → Maintenance → Firmware Update” and update if necessary."
+          ],
+          "notes": [
+            "USB Connection: Attach the cable to the computer and allow the operating system to detect the peripheral.",
+            "Wi-Fi Direct: Activate Wi-Fi mode via the control interface and authenticate using the SmartPrint Utility.",
+            "LAN (optional): Connect via Ethernet cable and configure the IP address manually or through DHCP."
+          ]
+        },
+        {
+          "section_number": "3",
+          "section_title": "Operational Procedures",
+          "subsections": [
+            {
+              "subtitle": "Printing",
+              "items": [
+                "Open the desired document and select “SmartPrint 3200” from the printer list.",
+                "Configure page orientation, duplex settings, and print quality.",
+                "Click Print to execute the job; the system will buffer and queue the document."
+              ]
+            },
+            {
+              "subtitle": "Scanning",
+              "items": [
+                "Access the SmartPrint Scan Utility on the workstation.",
+                "Choose the input source (Scanner Glass or ADF).",
+                "Select file format (PDF, JPEG, PNG) and resolution (300–1200 dpi).",
+                "Specify the destination folder or connected device, then click Scan."
+              ]
+            },
+            {
+              "subtitle": "Copying",
+              "items": [
+                "Place the document face-down on the scanner glass or load it into the ADF.",
+                "From the control interface, select Copy.",
+                "Choose Black & White or Colour mode, adjust copy density, and initiate the task."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4",
+          "section_title": "Maintenance and Troubleshooting",
+          "subsections": [
+            {
+              "subtitle": "Routine Maintenance",
+              "items": [
+                "Clean the scanner glass with a lint-free cloth.",
+                "Run the “Head Cleaning” cycle weekly to maintain print quality.",
+                "Update firmware periodically to ensure compatibility and security.",
+                "Replace consumables before depletion to prevent print head clogging."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "activity_a": {
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "combine",
+            "item_b": "bringing together different parts or functions"
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "multifunction",
+            "item_b": "having or fulfilling several different uses"
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "consumables",
+            "item_b": "items that are used up relatively quickly"
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "authenticate",
+            "item_b": "to prove that something is genuine or valid"
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "familiar",
+            "item_b": "well known or easy to recognise"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "navigating",
+            "item_b": "planning or directing the course or way around something"
+          }
+        ]
+      },
+      "activity_b": {
+        "Questions": [
+          {
+            "id": "l_4_1",
+            "question": "What are the three main functions of the SmartPrint 3200?",
+            "answer": "Printing, scanning, and photocopying",
+            "options": [
+              "Printing, faxing, and laminating",
+              "Printing, scanning, and photocopying",
+              "Editing, typing, and filing"
+            ]
+          },
+          {
+            "id": "l_4_2",
+            "question": "Which component allows batch scanning and copying of multiple pages?",
+            "answer": "Automatic Document Feeder (ADF)",
+            "options": [
+              "Scanner Glass",
+              "Automatic Document Feeder (ADF)",
+              "Ink Cartridge Module"
+            ]
+          },
+          {
+            "id": "l_4_3",
+            "question": "How many ways can the SmartPrint 3200 connect to a computer network?",
+            "answer": "3 ways",
+            "options": ["2 ways", "3 ways", "1 way"]
+          },
+          {
+            "id": "l_4_4",
+            "question": "What should be done once the ink cartridges are put in the correct colour slots?",
+            "answer": "Close the Access panel",
+            "options": [
+              "Reinstall the print driver manually",
+              "Close the Access panel",
+              "Restart the device and clear all print jobs"
+            ]
+          },
+          {
+            "id": "l_4_5",
+            "question": "What is one recommended maintenance activity to maintain print quality?",
+            "answer": "Run the “Head Cleaning” cycle weekly",
+            "options": [
+              "Replace the ink cartridge every day",
+              "Keep the paper tray empty when not in use",
+              "Run the “Head Cleaning” cycle weekly"
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "words": ["Unpack", "and", "inspect", "all", "components", "."],
+          "sentence": "Unpack and inspect all components."
+        },
+        {
+          "words": [
+            "Ensure",
+            "the",
+            "device",
+            "is",
+            "placed",
+            "on",
+            "a",
+            "stable",
+            "surface",
+            "."
+          ],
+          "sentence": "Ensure the device is placed on a stable surface."
+        },
+        {
+          "words": [
+            "Clean",
+            "the",
+            "scanner",
+            "glass",
+            "with",
+            "a",
+            "lint-free",
+            "cloth",
+            "."
+          ],
+          "sentence": "Clean the scanner glass with a lint-free cloth."
+        },
+        {
+          "words": [
+            "Update",
+            "firmware",
+            "periodically",
+            "to",
+            "ensure",
+            "compatibility",
+            "."
+          ],
+          "sentence": "Update firmware periodically to ensure compatibility."
+        },
+        {
+          "words": [
+            "Execute",
+            "a",
+            "test",
+            "print",
+            "to",
+            "confirm",
+            "successful",
+            "installation",
+            "."
+          ],
+          "sentence": "Execute a test print to confirm successful installation."
+        }
+      ]
+    }
+  }
+}
