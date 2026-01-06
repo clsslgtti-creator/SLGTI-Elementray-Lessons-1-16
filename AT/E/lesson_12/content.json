@@ -37,7 +37,7 @@
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
         "sentence_text": "Do you check the t'i're pressure regularly?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
+        "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
@@ -53,7 +53,7 @@
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
         "sentence_text": "Do you always t'igh'ten the bolts on the wheel properly?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
+        "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-3",
-    "focus": "Simple Present - third person singular, Yes/No questions, WH-questions",
+    "focus": "Simple Present, Yes/No Questions, WH-Questions",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
@@ -118,7 +118,7 @@
       {
         "id": "e_2",
         "img": "assets/img/Wednesday.png",
-        "text_a": "I ride a motorbike on Monday.",
+        "text_a": "Do you play cricket on Thursday?",
         "text_b": "No, I don’t.",
         "text_c": "When do you play cricket?",
         "text_d": "I play cricket  on Wednesday.",
@@ -181,19 +181,19 @@
         "text_c": "When do you use social media?",
         "text_d": "I use social media on Tuesday.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
-        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_b": "assets/audio/a_2_no_i_f.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
         "audio_d": "assets/audio/a_2_d_1_d.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/Thursday.jpeg",
-        "text_a": "I use social media on Tuesday.",
+        "text_a": "Do you buy groceries on Friday?",
         "text_b": "No, I don’t.",
         "text_c": "When do you buy groceries?",
         "text_d": "I buy groceries on Thursday.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
-        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_b": "assets/audio/a_2_no_i_f.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3",
         "audio_d": "assets/audio/a_2_d_2_d.mp3"
       },
@@ -338,52 +338,52 @@
       "activity_b": [
         {
           "id": "n_3_1",
-          "text": "Does an automobile mechanic inspect engines and detect mechanical faults?",
+          "text": "An automobile mechanic inspects engines and detects mechanical faults.",
           "audio": "assets/audio/a_3_b_1.mp3"
         },
         {
           "id": "n_3_2",
-          "text": "Does an automobile mechanic drain old engine oil after every service?",
+          "text": "He drains old engine oil and refills it with new oil after every service.",
           "audio": "assets/audio/a_3_b_2.mp3"
         },
         {
           "id": "n_3_3",
-          "text": "Does an automobile mechanic replace air filters and spark plugs when worn?",
+          "text": "He replaces air filters and spark plugs when they are dirty or worn out.",
           "audio": "assets/audio/a_3_b_3.mp3"
         },
         {
           "id": "n_3_4",
-          "text": "Does an automobile mechanic tighten the wheel nuts after changing the tyre?",
+          "text": "He doesn’t tighten the wheel nuts after changing the tyre.",
           "audio": "assets/audio/a_3_b_4.mp3"
         },
         {
           "id": "n_3_5",
-          "text": "Does an automobile mechanic use diagnostic equipment to scan electronic systems?",
+          "text": "He uses diagnostic equipment to scan the vehicle’s electronic system.",
           "audio": "assets/audio/a_3_b_5.mp3"
         },
         {
           "id": "n_3_6",
-          "text": "Does an automobile mechanic ignore warning lights during inspection?",
+          "text": "He does not ignore warning lights on the dashboard during inspection.",
           "audio": "assets/audio/a_3_b_6.mp3"
         },
         {
           "id": "n_3_7",
-          "text": "Does an automobile mechanic adjust the brake system carefully?",
+          "text": "He adjusts the brake system and checks the fluid level carefully.",
           "audio": "assets/audio/a_3_b_7.mp3"
         },
         {
           "id": "n_3_8",
-          "text": "Does an automobile mechanic clean fuel injectors to improve performance?",
+          "text": "He cleans the fuel injectors to improve engine performance.",
           "audio": "assets/audio/a_3_b_8.mp3"
         },
         {
           "id": "n_3_9",
-          "text": "Does an automobile mechanic test-drive the vehicle after repair?",
+          "text": "He does not test-drive the vehicle after completing the repair.",
           "audio": "assets/audio/a_3_b_9.mp3"
         },
         {
           "id": "n_3_10",
-          "text": "Does an automobile mechanic record maintenance details in the logbook?",
+          "text": "He records maintenance details and updates the service logbook.",
           "audio": "assets/audio/a_3_b_10.mp3"
         }
       ]
@@ -394,7 +394,7 @@
     "instructions": {
       "context": {
         "text": "Read the passage below carefully before you attempt the activities.\nපහත පරිච්ඡේදය සලකා බලන්න. ඔබ ක්‍රියාකාරකම් උත්සාහ කිරීමට පෙර.\nகீழே உள்ள பகுதியை கவனமாகப் படியுங்கள்.",
-        "audio": "assets/audio/a_4_i_e.mp3"
+        "audio": "assets/audio/a_4_i_h.mp3"
       },
       "activity_a": {
         "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
@@ -402,11 +402,11 @@
       },
       "activity_b": {
         "text": "Read the questions and choose the correct answer.\nප්‍රශ්න කියවන්න සහ නිවැරදි පිළිතුර තෝරන්න.\nகேள்விகளைப் படித்து சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
-        "audio": "assets/audio/a_4_i_a.mp3"
+        "audio": "assets/audio/a_4_i_f.mp3"
       },
       "activity_c": {
         "text": "Put these jumbled words in the correct order, to make a sentence.\nමෙම අකුරු ගැටුම් නිවැරදි අනුපිළිවෙලට තබා වාක්‍යයක් සාදන්න.\nஇந்த குழப்பமான வார்த்தைகளை சரியான வரிசையில் வைத்து ஒரு வாக்கியமாக மாற்றுங்கள்.",
-        "audio": "assets/audio/a_2_i_b.mp3"
+        "audio": "assets/audio/a_4_i_g.mp3"
       }
     },
     "context": {
@@ -602,7 +602,7 @@
       "activity_c": [
         {
           "words": [
-            "unpack",
+            "Unpack",
             "the",
             "analyser",
             "and",
@@ -616,7 +616,7 @@
         },
         {
           "words": [
-            "keep",
+            "Keep",
             "leads",
             "clean",
             "and",
@@ -632,7 +632,7 @@
         },
         {
           "words": [
-            "keep",
+            "Keep",
             "cables",
             "away",
             "from",
@@ -645,7 +645,7 @@
         },
         {
           "words": [
-            "wipe",
+            "Wipe",
             "the",
             "screen",
             "and",
@@ -660,7 +660,7 @@
         },
         {
           "words": [
-            "do",
+            "Do",
             "not",
             "expose",
             "yourself",
