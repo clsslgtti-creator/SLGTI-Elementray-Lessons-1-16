@@ -1,13 +1,13 @@
 {
   "meta": {
-    "lesson_no": 11,
+    "lesson_no": 12,
     "level": "Elementary",
     "section": "Automobile Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
     "type": "PRONUNCIATION",
-    "focus": "Schwa /ə/",
+    "focus": "Diphthong /aɪ/",
     "instructions": {
       "activity_1_a": {
         "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "mot'o'r",
+        "word_text": "t'i're",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Does this mot'o'r run smoothly?",
+        "sentence_text": "Do you check the t'i're pressure regularly?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "wash'e'r",
+        "word_text": "dr'i've",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The wash'e'r is next to the engine.",
+        "sentence_text": "Always dr'i've carefully on wet roads.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "assembl'e'r",
+        "word_text": "t'igh'ten",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Does this assembl'e'r always check the gearbox?",
+        "sentence_text": "Do you always t'igh'ten the bolts on the wheel properly?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "driv'e'r",
+        "word_text": "al'i'gn",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Does this  driv'e'r usually park the car outside?",
+        "sentence_text": "Al'i'gn the headlights properly.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -95,47 +95,47 @@
       }
     },
     "tables": [
-      [["He cooks.", "He doesn’t cook"]],
+      [["You go.", "You don’t go."]],
       [
-        ["Does he cook?", "Yes, he does."],
-        [null, "No, he doesn’t."]
+        ["Do you go?", "Yes, I do.", "Yes, we do."],
+        [null, "No, I don’t.", "No, we don’t."]
       ],
-      [["What kind of food does he cook?"], ["When does he cook?"]]
+      [["When do you go?"]]
     ],
     "example_dialogues": [
       {
         "id": "e_1",
         "img": "assets/img/Monday.png",
-        "text_a": "Does Ann prepare Indian dishes on Tuesday?",
-        "text_b": "No, she doesn’t.",
-        "text_c": "When does she prepare Indian dishes?",
-        "text_d": "She prepares Indian dishes on Monday.",
+        "text_a": "Do you ride a motorbike on Tuesday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you ride a motorbike?",
+        "text_d": "I ride a motorbike on Monday.",
         "audio_a": "assets/audio/a_2_ex_1_a.mp3",
-        "audio_b": "assets/audio/a_2_no_she.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
         "audio_c": "assets/audio/a_2_ex_1_c.mp3",
         "audio_d": "assets/audio/a_2_ex_1_d.mp3"
       },
       {
         "id": "e_2",
-        "img": "assets/img/Tuesday.jpeg",
-        "text_a": "Does Muhamed prepare Thai dishes on Monday?",
-        "text_b": "No, he doesn’t.",
-        "text_c": "When does he prepare Thai dishes?",
-        "text_d": "He prepares Thai dishes on Tuesday.",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "I ride a motorbike on Monday.",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you play cricket?",
+        "text_d": "I play cricket  on Wednesday.",
         "audio_a": "assets/audio/a_2_ex_2_a.mp3",
-        "audio_b": "assets/audio/a_2_no_he.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
         "audio_c": "assets/audio/a_2_ex_2_c.mp3",
         "audio_d": "assets/audio/a_2_ex_2_d.mp3"
       },
       {
         "id": "e_3",
-        "img": "assets/img/Wednesday.jpeg",
-        "text_a": "Does Muhamed prepare German dishes on Thursday?",
-        "text_b": "No, he doesn’t.",
-        "text_c": "When does he prepare German dishes?",
-        "text_d": "He prepares German dishes on Wednesday.",
+        "img": "assets/img/Saturday.jpeg",
+        "text_a": "Do you and your friend visit elderly relatives on Sunday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you visit your elderly relatives?",
+        "text_d": "We visit our elderly relatives on Saturday.",
         "audio_a": "assets/audio/a_2_ex_3_a.mp3",
-        "audio_b": "assets/audio/a_2_no_he.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
         "audio_c": "assets/audio/a_2_ex_3_c.mp3",
         "audio_d": "assets/audio/a_2_ex_3_d.mp3"
       }
@@ -144,104 +144,104 @@
       {
         "id": "k_1",
         "image": "assets/img/Monday.png",
-        "word": "Tandoori Chicken"
+        "word": "Ride a motorbike"
       },
       {
         "id": "k_2",
-        "image": "assets/img/Wednesday.jpeg",
-        "word": "Pork Schnitzel"
+        "image": "assets/img/Tuesday.jpeg",
+        "word": "Use social media"
       },
       {
         "id": "k_3",
-        "image": "assets/img/Sunday.jpeg",
-        "word": "Pol Sambol"
+        "image": "assets/img/Wednesday.png",
+        "word": "Play cricket"
       },
       {
         "id": "k_4",
-        "image": "assets/img/Friday.png",
-        "word": "Cheese Fondue "
+        "image": "assets/img/Thursday.jpeg",
+        "word": "Buy groceries"
       },
       {
         "id": "k_5",
-        "image": "assets/img/Thursday.png",
-        "word": "Snails"
+        "image": "assets/img/Friday.jpeg",
+        "word": "Spend time with friends"
       },
       {
         "id": "k_6",
         "image": "assets/img/Saturday.jpeg",
-        "word": "Sushi "
+        "word": "Visit elderly relatives"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/Wednesday.jpeg",
-        "text_a": "Does Ann prepare German dishes on Thursday?",
-        "text_b": "No, she doesn’t.",
-        "text_c": "When does she prepare German dishes?",
-        "text_d": "She prepares German dishes on Wednesday.",
+        "img": "assets/img/Tuesday.jpeg",
+        "text_a": "Do you use social media on Wednesday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you use social media?",
+        "text_d": "I use social media on Tuesday.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
-        "audio_b": "assets/audio/a_2_no_she.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
         "audio_d": "assets/audio/a_2_d_1_d.mp3"
       },
       {
         "id": "d_2",
-        "img": "assets/img/Friday.png",
-        "text_a": "Does Ann prepare Swiss dishes on Saturday?",
-        "text_b": "No, she doesn’t.",
-        "text_c": "When does she prepare Swiss dishes?",
-        "text_d": "She prepares Swiss dishes on Friday.",
+        "img": "assets/img/Thursday.jpeg",
+        "text_a": "I use social media on Tuesday.",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you buy groceries?",
+        "text_d": "I buy groceries on Thursday.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
-        "audio_b": "assets/audio/a_2_no_she.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3",
         "audio_d": "assets/audio/a_2_d_2_d.mp3"
       },
       {
         "id": "d_3",
-        "img": "assets/img/Sunday.jpeg",
-        "text_a": "Does Ann prepare Sri Lankan dishes on Saturday?",
-        "text_b": "No, she doesn’t.",
-        "text_c": "When does she prepare Sri Lankan dishes?",
-        "text_d": "She prepares Sri Lankan dishes on Sunday.",
+        "img": "assets/img/Friday.jpeg",
+        "text_a": "Do you spend time with friends on Saturday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you spend time with friends?",
+        "text_d": "I spend time with friends on Friday.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
-        "audio_b": "assets/audio/a_2_no_she.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3",
         "audio_d": "assets/audio/a_2_d_3_d.mp3"
       },
       {
         "id": "d_4",
-        "img": "assets/img/Thursday.png",
-        "text_a": "Does Muhamed prepare French dishes on Wednesday?",
-        "text_b": "No, he doesn’t.",
-        "text_c": "When does he prepare French dishes?",
-        "text_d": "He prepares French dishes on Thursday.",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you play cricket on Monday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you play cricket?",
+        "text_d": "I play cricket on Wednesday.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
-        "audio_b": "assets/audio/a_2_no_he.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3",
         "audio_d": "assets/audio/a_2_d_4_d.mp3"
       },
       {
         "id": "d_5",
-        "img": "assets/img/Saturday.jpeg",
-        "text_a": "Does Muhamed prepare Japanese dishes on Friday?",
-        "text_b": "No, he doesn’t.",
-        "text_c": "When does he prepare Japanese dishes?",
-        "text_d": "He prepares Japanese dishes on Saturday.",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you and your friend play cricket on Friday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you and your friend play cricket?",
+        "text_d": "We play cricket on Wednesday.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
-        "audio_b": "assets/audio/a_2_no_he.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3",
         "audio_d": "assets/audio/a_2_d_5_d.mp3"
       },
       {
         "id": "d_6",
-        "img": "assets/img/Monday.png",
-        "text_a": "Does Muhamed prepare Indian dishes on Friday?",
-        "text_b": "No, he doesn’t.",
-        "text_c": "When does he prepare Indian dishes?",
-        "text_d": "He prepares Indian dishes on Monday.",
+        "img": "assets/img/Friday.jpeg",
+        "text_a": "Do you and your friend spend time together on Thursday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you and your friend spend time together?",
+        "text_d": "We spend time together on Friday.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
-        "audio_b": "assets/audio/a_2_no_he.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3",
         "audio_d": "assets/audio/a_2_d_6_d.mp3"
       }
@@ -262,137 +262,128 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-6.jpg",
-        "examples": [
-          {
-            "id": "e_1",
-            "sentence": "Does Kala  learn about vehicle safety on Monday morning?",
-            "audio": "assets/audio/a_3_ex_1.mp3",
-            "options": ["Yes, she does.", "No, she doesn’t."],
-            "answer": "Yes, she does."
-          }
-        ],
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "Does she follow a class on  gearbox overhauling on Tuesday morning?",
+            "sentence": "What does an automobile mechanic do?\n\nAn automobile mechanic inspects engines and detects mechanical faults.",
             "audio": "assets/audio/a_3_b_1.mp3",
-            "options": ["Yes, she does.", "No, she doesn’t."],
-            "answer": "No, she doesn’t."
+            "options": ["True", "False"],
+            "answer": "True"
           },
           {
             "id": "g_b_2",
-            "sentence": "Does Kala have a session on braking systems on Wednesday morning?",
+            "sentence": "What does an automobile mechanic do?\n\nHe drains old engine oil and refills it with new oil after every service.",
             "audio": "assets/audio/a_3_b_2.mp3",
-            "options": ["Yes, she does.", "No, she doesn’t."],
-            "answer": "No, she doesn’t, but she has  a session on vehicle service procedures."
+            "options": ["True", "False"],
+            "answer": "True"
           },
           {
             "id": "g_b_3",
-            "sentence": "Does she attend an electrical systems  lesson on Thursday morning?",
+            "sentence": "What does an automobile mechanic do?\n\nHe replaces air filters and spark plugs when they are dirty or worn out.",
             "audio": "assets/audio/a_3_b_3.mp3",
-            "options": ["Yes, she does.", "No, she doesn’t."],
-            "answer": "No, she doesn’t"
+            "options": ["True", "False"],
+            "answer": "True"
           },
           {
             "id": "g_b_4",
-            "sentence": "Does Kala study vehicle body repair on Friday morning?",
+            "sentence": "What does an automobile mechanic do?\n\nHe doesn’t tighten the wheel nuts after changing the tyre.",
             "audio": "assets/audio/a_3_b_4.mp3",
-            "options": ["Yes, she does.", "No, she doesn’t."],
-            "answer": "No, she doesn’t, but she studies automotive electrical systems."
+            "options": ["True", "False"],
+            "answer": "False"
           },
           {
             "id": "g_b_5",
-            "sentence": "Does she practise tyre balancing on Monday before lunch?",
+            "sentence": "What does an automobile mechanic do?\n\nHe uses diagnostic equipment to scan the vehicle’s electronic system.",
             "audio": "assets/audio/a_3_b_5.mp3",
-            "options": ["Yes, she does.", "No, she doesn’t."],
-            "answer": "No, she doesn’t."
+            "options": ["True", "False"],
+            "answer": "True"
           },
           {
             "id": "g_b_6",
-            "sentence": "Does Kala join a session on lubrication systems on Tuesday before lunch?",
+            "sentence": "What does an automobile mechanic do?\n\nHe does not ignore warning lights on the dashboard during inspection.",
             "audio": "assets/audio/a_3_b_6.mp3",
-            "options": ["Yes, she does.", "No, she doesn’t."],
-            "answer": "No, she doesn’t."
+            "options": ["True", "False"],
+            "answer": "True"
           },
           {
             "id": "g_b_7",
-            "sentence": "Does she learn about lubrication  fluids on Wednesday before lunch?",
+            "sentence": "What does an automobile mechanic do?\n\nHe adjusts the brake system and checks the fluid level carefully.",
             "audio": "assets/audio/a_3_b_7.mp3",
-            "options": ["Yes, she does.", "No, she doesn’t."],
-            "answer": "Yes, she does."
+            "options": ["True", "False"],
+            "answer": "True"
           },
           {
             "id": "g_b_8",
-            "sentence": "Does Kala take part in car painting practice on Thursday afternoon?",
+            "sentence": "What does an automobile mechanic do?\n\nHe cleans the fuel injectors to improve engine performance.",
             "audio": "assets/audio/a_3_b_8.mp3",
-            "options": ["Yes, she does.", "No, she doesn’t."],
-            "answer": "No, she doesn’t."
+            "options": ["True", "False"],
+            "answer": "True"
           },
           {
             "id": "g_b_9",
-            "sentence": "Does she do brake system maintenance on Friday afternoon?",
+            "sentence": "What does an automobile mechanic do?\n\nHe does not test-drive the vehicle after completing the repair.",
             "audio": "assets/audio/a_3_b_9.mp3",
-            "options": ["Yes, she does.", "No, she doesn’t."],
-            "answer": "No, she doesn’t, but she does vehicle performance testing."
+            "options": ["True", "False"],
+            "answer": "False"
           },
           {
             "id": "g_b_10",
-            "sentence": "Does Kala remove and refit wheels on Monday afternoon?",
+            "sentence": "What does an automobile mechanic do?\n\nHe records maintenance details and updates the service logbook.",
             "audio": "assets/audio/a_3_b_10.mp3",
-            "options": ["Yes, she does.", "No, she doesn’t."],
-            "answer": "No, she doesn’t."
+            "options": ["True", "False"],
+            "answer": "True"
           }
         ]
       },
       "activity_b": [
         {
           "id": "n_3_1",
-          "text": "Does she follow a class on  gearbox overhauling on Tuesday morning?",
+          "text": "Does an automobile mechanic inspect engines and detect mechanical faults?",
           "audio": "assets/audio/a_3_b_1.mp3"
         },
         {
           "id": "n_3_2",
-          "text": "Does Kala have a session on braking systems on Wednesday morning?",
+          "text": "Does an automobile mechanic drain old engine oil after every service?",
           "audio": "assets/audio/a_3_b_2.mp3"
         },
         {
           "id": "n_3_3",
-          "text": "Does she attend an electrical systems  lesson on Thursday morning?",
+          "text": "Does an automobile mechanic replace air filters and spark plugs when worn?",
           "audio": "assets/audio/a_3_b_3.mp3"
         },
         {
           "id": "n_3_4",
-          "text": "Does Kala study vehicle body repair on Friday morning?",
+          "text": "Does an automobile mechanic tighten the wheel nuts after changing the tyre?",
           "audio": "assets/audio/a_3_b_4.mp3"
         },
         {
           "id": "n_3_5",
-          "text": "Does she practise tyre balancing on Monday before lunch?",
+          "text": "Does an automobile mechanic use diagnostic equipment to scan electronic systems?",
           "audio": "assets/audio/a_3_b_5.mp3"
         },
         {
           "id": "n_3_6",
-          "text": "Does Kala join a session on lubrication systems on Tuesday before lunch?",
+          "text": "Does an automobile mechanic ignore warning lights during inspection?",
           "audio": "assets/audio/a_3_b_6.mp3"
         },
         {
           "id": "n_3_7",
-          "text": "Does she learn about lubrication  fluids on Wednesday before lunch?",
+          "text": "Does an automobile mechanic adjust the brake system carefully?",
           "audio": "assets/audio/a_3_b_7.mp3"
         },
         {
           "id": "n_3_8",
-          "text": "Does Kala take part in car painting practice on Thursday afternoon?.",
+          "text": "Does an automobile mechanic clean fuel injectors to improve performance?",
           "audio": "assets/audio/a_3_b_8.mp3"
         },
         {
           "id": "n_3_9",
-          "text": "Does she do brake system maintenance on Friday afternoon?",
+          "text": "Does an automobile mechanic test-drive the vehicle after repair?",
           "audio": "assets/audio/a_3_b_9.mp3"
         },
         {
           "id": "n_3_10",
-          "text": "Does Kala remove and refit wheels on Monday afternoon?",
+          "text": "Does an automobile mechanic record maintenance details in the logbook?",
           "audio": "assets/audio/a_3_b_10.mp3"
         }
       ]
@@ -532,79 +523,78 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "timetable",
-            "item_b": "a plan that shows the times at which activities or classes happen"
+            "item_a": "emission",
+            "item_b": "the production and discharge of something, especially gas or radiation"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "occupational safety",
-            "item_b": "the practice of keeping people safe and healthy while they work"
+            "item_a": "probe",
+            "item_b": "a wire or connector used to detect electrical signals from engine parts"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "communication skills",
-            "item_b": "the ability to speak, listen, and write effectively"
+            "item_a": "RPM clamp",
+            "item_b": "a tool that measures engine speed using ignition pulses"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "practical training",
-            "item_b": "learning by doing tasks in a real or simulated work environment"
+            "item_a": "diagnostics",
+            "item_b": "the process of identifying vehicle faults using electronic tools"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "evaluation",
-            "item_b": "a test or assessment to check progress or performance"
+            "item_a": "calibrate",
+            "item_b": "to adjust a measuring instrument for accurate readings"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "procedures",
-            "item_b": "official or correct ways of doing something, especially at work"
+            "item_a": "troubleshooting",
+            "item_b": "analysing and solving technical problems"
           }
         ]
       },
       "activity_b": {
-        "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What time does Kamal arrive at the institute?",
-            "answer": "7:45",
-            "options": ["7:45", "8:00", "8:30"]
+            "question": "What is the main purpose of the AutoTune 500 Digital Engine Analyser?",
+            "answer": "To perform diagnostic testing of petrol and diesel engines",
+            "options": [
+              "To clean vehicle fuel injectors",
+              "To charge automotive batteries",
+              "To perform diagnostic testing of petrol and diesel engines"
+            ]
           },
           {
             "id": "l_4_2",
-            "question": "Does Kamal have communication skills on Wednesday morning?",
-            "answer": "Yes, he does.",
-            "options": ["Yes, he does.", "No, he doesn't.", "Only on Fridays."]
+            "question": "Which component connects the analyser to the vehicle’s ECU for readings?",
+            "answer": "Data Port (OBD-II)",
+            "options": ["USB Port", "RPM Clamp", "Data Port (OBD-II)"]
           },
           {
             "id": "l_4_3",
-            "question": "What does he do on Friday afternoon?",
-            "answer": "He works in the workshop.",
+            "question": "What should you do if the software does not detect the device?",
+            "answer": "Reinstall the AutoTune driver or use another USB port",
             "options": [
-              "He studies English.",
-              "He works in the workshop.",
-              "He stays in the library."
+              "Replace the OBD-II connector",
+              "Reinstall the AutoTune driver or use another USB port",
+              "Restart the vehicle engine"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Does he use the equipment before ten o’clock?",
-            "answer": "No, he doesn’t.",
-            "options": [
-              "Yes, he does.",
-              "No, he doesn’t.",
-              "Sometimes he does."
-            ]
+            "question": "How often should the firmware be updated?",
+            "answer": "Every six months",
+            "options": ["Every month", "Once a year", "Every six months"]
           },
           {
             "id": "l_4_5",
-            "question": "Does Kamal leave anything  on the table after lunch?",
-            "answer": "No, he doesn’t.",
+            "question": "What safety precautions must be followed before connecting or disconnecting cables?",
+            "answer": "Turn off the engine",
             "options": [
-              "Yes, he does.",
-              "No, he doesn’t.",
-              "Only when he is in a hurry."
+              "Keep the ignition on",
+              "Turn off the engine",
+              "Disconnect the OBD-II port"
             ]
           }
         ]
@@ -612,49 +602,76 @@
       "activity_c": [
         {
           "words": [
+            "unpack",
             "the",
-            "mechanic",
-            "checks",
-            "the",
-            "brakes",
-            "every",
-            "day",
+            "analyser",
+            "and",
+            "check",
+            "for",
+            "all",
+            "accessories",
             "."
           ],
-          "sentence": "The mechanic checks the brakes every day."
-        },
-        {
-          "words": ["she", "didn’t", "drive", "the", "bus", "today", "."],
-          "sentence": "She didn’t drive the bus today."
+          "sentence": "Unpack the analyser and check for all accessories."
         },
         {
           "words": [
-            "did",
-            "they",
-            "replace",
+            "keep",
+            "leads",
+            "clean",
+            "and",
+            "store",
+            "them",
+            "in",
             "the",
-            "clutch",
-            "yesterday",
-            "?"
+            "provided",
+            "case",
+            "."
           ],
-          "sentence": "Did they replace the clutch yesterday?"
+          "sentence": "Keep leads clean and store them in the provided case."
         },
         {
           "words": [
-            "the",
-            "trainee",
-            "checks",
-            "the",
-            "tyre",
-            "pressure",
-            "daily",
+            "keep",
+            "cables",
+            "away",
+            "from",
+            "hot",
+            "engine",
+            "parts",
             "."
           ],
-          "sentence": "The trainee checks the tyre pressure daily."
+          "sentence": "Keep cables away from hot engine parts."
         },
         {
-          "words": ["he", "washed", "the", "car", "in", "the", "garage", "."],
-          "sentence": "He washed the car in the garage."
+          "words": [
+            "wipe",
+            "the",
+            "screen",
+            "and",
+            "body",
+            "with",
+            "a",
+            "dry",
+            "cloth",
+            "."
+          ],
+          "sentence": "Wipe the screen and body with a dry cloth."
+        },
+        {
+          "words": [
+            "do",
+            "not",
+            "expose",
+            "yourself",
+            "to",
+            "rain",
+            "or",
+            "high",
+            "humidity",
+            "."
+          ],
+          "sentence": "Do not expose yourself to rain or high humidity."
         }
       ]
     }
