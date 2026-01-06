@@ -264,72 +264,72 @@
         "bg_image": "assets/img/game/bg-6.jpg",
         "content": [
           {
-            "id": "g_b_1",
-            "sentence": "What does an automobile mechanic do?\n\nAn automobile mechanic inspects engines and detects mechanical faults.",
-            "audio": "assets/audio/a_3_b_1.mp3",
+            "id": "g_c_1",
+            "sentence": "What does a construction foreman do?\n\nA construction foreman supervises workers and checks daily progress on site.",
+            "audio": "assets/audio/a_3_c_1.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_2",
-            "sentence": "What does an automobile mechanic do?\n\nHe drains old engine oil and refills it with new oil after every service.",
-            "audio": "assets/audio/a_3_b_2.mp3",
+            "id": "g_c_2",
+            "sentence": "What does a construction foreman do?\n\nHe reads blueprints and explains the layout to the masons and carpenters.",
+            "audio": "assets/audio/a_3_c_2.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_3",
-            "sentence": "What does an automobile mechanic do?\n\nHe replaces air filters and spark plugs when they are dirty or worn out.",
-            "audio": "assets/audio/a_3_b_3.mp3",
+            "id": "g_c_3",
+            "sentence": "What does a construction foreman do?\n\nHe plans the next day’s work and assigns tasks to each team.",
+            "audio": "assets/audio/a_3_c_3.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_4",
-            "sentence": "What does an automobile mechanic do?\n\nHe doesn’t tighten the wheel nuts after changing the tyre.",
-            "audio": "assets/audio/a_3_b_4.mp3",
+            "id": "g_c_4",
+            "sentence": "What does a construction foreman do?\n\nHe doesn’t check the scaffold before workers start climbing.",
+            "audio": "assets/audio/a_3_c_4.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
-            "id": "g_b_5",
-            "sentence": "What does an automobile mechanic do?\n\nHe uses diagnostic equipment to scan the vehicle’s electronic system.",
-            "audio": "assets/audio/a_3_b_5.mp3",
+            "id": "g_c_5",
+            "sentence": "What does a construction foreman do?\n\nHe uses measuring tapes, spirit levels, and marking tools during inspection.",
+            "audio": "assets/audio/a_3_c_5.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_6",
-            "sentence": "What does an automobile mechanic do?\n\nHe does not ignore warning lights on the dashboard during inspection.",
-            "audio": "assets/audio/a_3_b_6.mp3",
+            "id": "g_c_6",
+            "sentence": "What does a construction foreman do?\n\nHe does not ignore safety rules or missing helmets on the site.",
+            "audio": "assets/audio/a_3_c_6.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_7",
-            "sentence": "What does an automobile mechanic do?\n\nHe adjusts the brake system and checks the fluid level carefully.",
-            "audio": "assets/audio/a_3_b_7.mp3",
+            "id": "g_c_7",
+            "sentence": "What does a construction foreman do?\n\nHe checks the quality of concrete and ensures it cures properly.",
+            "audio": "assets/audio/a_3_c_7.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_8",
-            "sentence": "What does an automobile mechanic do?\n\nHe cleans the fuel injectors to improve engine performance.",
-            "audio": "assets/audio/a_3_b_8.mp3",
+            "id": "g_c_8",
+            "sentence": "What does a construction foreman do?\n\nHe orders materials like sand, cement, and steel rods in advance.",
+            "audio": "assets/audio/a_3_c_8.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_9",
-            "sentence": "What does an automobile mechanic do?\n\nHe does not test-drive the vehicle after completing the repair.",
-            "audio": "assets/audio/a_3_b_9.mp3",
+            "id": "g_c_9",
+            "sentence": "What does a construction foreman do?\n\nHe does not record the daily work report or attendance of workers accurately.",
+            "audio": "assets/audio/a_3_c_9.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
-            "id": "g_b_10",
-            "sentence": "What does an automobile mechanic do?\n\nHe records maintenance details and updates the service logbook.",
-            "audio": "assets/audio/a_3_b_10.mp3",
+            "id": "g_c_10",
+            "sentence": "What does a construction foreman do?\n\nHe coordinates with the site engineer and reports any construction delays.",
+            "audio": "assets/audio/a_3_c_10.mp3",
             "options": ["True", "False"],
             "answer": "True"
           }
@@ -337,54 +337,54 @@
       },
       "activity_b": [
         {
-          "id": "n_3_1",
-          "text": "An automobile mechanic inspects engines and detects mechanical faults.",
-          "audio": "assets/audio/a_3_b_1.mp3"
+          "id": "n_3_c_1",
+          "text": "A construction foreman supervises workers and checks daily progress on site.",
+          "audio": "assets/audio/a_3_c_1.mp3"
         },
         {
-          "id": "n_3_2",
-          "text": "He drains old engine oil and refills it with new oil after every service.",
-          "audio": "assets/audio/a_3_b_2.mp3"
+          "id": "n_3_c_2",
+          "text": "He reads blueprints and explains the layout to the masons and carpenters.",
+          "audio": "assets/audio/a_3_c_2.mp3"
         },
         {
-          "id": "n_3_3",
-          "text": "He replaces air filters and spark plugs when they are dirty or worn out.",
-          "audio": "assets/audio/a_3_b_3.mp3"
+          "id": "n_3_c_3",
+          "text": "He plans the next day’s work and assigns tasks to each team.",
+          "audio": "assets/audio/a_3_c_3.mp3"
         },
         {
-          "id": "n_3_4",
-          "text": "He doesn’t tighten the wheel nuts after changing the tyre.",
-          "audio": "assets/audio/a_3_b_4.mp3"
+          "id": "n_3_c_4",
+          "text": "He doesn’t check the scaffold before workers start climbing.",
+          "audio": "assets/audio/a_3_c_4.mp3"
         },
         {
-          "id": "n_3_5",
-          "text": "He uses diagnostic equipment to scan the vehicle’s electronic system.",
-          "audio": "assets/audio/a_3_b_5.mp3"
+          "id": "n_3_c_5",
+          "text": "He uses measuring tapes, spirit levels, and marking tools during inspection.",
+          "audio": "assets/audio/a_3_c_5.mp3"
         },
         {
-          "id": "n_3_6",
-          "text": "He does not ignore warning lights on the dashboard during inspection.",
-          "audio": "assets/audio/a_3_b_6.mp3"
+          "id": "n_3_c_6",
+          "text": "He does not ignore safety rules or missing helmets on the site.",
+          "audio": "assets/audio/a_3_c_6.mp3"
         },
         {
-          "id": "n_3_7",
-          "text": "He adjusts the brake system and checks the fluid level carefully.",
-          "audio": "assets/audio/a_3_b_7.mp3"
+          "id": "n_3_c_7",
+          "text": "He checks the quality of concrete and ensures it cures properly.",
+          "audio": "assets/audio/a_3_c_7.mp3"
         },
         {
-          "id": "n_3_8",
-          "text": "He cleans the fuel injectors to improve engine performance.",
-          "audio": "assets/audio/a_3_b_8.mp3"
+          "id": "n_3_c_8",
+          "text": "He orders materials like sand, cement, and steel rods in advance.",
+          "audio": "assets/audio/a_3_c_8.mp3"
         },
         {
-          "id": "n_3_9",
-          "text": "He does not test-drive the vehicle after completing the repair.",
-          "audio": "assets/audio/a_3_b_9.mp3"
+          "id": "n_3_c_9",
+          "text": "He does not record the daily work report or attendance of workers accurately.",
+          "audio": "assets/audio/a_3_c_9.mp3"
         },
         {
-          "id": "n_3_10",
-          "text": "He records maintenance details and updates the service logbook.",
-          "audio": "assets/audio/a_3_b_10.mp3"
+          "id": "n_3_c_10",
+          "text": "He coordinates with the site engineer and reports any construction delays.",
+          "audio": "assets/audio/a_3_c_10.mp3"
         }
       ]
     }
@@ -410,110 +410,77 @@
       }
     },
     "context": {
-      "title": "AUTOTUNE 500 – Digital Engine Analyser",
+      "title": "BUILDLINE 400 – Digital Laser Level",
       "cover": "assets/img/a_4.png",
       "content": [
         {
           "section_number": "1",
           "section_title": "Parts Identification",
-          "intro": "The AutoTune 500 Digital Engine Analyser is designed for diagnostic testing of petrol and diesel engines.",
+          "intro": "The BuildLine 400 Digital Laser Level helps construction workers measure level and alignment with precision.",
           "subsections": [
             {
               "subtitle": "Main Components",
               "items": [
-                "Control Panel – contains the digital display, mode selector, and test buttons.",
-                "Probe Leads – connect to spark-plug wires or sensors for measurement.",
-                "RPM Clamp – measures engine speed directly from the ignition coil.",
-                "Battery Leads (Red/Black) – provide power and detect battery voltage.",
-                "USB Port – for connecting to a computer or diagnostic tablet.",
-                "Data Port (OBD-II) – interfaces with modern vehicles for ECU readings.",
-                "Cooling Fan Vent – prevents overheating during extended use.",
-                "Carrying Handle – for easy transport between work bays."
+                "Laser Emitter – projects a visible horizontal or vertical beam for alignment.",
+                "Control Panel – includes the power button, mode selector, and sensitivity settings.",
+                "Tripod Mount – attaches the laser level securely for stable positioning.",
+                "Battery Compartment – holds rechargeable lithium batteries.",
+                "Receiver Sensor – detects the laser beam over long distances.",
+                "Bubble Vials – assist in manual levelling during setup.",
+                "Charging Port – used to recharge the internal battery.",
+                "Carrying Case – protects the device during transport."
               ]
             }
           ]
         },
         {
           "section_number": "2",
-          "section_title": "Setup and Connection",
+          "section_title": "Setup and Operation",
           "steps": [
-            "Unpack the analyser and check for all accessories.",
-            "Connect the battery leads: red to positive (+), black to negative (–).",
-            "Attach the RPM clamp around the ignition cable if required.",
-            "Plug the OBD-II connector into the vehicle diagnostic port (usually under the dashboard).",
-            "Press the Power button to start the unit.",
-            "Select the test mode (RPM, Voltage, Timing, Emission, or Sensor Check) on the control panel.",
-            "For data logging, connect the USB cable to your computer and open the AutoTune Utility Software."
+            "Unpack the unit and ensure all parts are included.",
+            "Attach the tripod mount on a firm surface.",
+            "Insert the batteries and press the Power button.",
+            "Adjust the bubble vials to ensure the laser is level.",
+            "Select Horizontal or Vertical Mode using the control panel.",
+            "Position the receiver sensor where the beam should fall.",
+            "Once aligned, mark the reference point or install materials accordingly.",
+            "After use, turn off the unit and store it in the carrying case."
           ]
         },
         {
           "section_number": "3",
-          "section_title": "Operation",
+          "section_title": "Maintenance and Troubleshooting",
           "subsections": [
             {
-              "subtitle": "Engine Test",
+              "subtitle": "Common Issues and Solutions",
               "items": [
-                "Choose “Engine Diagnostics”.",
-                "Start the vehicle engine.",
-                "The display will show RPM, voltage, and timing advance readings."
+                "Laser Not Visible: Check battery charge or clean the laser window.",
+                "Inaccurate Level Line: Re-level the tripod or recalibrate the device.",
+                "Receiver Not Detecting Beam: Ensure there’s no bright sunlight interference.",
+                "Power Failure: Recharge the battery fully or check the charger connection."
               ]
             },
             {
-              "subtitle": "Battery & Charging Test",
+              "subtitle": "Maintenance Tips",
               "items": [
-                "Select “Battery Mode”.",
-                "Follow on-screen prompts to measure charge rate and alternator output."
-              ]
-            },
-            {
-              "subtitle": "Sensor Test",
-              "items": [
-                "Select the sensor type (e.g. oxygen sensor or throttle position sensor).",
-                "Observe live data on the screen or save results to the USB drive."
-              ]
-            },
-            {
-              "subtitle": "Data Export",
-              "items": [
-                "Connect to PC.",
-                "Open AutoTune Utility.",
-                "Click “Export Report” to generate a PDF summary."
+                "Keep the laser lens and bubble vials clean.",
+                "Do not expose the unit to rain or extreme heat.",
+                "Calibrate the laser every three months for accuracy.",
+                "Use only the recommended charger.",
+                "Store in a dry, dust-free environment."
               ]
             }
           ]
         },
         {
           "section_number": "4",
-          "section_title": "Troubleshooting and Maintenance",
-          "subsections": [
-            {
-              "subtitle": "Common Issues and Solutions",
-              "items": [
-                "No Power: Check clamps and vehicle battery connection.",
-                "No Reading: Ensure probes and OBD-II cable are firmly connected.",
-                "Inaccurate RPM Display: Adjust clamp position or recalibrate in settings.",
-                "Software Not Detecting Device: Reinstall the AutoTune driver or use another USB port."
-              ]
-            },
-            {
-              "subtitle": "Maintenance Tips",
-              "items": [
-                "Keep leads clean and store them in the provided case.",
-                "Wipe the screen and body with a dry, lint-free cloth.",
-                "Do not expose it to rain or high humidity.",
-                "Update firmware via the official AutoTune website every six months."
-              ]
-            }
-          ]
-        },
-        {
-          "section_number": "5",
           "section_title": "Safety Precautions",
           "items": [
-            "Always turn off the engine before connecting or disconnecting cables.",
-            "Keep cables away from hot engine parts.",
-            "Use only original accessories.",
-            "Do not attempt to open the unit; servicing must be done by authorised technicians."
+            "Never stare directly into the laser beam.",
+            "Do not point the beam at people or reflective surfaces.",
+            "Ensure the tripod is stable before operating.",
+            "Turn off the laser before moving it between locations.",
+            "Use protective gloves and boots when working on uneven ground."
           ]
         }
       ]
@@ -523,33 +490,33 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "emission",
-            "item_b": "the production and discharge of something, especially gas or radiation"
+            "item_a": "alignment",
+            "item_b": "the arrangement of parts or surfaces in a straight or correct position"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "probe",
-            "item_b": "a wire or connector used to detect electrical signals from engine parts"
+            "item_a": "tripod",
+            "item_b": "a three-legged stand used to hold a device steady"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "RPM clamp",
-            "item_b": "a tool that measures engine speed using ignition pulses"
+            "item_a": "calibrate",
+            "item_b": "to adjust a measuring instrument to ensure correct readings"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "diagnostics",
-            "item_b": "the process of identifying vehicle faults using electronic tools"
+            "item_a": "extreme",
+            "item_b": "something at the highest degree or furthest range of intensity or distance"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "calibrate",
-            "item_b": "to adjust a measuring instrument for accurate readings"
+            "item_a": "reflective",
+            "item_b": "capable of reflecting light or other radiation"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "troubleshooting",
-            "item_b": "analysing and solving technical problems"
+            "item_a": "receiver",
+            "item_b": "a sensor that detects or captures a signal such as a laser beam"
           }
         ]
       },
@@ -557,44 +524,44 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What is the main purpose of the AutoTune 500 Digital Engine Analyser?",
-            "answer": "To perform diagnostic testing of petrol and diesel engines",
+            "question": "What is the main purpose of the BuildLine 400 Digital Laser Level?",
+            "answer": "To measure level and alignment with precision",
             "options": [
-              "To clean vehicle fuel injectors",
-              "To charge automotive batteries",
-              "To perform diagnostic testing of petrol and diesel engines"
+              "To measure temperature and humidity",
+              "To measure level and alignment with precision",
+              "To detect metal objects in walls"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Which component connects the analyser to the vehicle’s ECU for readings?",
-            "answer": "Data Port (OBD-II)",
-            "options": ["USB Port", "RPM Clamp", "Data Port (OBD-II)"]
+            "question": "Which part projects the visible beam for alignment?",
+            "answer": "Laser Emitter",
+            "options": ["Receiver Sensor", "Bubble Vials", "Laser Emitter"]
           },
           {
             "id": "l_4_3",
-            "question": "What should you do if the software does not detect the device?",
-            "answer": "Reinstall the AutoTune driver or use another USB port",
+            "question": "What should be done if the laser line appears inaccurate?",
+            "answer": "Re-level the tripod or recalibrate the device",
             "options": [
-              "Replace the OBD-II connector",
-              "Reinstall the AutoTune driver or use another USB port",
-              "Restart the vehicle engine"
+              "Replace the laser lens",
+              "Re-level the tripod or recalibrate the device",
+              "Increase the laser brightness"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "How often should the firmware be updated?",
-            "answer": "Every six months",
-            "options": ["Every month", "Once a year", "Every six months"]
+            "question": "How often should the laser be calibrated for accuracy?",
+            "answer": "Every three months",
+            "options": ["Every month", "Every three months", "Once a year"]
           },
           {
             "id": "l_4_5",
-            "question": "What safety precautions must be followed before connecting or disconnecting cables?",
-            "answer": "Turn off the engine",
+            "question": "What is one important safety precaution when using the BuildLine 400?",
+            "answer": "Never stare directly into the laser beam",
             "options": [
-              "Keep the ignition on",
-              "Turn off the engine",
-              "Disconnect the OBD-II port"
+              "Always point the beam toward shiny surfaces",
+              "Never stare directly into the laser beam",
+              "Turn on the laser before adjusting the tripod"
             ]
           }
         ]
@@ -604,74 +571,60 @@
           "words": [
             "Unpack",
             "the",
-            "analyser",
+            "unit",
             "and",
-            "check",
-            "for",
+            "ensure",
             "all",
-            "accessories",
-            "."
-          ],
-          "sentence": "Unpack the analyser and check for all accessories."
-        },
-        {
-          "words": [
-            "Keep",
-            "leads",
-            "clean",
-            "and",
-            "store",
-            "them",
-            "in",
-            "the",
-            "provided",
-            "case",
-            "."
-          ],
-          "sentence": "Keep leads clean and store them in the provided case."
-        },
-        {
-          "words": [
-            "Keep",
-            "cables",
-            "away",
-            "from",
-            "hot",
-            "engine",
             "parts",
+            "are",
+            "included",
             "."
           ],
-          "sentence": "Keep cables away from hot engine parts."
-        },
-        {
-          "words": [
-            "Wipe",
-            "the",
-            "screen",
-            "and",
-            "body",
-            "with",
-            "a",
-            "dry",
-            "cloth",
-            "."
-          ],
-          "sentence": "Wipe the screen and body with a dry cloth."
+          "sentence": "Unpack the unit and ensure all parts are included."
         },
         {
           "words": [
             "Do",
             "not",
             "expose",
-            "yourself",
+            "the",
+            "unit",
             "to",
-            "rain",
-            "or",
-            "high",
-            "humidity",
+            "extreme",
+            "heat",
             "."
           ],
-          "sentence": "Do not expose yourself to rain or high humidity."
+          "sentence": "Do not expose the unit to extreme heat."
+        },
+        {
+          "words": [
+            "Calibrate",
+            "the",
+            "laser",
+            "every",
+            "three",
+            "months",
+            "."
+          ],
+          "sentence": "Calibrate the laser every three months."
+        },
+        {
+          "words": ["Store", "in", "a", "dry", "dust-free", "environment", "."],
+          "sentence": "Store in a dry, dust-free environment."
+        },
+        {
+          "words": [
+            "Do",
+            "not",
+            "point",
+            "the",
+            "beam",
+            "at",
+            "reflective",
+            "surfaces",
+            "."
+          ],
+          "sentence": "Do not point the beam at reflective surfaces."
         }
       ]
     }

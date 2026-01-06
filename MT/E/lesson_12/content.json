@@ -264,72 +264,72 @@
         "bg_image": "assets/img/game/bg-6.jpg",
         "content": [
           {
-            "id": "g_b_1",
-            "sentence": "What does an automobile mechanic do?\n\nAn automobile mechanic inspects engines and detects mechanical faults.",
-            "audio": "assets/audio/a_3_b_1.mp3",
+            "id": "g_m_1",
+            "sentence": "What does a mechanical foreman do?\n\nA mechanical foreman supervises technicians and checks repair work on machines.",
+            "audio": "assets/audio/a_3_m_1.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_2",
-            "sentence": "What does an automobile mechanic do?\n\nHe drains old engine oil and refills it with new oil after every service.",
-            "audio": "assets/audio/a_3_b_2.mp3",
+            "id": "g_m_2",
+            "sentence": "What does a mechanical foreman do?\n\nHe plans daily tasks and assigns jobs to fitters and welders.",
+            "audio": "assets/audio/a_3_m_2.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_3",
-            "sentence": "What does an automobile mechanic do?\n\nHe replaces air filters and spark plugs when they are dirty or worn out.",
-            "audio": "assets/audio/a_3_b_3.mp3",
+            "id": "g_m_3",
+            "sentence": "What does a mechanical foreman do?\n\nHe inspects engines, pumps, and compressors for unusual sounds.",
+            "audio": "assets/audio/a_3_m_3.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_4",
-            "sentence": "What does an automobile mechanic do?\n\nHe doesn’t tighten the wheel nuts after changing the tyre.",
-            "audio": "assets/audio/a_3_b_4.mp3",
+            "id": "g_m_4",
+            "sentence": "What does a mechanical foreman do?\n\nHe doesn’t lock out the power supply before maintenance.",
+            "audio": "assets/audio/a_3_m_4.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
-            "id": "g_b_5",
-            "sentence": "What does an automobile mechanic do?\n\nHe uses diagnostic equipment to scan the vehicle’s electronic system.",
-            "audio": "assets/audio/a_3_b_5.mp3",
+            "id": "g_m_5",
+            "sentence": "What does a mechanical foreman do?\n\nHe uses measuring tools such as micrometers and vernier callipers.",
+            "audio": "assets/audio/a_3_m_5.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_6",
-            "sentence": "What does an automobile mechanic do?\n\nHe does not ignore warning lights on the dashboard during inspection.",
-            "audio": "assets/audio/a_3_b_6.mp3",
+            "id": "g_m_6",
+            "sentence": "What does a mechanical foreman do?\n\nHe does not ignore oil leaks or overheating problems in machines.",
+            "audio": "assets/audio/a_3_m_6.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_7",
-            "sentence": "What does an automobile mechanic do?\n\nHe adjusts the brake system and checks the fluid level carefully.",
-            "audio": "assets/audio/a_3_b_7.mp3",
+            "id": "g_m_7",
+            "sentence": "What does a mechanical foreman do?\n\nHe orders spare parts and ensures the workshop has enough tools.",
+            "audio": "assets/audio/a_3_m_7.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_8",
-            "sentence": "What does an automobile mechanic do?\n\nHe cleans the fuel injectors to improve engine performance.",
-            "audio": "assets/audio/a_3_b_8.mp3",
+            "id": "g_m_8",
+            "sentence": "What does a mechanical foreman do?\n\nHe checks alignment and adjusts belts, pulleys, and bearings.",
+            "audio": "assets/audio/a_3_m_8.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_9",
-            "sentence": "What does an automobile mechanic do?\n\nHe does not test-drive the vehicle after completing the repair.",
-            "audio": "assets/audio/a_3_b_9.mp3",
+            "id": "g_m_9",
+            "sentence": "What does a mechanical foreman do?\n\nHe does not record the completed jobs or report faults to the manager.",
+            "audio": "assets/audio/a_3_m_9.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
-            "id": "g_b_10",
-            "sentence": "What does an automobile mechanic do?\n\nHe records maintenance details and updates the service logbook.",
-            "audio": "assets/audio/a_3_b_10.mp3",
+            "id": "g_m_10",
+            "sentence": "What does a mechanical foreman do?\n\nHe monitors safety practices and trains workers on proper handling of equipment.",
+            "audio": "assets/audio/a_3_m_10.mp3",
             "options": ["True", "False"],
             "answer": "True"
           }
@@ -337,54 +337,54 @@
       },
       "activity_b": [
         {
-          "id": "n_3_1",
-          "text": "An automobile mechanic inspects engines and detects mechanical faults.",
-          "audio": "assets/audio/a_3_b_1.mp3"
+          "id": "n_3_m_1",
+          "text": "A mechanical foreman supervises technicians and checks repair work on machines.",
+          "audio": "assets/audio/a_3_m_1.mp3"
         },
         {
-          "id": "n_3_2",
-          "text": "He drains old engine oil and refills it with new oil after every service.",
-          "audio": "assets/audio/a_3_b_2.mp3"
+          "id": "n_3_m_2",
+          "text": "He plans daily tasks and assigns jobs to fitters and welders.",
+          "audio": "assets/audio/a_3_m_2.mp3"
         },
         {
-          "id": "n_3_3",
-          "text": "He replaces air filters and spark plugs when they are dirty or worn out.",
-          "audio": "assets/audio/a_3_b_3.mp3"
+          "id": "n_3_m_3",
+          "text": "He inspects engines, pumps, and compressors for unusual sounds.",
+          "audio": "assets/audio/a_3_m_3.mp3"
         },
         {
-          "id": "n_3_4",
-          "text": "He doesn’t tighten the wheel nuts after changing the tyre.",
-          "audio": "assets/audio/a_3_b_4.mp3"
+          "id": "n_3_m_4",
+          "text": "He doesn’t lock out the power supply before maintenance.",
+          "audio": "assets/audio/a_3_m_4.mp3"
         },
         {
-          "id": "n_3_5",
-          "text": "He uses diagnostic equipment to scan the vehicle’s electronic system.",
-          "audio": "assets/audio/a_3_b_5.mp3"
+          "id": "n_3_m_5",
+          "text": "He uses measuring tools such as micrometers and vernier callipers.",
+          "audio": "assets/audio/a_3_m_5.mp3"
         },
         {
-          "id": "n_3_6",
-          "text": "He does not ignore warning lights on the dashboard during inspection.",
-          "audio": "assets/audio/a_3_b_6.mp3"
+          "id": "n_3_m_6",
+          "text": "He does not ignore oil leaks or overheating problems in machines.",
+          "audio": "assets/audio/a_3_m_6.mp3"
         },
         {
-          "id": "n_3_7",
-          "text": "He adjusts the brake system and checks the fluid level carefully.",
-          "audio": "assets/audio/a_3_b_7.mp3"
+          "id": "n_3_m_7",
+          "text": "He orders spare parts and ensures the workshop has enough tools.",
+          "audio": "assets/audio/a_3_m_7.mp3"
         },
         {
-          "id": "n_3_8",
-          "text": "He cleans the fuel injectors to improve engine performance.",
-          "audio": "assets/audio/a_3_b_8.mp3"
+          "id": "n_3_m_8",
+          "text": "He checks alignment and adjusts belts, pulleys, and bearings.",
+          "audio": "assets/audio/a_3_m_8.mp3"
         },
         {
-          "id": "n_3_9",
-          "text": "He does not test-drive the vehicle after completing the repair.",
-          "audio": "assets/audio/a_3_b_9.mp3"
+          "id": "n_3_m_9",
+          "text": "He does not record the completed jobs or report faults to the manager.",
+          "audio": "assets/audio/a_3_m_9.mp3"
         },
         {
-          "id": "n_3_10",
-          "text": "He records maintenance details and updates the service logbook.",
-          "audio": "assets/audio/a_3_b_10.mp3"
+          "id": "n_3_m_10",
+          "text": "He monitors safety practices and trains workers on proper handling of equipment.",
+          "audio": "assets/audio/a_3_m_10.mp3"
         }
       ]
     }
@@ -410,110 +410,81 @@
       }
     },
     "context": {
-      "title": "AUTOTUNE 500 – Digital Engine Analyser",
+      "title": "POWERPRESS 800 – Hydraulic Press Machine",
       "cover": "assets/img/a_4.png",
       "content": [
         {
           "section_number": "1",
           "section_title": "Parts Identification",
-          "intro": "The AutoTune 500 Digital Engine Analyser is designed for diagnostic testing of petrol and diesel engines.",
+          "intro": "The PowerPress 800 Hydraulic Press Machine is used in mechanical workshops for shaping, bending, pressing bearings, and assembling parts under high pressure.",
           "subsections": [
             {
               "subtitle": "Main Components",
               "items": [
-                "Control Panel – contains the digital display, mode selector, and test buttons.",
-                "Probe Leads – connect to spark-plug wires or sensors for measurement.",
-                "RPM Clamp – measures engine speed directly from the ignition coil.",
-                "Battery Leads (Red/Black) – provide power and detect battery voltage.",
-                "USB Port – for connecting to a computer or diagnostic tablet.",
-                "Data Port (OBD-II) – interfaces with modern vehicles for ECU readings.",
-                "Cooling Fan Vent – prevents overheating during extended use.",
-                "Carrying Handle – for easy transport between work bays."
+                "Hydraulic Cylinder – applies pressure to compress or shape materials.",
+                "Ram (Piston Rod) – moves downward to apply force to the workpiece.",
+                "Worktable (Bed Plate) – supports the material being pressed.",
+                "Pump Handle / Motor Switch – activates the hydraulic system (manual or electric).",
+                "Pressure Gauge – displays the applied force in tons or bar.",
+                "Safety Guard – protects the operator from accidental contact.",
+                "Oil Reservoir – stores hydraulic oil for smooth operation.",
+                "Release Valve – controls the pressure release after each operation."
               ]
             }
           ]
         },
         {
           "section_number": "2",
-          "section_title": "Setup and Connection",
+          "section_title": "Setup and Operation",
           "steps": [
-            "Unpack the analyser and check for all accessories.",
-            "Connect the battery leads: red to positive (+), black to negative (–).",
-            "Attach the RPM clamp around the ignition cable if required.",
-            "Plug the OBD-II connector into the vehicle diagnostic port (usually under the dashboard).",
-            "Press the Power button to start the unit.",
-            "Select the test mode (RPM, Voltage, Timing, Emission, or Sensor Check) on the control panel.",
-            "For data logging, connect the USB cable to your computer and open the AutoTune Utility Software."
+            "Place the machine on a level floor and ensure it is stable.",
+            "Fill the oil reservoir with the recommended hydraulic oil (ISO VG 46).",
+            "Connect to power for the motorised version or secure the manual pump handle.",
+            "Adjust the worktable height using the locking pins according to material size.",
+            "Place the workpiece at the centre of the bed plate.",
+            "Close the release valve to build pressure.",
+            "Activate the pump handle or motor switch to lower the ram.",
+            "Monitor the pressure gauge carefully during operation.",
+            "Once the operation is complete, open the release valve slowly to raise the ram.",
+            "Turn off the motor or secure the handle before removing the workpiece."
           ]
         },
         {
           "section_number": "3",
-          "section_title": "Operation",
+          "section_title": "Maintenance and Troubleshooting",
           "subsections": [
             {
-              "subtitle": "Engine Test",
+              "subtitle": "Common Issues and Solutions",
               "items": [
-                "Choose “Engine Diagnostics”.",
-                "Start the vehicle engine.",
-                "The display will show RPM, voltage, and timing advance readings."
+                "Low Pressure: Check oil level; refill or bleed air from the system.",
+                "Oil Leaks: Inspect seals, hoses, and connections for damage or leaks.",
+                "No Ram Movement: Ensure the release valve is fully closed.",
+                "Abnormal Noise: Air trapped in the system — bleed and refill oil.",
+                "Inaccurate Pressure Reading: Calibrate or replace the pressure gauge."
               ]
             },
             {
-              "subtitle": "Battery & Charging Test",
+              "subtitle": "Maintenance Tips",
               "items": [
-                "Select “Battery Mode”.",
-                "Follow on-screen prompts to measure charge rate and alternator output."
-              ]
-            },
-            {
-              "subtitle": "Sensor Test",
-              "items": [
-                "Select the sensor type (e.g. oxygen sensor or throttle position sensor).",
-                "Observe live data on the screen or save results to the USB drive."
-              ]
-            },
-            {
-              "subtitle": "Data Export",
-              "items": [
-                "Connect to PC.",
-                "Open AutoTune Utility.",
-                "Click “Export Report” to generate a PDF summary."
+                "Check oil level weekly.",
+                "Replace hydraulic oil every six months.",
+                "Keep the ram and bed plate clean and lightly oiled.",
+                "Never exceed the rated capacity (80 tons).",
+                "Ensure all guards are in place before operating."
               ]
             }
           ]
         },
         {
           "section_number": "4",
-          "section_title": "Troubleshooting and Maintenance",
-          "subsections": [
-            {
-              "subtitle": "Common Issues and Solutions",
-              "items": [
-                "No Power: Check clamps and vehicle battery connection.",
-                "No Reading: Ensure probes and OBD-II cable are firmly connected.",
-                "Inaccurate RPM Display: Adjust clamp position or recalibrate in settings.",
-                "Software Not Detecting Device: Reinstall the AutoTune driver or use another USB port."
-              ]
-            },
-            {
-              "subtitle": "Maintenance Tips",
-              "items": [
-                "Keep leads clean and store them in the provided case.",
-                "Wipe the screen and body with a dry, lint-free cloth.",
-                "Do not expose it to rain or high humidity.",
-                "Update firmware via the official AutoTune website every six months."
-              ]
-            }
-          ]
-        },
-        {
-          "section_number": "5",
           "section_title": "Safety Precautions",
           "items": [
-            "Always turn off the engine before connecting or disconnecting cables.",
-            "Keep cables away from hot engine parts.",
-            "Use only original accessories.",
-            "Do not attempt to open the unit; servicing must be done by authorised technicians."
+            "Operate only after receiving proper training.",
+            "Never place hands or tools under the ram while it is in motion.",
+            "Do not exceed the maximum pressure capacity.",
+            "Keep the floor area dry to avoid slips.",
+            "Turn off the main power before performing maintenance.",
+            "Always wear safety shoes, gloves, and eye protection."
           ]
         }
       ]
@@ -523,33 +494,33 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "emission",
-            "item_b": "the production and discharge of something, especially gas or radiation"
+            "item_a": "hydraulic",
+            "item_b": "operated by liquid pressure, usually oil, to create force or movement"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "probe",
-            "item_b": "a wire or connector used to detect electrical signals from engine parts"
+            "item_a": "cylinder",
+            "item_b": "a hollow chamber containing a piston moving under fluid pressure"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "RPM clamp",
-            "item_b": "a tool that measures engine speed using ignition pulses"
+            "item_a": "ram",
+            "item_b": "the moving part of a press that applies downward force"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "diagnostics",
-            "item_b": "the process of identifying vehicle faults using electronic tools"
+            "item_a": "gauge",
+            "item_b": "a measuring device that shows pressure or other quantities"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "calibrate",
-            "item_b": "to adjust a measuring instrument for accurate readings"
+            "item_a": "reservoir",
+            "item_b": "a tank that stores hydraulic fluid for the system"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "troubleshooting",
-            "item_b": "analysing and solving technical problems"
+            "item_a": "compress",
+            "item_b": "to flatten or squeeze by applying pressure"
           }
         ]
       },
@@ -557,121 +528,114 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What is the main purpose of the AutoTune 500 Digital Engine Analyser?",
-            "answer": "To perform diagnostic testing of petrol and diesel engines",
+            "question": "What is the main function of the PowerPress 800 Hydraulic Press Machine?",
+            "answer": "To shape, bend, and press materials under high pressure",
             "options": [
-              "To clean vehicle fuel injectors",
-              "To charge automotive batteries",
-              "To perform diagnostic testing of petrol and diesel engines"
+              "To weld and cut metal sheets",
+              "To shape, bend, and press materials under high pressure",
+              "To polish and paint machine parts"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Which component connects the analyser to the vehicle’s ECU for readings?",
-            "answer": "Data Port (OBD-II)",
-            "options": ["USB Port", "RPM Clamp", "Data Port (OBD-II)"]
+            "question": "What should you do before starting the hydraulic press operation?",
+            "answer": "Close the release valve to build pressure",
+            "options": [
+              "Open the release valve fully",
+              "Close the release valve to build pressure",
+              "Turn off the motor"
+            ]
           },
           {
             "id": "l_4_3",
-            "question": "What should you do if the software does not detect the device?",
-            "answer": "Reinstall the AutoTune driver or use another USB port",
+            "question": "What causes low pressure during operation?",
+            "answer": "Low oil level or air in the system",
             "options": [
-              "Replace the OBD-II connector",
-              "Reinstall the AutoTune driver or use another USB port",
-              "Restart the vehicle engine"
+              "Low oil level or air in the system",
+              "Overheating of the motor",
+              "Misaligned worktable"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "How often should the firmware be updated?",
+            "question": "How often should the hydraulic oil be replaced?",
             "answer": "Every six months",
             "options": ["Every month", "Once a year", "Every six months"]
           },
           {
             "id": "l_4_5",
-            "question": "What safety precautions must be followed before connecting or disconnecting cables?",
-            "answer": "Turn off the engine",
-            "options": [
-              "Keep the ignition on",
-              "Turn off the engine",
-              "Disconnect the OBD-II port"
-            ]
+            "question": "What is the maximum rated capacity of the PowerPress 800?",
+            "answer": "80 tons",
+            "options": ["50 tons", "80 tons", "100 tons"]
           }
         ]
       },
       "activity_c": [
         {
           "words": [
-            "Unpack",
+            "Place",
             "the",
-            "analyser",
-            "and",
-            "check",
-            "for",
-            "all",
-            "accessories",
-            "."
-          ],
-          "sentence": "Unpack the analyser and check for all accessories."
-        },
-        {
-          "words": [
-            "Keep",
-            "leads",
-            "clean",
-            "and",
-            "store",
-            "them",
-            "in",
-            "the",
-            "provided",
-            "case",
-            "."
-          ],
-          "sentence": "Keep leads clean and store them in the provided case."
-        },
-        {
-          "words": [
-            "Keep",
-            "cables",
-            "away",
-            "from",
-            "hot",
-            "engine",
-            "parts",
-            "."
-          ],
-          "sentence": "Keep cables away from hot engine parts."
-        },
-        {
-          "words": [
-            "Wipe",
-            "the",
-            "screen",
-            "and",
-            "body",
-            "with",
+            "machine",
+            "on",
             "a",
-            "dry",
-            "cloth",
+            "level",
+            "floor",
             "."
           ],
-          "sentence": "Wipe the screen and body with a dry cloth."
+          "sentence": "Place the machine on a level floor."
         },
         {
           "words": [
-            "Do",
-            "not",
-            "expose",
-            "yourself",
-            "to",
-            "rain",
-            "or",
-            "high",
-            "humidity",
+            "Ensure",
+            "all",
+            "guards",
+            "are",
+            "in",
+            "place",
+            "before",
+            "operating",
             "."
           ],
-          "sentence": "Do not expose yourself to rain or high humidity."
+          "sentence": "Ensure all guards are in place before operating."
+        },
+        {
+          "words": [
+            "Operate",
+            "only",
+            "after",
+            "receiving",
+            "proper",
+            "training",
+            "."
+          ],
+          "sentence": "Operate only after receiving proper training."
+        },
+        {
+          "words": [
+            "Keep",
+            "the",
+            "floor",
+            "area",
+            "dry",
+            "to",
+            "avoid",
+            "slips",
+            "."
+          ],
+          "sentence": "Keep the floor area dry to avoid slips."
+        },
+        {
+          "words": [
+            "Turn",
+            "off",
+            "the",
+            "power",
+            "before",
+            "performing",
+            "maintenance",
+            "."
+          ],
+          "sentence": "Turn off the power before performing maintenance."
         }
       ]
     }

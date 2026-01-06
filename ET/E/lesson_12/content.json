@@ -264,72 +264,72 @@
         "bg_image": "assets/img/game/bg-6.jpg",
         "content": [
           {
-            "id": "g_b_1",
-            "sentence": "What does an automobile mechanic do?\n\nAn automobile mechanic inspects engines and detects mechanical faults.",
-            "audio": "assets/audio/a_3_b_1.mp3",
+            "id": "g_e_1",
+            "sentence": "What does an electrical technician do?\n\nAn electrical technician installs and maintains wiring systems in buildings.",
+            "audio": "assets/audio/a_3_e_1.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_2",
-            "sentence": "What does an automobile mechanic do?\n\nHe drains old engine oil and refills it with new oil after every service.",
-            "audio": "assets/audio/a_3_b_2.mp3",
+            "id": "g_e_2",
+            "sentence": "What does an electrical technician do?\n\nHe tests circuits and repairs damaged cables during maintenance work.",
+            "audio": "assets/audio/a_3_e_2.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_3",
-            "sentence": "What does an automobile mechanic do?\n\nHe replaces air filters and spark plugs when they are dirty or worn out.",
-            "audio": "assets/audio/a_3_b_3.mp3",
+            "id": "g_e_3",
+            "sentence": "What does an electrical technician do?\n\nHe uses tools such as pliers, multimeters, and screwdrivers every day.",
+            "audio": "assets/audio/a_3_e_3.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_4",
-            "sentence": "What does an automobile mechanic do?\n\nHe doesn’t tighten the wheel nuts after changing the tyre.",
-            "audio": "assets/audio/a_3_b_4.mp3",
+            "id": "g_e_4",
+            "sentence": "What does an electrical technician do?\n\nHe doesn’t switch off the main power before connecting new wires.",
+            "audio": "assets/audio/a_3_e_4.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
-            "id": "g_b_5",
-            "sentence": "What does an automobile mechanic do?\n\nHe uses diagnostic equipment to scan the vehicle’s electronic system.",
-            "audio": "assets/audio/a_3_b_5.mp3",
+            "id": "g_e_5",
+            "sentence": "What does an electrical technician do?\n\nHe reads circuit diagrams and follows electrical blueprints carefully.",
+            "audio": "assets/audio/a_3_e_5.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_6",
-            "sentence": "What does an automobile mechanic do?\n\nHe does not ignore warning lights on the dashboard during inspection.",
-            "audio": "assets/audio/a_3_b_6.mp3",
+            "id": "g_e_6",
+            "sentence": "What does an electrical technician do?\n\nHe does not ignore safety rules when working with live wires.",
+            "audio": "assets/audio/a_3_e_6.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_7",
-            "sentence": "What does an automobile mechanic do?\n\nHe adjusts the brake system and checks the fluid level carefully.",
-            "audio": "assets/audio/a_3_b_7.mp3",
+            "id": "g_e_7",
+            "sentence": "What does an electrical technician do?\n\nHe checks voltage levels and replaces blown fuses when needed.",
+            "audio": "assets/audio/a_3_e_7.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_8",
-            "sentence": "What does an automobile mechanic do?\n\nHe cleans the fuel injectors to improve engine performance.",
-            "audio": "assets/audio/a_3_b_8.mp3",
+            "id": "g_e_8",
+            "sentence": "What does an electrical technician do?\n\nHe connects lighting fixtures, switches, and sockets correctly.",
+            "audio": "assets/audio/a_3_e_8.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_9",
-            "sentence": "What does an automobile mechanic do?\n\nHe does not test-drive the vehicle after completing the repair.",
-            "audio": "assets/audio/a_3_b_9.mp3",
+            "id": "g_e_9",
+            "sentence": "What does an electrical technician do?\n\nHe does not wear insulated gloves or safety boots while repairing circuits.",
+            "audio": "assets/audio/a_3_e_9.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
-            "id": "g_b_10",
-            "sentence": "What does an automobile mechanic do?\n\nHe records maintenance details and updates the service logbook.",
-            "audio": "assets/audio/a_3_b_10.mp3",
+            "id": "g_e_10",
+            "sentence": "What does an electrical technician do?\n\nHe records all test results and reports faults to the supervisor.",
+            "audio": "assets/audio/a_3_e_10.mp3",
             "options": ["True", "False"],
             "answer": "True"
           }
@@ -337,54 +337,54 @@
       },
       "activity_b": [
         {
-          "id": "n_3_1",
-          "text": "An automobile mechanic inspects engines and detects mechanical faults.",
-          "audio": "assets/audio/a_3_b_1.mp3"
+          "id": "n_3_e_1",
+          "text": "An electrical technician installs and maintains wiring systems in buildings.",
+          "audio": "assets/audio/a_3_e_1.mp3"
         },
         {
-          "id": "n_3_2",
-          "text": "He drains old engine oil and refills it with new oil after every service.",
-          "audio": "assets/audio/a_3_b_2.mp3"
+          "id": "n_3_e_2",
+          "text": "He tests circuits and repairs damaged cables during maintenance work.",
+          "audio": "assets/audio/a_3_e_2.mp3"
         },
         {
-          "id": "n_3_3",
-          "text": "He replaces air filters and spark plugs when they are dirty or worn out.",
-          "audio": "assets/audio/a_3_b_3.mp3"
+          "id": "n_3_e_3",
+          "text": "He uses tools such as pliers, multimeters, and screwdrivers every day.",
+          "audio": "assets/audio/a_3_e_3.mp3"
         },
         {
-          "id": "n_3_4",
-          "text": "He doesn’t tighten the wheel nuts after changing the tyre.",
-          "audio": "assets/audio/a_3_b_4.mp3"
+          "id": "n_3_e_4",
+          "text": "He doesn’t switch off the main power before connecting new wires.",
+          "audio": "assets/audio/a_3_e_4.mp3"
         },
         {
-          "id": "n_3_5",
-          "text": "He uses diagnostic equipment to scan the vehicle’s electronic system.",
-          "audio": "assets/audio/a_3_b_5.mp3"
+          "id": "n_3_e_5",
+          "text": "He reads circuit diagrams and follows electrical blueprints carefully.",
+          "audio": "assets/audio/a_3_e_5.mp3"
         },
         {
-          "id": "n_3_6",
-          "text": "He does not ignore warning lights on the dashboard during inspection.",
-          "audio": "assets/audio/a_3_b_6.mp3"
+          "id": "n_3_e_6",
+          "text": "He does not ignore safety rules when working with live wires.",
+          "audio": "assets/audio/a_3_e_6.mp3"
         },
         {
-          "id": "n_3_7",
-          "text": "He adjusts the brake system and checks the fluid level carefully.",
-          "audio": "assets/audio/a_3_b_7.mp3"
+          "id": "n_3_e_7",
+          "text": "He checks voltage levels and replaces blown fuses when needed.",
+          "audio": "assets/audio/a_3_e_7.mp3"
         },
         {
-          "id": "n_3_8",
-          "text": "He cleans the fuel injectors to improve engine performance.",
-          "audio": "assets/audio/a_3_b_8.mp3"
+          "id": "n_3_e_8",
+          "text": "He connects lighting fixtures, switches, and sockets correctly.",
+          "audio": "assets/audio/a_3_e_8.mp3"
         },
         {
-          "id": "n_3_9",
-          "text": "He does not test-drive the vehicle after completing the repair.",
-          "audio": "assets/audio/a_3_b_9.mp3"
+          "id": "n_3_e_9",
+          "text": "He does not wear insulated gloves or safety boots while repairing circuits.",
+          "audio": "assets/audio/a_3_e_9.mp3"
         },
         {
-          "id": "n_3_10",
-          "text": "He records maintenance details and updates the service logbook.",
-          "audio": "assets/audio/a_3_b_10.mp3"
+          "id": "n_3_e_10",
+          "text": "He records all test results and reports faults to the supervisor.",
+          "audio": "assets/audio/a_3_e_10.mp3"
         }
       ]
     }
@@ -410,110 +410,78 @@
       }
     },
     "context": {
-      "title": "AUTOTUNE 500 – Digital Engine Analyser",
+      "title": "ELECTROTEST 250 – Digital Multimeter",
       "cover": "assets/img/a_4.png",
       "content": [
         {
           "section_number": "1",
           "section_title": "Parts Identification",
-          "intro": "The AutoTune 500 Digital Engine Analyser is designed for diagnostic testing of petrol and diesel engines.",
+          "intro": "The ElectroTest 250 Digital Multimeter is a versatile device used to measure electrical quantities such as voltage, current, and resistance in electrical systems.",
           "subsections": [
             {
               "subtitle": "Main Components",
               "items": [
-                "Control Panel – contains the digital display, mode selector, and test buttons.",
-                "Probe Leads – connect to spark-plug wires or sensors for measurement.",
-                "RPM Clamp – measures engine speed directly from the ignition coil.",
-                "Battery Leads (Red/Black) – provide power and detect battery voltage.",
-                "USB Port – for connecting to a computer or diagnostic tablet.",
-                "Data Port (OBD-II) – interfaces with modern vehicles for ECU readings.",
-                "Cooling Fan Vent – prevents overheating during extended use.",
-                "Carrying Handle – for easy transport between work bays."
+                "LCD Display – shows the measurement readings clearly.",
+                "Function Selector Dial – used to choose the type of measurement (V, A, Ω, continuity, etc.).",
+                "Input Terminals (COM, VΩmA, 10A) – connection points for test leads.",
+                "Test Leads (Red & Black) – connect the multimeter to the circuit or component under test.",
+                "Power Button – turns the device on or off.",
+                "Hold Button – freezes the reading on the screen.",
+                "Battery Compartment – located at the back of the unit.",
+                "Protective Rubber Casing – shields the meter from damage in workshop environments."
               ]
             }
           ]
         },
         {
           "section_number": "2",
-          "section_title": "Setup and Connection",
+          "section_title": "Setup and Operation",
           "steps": [
-            "Unpack the analyser and check for all accessories.",
-            "Connect the battery leads: red to positive (+), black to negative (–).",
-            "Attach the RPM clamp around the ignition cable if required.",
-            "Plug the OBD-II connector into the vehicle diagnostic port (usually under the dashboard).",
-            "Press the Power button to start the unit.",
-            "Select the test mode (RPM, Voltage, Timing, Emission, or Sensor Check) on the control panel.",
-            "For data logging, connect the USB cable to your computer and open the AutoTune Utility Software."
+            "Insert a fresh 9V battery into the compartment before use.",
+            "Connect the black lead to the COM terminal and the red lead to the correct terminal for your measurement.",
+            "Turn the selector dial to the desired function (e.g., DC voltage).",
+            "Place the leads across the component or circuit to take a reading.",
+            "Observe the measurement on the LCD display.",
+            "Press the Hold button if you want to freeze the value.",
+            "When finished, turn off the multimeter and disconnect the leads."
+          ],
+          "notes": [
+            "Warning: Always start with the highest range and move down gradually to avoid damaging the unit."
           ]
         },
         {
           "section_number": "3",
-          "section_title": "Operation",
+          "section_title": "Maintenance and Troubleshooting",
           "subsections": [
             {
-              "subtitle": "Engine Test",
+              "subtitle": "Common Issues and Solutions",
               "items": [
-                "Choose “Engine Diagnostics”.",
-                "Start the vehicle engine.",
-                "The display will show RPM, voltage, and timing advance readings."
+                "No Display: Check or replace the battery.",
+                "Fluctuating Readings: Ensure leads are properly connected; avoid contact with wet surfaces.",
+                "No Continuity Beep: Replace the internal fuse if necessary.",
+                "Overload Symbol Appears: Measurement range is too low — increase it using the selector dial."
               ]
             },
             {
-              "subtitle": "Battery & Charging Test",
+              "subtitle": "Maintenance Tips",
               "items": [
-                "Select “Battery Mode”.",
-                "Follow on-screen prompts to measure charge rate and alternator output."
-              ]
-            },
-            {
-              "subtitle": "Sensor Test",
-              "items": [
-                "Select the sensor type (e.g. oxygen sensor or throttle position sensor).",
-                "Observe live data on the screen or save results to the USB drive."
-              ]
-            },
-            {
-              "subtitle": "Data Export",
-              "items": [
-                "Connect to PC.",
-                "Open AutoTune Utility.",
-                "Click “Export Report” to generate a PDF summary."
+                "Keep the test leads clean and untangled.",
+                "Store the multimeter in its protective case.",
+                "Avoid measuring live circuits above the maximum rated voltage.",
+                "Calibrate annually for professional accuracy."
               ]
             }
           ]
         },
         {
           "section_number": "4",
-          "section_title": "Troubleshooting and Maintenance",
-          "subsections": [
-            {
-              "subtitle": "Common Issues and Solutions",
-              "items": [
-                "No Power: Check clamps and vehicle battery connection.",
-                "No Reading: Ensure probes and OBD-II cable are firmly connected.",
-                "Inaccurate RPM Display: Adjust clamp position or recalibrate in settings.",
-                "Software Not Detecting Device: Reinstall the AutoTune driver or use another USB port."
-              ]
-            },
-            {
-              "subtitle": "Maintenance Tips",
-              "items": [
-                "Keep leads clean and store them in the provided case.",
-                "Wipe the screen and body with a dry, lint-free cloth.",
-                "Do not expose it to rain or high humidity.",
-                "Update firmware via the official AutoTune website every six months."
-              ]
-            }
-          ]
-        },
-        {
-          "section_number": "5",
           "section_title": "Safety Precautions",
           "items": [
-            "Always turn off the engine before connecting or disconnecting cables.",
-            "Keep cables away from hot engine parts.",
-            "Use only original accessories.",
-            "Do not attempt to open the unit; servicing must be done by authorised technicians."
+            "Never use a damaged test lead or probe.",
+            "Do not measure current in household mains without proper training.",
+            "Always disconnect power before testing resistance.",
+            "Avoid exposure to moisture and direct sunlight.",
+            "Turn off the unit after each use to extend battery life."
           ]
         }
       ]
@@ -523,33 +491,33 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "emission",
-            "item_b": "the production and discharge of something, especially gas or radiation"
+            "item_a": "voltage",
+            "item_b": "the electrical force that makes current flow in a circuit"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "probe",
-            "item_b": "a wire or connector used to detect electrical signals from engine parts"
+            "item_a": "resistance",
+            "item_b": "the opposition to electric current flow, measured in ohms"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "RPM clamp",
-            "item_b": "a tool that measures engine speed using ignition pulses"
+            "item_a": "continuity",
+            "item_b": "a complete circuit path that allows current to flow"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "diagnostics",
-            "item_b": "the process of identifying vehicle faults using electronic tools"
+            "item_a": "overload",
+            "item_b": "a condition where current exceeds a circuit’s safe limit"
           },
           {
             "id": "n_4_a_5",
             "item_a": "calibrate",
-            "item_b": "to adjust a measuring instrument for accurate readings"
+            "item_b": "to adjust an instrument for correct and precise readings"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "troubleshooting",
-            "item_b": "analysing and solving technical problems"
+            "item_a": "versatile",
+            "item_b": "able to adapt to many different functions"
           }
         ]
       },
@@ -557,44 +525,48 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What is the main purpose of the AutoTune 500 Digital Engine Analyser?",
-            "answer": "To perform diagnostic testing of petrol and diesel engines",
+            "question": "What is the main purpose of the ElectroTest 250 Digital Multimeter?",
+            "answer": "To measure voltage, current, and resistance",
             "options": [
-              "To clean vehicle fuel injectors",
-              "To charge automotive batteries",
-              "To perform diagnostic testing of petrol and diesel engines"
+              "To generate electrical signals",
+              "To measure voltage, current, and resistance",
+              "To control power flow in circuits"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Which component connects the analyser to the vehicle’s ECU for readings?",
-            "answer": "Data Port (OBD-II)",
-            "options": ["USB Port", "RPM Clamp", "Data Port (OBD-II)"]
+            "question": "Which component is used to select the measurement type such as voltage or resistance?",
+            "answer": "Function Selector Dial",
+            "options": ["LCD Display", "Function Selector Dial", "Power Button"]
           },
           {
             "id": "l_4_3",
-            "question": "What should you do if the software does not detect the device?",
-            "answer": "Reinstall the AutoTune driver or use another USB port",
+            "question": "What should you do before using the multimeter?",
+            "answer": "Insert a fresh 9V battery into the compartment",
             "options": [
-              "Replace the OBD-II connector",
-              "Reinstall the AutoTune driver or use another USB port",
-              "Restart the vehicle engine"
+              "Connect it directly to a live circuit",
+              "Insert a fresh 9V battery into the compartment",
+              "Replace the internal fuse"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "How often should the firmware be updated?",
-            "answer": "Every six months",
-            "options": ["Every month", "Once a year", "Every six months"]
+            "question": "What causes an overload symbol to appear on the screen?",
+            "answer": "Measurement range is too low",
+            "options": [
+              "Weak battery",
+              "Dirty test leads",
+              "Measurement range is too low"
+            ]
           },
           {
             "id": "l_4_5",
-            "question": "What safety precautions must be followed before connecting or disconnecting cables?",
-            "answer": "Turn off the engine",
+            "question": "Which safety precaution must always be followed when testing resistance?",
+            "answer": "Disconnect power before testing",
             "options": [
-              "Keep the ignition on",
-              "Turn off the engine",
-              "Disconnect the OBD-II port"
+              "Hold the test leads together firmly",
+              "Disconnect power before testing",
+              "Turn the selector dial rapidly"
             ]
           }
         ]
@@ -602,76 +574,59 @@
       "activity_c": [
         {
           "words": [
-            "Unpack",
+            "Avoid",
+            "measuring",
+            "live",
+            "circuits",
+            "above",
             "the",
-            "analyser",
-            "and",
-            "check",
+            "maximum",
+            "voltage",
+            "."
+          ],
+          "sentence": "Avoid measuring live circuits above the maximum voltage."
+        },
+        {
+          "words": [
+            "Calibrate",
+            "annually",
             "for",
-            "all",
-            "accessories",
+            "professional",
+            "accuracy",
             "."
           ],
-          "sentence": "Unpack the analyser and check for all accessories."
-        },
-        {
-          "words": [
-            "Keep",
-            "leads",
-            "clean",
-            "and",
-            "store",
-            "them",
-            "in",
-            "the",
-            "provided",
-            "case",
-            "."
-          ],
-          "sentence": "Keep leads clean and store them in the provided case."
-        },
-        {
-          "words": [
-            "Keep",
-            "cables",
-            "away",
-            "from",
-            "hot",
-            "engine",
-            "parts",
-            "."
-          ],
-          "sentence": "Keep cables away from hot engine parts."
-        },
-        {
-          "words": [
-            "Wipe",
-            "the",
-            "screen",
-            "and",
-            "body",
-            "with",
-            "a",
-            "dry",
-            "cloth",
-            "."
-          ],
-          "sentence": "Wipe the screen and body with a dry cloth."
+          "sentence": "Calibrate annually for professional accuracy."
         },
         {
           "words": [
             "Do",
             "not",
-            "expose",
-            "yourself",
-            "to",
-            "rain",
-            "or",
-            "high",
-            "humidity",
+            "measure",
+            "current",
+            "in",
+            "household",
+            "mains",
+            "without",
+            "training",
             "."
           ],
-          "sentence": "Do not expose yourself to rain or high humidity."
+          "sentence": "Do not measure current in household mains without training."
+        },
+        {
+          "words": [
+            "Always",
+            "disconnect",
+            "power",
+            "before",
+            "testing",
+            "resistance",
+            "."
+          ],
+          "sentence": "Always disconnect power before testing resistance."
+        },
+        {
+          "words": ["Turn", "off", "the", "unit", "after", "each", "use", "."],
+          "sentence": "Turn off the unit after each use."
         }
       ]
     }

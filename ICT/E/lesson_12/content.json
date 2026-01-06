@@ -264,72 +264,72 @@
         "bg_image": "assets/img/game/bg-6.jpg",
         "content": [
           {
-            "id": "g_b_1",
-            "sentence": "What does an automobile mechanic do?\n\nAn automobile mechanic inspects engines and detects mechanical faults.",
-            "audio": "assets/audio/a_3_b_1.mp3",
+            "id": "g_i_1",
+            "sentence": "What does an IT specialist do?\n\nAn IT specialist installs and updates operating systems on company computers.",
+            "audio": "assets/audio/a_3_i_1.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_2",
-            "sentence": "What does an automobile mechanic do?\n\nHe drains old engine oil and refills it with new oil after every service.",
-            "audio": "assets/audio/a_3_b_2.mp3",
+            "id": "g_i_2",
+            "sentence": "What does an IT specialist do?\n\nHe checks network connections and fixes internet problems quickly.",
+            "audio": "assets/audio/a_3_i_2.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_3",
-            "sentence": "What does an automobile mechanic do?\n\nHe replaces air filters and spark plugs when they are dirty or worn out.",
-            "audio": "assets/audio/a_3_b_3.mp3",
+            "id": "g_i_3",
+            "sentence": "What does an IT specialist do?\n\nHe backs up important data and protects files from viruses.",
+            "audio": "assets/audio/a_3_i_3.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_4",
-            "sentence": "What does an automobile mechanic do?\n\nHe doesn’t tighten the wheel nuts after changing the tyre.",
-            "audio": "assets/audio/a_3_b_4.mp3",
+            "id": "g_i_4",
+            "sentence": "What does an IT specialist do?\n\nHe doesn’t log error reports after solving technical issues.",
+            "audio": "assets/audio/a_3_i_4.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
-            "id": "g_b_5",
-            "sentence": "What does an automobile mechanic do?\n\nHe uses diagnostic equipment to scan the vehicle’s electronic system.",
-            "audio": "assets/audio/a_3_b_5.mp3",
+            "id": "g_i_5",
+            "sentence": "What does an IT specialist do?\n\nHe uses diagnostic software to detect hardware and software faults.",
+            "audio": "assets/audio/a_3_i_5.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_6",
-            "sentence": "What does an automobile mechanic do?\n\nHe does not ignore warning lights on the dashboard during inspection.",
-            "audio": "assets/audio/a_3_b_6.mp3",
+            "id": "g_i_6",
+            "sentence": "What does an IT specialist do?\n\nHe does not ignore user complaints about slow systems.",
+            "audio": "assets/audio/a_3_i_6.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_7",
-            "sentence": "What does an automobile mechanic do?\n\nHe adjusts the brake system and checks the fluid level carefully.",
-            "audio": "assets/audio/a_3_b_7.mp3",
+            "id": "g_i_7",
+            "sentence": "What does an IT specialist do?\n\nHe replaces faulty cables and configures routers and printers.",
+            "audio": "assets/audio/a_3_i_7.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_8",
-            "sentence": "What does an automobile mechanic do?\n\nHe cleans the fuel injectors to improve engine performance.",
-            "audio": "assets/audio/a_3_b_8.mp3",
+            "id": "g_i_8",
+            "sentence": "What does an IT specialist do?\n\nHe runs security scans and installs antivirus updates regularly.",
+            "audio": "assets/audio/a_3_i_8.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_9",
-            "sentence": "What does an automobile mechanic do?\n\nHe does not test-drive the vehicle after completing the repair.",
-            "audio": "assets/audio/a_3_b_9.mp3",
+            "id": "g_i_9",
+            "sentence": "What does an IT specialist do?\n\nHe does not check the power supply before opening a computer case.",
+            "audio": "assets/audio/a_3_i_9.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
-            "id": "g_b_10",
-            "sentence": "What does an automobile mechanic do?\n\nHe records maintenance details and updates the service logbook.",
-            "audio": "assets/audio/a_3_b_10.mp3",
+            "id": "g_i_10",
+            "sentence": "What does an IT specialist do?\n\nHe trains staff to use applications and explains troubleshooting steps.",
+            "audio": "assets/audio/a_3_i_10.mp3",
             "options": ["True", "False"],
             "answer": "True"
           }
@@ -337,54 +337,54 @@
       },
       "activity_b": [
         {
-          "id": "n_3_1",
-          "text": "An automobile mechanic inspects engines and detects mechanical faults.",
-          "audio": "assets/audio/a_3_b_1.mp3"
+          "id": "n_3_i_1",
+          "text": "An IT specialist installs and updates operating systems on company computers.",
+          "audio": "assets/audio/a_3_i_1.mp3"
         },
         {
-          "id": "n_3_2",
-          "text": "He drains old engine oil and refills it with new oil after every service.",
-          "audio": "assets/audio/a_3_b_2.mp3"
+          "id": "n_3_i_2",
+          "text": "He checks network connections and fixes internet problems quickly.",
+          "audio": "assets/audio/a_3_i_2.mp3"
         },
         {
-          "id": "n_3_3",
-          "text": "He replaces air filters and spark plugs when they are dirty or worn out.",
-          "audio": "assets/audio/a_3_b_3.mp3"
+          "id": "n_3_i_3",
+          "text": "He backs up important data and protects files from viruses.",
+          "audio": "assets/audio/a_3_i_3.mp3"
         },
         {
-          "id": "n_3_4",
-          "text": "He doesn’t tighten the wheel nuts after changing the tyre.",
-          "audio": "assets/audio/a_3_b_4.mp3"
+          "id": "n_3_i_4",
+          "text": "He doesn’t log error reports after solving technical issues.",
+          "audio": "assets/audio/a_3_i_4.mp3"
         },
         {
-          "id": "n_3_5",
-          "text": "He uses diagnostic equipment to scan the vehicle’s electronic system.",
-          "audio": "assets/audio/a_3_b_5.mp3"
+          "id": "n_3_i_5",
+          "text": "He uses diagnostic software to detect hardware and software faults.",
+          "audio": "assets/audio/a_3_i_5.mp3"
         },
         {
-          "id": "n_3_6",
-          "text": "He does not ignore warning lights on the dashboard during inspection.",
-          "audio": "assets/audio/a_3_b_6.mp3"
+          "id": "n_3_i_6",
+          "text": "He does not ignore user complaints about slow systems.",
+          "audio": "assets/audio/a_3_i_6.mp3"
         },
         {
-          "id": "n_3_7",
-          "text": "He adjusts the brake system and checks the fluid level carefully.",
-          "audio": "assets/audio/a_3_b_7.mp3"
+          "id": "n_3_i_7",
+          "text": "He replaces faulty cables and configures routers and printers.",
+          "audio": "assets/audio/a_3_i_7.mp3"
         },
         {
-          "id": "n_3_8",
-          "text": "He cleans the fuel injectors to improve engine performance.",
-          "audio": "assets/audio/a_3_b_8.mp3"
+          "id": "n_3_i_8",
+          "text": "He runs security scans and installs antivirus updates regularly.",
+          "audio": "assets/audio/a_3_i_8.mp3"
         },
         {
-          "id": "n_3_9",
-          "text": "He does not test-drive the vehicle after completing the repair.",
-          "audio": "assets/audio/a_3_b_9.mp3"
+          "id": "n_3_i_9",
+          "text": "He does not check the power supply before opening a computer case.",
+          "audio": "assets/audio/a_3_i_9.mp3"
         },
         {
-          "id": "n_3_10",
-          "text": "He records maintenance details and updates the service logbook.",
-          "audio": "assets/audio/a_3_b_10.mp3"
+          "id": "n_3_i_10",
+          "text": "He trains staff to use applications and explains troubleshooting steps.",
+          "audio": "assets/audio/a_3_i_10.mp3"
         }
       ]
     }
@@ -410,110 +410,97 @@
       }
     },
     "context": {
-      "title": "AUTOTUNE 500 – Digital Engine Analyser",
+      "title": "SmartPrint 3200 – 3-in-1 Multifunction Peripheral (Printer, Scanner & Photocopier)",
       "cover": "assets/img/a_4.png",
       "content": [
         {
+          "section_number": "0",
+          "section_title": "Introduction",
+          "intro": "This manual provides comprehensive guidance on installing, configuring, operating, and maintaining the SmartPrint 3200 multifunction peripheral (MFP). The document is intended for ICT trainees and professionals familiar with computer peripherals, networking, and device drivers."
+        },
+        {
           "section_number": "1",
-          "section_title": "Parts Identification",
-          "intro": "The AutoTune 500 Digital Engine Analyser is designed for diagnostic testing of petrol and diesel engines.",
+          "section_title": "Device Architecture and Components",
+          "intro": "The SmartPrint 3200 combines printing, scanning, and photocopying functions into a single compact unit. It incorporates advanced control logic, embedded firmware, and multiple connectivity interfaces.",
           "subsections": [
             {
-              "subtitle": "Main Components",
+              "subtitle": "Key Components",
               "items": [
-                "Control Panel – contains the digital display, mode selector, and test buttons.",
-                "Probe Leads – connect to spark-plug wires or sensors for measurement.",
-                "RPM Clamp – measures engine speed directly from the ignition coil.",
-                "Battery Leads (Red/Black) – provide power and detect battery voltage.",
-                "USB Port – for connecting to a computer or diagnostic tablet.",
-                "Data Port (OBD-II) – interfaces with modern vehicles for ECU readings.",
-                "Cooling Fan Vent – prevents overheating during extended use.",
-                "Carrying Handle – for easy transport between work bays."
+                "Control Interface – touch-enabled LCD panel for navigating menus and device settings.",
+                "Automatic Document Feeder (ADF) – allows batch scanning and copying of multiple pages.",
+                "Scanner Glass – supports high-resolution optical scanning (up to 1200 dpi).",
+                "Paper Input and Output Assemblies – manage document flow during print and copy operations.",
+                "Ink Cartridge Module – hosts individual colour cartridges for precision output.",
+                "Connectivity Ports – USB 2.0, Ethernet (optional), and Wi-Fi Direct for network integration.",
+                "Status LEDs – indicate power, ink, and network status.",
+                "Firmware Access Panel – used during software updates and diagnostics."
               ]
             }
           ]
         },
         {
           "section_number": "2",
-          "section_title": "Setup and Connection",
+          "section_title": "Installation and Configuration",
           "steps": [
-            "Unpack the analyser and check for all accessories.",
-            "Connect the battery leads: red to positive (+), black to negative (–).",
-            "Attach the RPM clamp around the ignition cable if required.",
-            "Plug the OBD-II connector into the vehicle diagnostic port (usually under the dashboard).",
-            "Press the Power button to start the unit.",
-            "Select the test mode (RPM, Voltage, Timing, Emission, or Sensor Check) on the control panel.",
-            "For data logging, connect the USB cable to your computer and open the AutoTune Utility Software."
+            "Unpack and inspect all components. Ensure the device is placed on a flat, stable surface.",
+            "Connect the power cord and press the Power button to initialise the system.",
+            "Install the ink cartridges in the correct colour slots and close the access panel securely.",
+            "Load A4 or Letter-size paper into the input tray.",
+            "Connect the device using USB, Wi-Fi Direct, or LAN (optional).",
+            "Install the SmartPrint Driver Package and Device Management Utility from the manufacturer’s website.",
+            "Execute a test print to confirm successful installation.",
+            "Perform a firmware check under “Settings → Maintenance → Firmware Update” and update if necessary."
+          ],
+          "notes": [
+            "USB Connection: Attach the cable to the computer and allow the operating system to detect the peripheral.",
+            "Wi-Fi Direct: Activate Wi-Fi mode via the control interface and authenticate using the SmartPrint Utility.",
+            "LAN (optional): Connect via Ethernet cable and configure the IP address manually or through DHCP."
           ]
         },
         {
           "section_number": "3",
-          "section_title": "Operation",
+          "section_title": "Operational Procedures",
           "subsections": [
             {
-              "subtitle": "Engine Test",
+              "subtitle": "Printing",
               "items": [
-                "Choose “Engine Diagnostics”.",
-                "Start the vehicle engine.",
-                "The display will show RPM, voltage, and timing advance readings."
+                "Open the desired document and select “SmartPrint 3200” from the printer list.",
+                "Configure page orientation, duplex settings, and print quality.",
+                "Click Print to execute the job; the system will buffer and queue the document."
               ]
             },
             {
-              "subtitle": "Battery & Charging Test",
+              "subtitle": "Scanning",
               "items": [
-                "Select “Battery Mode”.",
-                "Follow on-screen prompts to measure charge rate and alternator output."
+                "Access the SmartPrint Scan Utility on the workstation.",
+                "Choose the input source (Scanner Glass or ADF).",
+                "Select file format (PDF, JPEG, PNG) and resolution (300–1200 dpi).",
+                "Specify the destination folder or connected device, then click Scan."
               ]
             },
             {
-              "subtitle": "Sensor Test",
+              "subtitle": "Copying",
               "items": [
-                "Select the sensor type (e.g. oxygen sensor or throttle position sensor).",
-                "Observe live data on the screen or save results to the USB drive."
-              ]
-            },
-            {
-              "subtitle": "Data Export",
-              "items": [
-                "Connect to PC.",
-                "Open AutoTune Utility.",
-                "Click “Export Report” to generate a PDF summary."
+                "Place the document face-down on the scanner glass or load it into the ADF.",
+                "From the control interface, select Copy.",
+                "Choose Black & White or Colour mode, adjust copy density, and initiate the task."
               ]
             }
           ]
         },
         {
           "section_number": "4",
-          "section_title": "Troubleshooting and Maintenance",
+          "section_title": "Maintenance and Troubleshooting",
           "subsections": [
             {
-              "subtitle": "Common Issues and Solutions",
+              "subtitle": "Routine Maintenance",
               "items": [
-                "No Power: Check clamps and vehicle battery connection.",
-                "No Reading: Ensure probes and OBD-II cable are firmly connected.",
-                "Inaccurate RPM Display: Adjust clamp position or recalibrate in settings.",
-                "Software Not Detecting Device: Reinstall the AutoTune driver or use another USB port."
-              ]
-            },
-            {
-              "subtitle": "Maintenance Tips",
-              "items": [
-                "Keep leads clean and store them in the provided case.",
-                "Wipe the screen and body with a dry, lint-free cloth.",
-                "Do not expose it to rain or high humidity.",
-                "Update firmware via the official AutoTune website every six months."
+                "Clean the scanner glass with a lint-free cloth.",
+                "Run the “Head Cleaning” cycle weekly to maintain print quality.",
+                "Update firmware periodically to ensure compatibility and security.",
+                "Replace consumables before depletion to prevent print head clogging."
               ]
             }
-          ]
-        },
-        {
-          "section_number": "5",
-          "section_title": "Safety Precautions",
-          "items": [
-            "Always turn off the engine before connecting or disconnecting cables.",
-            "Keep cables away from hot engine parts.",
-            "Use only original accessories.",
-            "Do not attempt to open the unit; servicing must be done by authorised technicians."
           ]
         }
       ]
@@ -523,33 +510,33 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "emission",
-            "item_b": "the production and discharge of something, especially gas or radiation"
+            "item_a": "combine",
+            "item_b": "bringing together different parts or functions"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "probe",
-            "item_b": "a wire or connector used to detect electrical signals from engine parts"
+            "item_a": "multifunction",
+            "item_b": "having or fulfilling several different uses"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "RPM clamp",
-            "item_b": "a tool that measures engine speed using ignition pulses"
+            "item_a": "consumables",
+            "item_b": "items that are used up relatively quickly"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "diagnostics",
-            "item_b": "the process of identifying vehicle faults using electronic tools"
+            "item_a": "authenticate",
+            "item_b": "to prove that something is genuine or valid"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "calibrate",
-            "item_b": "to adjust a measuring instrument for accurate readings"
+            "item_a": "familiar",
+            "item_b": "well known or easy to recognise"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "troubleshooting",
-            "item_b": "analysing and solving technical problems"
+            "item_a": "navigating",
+            "item_b": "planning or directing the course or way around something"
           }
         ]
       },
@@ -557,121 +544,111 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What is the main purpose of the AutoTune 500 Digital Engine Analyser?",
-            "answer": "To perform diagnostic testing of petrol and diesel engines",
+            "question": "What are the three main functions of the SmartPrint 3200?",
+            "answer": "Printing, scanning, and photocopying",
             "options": [
-              "To clean vehicle fuel injectors",
-              "To charge automotive batteries",
-              "To perform diagnostic testing of petrol and diesel engines"
+              "Printing, faxing, and laminating",
+              "Printing, scanning, and photocopying",
+              "Editing, typing, and filing"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Which component connects the analyser to the vehicle’s ECU for readings?",
-            "answer": "Data Port (OBD-II)",
-            "options": ["USB Port", "RPM Clamp", "Data Port (OBD-II)"]
-          },
-          {
-            "id": "l_4_3",
-            "question": "What should you do if the software does not detect the device?",
-            "answer": "Reinstall the AutoTune driver or use another USB port",
+            "question": "Which component allows batch scanning and copying of multiple pages?",
+            "answer": "Automatic Document Feeder (ADF)",
             "options": [
-              "Replace the OBD-II connector",
-              "Reinstall the AutoTune driver or use another USB port",
-              "Restart the vehicle engine"
+              "Scanner Glass",
+              "Automatic Document Feeder (ADF)",
+              "Ink Cartridge Module"
             ]
           },
           {
+            "id": "l_4_3",
+            "question": "How many ways can the SmartPrint 3200 connect to a computer network?",
+            "answer": "3 ways",
+            "options": ["2 ways", "3 ways", "1 way"]
+          },
+          {
             "id": "l_4_4",
-            "question": "How often should the firmware be updated?",
-            "answer": "Every six months",
-            "options": ["Every month", "Once a year", "Every six months"]
+            "question": "What should be done once the ink cartridges are put in the correct colour slots?",
+            "answer": "Close the Access panel",
+            "options": [
+              "Reinstall the print driver manually",
+              "Close the Access panel",
+              "Restart the device and clear all print jobs"
+            ]
           },
           {
             "id": "l_4_5",
-            "question": "What safety precautions must be followed before connecting or disconnecting cables?",
-            "answer": "Turn off the engine",
+            "question": "What is one recommended maintenance activity to maintain print quality?",
+            "answer": "Run the “Head Cleaning” cycle weekly",
             "options": [
-              "Keep the ignition on",
-              "Turn off the engine",
-              "Disconnect the OBD-II port"
+              "Replace the ink cartridge every day",
+              "Keep the paper tray empty when not in use",
+              "Run the “Head Cleaning” cycle weekly"
             ]
           }
         ]
       },
       "activity_c": [
         {
-          "words": [
-            "Unpack",
-            "the",
-            "analyser",
-            "and",
-            "check",
-            "for",
-            "all",
-            "accessories",
-            "."
-          ],
-          "sentence": "Unpack the analyser and check for all accessories."
+          "words": ["Unpack", "and", "inspect", "all", "components", "."],
+          "sentence": "Unpack and inspect all components."
         },
         {
           "words": [
-            "Keep",
-            "leads",
-            "clean",
-            "and",
-            "store",
-            "them",
-            "in",
+            "Ensure",
             "the",
-            "provided",
-            "case",
+            "device",
+            "is",
+            "placed",
+            "on",
+            "a",
+            "stable",
+            "surface",
             "."
           ],
-          "sentence": "Keep leads clean and store them in the provided case."
+          "sentence": "Ensure the device is placed on a stable surface."
         },
         {
           "words": [
-            "Keep",
-            "cables",
-            "away",
-            "from",
-            "hot",
-            "engine",
-            "parts",
-            "."
-          ],
-          "sentence": "Keep cables away from hot engine parts."
-        },
-        {
-          "words": [
-            "Wipe",
+            "Clean",
             "the",
-            "screen",
-            "and",
-            "body",
+            "scanner",
+            "glass",
             "with",
             "a",
-            "dry",
+            "lint-free",
             "cloth",
             "."
           ],
-          "sentence": "Wipe the screen and body with a dry cloth."
+          "sentence": "Clean the scanner glass with a lint-free cloth."
         },
         {
           "words": [
-            "Do",
-            "not",
-            "expose",
-            "yourself",
+            "Update",
+            "firmware",
+            "periodically",
             "to",
-            "rain",
-            "or",
-            "high",
-            "humidity",
+            "ensure",
+            "compatibility",
             "."
           ],
-          "sentence": "Do not expose yourself to rain or high humidity."
+          "sentence": "Update firmware periodically to ensure compatibility."
+        },
+        {
+          "words": [
+            "Execute",
+            "a",
+            "test",
+            "print",
+            "to",
+            "confirm",
+            "successful",
+            "installation",
+            "."
+          ],
+          "sentence": "Execute a test print to confirm successful installation."
         }
       ]
     }

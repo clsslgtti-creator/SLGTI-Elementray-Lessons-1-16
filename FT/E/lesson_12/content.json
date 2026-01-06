@@ -264,72 +264,72 @@
         "bg_image": "assets/img/game/bg-6.jpg",
         "content": [
           {
-            "id": "g_b_1",
-            "sentence": "What does an automobile mechanic do?\n\nAn automobile mechanic inspects engines and detects mechanical faults.",
-            "audio": "assets/audio/a_3_b_1.mp3",
+            "id": "g_f_1",
+            "sentence": "What does a food laboratory assistant do?\n\nA Food Laboratory Assistant tests food samples for quality and safety.",
+            "audio": "assets/audio/a_3_f_1.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_2",
-            "sentence": "What does an automobile mechanic do?\n\nHe drains old engine oil and refills it with new oil after every service.",
-            "audio": "assets/audio/a_3_b_2.mp3",
+            "id": "g_f_2",
+            "sentence": "What does a food laboratory assistant do?\n\nHe measures moisture, sugar, and fat content in different food products.",
+            "audio": "assets/audio/a_3_f_2.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_3",
-            "sentence": "What does an automobile mechanic do?\n\nHe replaces air filters and spark plugs when they are dirty or worn out.",
-            "audio": "assets/audio/a_3_b_3.mp3",
+            "id": "g_f_3",
+            "sentence": "What does a food laboratory assistant do?\n\nHe uses laboratory equipment like balances, pH meters, and microscopes.",
+            "audio": "assets/audio/a_3_f_3.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_4",
-            "sentence": "What does an automobile mechanic do?\n\nHe doesn’t tighten the wheel nuts after changing the tyre.",
-            "audio": "assets/audio/a_3_b_4.mp3",
+            "id": "g_f_4",
+            "sentence": "What does a food laboratory assistant do?\n\nHe throws waste materials into ordinary bins without checking.",
+            "audio": "assets/audio/a_3_f_4.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
-            "id": "g_b_5",
-            "sentence": "What does an automobile mechanic do?\n\nHe uses diagnostic equipment to scan the vehicle’s electronic system.",
-            "audio": "assets/audio/a_3_b_5.mp3",
+            "id": "g_f_5",
+            "sentence": "What does a food laboratory assistant do?\n\nHe does not ignore safety rules when handling chemicals.",
+            "audio": "assets/audio/a_3_f_5.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_6",
-            "sentence": "What does an automobile mechanic do?\n\nHe does not ignore warning lights on the dashboard during inspection.",
-            "audio": "assets/audio/a_3_b_6.mp3",
+            "id": "g_f_6",
+            "sentence": "What does a food laboratory assistant do?\n\nHe wears gloves and a lab coat to protect himself from contamination.",
+            "audio": "assets/audio/a_3_f_6.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_7",
-            "sentence": "What does an automobile mechanic do?\n\nHe adjusts the brake system and checks the fluid level carefully.",
-            "audio": "assets/audio/a_3_b_7.mp3",
+            "id": "g_f_7",
+            "sentence": "What does a food laboratory assistant do?\n\nHe does not work alone; he works closely with food technologists and supervisors.",
+            "audio": "assets/audio/a_3_f_7.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_8",
-            "sentence": "What does an automobile mechanic do?\n\nHe cleans the fuel injectors to improve engine performance.",
-            "audio": "assets/audio/a_3_b_8.mp3",
+            "id": "g_f_8",
+            "sentence": "What does a food laboratory assistant do?\n\nHe cleans and sterilizes glassware and instruments after use.",
+            "audio": "assets/audio/a_3_f_8.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
-            "id": "g_b_9",
-            "sentence": "What does an automobile mechanic do?\n\nHe does not test-drive the vehicle after completing the repair.",
-            "audio": "assets/audio/a_3_b_9.mp3",
+            "id": "g_f_9",
+            "sentence": "What does a food laboratory assistant do?\n\nHe does not check the expiry dates of samples before testing.",
+            "audio": "assets/audio/a_3_f_9.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
-            "id": "g_b_10",
-            "sentence": "What does an automobile mechanic do?\n\nHe records maintenance details and updates the service logbook.",
-            "audio": "assets/audio/a_3_b_10.mp3",
+            "id": "g_f_10",
+            "sentence": "What does a food laboratory assistant do?\n\nHe keeps detailed records of all test results in laboratory notebooks.",
+            "audio": "assets/audio/a_3_f_10.mp3",
             "options": ["True", "False"],
             "answer": "True"
           }
@@ -337,54 +337,54 @@
       },
       "activity_b": [
         {
-          "id": "n_3_1",
-          "text": "An automobile mechanic inspects engines and detects mechanical faults.",
-          "audio": "assets/audio/a_3_b_1.mp3"
+          "id": "n_3_f_1",
+          "text": "A Food Laboratory Assistant tests food samples for quality and safety.",
+          "audio": "assets/audio/a_3_f_1.mp3"
         },
         {
-          "id": "n_3_2",
-          "text": "He drains old engine oil and refills it with new oil after every service.",
-          "audio": "assets/audio/a_3_b_2.mp3"
+          "id": "n_3_f_2",
+          "text": "He measures moisture, sugar, and fat content in different food products.",
+          "audio": "assets/audio/a_3_f_2.mp3"
         },
         {
-          "id": "n_3_3",
-          "text": "He replaces air filters and spark plugs when they are dirty or worn out.",
-          "audio": "assets/audio/a_3_b_3.mp3"
+          "id": "n_3_f_3",
+          "text": "He uses laboratory equipment like balances, pH meters, and microscopes.",
+          "audio": "assets/audio/a_3_f_3.mp3"
         },
         {
-          "id": "n_3_4",
-          "text": "He doesn’t tighten the wheel nuts after changing the tyre.",
-          "audio": "assets/audio/a_3_b_4.mp3"
+          "id": "n_3_f_4",
+          "text": "He throws waste materials into ordinary bins without checking.",
+          "audio": "assets/audio/a_3_f_4.mp3"
         },
         {
-          "id": "n_3_5",
-          "text": "He uses diagnostic equipment to scan the vehicle’s electronic system.",
-          "audio": "assets/audio/a_3_b_5.mp3"
+          "id": "n_3_f_5",
+          "text": "He does not ignore safety rules when handling chemicals.",
+          "audio": "assets/audio/a_3_f_5.mp3"
         },
         {
-          "id": "n_3_6",
-          "text": "He does not ignore warning lights on the dashboard during inspection.",
-          "audio": "assets/audio/a_3_b_6.mp3"
+          "id": "n_3_f_6",
+          "text": "He wears gloves and a lab coat to protect himself from contamination.",
+          "audio": "assets/audio/a_3_f_6.mp3"
         },
         {
-          "id": "n_3_7",
-          "text": "He adjusts the brake system and checks the fluid level carefully.",
-          "audio": "assets/audio/a_3_b_7.mp3"
+          "id": "n_3_f_7",
+          "text": "He does not work alone; he works closely with food technologists and supervisors.",
+          "audio": "assets/audio/a_3_f_7.mp3"
         },
         {
-          "id": "n_3_8",
-          "text": "He cleans the fuel injectors to improve engine performance.",
-          "audio": "assets/audio/a_3_b_8.mp3"
+          "id": "n_3_f_8",
+          "text": "He cleans and sterilizes glassware and instruments after use.",
+          "audio": "assets/audio/a_3_f_8.mp3"
         },
         {
-          "id": "n_3_9",
-          "text": "He does not test-drive the vehicle after completing the repair.",
-          "audio": "assets/audio/a_3_b_9.mp3"
+          "id": "n_3_f_9",
+          "text": "He does not check the expiry dates of samples before testing.",
+          "audio": "assets/audio/a_3_f_9.mp3"
         },
         {
-          "id": "n_3_10",
-          "text": "He records maintenance details and updates the service logbook.",
-          "audio": "assets/audio/a_3_b_10.mp3"
+          "id": "n_3_f_10",
+          "text": "He keeps detailed records of all test results in laboratory notebooks.",
+          "audio": "assets/audio/a_3_f_10.mp3"
         }
       ]
     }
@@ -410,110 +410,62 @@
       }
     },
     "context": {
-      "title": "AUTOTUNE 500 – Digital Engine Analyser",
+      "title": "Food Mixer 2000 – Instruction Manual",
       "cover": "assets/img/a_4.png",
       "content": [
         {
           "section_number": "1",
           "section_title": "Parts Identification",
-          "intro": "The AutoTune 500 Digital Engine Analyser is designed for diagnostic testing of petrol and diesel engines.",
+          "intro": "The Food Mixer 2000 is a powerful and efficient kitchen machine used for mixing, whipping, and kneading various food products.",
           "subsections": [
             {
-              "subtitle": "Main Components",
+              "subtitle": "Main Parts",
               "items": [
-                "Control Panel – contains the digital display, mode selector, and test buttons.",
-                "Probe Leads – connect to spark-plug wires or sensors for measurement.",
-                "RPM Clamp – measures engine speed directly from the ignition coil.",
-                "Battery Leads (Red/Black) – provide power and detect battery voltage.",
-                "USB Port – for connecting to a computer or diagnostic tablet.",
-                "Data Port (OBD-II) – interfaces with modern vehicles for ECU readings.",
-                "Cooling Fan Vent – prevents overheating during extended use.",
-                "Carrying Handle – for easy transport between work bays."
+                "Control Knob – used to select speed levels for different ingredients.",
+                "Mixing Bowl – holds up to 4 litres of dough or batter.",
+                "Whisk Attachment – used for whipping cream or beating eggs.",
+                "Dough Hook – for kneading bread or pastry dough.",
+                "Beater Blade – for mixing batters and sauces.",
+                "Splash Guard – prevents ingredients from spilling out during operation.",
+                "Power Cord – connects the mixer to the electrical outlet.",
+                "Overheat Indicator – lights up if the motor becomes too hot."
               ]
             }
           ]
         },
         {
           "section_number": "2",
-          "section_title": "Setup and Connection",
+          "section_title": "Setup and Operation",
           "steps": [
-            "Unpack the analyser and check for all accessories.",
-            "Connect the battery leads: red to positive (+), black to negative (–).",
-            "Attach the RPM clamp around the ignition cable if required.",
-            "Plug the OBD-II connector into the vehicle diagnostic port (usually under the dashboard).",
-            "Press the Power button to start the unit.",
-            "Select the test mode (RPM, Voltage, Timing, Emission, or Sensor Check) on the control panel.",
-            "For data logging, connect the USB cable to your computer and open the AutoTune Utility Software."
+            "Place the mixer on a flat, dry surface.",
+            "Attach the mixing bowl and lock it securely in position.",
+            "Insert the required attachment depending on your task.",
+            "Plug in the power cord and turn the control knob to the desired speed.",
+            "Start with a low speed for dry ingredients and increase gradually.",
+            "Do not run the mixer continuously for more than 10 minutes.",
+            "If the Overheat Indicator turns on, switch off the mixer and allow it to cool.",
+            "Always unplug the unit before removing or cleaning attachments.",
+            "Wipe the body with a damp cloth and dry it completely after use."
           ]
         },
         {
           "section_number": "3",
-          "section_title": "Operation",
-          "subsections": [
-            {
-              "subtitle": "Engine Test",
-              "items": [
-                "Choose “Engine Diagnostics”.",
-                "Start the vehicle engine.",
-                "The display will show RPM, voltage, and timing advance readings."
-              ]
-            },
-            {
-              "subtitle": "Battery & Charging Test",
-              "items": [
-                "Select “Battery Mode”.",
-                "Follow on-screen prompts to measure charge rate and alternator output."
-              ]
-            },
-            {
-              "subtitle": "Sensor Test",
-              "items": [
-                "Select the sensor type (e.g. oxygen sensor or throttle position sensor).",
-                "Observe live data on the screen or save results to the USB drive."
-              ]
-            },
-            {
-              "subtitle": "Data Export",
-              "items": [
-                "Connect to PC.",
-                "Open AutoTune Utility.",
-                "Click “Export Report” to generate a PDF summary."
-              ]
-            }
+          "section_title": "Safety Precautions",
+          "items": [
+            "Never place fingers or utensils inside the bowl while the mixer is running.",
+            "Avoid using the mixer with wet hands.",
+            "Do not immerse the motor housing in water.",
+            "Always ensure attachments are properly fitted before starting.",
+            "Use only original parts and accessories supplied by the manufacturer."
           ]
         },
         {
           "section_number": "4",
-          "section_title": "Troubleshooting and Maintenance",
-          "subsections": [
-            {
-              "subtitle": "Common Issues and Solutions",
-              "items": [
-                "No Power: Check clamps and vehicle battery connection.",
-                "No Reading: Ensure probes and OBD-II cable are firmly connected.",
-                "Inaccurate RPM Display: Adjust clamp position or recalibrate in settings.",
-                "Software Not Detecting Device: Reinstall the AutoTune driver or use another USB port."
-              ]
-            },
-            {
-              "subtitle": "Maintenance Tips",
-              "items": [
-                "Keep leads clean and store them in the provided case.",
-                "Wipe the screen and body with a dry, lint-free cloth.",
-                "Do not expose it to rain or high humidity.",
-                "Update firmware via the official AutoTune website every six months."
-              ]
-            }
-          ]
-        },
-        {
-          "section_number": "5",
-          "section_title": "Safety Precautions",
+          "section_title": "Maintenance",
           "items": [
-            "Always turn off the engine before connecting or disconnecting cables.",
-            "Keep cables away from hot engine parts.",
-            "Use only original accessories.",
-            "Do not attempt to open the unit; servicing must be done by authorised technicians."
+            "Clean attachments immediately after use to prevent food residue.",
+            "Grease the moving parts lightly once every six months.",
+            "Store the mixer in a cool, dry place when not in use."
           ]
         }
       ]
@@ -523,33 +475,33 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "emission",
-            "item_b": "the production and discharge of something, especially gas or radiation"
+            "item_a": "knead",
+            "item_b": "to press and fold dough to make it smooth and elastic"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "probe",
-            "item_b": "a wire or connector used to detect electrical signals from engine parts"
+            "item_a": "attachment",
+            "item_b": "a removable tool or part added for a specific purpose"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "RPM clamp",
-            "item_b": "a tool that measures engine speed using ignition pulses"
+            "item_a": "residue",
+            "item_b": "a small amount of something that remains after the main part is gone"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "diagnostics",
-            "item_b": "the process of identifying vehicle faults using electronic tools"
+            "item_a": "indicator",
+            "item_b": "a signal or light showing the machine’s condition"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "calibrate",
-            "item_b": "to adjust a measuring instrument for accurate readings"
+            "item_a": "accessory",
+            "item_b": "an additional item that supports the main equipment"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "troubleshooting",
-            "item_b": "analysing and solving technical problems"
+            "item_a": "immerse",
+            "item_b": "to dip or submerge in a liquid"
           }
         ]
       },
@@ -557,44 +509,48 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What is the main purpose of the AutoTune 500 Digital Engine Analyser?",
-            "answer": "To perform diagnostic testing of petrol and diesel engines",
+            "question": "What are the main functions of the Food Mixer 2000?",
+            "answer": "Mixing, whipping, and kneading various food products",
             "options": [
-              "To clean vehicle fuel injectors",
-              "To charge automotive batteries",
-              "To perform diagnostic testing of petrol and diesel engines"
+              "Grinding and slicing food",
+              "Heating and blending food",
+              "Mixing, whipping, and kneading various food products"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Which component connects the analyser to the vehicle’s ECU for readings?",
-            "answer": "Data Port (OBD-II)",
-            "options": ["USB Port", "RPM Clamp", "Data Port (OBD-II)"]
+            "question": "Which attachment is used for kneading bread or pastry dough?",
+            "answer": "Dough Hook",
+            "options": ["Whisk Attachment", "Beater Blade", "Dough Hook"]
           },
           {
             "id": "l_4_3",
-            "question": "What should you do if the software does not detect the device?",
-            "answer": "Reinstall the AutoTune driver or use another USB port",
+            "question": "What should you do if the Overheat Indicator turns on?",
+            "answer": "Switch off the mixer and allow it to cool",
             "options": [
-              "Replace the OBD-II connector",
-              "Reinstall the AutoTune driver or use another USB port",
-              "Restart the vehicle engine"
+              "Add more ingredients to cool the motor",
+              "Switch off the mixer and allow it to cool",
+              "Turn the control knob to the highest speed"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "How often should the firmware be updated?",
-            "answer": "Every six months",
-            "options": ["Every month", "Once a year", "Every six months"]
+            "question": "How long can the mixer safely run continuously?",
+            "answer": "No more than 10 minutes",
+            "options": [
+              "Up to 20 minutes",
+              "No more than 10 minutes",
+              "About 30 minutes"
+            ]
           },
           {
             "id": "l_4_5",
-            "question": "What safety precautions must be followed before connecting or disconnecting cables?",
-            "answer": "Turn off the engine",
+            "question": "What is one key safety precaution when using the Food Mixer 2000?",
+            "answer": "Never place fingers or utensils inside the bowl while the mixer is running",
             "options": [
-              "Keep the ignition on",
-              "Turn off the engine",
-              "Disconnect the OBD-II port"
+              "Use metal spoons inside the bowl while mixing",
+              "Plug in before attaching accessories",
+              "Never place fingers or utensils inside the bowl while the mixer is running"
             ]
           }
         ]
@@ -602,76 +558,70 @@
       "activity_c": [
         {
           "words": [
-            "Unpack",
+            "Unplug",
             "the",
-            "analyser",
-            "and",
-            "check",
-            "for",
-            "all",
-            "accessories",
+            "unit",
+            "before",
+            "removing",
+            "attachments",
             "."
           ],
-          "sentence": "Unpack the analyser and check for all accessories."
+          "sentence": "Unplug the unit before removing attachments."
         },
         {
           "words": [
-            "Keep",
-            "leads",
-            "clean",
-            "and",
-            "store",
-            "them",
+            "Clean",
+            "attachments",
+            "after",
+            "use",
+            "to",
+            "prevent",
+            "food",
+            "residue",
+            "."
+          ],
+          "sentence": "Clean attachments after use to prevent food residue."
+        },
+        {
+          "words": [
+            "Store",
+            "the",
+            "mixer",
             "in",
-            "the",
-            "provided",
-            "case",
-            "."
-          ],
-          "sentence": "Keep leads clean and store them in the provided case."
-        },
-        {
-          "words": [
-            "Keep",
-            "cables",
-            "away",
-            "from",
-            "hot",
-            "engine",
-            "parts",
-            "."
-          ],
-          "sentence": "Keep cables away from hot engine parts."
-        },
-        {
-          "words": [
-            "Wipe",
-            "the",
-            "screen",
-            "and",
-            "body",
-            "with",
             "a",
+            "cool",
             "dry",
-            "cloth",
+            "place",
             "."
           ],
-          "sentence": "Wipe the screen and body with a dry cloth."
+          "sentence": "Store the mixer in a cool, dry place."
+        },
+        {
+          "words": [
+            "Avoid",
+            "using",
+            "the",
+            "mixer",
+            "with",
+            "wet",
+            "hands",
+            "."
+          ],
+          "sentence": "Avoid using the mixer with wet hands."
         },
         {
           "words": [
             "Do",
             "not",
-            "expose",
-            "yourself",
-            "to",
-            "rain",
-            "or",
-            "high",
-            "humidity",
+            "immerse",
+            "the",
+            "motor",
+            "housing",
+            "in",
+            "water",
             "."
           ],
-          "sentence": "Do not expose yourself to rain or high humidity."
+          "sentence": "Do not immerse the motor housing in water."
         }
       ]
     }
