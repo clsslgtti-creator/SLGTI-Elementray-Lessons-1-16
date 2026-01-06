@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "t'i're",
+        "word_text": "w'i're",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Do you check the t'i're pressure regularly?",
+        "sentence_text": "Do you always connect the w'i're to the circuit?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "dr'i've",
+        "word_text": "l'igh't",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Always dr'i've carefully on wet roads.",
+        "sentence_text": "Switch on the l'igh't after repair.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "t'igh'ten",
+        "word_text": "suppl'y'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Do you always t'igh'ten the bolts on the wheel properly?",
+        "sentence_text": "Do you always check the power suppl'y' connection?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.jpeg"
+        "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "al'i'gn",
+        "word_text": "t'igh'ten",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Al'i'gn the headlights properly.",
+        "sentence_text": "T'igh'ten the screws on the socket.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

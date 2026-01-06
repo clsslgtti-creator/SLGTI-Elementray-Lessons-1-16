@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "site",
+        "word_text": "s'i'te",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The workers are at the construction site.",
+        "sentence_text": "The workers are at the construction s'i'te.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "pile",
+        "word_text": "p'i'le",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The pile of sand was next to the tar bitumen drums.",
+        "sentence_text": "The p'i'le of sand was next to the tar bitumen drums.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "grind",
+        "word_text": "gr'i'nd",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Do you always grind the tiles with care?",
+        "sentence_text": "Do you always gr'i'nd the tiles with care?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "height",
+        "word_text": "he'igh't",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Do you always measure the height of the wall properly?",
+        "sentence_text": "Do you always measure the he'igh't of the wall properly?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
