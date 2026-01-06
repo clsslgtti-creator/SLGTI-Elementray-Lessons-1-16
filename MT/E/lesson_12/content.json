@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "t'i're",
+        "word_text": "p'i'pe",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Do you check the t'i're pressure regularly?",
+        "sentence_text": "Fix the broken p'i'pe with sealant.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "dr'i've",
+        "word_text": "gr'i'nd",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Always dr'i've carefully on wet roads.",
+        "sentence_text": "Gr'i'nd the surface smoothly.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.png"
+        "image": "assets/img/a_1_p_2.jpg"
       },
       {
         "id": "p_3",
         "word_text": "t'igh'ten",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Do you always t'igh'ten the bolts on the wheel properly?",
+        "sentence_text": "T'igh'ten the screw with a wrench.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "al'i'gn",
+        "word_text": "dr'i've",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Al'i'gn the headlights properly.",
+        "sentence_text": "Dr'i've the machine slowly.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_4.jpeg"
       }
     ]
   },
