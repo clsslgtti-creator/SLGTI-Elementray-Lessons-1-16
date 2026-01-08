@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'oi'l",
+        "word_text": "j'oi'nt",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Always add engine 'oi'l before you start the car.",
+        "sentence_text": "Always seal the j'oi'nt between the tiles.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "n'oi'se",
+        "word_text": "s'oi'l",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "A strange n'oi'se often comes from this engine.",
+        "sentence_text": "The s'oi'l near the wall is too m'oi'st.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "b'oi'l",
+        "word_text": "t'oi'l",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The coolant always b'oi'ls when the engine overheats.",
+        "sentence_text": "They often t'oi'l all day mixing cement.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.jpg"
+        "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "c'oi'l",
+        "word_text": "m'oi'st",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The ignition c'oi'l needs replacement when it fails.",
+        "sentence_text": "The plastered wall near the sink usually feels m'oi'st.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.jpeg"
+        "image": "assets/img/a_1_p_4.png"
       }
     ]
   },
@@ -140,22 +140,22 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.png",
-        "word": "tire pressure gauge"
+        "word": "plumb bob"
       },
       {
         "id": "k_2",
-        "image": "assets/img/a_2_d_2.png",
-        "word": "engine oil"
+        "image": "assets/img/a_2_d_2.jpeg",
+        "word": "trowels"
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_3.png",
-        "word": "air filter elements"
+        "image": "assets/img/a_2_d_3.jpeg",
+        "word": "hoe"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "brake pedal clearance"
+        "word": "spirit level"
       },
       {
         "id": "k_5",
@@ -164,40 +164,40 @@
       },
       {
         "id": "k_6",
-        "image": "assets/img/a_2_d_6.jpeg",
-        "word": "the battery terminals"
+        "image": "assets/img/a_2_d_6.png",
+        "word": "scaffolding couplers"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "How often do you calibrate the tire pressure gauge?",
-        "text_b": "I calibrate it every week.",
+        "text_a": "How often do you align the wall with the plumb bob?",
+        "text_b": "I align it every day.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.png",
-        "text_a": "How often do you drain and refill the engine oil?",
-        "text_b": "We do it every month.",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "How often do you sharpen your trowels?",
+        "text_b": "I sharpen them every Friday.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.png",
-        "text_a": "How often do you replace the air filter elements?",
-        "text_b": "I replace them every Saturday.",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "How often do you mix mortar with the hoe?",
+        "text_b": "We mix it every morning.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       },
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "How often do you adjust the brake pedal clearance?",
-        "text_b": "We adjust it every week.",
+        "text_a": "How often do you verify the level with the spirit level?",
+        "text_b": "I verify it every afternoon.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
@@ -211,9 +211,9 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "How often do you tighten the battery terminals?",
-        "text_b": "I tighten them twice a month.",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "How often do you inspect the scaffolding couplers?",
+        "text_b": "We inspect them twice a month.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       }
