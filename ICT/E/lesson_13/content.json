@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "voice",
+        "word_text": "v'oi'ce",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "His voice is never very clear.",
+        "sentence_text": "His v'oi'ce is never very clear.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "noise",
+        "word_text": "n'oi'se",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "We often remove background noise from the recordings.",
+        "sentence_text": "We often remove background n'oi'se from the recordings.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "join",
+        "word_text": "j'oi'n",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Always join the online class on time.",
+        "sentence_text": "Always j'oi'n the online class on time.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "choice",
+        "word_text": "ch'oi'ce",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Click the correct choice on the screen.",
+        "sentence_text": "Click the correct ch'oi'ce on the screen.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.jpeg"
       }
@@ -203,7 +203,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.jpg",
+        "img": "assets/img/a_2_d_5.png",
         "text_a": "How often do you call your mother?",
         "text_b": "I call her once a day.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
@@ -211,7 +211,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.png",
+        "img": "assets/img/a_2_d_6.jpg",
         "text_a": "How often do you test the network connectivity?",
         "text_b": "We test it twice a month.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",

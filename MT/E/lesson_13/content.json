@@ -33,17 +33,17 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'oi'l",
+        "word_text": "j'oi'nt",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Always add engine 'oi'l before you start the car.",
+        "sentence_text": "Always tighten the pipe j'oi'nt carefully.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "n'oi'se",
+        "word_text": "c'oi'l",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "A strange n'oi'se often comes from this engine.",
+        "sentence_text": "The instructor  usually cleans the heating c'oi'ls himself.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
@@ -51,17 +51,17 @@
         "id": "p_3",
         "word_text": "b'oi'l",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The coolant always b'oi'ls when the engine overheats.",
+        "sentence_text": "Do not b'oi'l the coolant to test the pressure.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpg"
       },
       {
         "id": "p_4",
-        "word_text": "c'oi'l",
+        "word_text": "n'oi'sy",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The ignition c'oi'l needs replacement when it fails.",
+        "sentence_text": "This lathe machine is always very n'oi'sy.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.jpeg"
+        "image": "assets/img/a_1_p_4.png"
       }
     ]
   },
@@ -139,23 +139,23 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_1.png",
-        "word": "tire pressure gauge"
+        "image": "assets/img/a_2_d_1.jpeg",
+        "word": "vernier caliper"
       },
       {
         "id": "k_2",
-        "image": "assets/img/a_2_d_2.png",
-        "word": "engine oil"
+        "image": "assets/img/a_2_d_2.jpeg",
+        "word": "the lathe bed"
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_3.png",
-        "word": "air filter elements"
+        "image": "assets/img/a_2_d_3.jpeg",
+        "word": "machine surfaces"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "brake pedal clearance"
+        "word": "cutting blades"
       },
       {
         "id": "k_5",
@@ -165,39 +165,39 @@
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "the battery terminals"
+        "word": "bearings"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.png",
-        "text_a": "How often do you calibrate the tire pressure gauge?",
-        "text_b": "I calibrate it every week.",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "How often do you measure components with the vernier caliper?",
+        "text_b": "I measure them every morning.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.png",
-        "text_a": "How often do you drain and refill the engine oil?",
-        "text_b": "We do it every month.",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "How often do you lubricate the lathe bed?",
+        "text_b": "I lubricate it every week.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.png",
-        "text_a": "How often do you replace the air filter elements?",
-        "text_b": "I replace them every Saturday.",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "How often do you wipe the machine surfaces?",
+        "text_b": "We wipe them every day.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       },
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "How often do you adjust the brake pedal clearance?",
-        "text_b": "We adjust it every week.",
+        "text_a": "How often do you sharpen the cutting blades?",
+        "text_b": "I sharpen them every Friday.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
@@ -212,8 +212,8 @@
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "How often do you tighten the battery terminals?",
-        "text_b": "I tighten them twice a month.",
+        "text_a": "How often do you replace worn-out bearings?",
+        "text_b": "We replace them twice a year.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       }
