@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "boil",
+        "word_text": "b'oi'l",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The chef often boils the goat’s milk slowly.",
+        "sentence_text": "The chef often b'oi'ls the goat’s milk slowly.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "oil",
+        "word_text": "'oi'l",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This restaurant rarely uses clean oil for frying.",
+        "sentence_text": "This restaurant rarely uses clean 'oi'l for frying.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "spoil",
+        "word_text": "sp'oi'l",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Too much heat can spoil the food.",
+        "sentence_text": "Too much heat can sp'oi'l the food.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "soy",
+        "word_text": "s'oy'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Always add soy sauce to fried noodles to improve the taste.",
+        "sentence_text": "Always add s'oy' sauce to fried noodles to improve the taste.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'oi'l",
+        "word_text": "voice",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Always add engine 'oi'l before you start the car.",
+        "sentence_text": "His voice is never very clear.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "n'oi'se",
+        "word_text": "noise",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "A strange n'oi'se often comes from this engine.",
+        "sentence_text": "We often remove background noise from the recordings.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "b'oi'l",
+        "word_text": "join",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The coolant always b'oi'ls when the engine overheats.",
+        "sentence_text": "Always join the online class on time.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.jpg"
+        "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "c'oi'l",
+        "word_text": "choice",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The ignition c'oi'l needs replacement when it fails.",
+        "sentence_text": "Click the correct choice on the screen.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.jpeg"
       }
@@ -139,23 +139,23 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_1.png",
-        "word": "tire pressure gauge"
+        "image": "assets/img/a_2_d_1.jpeg",
+        "word": "system drivers"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "engine oil"
+        "word": "server database"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_3.png",
-        "word": "air filter elements"
+        "word": "computer peripherals"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "brake pedal clearance"
+        "word": "the network switches"
       },
       {
         "id": "k_5",
@@ -164,46 +164,46 @@
       },
       {
         "id": "k_6",
-        "image": "assets/img/a_2_d_6.jpeg",
-        "word": "the battery terminals"
+        "image": "assets/img/a_2_d_6.jpg",
+        "word": "network connectivity"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.png",
-        "text_a": "How often do you calibrate the tire pressure gauge?",
-        "text_b": "I calibrate it every week.",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "How often do you update the system drivers?",
+        "text_b": "I update them every week.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "How often do you drain and refill the engine oil?",
-        "text_b": "We do it every month.",
+        "text_a": "How often do you back up the server database?",
+        "text_b": "I back it up every Friday.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "How often do you replace the air filter elements?",
-        "text_b": "I replace them every Saturday.",
+        "text_a": "How often do you maintain the computer peripherals?",
+        "text_b": "We maintain them every morning.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       },
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "How often do you adjust the brake pedal clearance?",
-        "text_b": "We adjust it every week.",
+        "text_a": "How often do you inspect the network switches?",
+        "text_b": "I inspect them every month.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.png",
+        "img": "assets/img/a_2_d_5.jpg",
         "text_a": "How often do you call your mother?",
         "text_b": "I call her once a day.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
@@ -211,9 +211,9 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "How often do you tighten the battery terminals?",
-        "text_b": "I tighten them twice a month.",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "How often do you test the network connectivity?",
+        "text_b": "We test it twice a month.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       }
