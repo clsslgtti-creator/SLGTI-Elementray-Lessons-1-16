@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'oi'l",
+        "word_text": "boil",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Always add engine 'oi'l before you start the car.",
+        "sentence_text": "The chef often boils the goat’s milk slowly.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "n'oi'se",
+        "word_text": "oil",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "A strange n'oi'se often comes from this engine.",
+        "sentence_text": "This restaurant rarely uses clean oil for frying.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "b'oi'l",
+        "word_text": "spoil",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The coolant always b'oi'ls when the engine overheats.",
+        "sentence_text": "Too much heat can spoil the food.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.jpg"
+        "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "c'oi'l",
+        "word_text": "soy",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The ignition c'oi'l needs replacement when it fails.",
+        "sentence_text": "Always add soy sauce to fried noodles to improve the taste.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.jpeg"
+        "image": "assets/img/a_1_p_4.png"
       }
     ]
   },
@@ -139,23 +139,23 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_1.png",
-        "word": "tire pressure gauge"
+        "image": "assets/img/a_2_d_1.jpeg",
+        "word": "oven temperature"
       },
       {
         "id": "k_2",
-        "image": "assets/img/a_2_d_2.png",
-        "word": "engine oil"
+        "image": "assets/img/a_2_d_2.jpeg",
+        "word": "mixing equipment"
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_3.png",
-        "word": "air filter elements"
+        "image": "assets/img/a_2_d_3.jpeg",
+        "word": "samples"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "brake pedal clearance"
+        "word": "chef’s knives"
       },
       {
         "id": "k_5",
@@ -165,39 +165,39 @@
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "the battery terminals"
+        "word": "stainless-steel trays"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.png",
-        "text_a": "How often do you calibrate the tire pressure gauge?",
-        "text_b": "I calibrate it every week.",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "How often do you monitor the oven temperature?",
+        "text_b": "I monitor it every hour.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.png",
-        "text_a": "How often do you drain and refill the engine oil?",
-        "text_b": "We do it every month.",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "How often do you sanitize the mixing equipment?",
+        "text_b": "I sanitize it every day.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.png",
-        "text_a": "How often do you replace the air filter elements?",
-        "text_b": "I replace them every Saturday.",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "How often do you test samples for quality assurance?",
+        "text_b": "I test them every week.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       },
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "How often do you adjust the brake pedal clearance?",
-        "text_b": "We adjust it every week.",
+        "text_a": "How often do you hone the chef’s knives?",
+        "text_b": "I hone them every Friday.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
@@ -212,8 +212,8 @@
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "How often do you tighten the battery terminals?",
-        "text_b": "I tighten them twice a month.",
+        "text_a": "How often do you clean the stainless-steel trays?",
+        "text_b": "I clean them twice a day.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       }
