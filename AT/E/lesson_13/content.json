@@ -7,7 +7,7 @@
   },
   "activity_1": {
     "type": "PRONUNCIATION",
-    "focus": "Schwa /ə/",
+    "focus": "Diphthong /ɔɪ/",
     "instructions": {
       "activity_1_a": {
         "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "mot'o'r",
+        "word_text": "'oi'l",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Does this mot'o'r run smoothly?",
+        "sentence_text": "Always add engine 'oi'l before you start the car.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
+        "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "wash'e'r",
+        "word_text": "n'oi'se",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The wash'e'r is next to the engine.",
+        "sentence_text": "A strange n'oi'se often comes from this engine.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.png"
+        "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "assembl'e'r",
+        "word_text": "b'oi'l",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Does this assembl'e'r always check the gearbox?",
+        "sentence_text": "The coolant always b'oi'ls when the engine overheats.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
+        "image": "assets/img/a_1_p_3.jpg"
       },
       {
         "id": "p_4",
-        "word_text": "driv'e'r",
+        "word_text": "c'oi'l",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Does this  driv'e'r usually park the car outside?",
+        "sentence_text": "The ignition c'oi'l needs replacement when it fails.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_4.jpeg"
       }
     ]
   },
