@@ -400,7 +400,7 @@
       },
       "activity_b": {
         "text": "You will hear each recording twice. Listen and mark who says the following sentences.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. පහත වාක්‍ය කියන්නේ කව්දැයි සලකුණු කරන්න.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கீழே உள்ள வாக்கியங்களை யார் கூறுகிறார்கள் என்பதை கேட்டு குறியிடுங்கள்.",
-        "audio": "assets/audio/a_4_i_b.mp3"
+        "audio": "assets/audio/a_4_i_f.mp3"
       },
       "activity_c": {
         "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
@@ -421,407 +421,314 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What time does Kamal arrive at the institute?",
-            "answer": "7:45",
-            "options": ["7:45", "8:00", "8:30"]
+            "question": "Why did the customer visit the shop?",
+            "answer": "To return a faulty grinder",
+            "options": [
+              "To buy a new grinder",
+              "To return a faulty grinder",
+              "To ask about grinder accessories"
+            ]
           },
           {
             "id": "l_4_2",
-            "question": "Does Kamal have communication skills on Wednesday morning?",
-            "answer": "Yes, he does.",
-            "options": ["Yes, he does.", "No, he doesn't.", "Only on Fridays."]
+            "question": "What problem does the customer mention first?",
+            "answer": "The motor makes a strange noise",
+            "options": [
+              "The jar is cracked",
+              "The motor makes a strange noise",
+              "The motor gives off burning smell"
+            ]
           },
           {
             "id": "l_4_3",
-            "question": "What does he do on Friday afternoon?",
-            "answer": "He works in the workshop.",
+            "question": "How does the customer usually use the grinder?",
+            "answer": "He starts on low speed and moves to medium",
             "options": [
-              "He studies English.",
-              "He works in the workshop.",
-              "He stays in the library."
+              "He starts on low speed and moves to medium",
+              "He always uses the highest speed",
+              "He never changes the speed"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Does he use the equipment before ten o’clock?",
-            "answer": "No, he doesn’t.",
+            "question": "What does the shop assistant say about the warranty?",
+            "answer": "It is still valid and the grinder can be repaired or replaced",
             "options": [
-              "Yes, he does.",
-              "No, he doesn’t.",
-              "Sometimes he does."
+              "It has already expired",
+              "It is still valid and the grinder can be repaired or replaced",
+              "The customer must buy a new one"
             ]
           },
           {
             "id": "l_4_5",
-            "question": "Does Kamal leave anything  on the table after lunch?",
-            "answer": "No, he doesn’t.",
+            "question": "What does the customer prefer at the end of the conversation?",
+            "answer": "To get a replacement grinder",
             "options": [
-              "Yes, he does.",
-              "No, he doesn’t.",
-              "Only when he is in a hurry."
+              "To wait for the repair",
+              "To get a replacement grinder",
+              "To take the old grinder back home"
             ]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "l_4_1",
+          "id": "l_1_1",
           "question_audio": "assets/audio/t_1_1.mp3",
-          "answer": "430",
-          "options": ["430", "413"]
+          "answer": "Customer",
+          "options": ["Customer", "Shop assistant"]
         },
         {
-          "id": "l_4_2",
+          "id": "l_1_2",
           "question_audio": "assets/audio/t_1_2.mp3",
-          "answer": "230",
-          "options": ["230", "213"]
+          "answer": "Shop assistant",
+          "options": ["Customer", "Shop assistant"]
         },
         {
-          "id": "l_4_3",
-          "question_audio": "assets/audio/a_4_l_3.mp3",
-          "answer": "150",
-          "options": ["150", "115"]
+          "id": "l_1_3",
+          "question_audio": "assets/audio/t_1_3.mp3",
+          "answer": "Customer",
+          "options": ["Customer", "Shop assistant"]
         },
         {
-          "id": "l_4_4",
-          "question_audio": "assets/audio/a_4_l_4.mp3",
-          "answer": "388",
-          "options": ["368", "388"]
+          "id": "l_1_4",
+          "question_audio": "assets/audio/t_1_4.mp3",
+          "answer": "Customer",
+          "options": ["Customer", "Shop assistant"]
         },
         {
-          "id": "l_4_5",
-          "question_audio": "assets/audio/a_4_l_5.mp3",
-          "answer": "817",
-          "options": ["870", "817"]
+          "id": "l_1_5",
+          "question_audio": "assets/audio/t_1_5.mp3",
+          "answer": "Customer",
+          "options": ["Customer", "Shop assistant"]
         },
         {
-          "id": "l_4_6",
-          "question_audio": "assets/audio/a_4_l_6.mp3",
-          "answer": "1440",
-          "options": ["1414", "1440"]
+          "id": "l_1_6",
+          "question_audio": "assets/audio/t_1_6.mp3",
+          "answer": "Customer",
+          "options": ["Customer", "Shop assistant"]
         },
         {
-          "id": "l_4_7",
-          "question_audio": "assets/audio/a_4_l_7.mp3",
-          "answer": "2013",
-          "options": ["2030", "2013"]
+          "id": "l_1_7",
+          "question_audio": "assets/audio/t_1_7.mp3",
+          "answer": "Customer",
+          "options": ["Customer", "Shop assistant"]
         },
         {
-          "id": "l_4_8",
-          "question_audio": "assets/audio/a_4_l_8.mp3",
-          "answer": "25,700",
-          "options": ["25,500", "25,700"]
+          "id": "l_1_8",
+          "question_audio": "assets/audio/t_1_8.mp3",
+          "answer": "Shop assistant",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_9",
+          "question_audio": "assets/audio/t_1_9.mp3",
+          "answer": "Shop assistant",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_10",
+          "question_audio": "assets/audio/t_1_10.mp3",
+          "answer": "Shop assistant",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_11",
+          "question_audio": "assets/audio/t_1_11.mp3",
+          "answer": "Shop assistant",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_12",
+          "question_audio": "assets/audio/t_1_12.mp3",
+          "answer": "Customer",
+          "options": ["Customer", "Shop assistant"]
         }
       ],
       "activity_c": [
         {
           "id": "t_1_1",
-          "text": "Every weekday, Kamal arrives at the TVET institute at around a quarter to eight.",
+          "text": "I bought this food grinder from your shop last month, but it’s not working properly.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "Does he come late?",
+          "text": "Could you please tell me what seems to be the problem?",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "No, he doesn’t.",
+          "text": "I always clean the grinder properly after use, so I don’t think it’s because of dirt or leftover food. (Always – 100%)",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He always comes early because he likes to start the day on time.",
+          "text": "Well, the grinder usually works fine for the first few minutes, but then the motor makes a strange noise. (Usually – about 90%)",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He stands in line with the other trainees for the morning assembly.",
+          "text": "I often have to open the lid and push the ingredients down with a spoon. (Often – about 75–85%)",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "He doesn’t talk while the instructor takes attendance and gives short safety reminders.",
+          "text": "It sometimes even gives off a burning smell. (Sometimes – about 50%)",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "The timetable shows theory sessions in the morning and practical training in the afternoon.",
+          "text": "I rarely use the highest speed. (Rarely – about 10%)",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "On Mondays, Kamal studies occupational safety and basic science.",
+          "text": "Does the blade still rotate smoothly?",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "On Wednesday morning, he has communication skills training.",
+          "text": "Did you notice any cracks in the jar or rubber seal?",
           "audio": "assets/audio/t_1_9.mp3"
         },
         {
           "id": "t_1_10",
-          "text": "Does he enjoy it?",
+          "text": "Please fill out this return form. We’ll check the fault and issue a replacement once confirmed.",
           "audio": "assets/audio/t_1_10.mp3"
         },
         {
           "id": "t_1_11",
-          "text": "Yes, he does.",
+          "text": "Would you like a replacement or a repair?",
           "audio": "assets/audio/t_1_11.mp3"
         },
         {
           "id": "t_1_12",
-          "text": "He likes to improve his speaking and writing.",
+          "text": "If possible, I’d prefer a replacement. I use it almost every day for my cooking.",
           "audio": "assets/audio/t_1_12.mp3"
-        },
-        {
-          "id": "t_1_13",
-          "text": "On Friday afternoon, he works in the workshop for the weekly evaluation.",
-          "audio": "assets/audio/t_1_13.mp3"
-        },
-        {
-          "id": "t_1_14",
-          "text": "He doesn’t skip any task because every session matters.",
-          "audio": "assets/audio/t_1_14.mp3"
-        },
-        {
-          "id": "t_1_15",
-          "text": "At 8:00 a.m., the first class starts.",
-          "audio": "assets/audio/t_1_15.mp3"
-        },
-        {
-          "id": "t_1_16",
-          "text": "Does Kamal go to the workshop first?",
-          "audio": "assets/audio/t_1_16.mp3"
-        },
-        {
-          "id": "t_1_17",
-          "text": "No, he doesn’t.",
-          "audio": "assets/audio/t_1_17.mp3"
-        },
-        {
-          "id": "t_1_18",
-          "text": "He stays in the classroom for theory.",
-          "audio": "assets/audio/t_1_18.mp3"
-        },
-        {
-          "id": "t_1_19",
-          "text": "He doesn’t use the equipment before ten o’clock.",
-          "audio": "assets/audio/t_1_19.mp3"
-        },
-        {
-          "id": "t_1_20",
-          "text": "His instructor wants him to complete the written exercises first.",
-          "audio": "assets/audio/t_1_20.mp3"
-        },
-        {
-          "id": "t_1_21",
-          "text": "At 10:30, Kamal has a tea break.",
-          "audio": "assets/audio/t_1_21.mp3"
-        },
-        {
-          "id": "t_1_22",
-          "text": "He usually drinks tea in the canteen.",
-          "audio": "assets/audio/t_1_22.mp3"
-        },
-        {
-          "id": "t_1_23",
-          "text": "But sometimes he sits under the trees with his friends.",
-          "audio": "assets/audio/t_1_23.mp3"
-        },
-        {
-          "id": "t_1_24",
-          "text": "Do they eat snacks every day?",
-          "audio": "assets/audio/t_1_24.mp3"
-        },
-        {
-          "id": "t_1_25",
-          "text": "No, they don’t.",
-          "audio": "assets/audio/t_1_25.mp3"
-        },
-        {
-          "id": "t_1_26",
-          "text": "They have snacks only on Mondays, Wednesdays and Fridays.",
-          "audio": "assets/audio/t_1_26.mp3"
-        },
-        {
-          "id": "t_1_27",
-          "text": "After the break, Kamal goes to the training area.",
-          "audio": "assets/audio/t_1_27.mp3"
-        },
-        {
-          "id": "t_1_28",
-          "text": "He uses different tools and follows safety procedures carefully.",
-          "audio": "assets/audio/t_1_28.mp3"
-        },
-        {
-          "id": "t_1_29",
-          "text": "He doesn’t forget to use gloves or goggles.",
-          "audio": "assets/audio/t_1_29.mp3"
-        },
-        {
-          "id": "t_1_30",
-          "text": "His instructor walks around and checks his performance.",
-          "audio": "assets/audio/t_1_30.mp3"
-        },
-        {
-          "id": "t_1_31",
-          "text": "He eats lunch at 12:30 and cleans his table.",
-          "audio": "assets/audio/t_1_31.mp3"
-        },
-        {
-          "id": "t_1_32",
-          "text": "He doesn’t leave any waste behind, even if he is in a hurry.",
-          "audio": "assets/audio/t_1_32.mp3"
-        },
-        {
-          "id": "t_1_33",
-          "text": "The day ends at 4:15 p.m.",
-          "audio": "assets/audio/t_1_33.mp3"
-        },
-        {
-          "id": "t_1_34",
-          "text": "Does he feel tired?",
-          "audio": "assets/audio/t_1_34.mp3"
-        },
-        {
-          "id": "t_1_35",
-          "text": "Yes, he does, but he feels proud too.",
-          "audio": "assets/audio/t_1_35.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1_1",
-          "text": "Every weekday, Kamal arrives at the TVET institute at around a quarter to eight.",
+          "text": "I bought this food grinder from your shop last month, but it’s not working properly.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "Does he come late?",
+          "text": "Could you please tell me what seems to be the problem?",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
+          "id": "t_1_3",
+          "text": "I always clean the grinder properly after use, so I don’t think it’s because of dirt or leftover food. (Always – 100%)",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "Well, the grinder usually works fine for the first few minutes, but then the motor makes a strange noise. (Usually – about 90%)",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
           "id": "t_1_5",
-          "text": "He stands in line with the other trainees for the morning assembly.",
+          "text": "I often have to open the lid and push the ingredients down with a spoon. (Often – about 75–85%)",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "He doesn’t talk while the instructor takes attendance and gives short safety reminders.",
+          "text": "It sometimes even gives off a burning smell. (Sometimes – about 50%)",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
+          "id": "t_1_7",
+          "text": "I rarely use the highest speed. (Rarely – about 10%)",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
           "id": "t_1_8",
-          "text": "On Mondays, Kamal studies occupational safety and basic science.",
+          "text": "Does the blade still rotate smoothly?",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
+          "id": "t_1_9",
+          "text": "Did you notice any cracks in the jar or rubber seal?",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
           "id": "t_1_10",
-          "text": "Does he enjoy it?",
+          "text": "Please fill out this return form. We’ll check the fault and issue a replacement once confirmed.",
           "audio": "assets/audio/t_1_10.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "He doesn’t skip any task because every session matters.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_1_11",
+          "text": "Would you like a replacement or a repair?",
+          "audio": "assets/audio/t_1_11.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "He doesn’t use the equipment before ten o’clock.",
-          "audio": "assets/audio/t_1_19.mp3"
-        },
-        {
-          "id": "t_1_22",
-          "text": "He usually drinks tea in the canteen.",
-          "audio": "assets/audio/t_1_22.mp3"
-        },
-        {
-          "id": "t_1_23",
-          "text": "But sometimes he sits under the trees with his friends.",
-          "audio": "assets/audio/t_1_23.mp3"
-        },
-        {
-          "id": "t_1_28",
-          "text": "He uses different tools and follows safety procedures carefully.",
-          "audio": "assets/audio/t_1_28.mp3"
-        },
-        {
-          "id": "t_1_29",
-          "text": "He doesn’t forget to use gloves or goggles.",
-          "audio": "assets/audio/t_1_29.mp3"
-        },
-        {
-          "id": "t_1_34",
-          "text": "Does he feel tired?",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_1_12",
+          "text": "If possible, I’d prefer a replacement. I use it almost every day for my cooking.",
+          "audio": "assets/audio/t_1_12.mp3"
         }
       ],
       "activity_e": [
         {
           "id": "t_1_1",
-          "text": "Every weekday, Kamal arrives at the TVET institute at around a quarter to eight.",
+          "text": "I bought this food grinder from your shop last month, but it’s not working properly.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "Does he come late?",
+          "text": "Could you please tell me what seems to be the problem?",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
+          "id": "t_1_3",
+          "text": "I always clean the grinder properly after use, so I don’t think it’s because of dirt or leftover food. (Always – 100%)",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "Well, the grinder usually works fine for the first few minutes, but then the motor makes a strange noise. (Usually – about 90%)",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
           "id": "t_1_5",
-          "text": "He stands in line with the other trainees for the morning assembly.",
+          "text": "I often have to open the lid and push the ingredients down with a spoon. (Often – about 75–85%)",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "He doesn’t talk while the instructor takes attendance and gives short safety reminders.",
+          "text": "It sometimes even gives off a burning smell. (Sometimes – about 50%)",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
+          "id": "t_1_7",
+          "text": "I rarely use the highest speed. (Rarely – about 10%)",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
           "id": "t_1_8",
-          "text": "On Mondays, Kamal studies occupational safety and basic science.",
+          "text": "Does the blade still rotate smoothly?",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
+          "id": "t_1_9",
+          "text": "Did you notice any cracks in the jar or rubber seal?",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
           "id": "t_1_10",
-          "text": "Does he enjoy it?",
+          "text": "Please fill out this return form. We’ll check the fault and issue a replacement once confirmed.",
           "audio": "assets/audio/t_1_10.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "He doesn’t skip any task because every session matters.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_1_11",
+          "text": "Would you like a replacement or a repair?",
+          "audio": "assets/audio/t_1_11.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "He doesn’t use the equipment before ten o’clock.",
-          "audio": "assets/audio/t_1_19.mp3"
-        },
-        {
-          "id": "t_1_22",
-          "text": "He usually drinks tea in the canteen.",
-          "audio": "assets/audio/t_1_22.mp3"
-        },
-        {
-          "id": "t_1_23",
-          "text": "But sometimes he sits under the trees with his friends.",
-          "audio": "assets/audio/t_1_23.mp3"
-        },
-        {
-          "id": "t_1_28",
-          "text": "He uses different tools and follows safety procedures carefully.",
-          "audio": "assets/audio/t_1_28.mp3"
-        },
-        {
-          "id": "t_1_29",
-          "text": "He doesn’t forget to use gloves or goggles.",
-          "audio": "assets/audio/t_1_29.mp3"
-        },
-        {
-          "id": "t_1_34",
-          "text": "Does he feel tired?",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_1_12",
+          "text": "If possible, I’d prefer a replacement. I use it almost every day for my cooking.",
+          "audio": "assets/audio/t_1_12.mp3"
         }
       ]
     }
