@@ -1,0 +1,858 @@
+{
+  "meta": {
+    "lesson_no": 13,
+    "level": "Elementary",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Schwa /ə/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "mot'o'r",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Does this mot'o'r run smoothly?",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "wash'e'r",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The wash'e'r is next to the engine.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "assembl'e'r",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Does this assembl'e'r always check the gearbox?",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "driv'e'r",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "Does this  driv'e'r usually park the car outside?",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Simple Past Tense - Verb ‘to be’",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["I", "wasn’t", "was not"],
+        ["He", null, null],
+        ["She", null, null],
+        ["It", null, null],
+        ["We", "weren’t", "were not"],
+        ["you", null, null],
+        ["They", null, null]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "e_1",
+        "img": "assets/img/a_2_ex_1.png",
+        "text_a": "Was the principal happy with the lecture?",
+        "text_b": "No, he wasn’t. He was unhappy.",
+        "audio_a": "assets/audio/a_2_ex_1_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_1_b.mp3"
+      },
+      {
+        "id": "e_2",
+        "img": "assets/img/a_2_ex_2.png",
+        "text_a": "Was the mango sweet?",
+        "text_b": "No, it wasn’t. It was sour.",
+        "audio_a": "assets/audio/a_2_ex_2_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_2_b.mp3"
+      },
+      {
+        "id": "e_3",
+        "img": "assets/img/a_2_ex_3.png",
+        "text_a": "Were the air conditioners dry?",
+        "text_b": "No, they weren’t. They were wet.",
+        "audio_a": "assets/audio/a_2_ex_3_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_1.png",
+        "word": "tired/rested"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_2.png",
+        "word": "on time/late"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_3.png",
+        "word": "satisfied/disappointed"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_4.jpeg",
+        "word": "cold/hot"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "tasty/awful"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "sad/cheerful"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Were you tired yesterday morning?",
+        "text_b": "No, I wasn’t. I was rested.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Were the trainees on time for the school bus?",
+        "text_b": "No, they weren’t. They were late.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Was the instructor satisfied with our work yesterday?",
+        "text_b": "No, he wasn’t. He was disappointed.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.jpeg",
+        "text_a": "Was it cold yesterday?",
+        "text_b": "No, it wasn’t. It was hot.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Was the food tasty at the school canteen last week?",
+        "text_b": "No, it wasn’t. It was awful.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Were the students sad?",
+        "text_b": "No, they weren’t. They were cheerful.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Answer the following  questions about yourself. \nඔබ ගැන පහත ප්‍රශ්නවලට පිළිතුරු දෙන්න.\nதயவுசெய்து கீழே உள்ள கேள்விகளுக்கு உங்களுக்கான பதில்களை அளியுங்கள்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "examples": [
+          {
+            "id": "e_1",
+            "sentence": "Does Kala  learn about vehicle safety on Monday morning?",
+            "audio": "assets/audio/a_3_ex_1.mp3",
+            "options": [
+              "Yes, she does.",
+              "No, she doesn’t.",
+              "No, she doesn’t, but she learns about car maintenance."
+            ],
+            "answer": "Yes, she does.",
+            "image": "assets/img/a_3.png"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "Does she follow a class on  gearbox overhauling on Tuesday morning?",
+            "audio": "assets/audio/a_3_b_1.mp3",
+            "options": [
+              "Yes, she does.",
+              "No, she doesn’t.",
+              "No, she doesn’t, but she follows a class on car repairs."
+            ],
+            "answer": "No, she doesn’t.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "Does Kala have a session on braking systems on Wednesday morning?",
+            "audio": "assets/audio/a_3_b_2.mp3",
+            "options": [
+              "Yes, she does.",
+              "No, she doesn’t.",
+              "No, she doesn’t, but she has  a session on vehicle service procedures."
+            ],
+            "answer": "No, she doesn’t, but she has  a session on vehicle service procedures.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "Does she attend an electrical systems  lesson on Thursday morning?",
+            "audio": "assets/audio/a_3_b_3.mp3",
+            "options": [
+              "Yes, she does.",
+              "No, she doesn’t.",
+              "No, she doesn’t, but she attends a lesson on  brake systems."
+            ],
+            "answer": "No, she doesn’t",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "Does Kala study vehicle body repair on Friday morning?",
+            "audio": "assets/audio/a_3_b_4.mp3",
+            "options": [
+              "Yes, she does.",
+              "No, she doesn’t.",
+              "No, she doesn’t, but she studies automotive electrical systems."
+            ],
+            "answer": "No, she doesn’t, but she studies automotive electrical systems.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "Does she practise tyre balancing on Monday before lunch?",
+            "audio": "assets/audio/a_3_b_5.mp3",
+            "options": [
+              "Yes, she does.",
+              "No, she doesn’t.",
+              "No, she doesn’t, but she practises suspension and steering."
+            ],
+            "answer": "No, she doesn’t.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "Does Kala join a session on lubrication systems on Tuesday before lunch?",
+            "audio": "assets/audio/a_3_b_6.mp3",
+            "options": [
+              "Yes, she does.",
+              "No, she doesn’t.",
+              "No, she doesn’t, but she joins a session on tyre replacement."
+            ],
+            "answer": "No, she doesn’t.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "Does she learn about lubrication  fluids on Wednesday before lunch?",
+            "audio": "assets/audio/a_3_b_7.mp3",
+            "options": [
+              "Yes, she does.",
+              "No, she doesn’t.",
+              "No, she doesn’t, but she learns about repairs and maintenance."
+            ],
+            "answer": "Yes, she does.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "Does Kala take part in car painting practice on Thursday afternoon?",
+            "audio": "assets/audio/a_3_b_8.mp3",
+            "options": [
+              "Yes, she does.",
+              "No, she doesn’t.",
+              "No, she doesn’t, but she takes part in steering practice."
+            ],
+            "answer": "No, she doesn’t.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "Does she do brake system maintenance on Friday afternoon?",
+            "audio": "assets/audio/a_3_b_9.mp3",
+            "options": [
+              "Yes, she does.",
+              "No, she doesn’t.",
+              "No, she doesn’t, but she does vehicle performance testing."
+            ],
+            "answer": "No, she doesn’t, but she does vehicle performance testing.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "Does Kala remove and refit wheels on Monday afternoon?",
+            "audio": "assets/audio/a_3_b_10.mp3",
+            "options": [
+              "Yes, she does.",
+              "No, she doesn’t.",
+              "No, she doesn’t, but she removes and refits engines."
+            ],
+            "answer": "No, she doesn’t.",
+            "image": "assets/img/a_3.png"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "n_3_1",
+          "text": "Does she follow a class on  gearbox overhauling on Tuesday morning?",
+          "audio": "assets/audio/a_3_b_1.mp3"
+        },
+        {
+          "id": "n_3_2",
+          "text": "Does Kala have a session on braking systems on Wednesday morning?",
+          "audio": "assets/audio/a_3_b_2.mp3"
+        },
+        {
+          "id": "n_3_3",
+          "text": "Does she attend an electrical systems  lesson on Thursday morning?",
+          "audio": "assets/audio/a_3_b_3.mp3"
+        },
+        {
+          "id": "n_3_4",
+          "text": "Does Kala study vehicle body repair on Friday morning?",
+          "audio": "assets/audio/a_3_b_4.mp3"
+        },
+        {
+          "id": "n_3_5",
+          "text": "Does she practise tyre balancing on Monday before lunch?",
+          "audio": "assets/audio/a_3_b_5.mp3"
+        },
+        {
+          "id": "n_3_6",
+          "text": "Does Kala join a session on lubrication systems on Tuesday before lunch?",
+          "audio": "assets/audio/a_3_b_6.mp3"
+        },
+        {
+          "id": "n_3_7",
+          "text": "Does she learn about lubrication  fluids on Wednesday before lunch?",
+          "audio": "assets/audio/a_3_b_7.mp3"
+        },
+        {
+          "id": "n_3_8",
+          "text": "Does Kala take part in car painting practice on Thursday afternoon?.",
+          "audio": "assets/audio/a_3_b_8.mp3"
+        },
+        {
+          "id": "n_3_9",
+          "text": "Does she do brake system maintenance on Friday afternoon?",
+          "audio": "assets/audio/a_3_b_9.mp3"
+        },
+        {
+          "id": "n_3_10",
+          "text": "Does Kala remove and refit wheels on Monday afternoon?",
+          "audio": "assets/audio/a_3_b_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-7",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "You will hear each recording twice. Listen and mark who says the following sentences.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. පහත වාක්‍ය කියන්නේ කව්දැයි සලකුණු කරන්න.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கீழே உள்ள வாக்கியங்களை யார் கூறுகிறார்கள் என்பதை கேட்டு குறியிடுங்கள்.",
+        "audio": "assets/audio/a_4_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_4_1",
+            "question": "What time does Kamal arrive at the institute?",
+            "answer": "7:45",
+            "options": ["7:45", "8:00", "8:30"]
+          },
+          {
+            "id": "l_4_2",
+            "question": "Does Kamal have communication skills on Wednesday morning?",
+            "answer": "Yes, he does.",
+            "options": ["Yes, he does.", "No, he doesn't.", "Only on Fridays."]
+          },
+          {
+            "id": "l_4_3",
+            "question": "What does he do on Friday afternoon?",
+            "answer": "He works in the workshop.",
+            "options": [
+              "He studies English.",
+              "He works in the workshop.",
+              "He stays in the library."
+            ]
+          },
+          {
+            "id": "l_4_4",
+            "question": "Does he use the equipment before ten o’clock?",
+            "answer": "No, he doesn’t.",
+            "options": [
+              "Yes, he does.",
+              "No, he doesn’t.",
+              "Sometimes he does."
+            ]
+          },
+          {
+            "id": "l_4_5",
+            "question": "Does Kamal leave anything  on the table after lunch?",
+            "answer": "No, he doesn’t.",
+            "options": [
+              "Yes, he does.",
+              "No, he doesn’t.",
+              "Only when he is in a hurry."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "l_4_1",
+          "question_audio": "assets/audio/t_1_1.mp3",
+          "answer": "430",
+          "options": ["430", "413"]
+        },
+        {
+          "id": "l_4_2",
+          "question_audio": "assets/audio/t_1_2.mp3",
+          "answer": "230",
+          "options": ["230", "213"]
+        },
+        {
+          "id": "l_4_3",
+          "question_audio": "assets/audio/a_4_l_3.mp3",
+          "answer": "150",
+          "options": ["150", "115"]
+        },
+        {
+          "id": "l_4_4",
+          "question_audio": "assets/audio/a_4_l_4.mp3",
+          "answer": "388",
+          "options": ["368", "388"]
+        },
+        {
+          "id": "l_4_5",
+          "question_audio": "assets/audio/a_4_l_5.mp3",
+          "answer": "817",
+          "options": ["870", "817"]
+        },
+        {
+          "id": "l_4_6",
+          "question_audio": "assets/audio/a_4_l_6.mp3",
+          "answer": "1440",
+          "options": ["1414", "1440"]
+        },
+        {
+          "id": "l_4_7",
+          "question_audio": "assets/audio/a_4_l_7.mp3",
+          "answer": "2013",
+          "options": ["2030", "2013"]
+        },
+        {
+          "id": "l_4_8",
+          "question_audio": "assets/audio/a_4_l_8.mp3",
+          "answer": "25,700",
+          "options": ["25,500", "25,700"]
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1_1",
+          "text": "Every weekday, Kamal arrives at the TVET institute at around a quarter to eight.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "Does he come late?",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "No, he doesn’t.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "He always comes early because he likes to start the day on time.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "He stands in line with the other trainees for the morning assembly.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "He doesn’t talk while the instructor takes attendance and gives short safety reminders.",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "The timetable shows theory sessions in the morning and practical training in the afternoon.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "On Mondays, Kamal studies occupational safety and basic science.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "On Wednesday morning, he has communication skills training.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "Does he enjoy it?",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "Yes, he does.",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_12",
+          "text": "He likes to improve his speaking and writing.",
+          "audio": "assets/audio/t_1_12.mp3"
+        },
+        {
+          "id": "t_1_13",
+          "text": "On Friday afternoon, he works in the workshop for the weekly evaluation.",
+          "audio": "assets/audio/t_1_13.mp3"
+        },
+        {
+          "id": "t_1_14",
+          "text": "He doesn’t skip any task because every session matters.",
+          "audio": "assets/audio/t_1_14.mp3"
+        },
+        {
+          "id": "t_1_15",
+          "text": "At 8:00 a.m., the first class starts.",
+          "audio": "assets/audio/t_1_15.mp3"
+        },
+        {
+          "id": "t_1_16",
+          "text": "Does Kamal go to the workshop first?",
+          "audio": "assets/audio/t_1_16.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "No, he doesn’t.",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_18",
+          "text": "He stays in the classroom for theory.",
+          "audio": "assets/audio/t_1_18.mp3"
+        },
+        {
+          "id": "t_1_19",
+          "text": "He doesn’t use the equipment before ten o’clock.",
+          "audio": "assets/audio/t_1_19.mp3"
+        },
+        {
+          "id": "t_1_20",
+          "text": "His instructor wants him to complete the written exercises first.",
+          "audio": "assets/audio/t_1_20.mp3"
+        },
+        {
+          "id": "t_1_21",
+          "text": "At 10:30, Kamal has a tea break.",
+          "audio": "assets/audio/t_1_21.mp3"
+        },
+        {
+          "id": "t_1_22",
+          "text": "He usually drinks tea in the canteen.",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_23",
+          "text": "But sometimes he sits under the trees with his friends.",
+          "audio": "assets/audio/t_1_23.mp3"
+        },
+        {
+          "id": "t_1_24",
+          "text": "Do they eat snacks every day?",
+          "audio": "assets/audio/t_1_24.mp3"
+        },
+        {
+          "id": "t_1_25",
+          "text": "No, they don’t.",
+          "audio": "assets/audio/t_1_25.mp3"
+        },
+        {
+          "id": "t_1_26",
+          "text": "They have snacks only on Mondays, Wednesdays and Fridays.",
+          "audio": "assets/audio/t_1_26.mp3"
+        },
+        {
+          "id": "t_1_27",
+          "text": "After the break, Kamal goes to the training area.",
+          "audio": "assets/audio/t_1_27.mp3"
+        },
+        {
+          "id": "t_1_28",
+          "text": "He uses different tools and follows safety procedures carefully.",
+          "audio": "assets/audio/t_1_28.mp3"
+        },
+        {
+          "id": "t_1_29",
+          "text": "He doesn’t forget to use gloves or goggles.",
+          "audio": "assets/audio/t_1_29.mp3"
+        },
+        {
+          "id": "t_1_30",
+          "text": "His instructor walks around and checks his performance.",
+          "audio": "assets/audio/t_1_30.mp3"
+        },
+        {
+          "id": "t_1_31",
+          "text": "He eats lunch at 12:30 and cleans his table.",
+          "audio": "assets/audio/t_1_31.mp3"
+        },
+        {
+          "id": "t_1_32",
+          "text": "He doesn’t leave any waste behind, even if he is in a hurry.",
+          "audio": "assets/audio/t_1_32.mp3"
+        },
+        {
+          "id": "t_1_33",
+          "text": "The day ends at 4:15 p.m.",
+          "audio": "assets/audio/t_1_33.mp3"
+        },
+        {
+          "id": "t_1_34",
+          "text": "Does he feel tired?",
+          "audio": "assets/audio/t_1_34.mp3"
+        },
+        {
+          "id": "t_1_35",
+          "text": "Yes, he does, but he feels proud too.",
+          "audio": "assets/audio/t_1_35.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1_1",
+          "text": "Every weekday, Kamal arrives at the TVET institute at around a quarter to eight.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "Does he come late?",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "He stands in line with the other trainees for the morning assembly.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "He doesn’t talk while the instructor takes attendance and gives short safety reminders.",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "On Mondays, Kamal studies occupational safety and basic science.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "Does he enjoy it?",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_14",
+          "text": "He doesn’t skip any task because every session matters.",
+          "audio": "assets/audio/t_1_14.mp3"
+        },
+        {
+          "id": "t_1_19",
+          "text": "He doesn’t use the equipment before ten o’clock.",
+          "audio": "assets/audio/t_1_19.mp3"
+        },
+        {
+          "id": "t_1_22",
+          "text": "He usually drinks tea in the canteen.",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_23",
+          "text": "But sometimes he sits under the trees with his friends.",
+          "audio": "assets/audio/t_1_23.mp3"
+        },
+        {
+          "id": "t_1_28",
+          "text": "He uses different tools and follows safety procedures carefully.",
+          "audio": "assets/audio/t_1_28.mp3"
+        },
+        {
+          "id": "t_1_29",
+          "text": "He doesn’t forget to use gloves or goggles.",
+          "audio": "assets/audio/t_1_29.mp3"
+        },
+        {
+          "id": "t_1_34",
+          "text": "Does he feel tired?",
+          "audio": "assets/audio/t_1_34.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_1_1",
+          "text": "Every weekday, Kamal arrives at the TVET institute at around a quarter to eight.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "Does he come late?",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "He stands in line with the other trainees for the morning assembly.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "He doesn’t talk while the instructor takes attendance and gives short safety reminders.",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "On Mondays, Kamal studies occupational safety and basic science.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "Does he enjoy it?",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_14",
+          "text": "He doesn’t skip any task because every session matters.",
+          "audio": "assets/audio/t_1_14.mp3"
+        },
+        {
+          "id": "t_1_19",
+          "text": "He doesn’t use the equipment before ten o’clock.",
+          "audio": "assets/audio/t_1_19.mp3"
+        },
+        {
+          "id": "t_1_22",
+          "text": "He usually drinks tea in the canteen.",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_23",
+          "text": "But sometimes he sits under the trees with his friends.",
+          "audio": "assets/audio/t_1_23.mp3"
+        },
+        {
+          "id": "t_1_28",
+          "text": "He uses different tools and follows safety procedures carefully.",
+          "audio": "assets/audio/t_1_28.mp3"
+        },
+        {
+          "id": "t_1_29",
+          "text": "He doesn’t forget to use gloves or goggles.",
+          "audio": "assets/audio/t_1_29.mp3"
+        },
+        {
+          "id": "t_1_34",
+          "text": "Does he feel tired?",
+          "audio": "assets/audio/t_1_34.mp3"
+        }
+      ]
+    }
+  }
+}
