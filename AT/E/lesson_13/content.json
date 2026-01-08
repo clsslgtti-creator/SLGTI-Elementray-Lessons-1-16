@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-3",
-    "focus": "Simple Past Tense - Verb ‘to be’",
+    "focus": "Focus Simple Present, frequency adverbs, pronouns (it, them)",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
@@ -96,37 +96,42 @@
     },
     "tables": [
       [
-        ["I", "wasn’t", "was not"],
-        ["He", null, null],
-        ["She", null, null],
-        ["It", null, null],
-        ["We", "weren’t", "were not"],
-        ["you", null, null],
-        ["They", null, null]
+        ["I", "me"],
+        ["He", "him"],
+        ["She", "her"],
+        ["It", "it"],
+        ["We", "us"],
+        ["You", "you"],
+        ["They", "them"]
+      ],
+      [
+        ["Every", "Monday / day", "week", "month", "year"],
+        ["Once a", "day", null, null],
+        ["Twice a", null, null, null]
       ]
     ],
     "example_dialogues": [
       {
         "id": "e_1",
         "img": "assets/img/a_2_ex_1.png",
-        "text_a": "Was the principal happy with the lecture?",
-        "text_b": "No, he wasn’t. He was unhappy.",
+        "text_a": "How often do you polish your bicycle?",
+        "text_b": "I polish it every Saturday.",
         "audio_a": "assets/audio/a_2_ex_1_a.mp3",
         "audio_b": "assets/audio/a_2_ex_1_b.mp3"
       },
       {
         "id": "e_2",
         "img": "assets/img/a_2_ex_2.png",
-        "text_a": "Was the mango sweet?",
-        "text_b": "No, it wasn’t. It was sour.",
+        "text_a": "How often do your parents visit their relatives?",
+        "text_b": "They visit them every week.",
         "audio_a": "assets/audio/a_2_ex_2_a.mp3",
         "audio_b": "assets/audio/a_2_ex_2_b.mp3"
       },
       {
         "id": "e_3",
-        "img": "assets/img/a_2_ex_3.png",
-        "text_a": "Were the air conditioners dry?",
-        "text_b": "No, they weren’t. They were wet.",
+        "img": "assets/img/a_2_ex_3.jpeg",
+        "text_a": "How often do you practise the guitar?",
+        "text_b": "We practise it once a week.",
         "audio_a": "assets/audio/a_2_ex_3_a.mp3",
         "audio_b": "assets/audio/a_2_ex_3_b.mp3"
       }
@@ -135,80 +140,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.png",
-        "word": "tired/rested"
+        "word": "tire pressure gauge"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "on time/late"
+        "word": "engine oil"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_3.png",
-        "word": "satisfied/disappointed"
+        "word": "air filter elements"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "cold/hot"
+        "word": "brake pedal clearance"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_5.png",
-        "word": "tasty/awful"
+        "word": "your mother"
       },
       {
         "id": "k_6",
-        "image": "assets/img/a_2_d_6.png",
-        "word": "sad/cheerful"
+        "image": "assets/img/a_2_d_6.jpeg",
+        "word": "the battery terminals"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Were you tired yesterday morning?",
-        "text_b": "No, I wasn’t. I was rested.",
+        "text_a": "How often do you calibrate the tire pressure gauge?",
+        "text_b": "I calibrate it every week.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Were the trainees on time for the school bus?",
-        "text_b": "No, they weren’t. They were late.",
+        "text_a": "How often do you drain and refill the engine oil?",
+        "text_b": "We do it every month.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Was the instructor satisfied with our work yesterday?",
-        "text_b": "No, he wasn’t. He was disappointed.",
+        "text_a": "How often do you replace the air filter elements?",
+        "text_b": "I replace them every Saturday.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       },
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "Was it cold yesterday?",
-        "text_b": "No, it wasn’t. It was hot.",
+        "text_a": "How often do you adjust the brake pedal clearance?",
+        "text_b": "We adjust it every week.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Was the food tasty at the school canteen last week?",
-        "text_b": "No, it wasn’t. It was awful.",
+        "text_a": "How often do you call your mother?",
+        "text_b": "I call her once a day.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.png",
-        "text_a": "Were the students sad?",
-        "text_b": "No, they weren’t. They were cheerful.",
+        "img": "assets/img/a_2_d_6.jpeg",
+        "text_a": "How often do you tighten the battery terminals?",
+        "text_b": "I tighten them twice a month.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       }
