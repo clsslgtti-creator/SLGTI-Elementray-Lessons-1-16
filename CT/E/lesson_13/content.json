@@ -1,0 +1,736 @@
+{
+  "meta": {
+    "lesson_no": 13,
+    "level": "Elementary",
+    "section": "Construction Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /ɔɪ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "j'oi'nt",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Always seal the j'oi'nt between the tiles.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.jpeg"
+      },
+      {
+        "id": "p_2",
+        "word_text": "s'oi'l",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The s'oi'l near the wall is too m'oi'st.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.jpeg"
+      },
+      {
+        "id": "p_3",
+        "word_text": "t'oi'l",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "They often t'oi'l all day mixing cement.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "m'oi'st",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The plastered wall near the sink usually feels m'oi'st.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Focus Simple Present, frequency adverbs, pronouns (it, them)",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["I", "me"],
+        ["He", "him"],
+        ["She", "her"],
+        ["It", "it"],
+        ["We", "us"],
+        ["You", "you"],
+        ["They", "them"]
+      ],
+      [
+        ["Every", "Monday / day", "week", "month", "year"],
+        ["Once a", "day", null, null, null],
+        ["Twice a", null, null, null, null]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "e_1",
+        "img": "assets/img/a_2_ex_1.png",
+        "text_a": "How often do you polish your bicycle?",
+        "text_b": "I polish it every Saturday.",
+        "audio_a": "assets/audio/a_2_ex_1_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_1_b.mp3"
+      },
+      {
+        "id": "e_2",
+        "img": "assets/img/a_2_ex_2.png",
+        "text_a": "How often do your parents visit their relatives?",
+        "text_b": "They visit them every week.",
+        "audio_a": "assets/audio/a_2_ex_2_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_2_b.mp3"
+      },
+      {
+        "id": "e_3",
+        "img": "assets/img/a_2_ex_3.jpeg",
+        "text_a": "How often do you practise the guitar?",
+        "text_b": "We practise it once a week.",
+        "audio_a": "assets/audio/a_2_ex_3_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_1.png",
+        "word": "plumb bob"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_2.jpeg",
+        "word": "trowels"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_3.jpeg",
+        "word": "hoe"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_4.jpeg",
+        "word": "spirit level"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "your mother"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "scaffolding couplers"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "How often do you align the wall with the plumb bob?",
+        "text_b": "I align it every day.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "How often do you sharpen your trowels?",
+        "text_b": "I sharpen them every Friday.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "How often do you mix mortar with the hoe?",
+        "text_b": "We mix it every morning.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.jpeg",
+        "text_a": "How often do you verify the level with the spirit level?",
+        "text_b": "I verify it every afternoon.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "How often do you call your mother?",
+        "text_b": "I call her once a day.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "How often do you inspect the scaffolding couplers?",
+        "text_b": "We inspect them twice a month.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Answer the following  questions about yourself. \nඔබ ගැන පහත ප්‍රශ්නවලට පිළිතුරු දෙන්න.\nதயவுசெய்து கீழே உள்ள கேள்விகளுக்கு உங்களுக்கான பதில்களை அளியுங்கள்.",
+        "audio": "assets/audio/a_3_i_e.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "How often do you revise your workshop notes after class?",
+            "audio": "assets/audio/a_3_b_1.mp3",
+            "options": [
+              "I revise them more than once a week.",
+              "I revise them once a week.",
+              "I revise them less than once a week."
+            ]
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "How often do you assist your instructor with setting up practical equipment?",
+            "audio": "assets/audio/a_3_b_2.mp3",
+            "options": [
+              "I assist him more than once a week.",
+              "I assist him once a week.",
+              "I assist him less than once a week."
+            ]
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "How often do you participate in community service activities?",
+            "audio": "assets/audio/a_3_b_3.mp3",
+            "options": [
+              "I participate in them more than once a month.",
+              "I participate in them once a month.",
+              "I participate in them less than once a month."
+            ]
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "How often do you inspect household electrical items at home?",
+            "audio": "assets/audio/a_3_b_4.mp3",
+            "options": [
+              "I inspect them more than once a week.",
+              "I inspect them once a week.",
+              "I inspect them less than once a week."
+            ]
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "How often do you update your training logbook?",
+            "audio": "assets/audio/a_3_b_5.mp3",
+            "options": [
+              "I update it more than once a month.",
+              "I update it once a month.",
+              "I update it less than once a month."
+            ]
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "How often do you visit your relatives in another town?",
+            "audio": "assets/audio/a_3_b_6.mp3",
+            "options": [
+              "I visit them more than twice a year.",
+              "I visit them twice a year.",
+              "I visit them less than twice a year."
+            ]
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "How often do you attend technical exhibitions or career fairs?",
+            "audio": "assets/audio/a_3_b_7.mp3",
+            "options": [
+              "I attend them more than once a year.",
+              "I attend them once a year.",
+              "I attend them less than once a year."
+            ]
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "How often do you review safety procedures with your classmates?",
+            "audio": "assets/audio/a_3_b_8.mp3",
+            "options": [
+              "I review them more than twice a week.",
+              "I review them twice a week.",
+              "I review them less than twice a week."
+            ]
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "How often do you clean tools and equipment in the lab?",
+            "audio": "assets/audio/a_3_b_9.mp3",
+            "options": [
+              "I clean them more than once a week.",
+              "I clean them once a week.",
+              "I clean them less than once a week."
+            ]
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "How often do you participate in sports or fitness activities at your institute?",
+            "audio": "assets/audio/a_3_b_10.mp3",
+            "options": [
+              "I participate in them more than twice a month.",
+              "I participate in them twice a month.",
+              "I participate in them less than twice a month."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "n_3_1",
+          "text": "How often do you revise your workshop notes after class?",
+          "audio": "assets/audio/a_3_b_1.mp3"
+        },
+        {
+          "id": "n_3_2",
+          "text": "How often do you assist your instructor with setting up practical equipment?",
+          "audio": "assets/audio/a_3_b_2.mp3"
+        },
+        {
+          "id": "n_3_3",
+          "text": "How often do you participate in community service activities?",
+          "audio": "assets/audio/a_3_b_3.mp3"
+        },
+        {
+          "id": "n_3_4",
+          "text": "How often do you inspect household electrical items at home?",
+          "audio": "assets/audio/a_3_b_4.mp3"
+        },
+        {
+          "id": "n_3_5",
+          "text": "How often do you update your training logbook?",
+          "audio": "assets/audio/a_3_b_5.mp3"
+        },
+        {
+          "id": "n_3_6",
+          "text": "How often do you visit your relatives in another town?",
+          "audio": "assets/audio/a_3_b_6.mp3"
+        },
+        {
+          "id": "n_3_7",
+          "text": "How often do you attend technical exhibitions or career fairs?",
+          "audio": "assets/audio/a_3_b_7.mp3"
+        },
+        {
+          "id": "n_3_8",
+          "text": "How often do you review safety procedures with your classmates?",
+          "audio": "assets/audio/a_3_b_8.mp3"
+        },
+        {
+          "id": "n_3_9",
+          "text": "How often do you clean tools and equipment in the lab?",
+          "audio": "assets/audio/a_3_b_9.mp3"
+        },
+        {
+          "id": "n_3_10",
+          "text": "How often do you participate in sports or fitness activities at your institute?",
+          "audio": "assets/audio/a_3_b_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-7",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "You will hear each recording twice. Listen and mark who says the following sentences.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. පහත වාක්‍ය කියන්නේ කව්දැයි සලකුණු කරන්න.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கீழே உள்ள வாக்கியங்களை யார் கூறுகிறார்கள் என்பதை கேட்டு குறியிடுங்கள்.",
+        "audio": "assets/audio/a_4_i_f.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_4_1",
+            "question": "Why did the customer visit the shop?",
+            "answer": "To return a faulty grinder",
+            "options": [
+              "To buy a new grinder",
+              "To return a faulty grinder",
+              "To ask about grinder accessories"
+            ]
+          },
+          {
+            "id": "l_4_2",
+            "question": "What problem does the customer mention first?",
+            "answer": "The motor makes a strange noise",
+            "options": [
+              "The jar is cracked",
+              "The motor makes a strange noise",
+              "The motor gives off burning smell"
+            ]
+          },
+          {
+            "id": "l_4_3",
+            "question": "How does the customer usually use the grinder?",
+            "answer": "He starts on low speed and moves to medium",
+            "options": [
+              "He starts on low speed and moves to medium",
+              "He always uses the highest speed",
+              "He never changes the speed"
+            ]
+          },
+          {
+            "id": "l_4_4",
+            "question": "What does the shop assistant say about the warranty?",
+            "answer": "It is still valid and the grinder can be repaired or replaced",
+            "options": [
+              "It has already expired",
+              "It is still valid and the grinder can be repaired or replaced",
+              "The customer must buy a new one"
+            ]
+          },
+          {
+            "id": "l_4_5",
+            "question": "What does the customer prefer at the end of the conversation?",
+            "answer": "To get a replacement grinder",
+            "options": [
+              "To wait for the repair",
+              "To get a replacement grinder",
+              "To take the old grinder back home"
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "l_1_1",
+          "question_audio": "assets/audio/t_1_1.mp3",
+          "answer": "Customer",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_2",
+          "question_audio": "assets/audio/t_1_2.mp3",
+          "answer": "Shop assistant",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_3",
+          "question_audio": "assets/audio/t_1_3.mp3",
+          "answer": "Customer",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_4",
+          "question_audio": "assets/audio/t_1_4.mp3",
+          "answer": "Customer",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_5",
+          "question_audio": "assets/audio/t_1_5.mp3",
+          "answer": "Customer",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_6",
+          "question_audio": "assets/audio/t_1_6.mp3",
+          "answer": "Customer",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_7",
+          "question_audio": "assets/audio/t_1_7.mp3",
+          "answer": "Customer",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_8",
+          "question_audio": "assets/audio/t_1_8.mp3",
+          "answer": "Shop assistant",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_9",
+          "question_audio": "assets/audio/t_1_9.mp3",
+          "answer": "Shop assistant",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_10",
+          "question_audio": "assets/audio/t_1_10.mp3",
+          "answer": "Shop assistant",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_11",
+          "question_audio": "assets/audio/t_1_11.mp3",
+          "answer": "Shop assistant",
+          "options": ["Customer", "Shop assistant"]
+        },
+        {
+          "id": "l_1_12",
+          "question_audio": "assets/audio/t_1_12.mp3",
+          "answer": "Customer",
+          "options": ["Customer", "Shop assistant"]
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1_1",
+          "text": "I bought this food grinder from your shop last month, but it’s not working properly.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "Could you please tell me what seems to be the problem?",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "I always clean the grinder properly after use, so I don’t think it’s because of dirt or leftover food. (Always – 100%)",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "Well, the grinder usually works fine for the first few minutes, but then the motor makes a strange noise. (Usually – about 90%)",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "I often have to open the lid and push the ingredients down with a spoon. (Often – about 75–85%)",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "It sometimes even gives off a burning smell. (Sometimes – about 50%)",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "I rarely use the highest speed. (Rarely – about 10%)",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "Does the blade still rotate smoothly?",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "Did you notice any cracks in the jar or rubber seal?",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "Please fill out this return form. We’ll check the fault and issue a replacement once confirmed.",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "Would you like a replacement or a repair?",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_12",
+          "text": "If possible, I’d prefer a replacement. I use it almost every day for my cooking.",
+          "audio": "assets/audio/t_1_12.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1_1",
+          "text": "I bought this food grinder from your shop last month, but it’s not working properly.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "Could you please tell me what seems to be the problem?",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "I always clean the grinder properly after use, so I don’t think it’s because of dirt or leftover food. (Always – 100%)",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "Well, the grinder usually works fine for the first few minutes, but then the motor makes a strange noise. (Usually – about 90%)",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "I often have to open the lid and push the ingredients down with a spoon. (Often – about 75–85%)",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "It sometimes even gives off a burning smell. (Sometimes – about 50%)",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "I rarely use the highest speed. (Rarely – about 10%)",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "Does the blade still rotate smoothly?",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "Did you notice any cracks in the jar or rubber seal?",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "Please fill out this return form. We’ll check the fault and issue a replacement once confirmed.",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "Would you like a replacement or a repair?",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_12",
+          "text": "If possible, I’d prefer a replacement. I use it almost every day for my cooking.",
+          "audio": "assets/audio/t_1_12.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_1_1",
+          "text": "I bought this food grinder from your shop last month, but it’s not working properly.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "Could you please tell me what seems to be the problem?",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "I always clean the grinder properly after use, so I don’t think it’s because of dirt or leftover food. (Always – 100%)",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "Well, the grinder usually works fine for the first few minutes, but then the motor makes a strange noise. (Usually – about 90%)",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "I often have to open the lid and push the ingredients down with a spoon. (Often – about 75–85%)",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "It sometimes even gives off a burning smell. (Sometimes – about 50%)",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "I rarely use the highest speed. (Rarely – about 10%)",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "Does the blade still rotate smoothly?",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "Did you notice any cracks in the jar or rubber seal?",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "Please fill out this return form. We’ll check the fault and issue a replacement once confirmed.",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "Would you like a replacement or a repair?",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_12",
+          "text": "If possible, I’d prefer a replacement. I use it almost every day for my cooking.",
+          "audio": "assets/audio/t_1_12.mp3"
+        }
+      ]
+    }
+  }
+}
