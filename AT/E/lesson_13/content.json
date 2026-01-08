@@ -106,8 +106,8 @@
       ],
       [
         ["Every", "Monday / day", "week", "month", "year"],
-        ["Once a", "day", null, null],
-        ["Twice a", null, null, null]
+        ["Once a", "day", null, null, null],
+        ["Twice a", null, null, null, null]
       ]
     ],
     "example_dialogues": [
@@ -224,7 +224,7 @@
     "instructions": {
       "activity_a": {
         "text": "Answer the following  questions about yourself. \nඔබ ගැන පහත ප්‍රශ්නවලට පිළිතුරු දෙන්න.\nதயவுசெய்து கீழே உள்ள கேள்விகளுக்கு உங்களுக்கான பதில்களை அளியுங்கள்.",
-        "audio": "assets/audio/a_3_i_d.mp3"
+        "audio": "assets/audio/a_3_i_e.mp3"
       },
       "activity_b": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
@@ -234,192 +234,158 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-6.jpg",
-        "examples": [
-          {
-            "id": "e_1",
-            "sentence": "Does Kala  learn about vehicle safety on Monday morning?",
-            "audio": "assets/audio/a_3_ex_1.mp3",
-            "options": [
-              "Yes, she does.",
-              "No, she doesn’t.",
-              "No, she doesn’t, but she learns about car maintenance."
-            ],
-            "answer": "Yes, she does.",
-            "image": "assets/img/a_3.png"
-          }
-        ],
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "Does she follow a class on  gearbox overhauling on Tuesday morning?",
+            "sentence": "How often do you revise your workshop notes after class?",
             "audio": "assets/audio/a_3_b_1.mp3",
             "options": [
-              "Yes, she does.",
-              "No, she doesn’t.",
-              "No, she doesn’t, but she follows a class on car repairs."
-            ],
-            "answer": "No, she doesn’t.",
-            "image": "assets/img/a_3.png"
+              "I revise them more than once a week.",
+              "I revise them once a week.",
+              "I revise them less than once a week."
+            ]
           },
           {
             "id": "g_b_2",
-            "sentence": "Does Kala have a session on braking systems on Wednesday morning?",
+            "sentence": "How often do you assist your instructor with setting up practical equipment?",
             "audio": "assets/audio/a_3_b_2.mp3",
             "options": [
-              "Yes, she does.",
-              "No, she doesn’t.",
-              "No, she doesn’t, but she has  a session on vehicle service procedures."
-            ],
-            "answer": "No, she doesn’t, but she has  a session on vehicle service procedures.",
-            "image": "assets/img/a_3.png"
+              "I assist him more than once a week.",
+              "I assist him once a week.",
+              "I assist him less than once a week."
+            ]
           },
           {
             "id": "g_b_3",
-            "sentence": "Does she attend an electrical systems  lesson on Thursday morning?",
+            "sentence": "How often do you participate in community service activities?",
             "audio": "assets/audio/a_3_b_3.mp3",
             "options": [
-              "Yes, she does.",
-              "No, she doesn’t.",
-              "No, she doesn’t, but she attends a lesson on  brake systems."
-            ],
-            "answer": "No, she doesn’t",
-            "image": "assets/img/a_3.png"
+              "I participate in them more than once a month.",
+              "I participate in them once a month.",
+              "I participate in them less than once a month."
+            ]
           },
           {
             "id": "g_b_4",
-            "sentence": "Does Kala study vehicle body repair on Friday morning?",
+            "sentence": "How often do you inspect household electrical items at home?",
             "audio": "assets/audio/a_3_b_4.mp3",
             "options": [
-              "Yes, she does.",
-              "No, she doesn’t.",
-              "No, she doesn’t, but she studies automotive electrical systems."
-            ],
-            "answer": "No, she doesn’t, but she studies automotive electrical systems.",
-            "image": "assets/img/a_3.png"
+              "I inspect them more than once a week.",
+              "I inspect them once a week.",
+              "I inspect them less than once a week."
+            ]
           },
           {
             "id": "g_b_5",
-            "sentence": "Does she practise tyre balancing on Monday before lunch?",
+            "sentence": "How often do you update your training logbook?",
             "audio": "assets/audio/a_3_b_5.mp3",
             "options": [
-              "Yes, she does.",
-              "No, she doesn’t.",
-              "No, she doesn’t, but she practises suspension and steering."
-            ],
-            "answer": "No, she doesn’t.",
-            "image": "assets/img/a_3.png"
+              "I update it more than once a month.",
+              "I update it once a month.",
+              "I update it less than once a month."
+            ]
           },
           {
             "id": "g_b_6",
-            "sentence": "Does Kala join a session on lubrication systems on Tuesday before lunch?",
+            "sentence": "How often do you visit your relatives in another town?",
             "audio": "assets/audio/a_3_b_6.mp3",
             "options": [
-              "Yes, she does.",
-              "No, she doesn’t.",
-              "No, she doesn’t, but she joins a session on tyre replacement."
-            ],
-            "answer": "No, she doesn’t.",
-            "image": "assets/img/a_3.png"
+              "I visit them more than twice a year.",
+              "I visit them twice a year.",
+              "I visit them less than twice a year."
+            ]
           },
           {
             "id": "g_b_7",
-            "sentence": "Does she learn about lubrication  fluids on Wednesday before lunch?",
+            "sentence": "How often do you attend technical exhibitions or career fairs?",
             "audio": "assets/audio/a_3_b_7.mp3",
             "options": [
-              "Yes, she does.",
-              "No, she doesn’t.",
-              "No, she doesn’t, but she learns about repairs and maintenance."
-            ],
-            "answer": "Yes, she does.",
-            "image": "assets/img/a_3.png"
+              "I attend them more than once a year.",
+              "I attend them once a year.",
+              "I attend them less than once a year."
+            ]
           },
           {
             "id": "g_b_8",
-            "sentence": "Does Kala take part in car painting practice on Thursday afternoon?",
+            "sentence": "How often do you review safety procedures with your classmates?",
             "audio": "assets/audio/a_3_b_8.mp3",
             "options": [
-              "Yes, she does.",
-              "No, she doesn’t.",
-              "No, she doesn’t, but she takes part in steering practice."
-            ],
-            "answer": "No, she doesn’t.",
-            "image": "assets/img/a_3.png"
+              "I review them more than twice a week.",
+              "I review them twice a week.",
+              "I review them less than twice a week."
+            ]
           },
           {
             "id": "g_b_9",
-            "sentence": "Does she do brake system maintenance on Friday afternoon?",
+            "sentence": "How often do you clean tools and equipment in the lab?",
             "audio": "assets/audio/a_3_b_9.mp3",
             "options": [
-              "Yes, she does.",
-              "No, she doesn’t.",
-              "No, she doesn’t, but she does vehicle performance testing."
-            ],
-            "answer": "No, she doesn’t, but she does vehicle performance testing.",
-            "image": "assets/img/a_3.png"
+              "I clean them more than once a week.",
+              "I clean them once a week.",
+              "I clean them less than once a week."
+            ]
           },
           {
             "id": "g_b_10",
-            "sentence": "Does Kala remove and refit wheels on Monday afternoon?",
+            "sentence": "How often do you participate in sports or fitness activities at your institute?",
             "audio": "assets/audio/a_3_b_10.mp3",
             "options": [
-              "Yes, she does.",
-              "No, she doesn’t.",
-              "No, she doesn’t, but she removes and refits engines."
-            ],
-            "answer": "No, she doesn’t.",
-            "image": "assets/img/a_3.png"
+              "I participate in them more than twice a month.",
+              "I participate in them twice a month.",
+              "I participate in them less than twice a month."
+            ]
           }
         ]
       },
       "activity_b": [
         {
           "id": "n_3_1",
-          "text": "Does she follow a class on  gearbox overhauling on Tuesday morning?",
+          "text": "How often do you revise your workshop notes after class?",
           "audio": "assets/audio/a_3_b_1.mp3"
         },
         {
           "id": "n_3_2",
-          "text": "Does Kala have a session on braking systems on Wednesday morning?",
+          "text": "How often do you assist your instructor with setting up practical equipment?",
           "audio": "assets/audio/a_3_b_2.mp3"
         },
         {
           "id": "n_3_3",
-          "text": "Does she attend an electrical systems  lesson on Thursday morning?",
+          "text": "How often do you participate in community service activities?",
           "audio": "assets/audio/a_3_b_3.mp3"
         },
         {
           "id": "n_3_4",
-          "text": "Does Kala study vehicle body repair on Friday morning?",
+          "text": "How often do you inspect household electrical items at home?",
           "audio": "assets/audio/a_3_b_4.mp3"
         },
         {
           "id": "n_3_5",
-          "text": "Does she practise tyre balancing on Monday before lunch?",
+          "text": "How often do you update your training logbook?",
           "audio": "assets/audio/a_3_b_5.mp3"
         },
         {
           "id": "n_3_6",
-          "text": "Does Kala join a session on lubrication systems on Tuesday before lunch?",
+          "text": "How often do you visit your relatives in another town?",
           "audio": "assets/audio/a_3_b_6.mp3"
         },
         {
           "id": "n_3_7",
-          "text": "Does she learn about lubrication  fluids on Wednesday before lunch?",
+          "text": "How often do you attend technical exhibitions or career fairs?",
           "audio": "assets/audio/a_3_b_7.mp3"
         },
         {
           "id": "n_3_8",
-          "text": "Does Kala take part in car painting practice on Thursday afternoon?.",
+          "text": "How often do you review safety procedures with your classmates?",
           "audio": "assets/audio/a_3_b_8.mp3"
         },
         {
           "id": "n_3_9",
-          "text": "Does she do brake system maintenance on Friday afternoon?",
+          "text": "How often do you clean tools and equipment in the lab?",
           "audio": "assets/audio/a_3_b_9.mp3"
         },
         {
           "id": "n_3_10",
-          "text": "Does Kala remove and refit wheels on Monday afternoon?",
+          "text": "How often do you participate in sports or fitness activities at your institute?",
           "audio": "assets/audio/a_3_b_10.mp3"
         }
       ]

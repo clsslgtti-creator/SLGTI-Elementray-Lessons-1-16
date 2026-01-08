@@ -69,6 +69,7 @@ export const normalizeExamples = (rawExamples = [], fallbackOptions) => {
         id: identifier,
         sentence,
         answer,
+        isOpenQuestion: false,
         audio,
         audioKey,
         image,
@@ -116,17 +117,21 @@ export const normalizeQuestions = (rawQuestions = [], fallbackOptions) => {
           ? item.image.trim()
           : null;
       const options = sanitizeOptions(item?.options, defaultOptions);
-      const answerCandidate =
-        typeof item?.answer === "string" ? item.answer.trim() : "";
-      const answer = options.includes(answerCandidate)
-        ? answerCandidate
-        : options[0];
+      const hasAnswer =
+        typeof item?.answer === "string" && item.answer.trim().length > 0;
+      const answerCandidate = hasAnswer ? item.answer.trim() : "";
+      const answer = hasAnswer
+        ? options.includes(answerCandidate)
+          ? answerCandidate
+          : options[0]
+        : null;
       const identifier = item?.id ?? `question_${index + 1}`;
       const audioKey = audio ? `sentence_${identifier}` : null;
       return {
         id: identifier,
         sentence,
         answer,
+        isOpenQuestion: !hasAnswer,
         audio,
         audioKey,
         image,
@@ -263,11 +268,16 @@ export const createGameScene = (config) => {
           return null;
         }
         const entryOptions = sanitizeOptions(entry.options, fallbackOptions);
-        const answerCandidate =
-          typeof entry.answer === "string" ? entry.answer.trim() : "";
-        const answer = entryOptions.includes(answerCandidate)
-          ? answerCandidate
-          : entryOptions[0];
+        const hasAnswer =
+          typeof entry.answer === "string" && entry.answer.trim().length > 0;
+        const isOpenQuestion = Boolean(entry.isOpenQuestion) || !hasAnswer;
+        const answerCandidate = hasAnswer ? entry.answer.trim() : "";
+        const answer =
+          !isOpenQuestion && entryOptions.includes(answerCandidate)
+            ? answerCandidate
+            : !isOpenQuestion
+            ? entryOptions[0]
+            : null;
         const identifier = entry?.id ?? `entry_${Math.random().toString(36).slice(2, 8)}`;
         const imageSrc =
           typeof entry.image === "string" && entry.image.trim().length
@@ -279,6 +289,7 @@ export const createGameScene = (config) => {
           image: imageSrc,
           imageKey: imageSrc ? `sentence_image_${identifier}` : null,
           answer,
+          isOpenQuestion,
           options: entryOptions,
         };
       })
@@ -1735,9 +1746,13 @@ export const createGameScene = (config) => {
     }
 
     handleExample(entry) {
-      const targetButton = this.optionButtons.find(
-        (btn) => btn.value.toLowerCase() === entry.answer.toLowerCase()
-      );
+      const answerText =
+        typeof entry?.answer === "string" ? entry.answer.trim() : "";
+      const targetButton = answerText
+        ? this.optionButtons.find(
+            (btn) => btn.value.toLowerCase() === answerText.toLowerCase()
+          )
+        : null;
       const highlightDelay = 500;
       const feedbackDelay = highlightDelay + 800;
       const advanceDelay = feedbackDelay + 900;
@@ -1815,25 +1830,36 @@ export const createGameScene = (config) => {
       this.updateTimerText("Time: 10.0s");
 
       const current = this.questions[this.questionIndex];
+      const hasAnswer =
+        typeof current?.answer === "string" && current.answer.trim().length > 0;
+      const isOpenQuestion = Boolean(current?.isOpenQuestion) || !hasAnswer;
+      const normalizedSelected =
+        typeof selected === "string" ? selected.toLowerCase() : "";
+      const normalizedAnswer = hasAnswer ? current.answer.toLowerCase() : "";
       const isCorrect =
-        current && selected.toLowerCase() === current.answer.toLowerCase();
+        isOpenQuestion ||
+        (hasAnswer && normalizedSelected === normalizedAnswer);
+
       if (isCorrect) {
         this.score += 1;
         this.updateScore();
         this.playFeedbackSound("correct");
-        this.showFeedback("correct", "Correct!");
+        this.showFeedback(
+          "correct",
+          isOpenQuestion ? "Answer recorded!" : "Correct!"
+        );
       } else {
         this.playFeedbackSound("incorrect");
         this.showFeedback("incorrect", "Incorrect");
       }
 
       const targetButton = this.optionButtons.find(
-        (btn) => btn.value.toLowerCase() === selected.toLowerCase()
+        (btn) => btn.value.toLowerCase() === normalizedSelected
       );
       if (targetButton) {
         this.pulseButton(targetButton, isCorrect ? 0x16a34a : 0xdc2626);
       }
-      if (!isCorrect && current) {
+      if (!isCorrect && current && hasAnswer) {
         const correctButton = this.optionButtons.find(
           (btn) => btn.value.toLowerCase() === current.answer.toLowerCase()
         );
@@ -1859,7 +1885,10 @@ export const createGameScene = (config) => {
       this.playFeedbackSound("timeout");
       const current = this.questions[this.questionIndex];
       this.showFeedback("timeout", "Time's up!");
-      if (current) {
+      const hasAnswer =
+        typeof current?.answer === "string" && current.answer.trim().length > 0;
+      const isOpenQuestion = Boolean(current?.isOpenQuestion) || !hasAnswer;
+      if (current && !isOpenQuestion && hasAnswer) {
         const correctButton = this.optionButtons.find(
           (btn) => btn.value.toLowerCase() === current.answer.toLowerCase()
         );
