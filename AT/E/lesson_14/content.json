@@ -43,7 +43,7 @@
         "id": "p_2",
         "word_text": "mount",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The horn is making  a loud sound now.",
+        "sentence_text": "He always mounts the battery on the holder properly.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
@@ -51,7 +51,7 @@
         "id": "p_3",
         "word_text": "loud",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Do not bounce the tire too much.",
+        "sentence_text": "The horn is making  a loud sound now.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
@@ -59,7 +59,7 @@
         "id": "p_4",
         "word_text": "bounce",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "He always mounts the battery on the holder properly.",
+        "sentence_text": "Do not bounce the tire too much.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -248,6 +248,7 @@
         "content": [
           {
             "id": "g_b_1",
+            "image": "assets/img/a_3_b_1.png",
             "sentence_1": "The baby ______ because it is hungry.",
             "options_1": ["are crying", "is crying", "cries", "cry"],
             "answer_1": "is crying",
@@ -259,6 +260,7 @@
           },
           {
             "id": "g_b_2",
+            "image": "assets/img/a_3_b_2.png",
             "sentence_1": "She ______ because she is angry.",
             "options_1": ["screaming", "is screaming", "screams", "scream"],
             "answer_1": "is screaming",
@@ -270,6 +272,7 @@
           },
           {
             "id": "g_b_3",
+            "image": "assets/img/a_3_b_3.png",
             "sentence_1": "They ______ because they are cold.",
             "options_1": ["are shivering", "shiver", "shivering", "shivers"],
             "answer_1": "are shivering",
@@ -281,6 +284,7 @@
           },
           {
             "id": "g_b_4",
+            "image": "assets/img/a_3_b_4.png",
             "sentence_1": "He ______ his nails because he is nervous.",
             "options_1": ["are bite", "is biting", "bites", "biting"],
             "answer_1": "is biting",
@@ -292,6 +296,7 @@
           },
           {
             "id": "g_b_5",
+            "image": "assets/img/a_3_b_5.png",
             "sentence_1": "She ______ her eyes because she is scared.",
             "options_1": ["closes", "close", "closing", "is closing"],
             "answer_1": "is closing",
@@ -303,6 +308,7 @@
           },
           {
             "id": "g_b_6",
+            "image": "assets/img/a_3_b_6.png",
             "sentence_1": "The trainees ______ because they are hot.",
             "options_1": ["is sweating", "are sweating", "sweats", "sweat"],
             "answer_1": "are sweating",
@@ -349,25 +355,21 @@
     }
   },
   "activity_4": {
-    "type": "LISTENING-7",
+    "type": "LISTENING-2",
     "instructions": {
       "activity_a": {
         "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
         "audio": "assets/audio/a_4_i_a.mp3"
       },
       "activity_b": {
-        "text": "You will hear each recording twice. Listen and mark who says the following sentences.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. පහත වාක්‍ය කියන්නේ කව්දැයි සලකුණු කරන්න.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கீழே உள்ள வாக்கியங்களை யார் கூறுகிறார்கள் என்பதை கேட்டு குறியிடுங்கள்.",
-        "audio": "assets/audio/a_4_i_f.mp3"
-      },
-      "activity_c": {
         "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
         "audio": "assets/audio/a_2_i_b.mp3"
       },
-      "activity_d": {
+      "activity_c": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
       },
-      "activity_e": {
+      "activity_d": {
         "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
         "audio": "assets/audio/a_2_i_d.mp3"
       }
@@ -378,314 +380,275 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "Why did the customer visit the shop?",
-            "answer": "To return a faulty grinder",
+            "question": "Why is Nimal starting work earlier today?",
+            "answer": "Because new trainees are visiting",
             "options": [
-              "To buy a new grinder",
-              "To return a faulty grinder",
-              "To ask about grinder accessories"
+              "Because he came late yesterday",
+              "Because new trainees are visiting",
+              "Because the trainees asked him"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "What problem does the customer mention first?",
-            "answer": "The motor makes a strange noise",
+            "question": "Why is he preparing the diagnostic scanner?",
+            "answer": "Because the instructor is demonstrating sensor readings",
             "options": [
-              "The jar is cracked",
-              "The motor makes a strange noise",
-              "The motor gives off burning smell"
+              "Because the instructor wants him to practise alone",
+              "Because the instructor is demonstrating sensor readings",
+              "Because the old scanner is broken"
             ]
           },
           {
             "id": "l_4_3",
-            "question": "How does the customer usually use the grinder?",
-            "answer": "He starts on low speed and moves to medium",
+            "question": "Why is he sharing tools today?",
+            "answer": "Because Nimal’s toolbox is being repaired",
             "options": [
-              "He starts on low speed and moves to medium",
-              "He always uses the highest speed",
-              "He never changes the speed"
+              "Because Amal’s toolbox is being repaired",
+              "Because Nimal’s toolbox is being repaired",
+              "Because the instructor told him to"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "What does the shop assistant say about the warranty?",
-            "answer": "It is still valid and the grinder can be repaired or replaced",
+            "question": "Why is Nimal inspecting the cooling fan?",
+            "answer": "Because it is making a strange noise",
             "options": [
-              "It has already expired",
-              "It is still valid and the grinder can be repaired or replaced",
-              "The customer must buy a new one"
+              "Because it is part of his routine",
+              "Because it is making a strange noise",
+              "Because Amal is making a strange noise"
             ]
           },
           {
             "id": "l_4_5",
-            "question": "What does the customer prefer at the end of the conversation?",
-            "answer": "To get a replacement grinder",
+            "question": "Why is he cleaning the workshop floor this afternoon?",
+            "answer": "Because there has been an oil spill",
             "options": [
-              "To wait for the repair",
-              "To get a replacement grinder",
-              "To take the old grinder back home"
+              "Because it’s his turn on the schedule",
+              "Because there has been an oil spill",
+              "Because the instructor asked"
             ]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "l_1_1",
-          "question_audio": "assets/audio/t_1_1.mp3",
-          "answer": "Customer",
-          "options": ["Customer", "Shop assistant"]
+          "id": "n_4_1",
+          "text": "Ramesh is a vehicle service technician at the training workshop.",
+          "audio": "assets/audio/n_4_1.mp3"
         },
         {
-          "id": "l_1_2",
-          "question_audio": "assets/audio/t_1_2.mp3",
-          "answer": "Shop assistant",
-          "options": ["Customer", "Shop assistant"]
+          "id": "n_4_2",
+          "text": "He works in the maintenance bay every day.",
+          "audio": "assets/audio/n_4_2.mp3"
         },
         {
-          "id": "l_1_3",
-          "question_audio": "assets/audio/t_1_3.mp3",
-          "answer": "Customer",
-          "options": ["Customer", "Shop assistant"]
+          "id": "n_4_3",
+          "text": "He usually starts work at eight o’clock in the morning.",
+          "audio": "assets/audio/n_4_3.mp3"
         },
         {
-          "id": "l_1_4",
-          "question_audio": "assets/audio/t_1_4.mp3",
-          "answer": "Customer",
-          "options": ["Customer", "Shop assistant"]
+          "id": "n_4_4",
+          "text": "He checks the job card, prepares the tools, and opens the service record for each vehicle.",
+          "audio": "assets/audio/n_4_4.mp3"
         },
         {
-          "id": "l_1_5",
-          "question_audio": "assets/audio/t_1_5.mp3",
-          "answer": "Customer",
-          "options": ["Customer", "Shop assistant"]
+          "id": "n_4_5",
+          "text": "He always follows the service checklist carefully.",
+          "audio": "assets/audio/n_4_5.mp3"
         },
         {
-          "id": "l_1_6",
-          "question_audio": "assets/audio/t_1_6.mp3",
-          "answer": "Customer",
-          "options": ["Customer", "Shop assistant"]
+          "id": "n_4_6",
+          "text": "Ramesh inspects the car body, the tyres, and the lights.",
+          "audio": "assets/audio/n_4_6.mp3"
         },
         {
-          "id": "l_1_7",
-          "question_audio": "assets/audio/t_1_7.mp3",
-          "answer": "Customer",
-          "options": ["Customer", "Shop assistant"]
+          "id": "n_4_7",
+          "text": "He checks the oil level, brake fluid, and coolant.",
+          "audio": "assets/audio/n_4_7.mp3"
         },
         {
-          "id": "l_1_8",
-          "question_audio": "assets/audio/t_1_8.mp3",
-          "answer": "Shop assistant",
-          "options": ["Customer", "Shop assistant"]
+          "id": "n_4_8",
+          "text": "He replaces any parts that look damaged or worn out.",
+          "audio": "assets/audio/n_4_8.mp3"
         },
         {
-          "id": "l_1_9",
-          "question_audio": "assets/audio/t_1_9.mp3",
-          "answer": "Shop assistant",
-          "options": ["Customer", "Shop assistant"]
+          "id": "n_4_9",
+          "text": "He also cleans the air filter and checks the fan belt.",
+          "audio": "assets/audio/n_4_9.mp3"
         },
         {
-          "id": "l_1_10",
-          "question_audio": "assets/audio/t_1_10.mp3",
-          "answer": "Shop assistant",
-          "options": ["Customer", "Shop assistant"]
+          "id": "n_4_10",
+          "text": "He often adjusts the battery terminals because they often get loose.",
+          "audio": "assets/audio/n_4_10.mp3"
         },
         {
-          "id": "l_1_11",
-          "question_audio": "assets/audio/t_1_11.mp3",
-          "answer": "Shop assistant",
-          "options": ["Customer", "Shop assistant"]
+          "id": "n_4_11",
+          "text": "He uses a torque wrench to tighten the bolts on the wheel hub.",
+          "audio": "assets/audio/n_4_11.mp3"
         },
         {
-          "id": "l_1_12",
-          "question_audio": "assets/audio/t_1_12.mp3",
-          "answer": "Customer",
-          "options": ["Customer", "Shop assistant"]
+          "id": "n_4_12",
+          "text": "During every service, Ramesh tests the horn, wipers, and indicators.",
+          "audio": "assets/audio/n_4_12.mp3"
+        },
+        {
+          "id": "n_4_13",
+          "text": "He connects the diagnostic scanner to check the sensors.",
+          "audio": "assets/audio/n_4_13.mp3"
+        },
+        {
+          "id": "n_4_14",
+          "text": "He reads the error codes and explains them to his instructor.",
+          "audio": "assets/audio/n_4_14.mp3"
+        },
+        {
+          "id": "n_4_15",
+          "text": "He always completes the work on time and writes down all the details in the service log.",
+          "audio": "assets/audio/n_4_15.mp3"
+        },
+        {
+          "id": "n_4_16",
+          "text": "At the end of the day, Ramesh cleans the work area and puts the tools back in their places.",
+          "audio": "assets/audio/n_4_16.mp3"
+        },
+        {
+          "id": "n_4_17",
+          "text": "He checks the waste oil container and makes sure everything is safe and tidy before he leaves.",
+          "audio": "assets/audio/n_4_17.mp3"
+        },
+        {
+          "id": "n_4_18",
+          "text": "He never forgets to lock the toolbox and switch off the power supply.",
+          "audio": "assets/audio/n_4_18.mp3"
+        },
+        {
+          "id": "n_4_19",
+          "text": "Ramesh enjoys his job because he learns something new every day and takes pride in his work.",
+          "audio": "assets/audio/n_4_19.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_1_1",
-          "text": "I bought this food grinder from your shop last month, but it’s not working properly.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "n_4_2",
+          "text": "Ramesh works in the maintenance bay every day.",
+          "audio": "assets/audio/n_4_2x.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "Could you please tell me what seems to be the problem?",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "n_4_4",
+          "text": "He checks the job card, prepares the tools, and opens the service record for each vehicle.",
+          "audio": "assets/audio/n_4_4.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "I always clean the grinder properly after use, so I don’t think it’s because of dirt or leftover food. (Always – 100%)",
-          "audio": "assets/audio/t_1_3.mp3"
+          "id": "n_4_8",
+          "text": "He replaces any parts that look damaged or worn out.",
+          "audio": "assets/audio/n_4_8.mp3"
         },
         {
-          "id": "t_1_4",
-          "text": "Well, the grinder usually works fine for the first few minutes, but then the motor makes a strange noise. (Usually – about 90%)",
-          "audio": "assets/audio/t_1_4.mp3"
+          "id": "n_4_9",
+          "text": "He also cleans the air filter and checks the fan belt.",
+          "audio": "assets/audio/n_4_9.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "I often have to open the lid and push the ingredients down with a spoon. (Often – about 75–85%)",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "n_4_10",
+          "text": "He often adjusts the battery terminals because they often get loose.",
+          "audio": "assets/audio/n_4_10.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "It sometimes even gives off a burning smell. (Sometimes – about 50%)",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "n_4_11",
+          "text": "He uses a torque wrench to tighten the bolts on the wheel hub.",
+          "audio": "assets/audio/n_4_11.mp3"
         },
         {
-          "id": "t_1_7",
-          "text": "I rarely use the highest speed. (Rarely – about 10%)",
-          "audio": "assets/audio/t_1_7.mp3"
+          "id": "n_4_13",
+          "text": "He connects the diagnostic scanner to check the sensors.",
+          "audio": "assets/audio/n_4_13.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "Does the blade still rotate smoothly?",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "n_4_14",
+          "text": "He reads the error codes and explains them to his instructor.",
+          "audio": "assets/audio/n_4_14.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "Did you notice any cracks in the jar or rubber seal?",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "n_4_15",
+          "text": "He always completes the work on time and writes down all the details in the service log.",
+          "audio": "assets/audio/n_4_15.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "Please fill out this return form. We’ll check the fault and issue a replacement once confirmed.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "n_4_16",
+          "text": "At the end of the day, Ramesh cleans the work area and puts the tools back in their places.",
+          "audio": "assets/audio/n_4_16.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "Would you like a replacement or a repair?",
-          "audio": "assets/audio/t_1_11.mp3"
+          "id": "n_4_18",
+          "text": "He never forgets to lock the toolbox and switch off the power supply.",
+          "audio": "assets/audio/n_4_18.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "If possible, I’d prefer a replacement. I use it almost every day for my cooking.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "n_4_19",
+          "text": "Ramesh enjoys his job because he learns something new every day and takes pride in his work.",
+          "audio": "assets/audio/n_4_19.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_1_1",
-          "text": "I bought this food grinder from your shop last month, but it’s not working properly.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "n_4_2",
+          "text": "Ramesh works in the maintenance bay every day.",
+          "audio": "assets/audio/n_4_2x.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "Could you please tell me what seems to be the problem?",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "n_4_4",
+          "text": "He checks the job card, prepares the tools, and opens the service record for each vehicle.",
+          "audio": "assets/audio/n_4_4.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "I always clean the grinder properly after use, so I don’t think it’s because of dirt or leftover food. (Always – 100%)",
-          "audio": "assets/audio/t_1_3.mp3"
+          "id": "n_4_8",
+          "text": "He replaces any parts that look damaged or worn out.",
+          "audio": "assets/audio/n_4_8.mp3"
         },
         {
-          "id": "t_1_4",
-          "text": "Well, the grinder usually works fine for the first few minutes, but then the motor makes a strange noise. (Usually – about 90%)",
-          "audio": "assets/audio/t_1_4.mp3"
+          "id": "n_4_9",
+          "text": "He also cleans the air filter and checks the fan belt.",
+          "audio": "assets/audio/n_4_9.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "I often have to open the lid and push the ingredients down with a spoon. (Often – about 75–85%)",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "n_4_10",
+          "text": "He often adjusts the battery terminals because they often get loose.",
+          "audio": "assets/audio/n_4_10.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "It sometimes even gives off a burning smell. (Sometimes – about 50%)",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "n_4_11",
+          "text": "He uses a torque wrench to tighten the bolts on the wheel hub.",
+          "audio": "assets/audio/n_4_11.mp3"
         },
         {
-          "id": "t_1_7",
-          "text": "I rarely use the highest speed. (Rarely – about 10%)",
-          "audio": "assets/audio/t_1_7.mp3"
+          "id": "n_4_13",
+          "text": "He connects the diagnostic scanner to check the sensors.",
+          "audio": "assets/audio/n_4_13.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "Does the blade still rotate smoothly?",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "n_4_14",
+          "text": "He reads the error codes and explains them to his instructor.",
+          "audio": "assets/audio/n_4_14.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "Did you notice any cracks in the jar or rubber seal?",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "n_4_15",
+          "text": "He always completes the work on time and writes down all the details in the service log.",
+          "audio": "assets/audio/n_4_15.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "Please fill out this return form. We’ll check the fault and issue a replacement once confirmed.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "n_4_16",
+          "text": "At the end of the day, Ramesh cleans the work area and puts the tools back in their places.",
+          "audio": "assets/audio/n_4_16.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "Would you like a replacement or a repair?",
-          "audio": "assets/audio/t_1_11.mp3"
+          "id": "n_4_18",
+          "text": "He never forgets to lock the toolbox and switch off the power supply.",
+          "audio": "assets/audio/n_4_18.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "If possible, I’d prefer a replacement. I use it almost every day for my cooking.",
-          "audio": "assets/audio/t_1_12.mp3"
-        }
-      ],
-      "activity_e": [
-        {
-          "id": "t_1_1",
-          "text": "I bought this food grinder from your shop last month, but it’s not working properly.",
-          "audio": "assets/audio/t_1_1.mp3"
-        },
-        {
-          "id": "t_1_2",
-          "text": "Could you please tell me what seems to be the problem?",
-          "audio": "assets/audio/t_1_2.mp3"
-        },
-        {
-          "id": "t_1_3",
-          "text": "I always clean the grinder properly after use, so I don’t think it’s because of dirt or leftover food. (Always – 100%)",
-          "audio": "assets/audio/t_1_3.mp3"
-        },
-        {
-          "id": "t_1_4",
-          "text": "Well, the grinder usually works fine for the first few minutes, but then the motor makes a strange noise. (Usually – about 90%)",
-          "audio": "assets/audio/t_1_4.mp3"
-        },
-        {
-          "id": "t_1_5",
-          "text": "I often have to open the lid and push the ingredients down with a spoon. (Often – about 75–85%)",
-          "audio": "assets/audio/t_1_5.mp3"
-        },
-        {
-          "id": "t_1_6",
-          "text": "It sometimes even gives off a burning smell. (Sometimes – about 50%)",
-          "audio": "assets/audio/t_1_6.mp3"
-        },
-        {
-          "id": "t_1_7",
-          "text": "I rarely use the highest speed. (Rarely – about 10%)",
-          "audio": "assets/audio/t_1_7.mp3"
-        },
-        {
-          "id": "t_1_8",
-          "text": "Does the blade still rotate smoothly?",
-          "audio": "assets/audio/t_1_8.mp3"
-        },
-        {
-          "id": "t_1_9",
-          "text": "Did you notice any cracks in the jar or rubber seal?",
-          "audio": "assets/audio/t_1_9.mp3"
-        },
-        {
-          "id": "t_1_10",
-          "text": "Please fill out this return form. We’ll check the fault and issue a replacement once confirmed.",
-          "audio": "assets/audio/t_1_10.mp3"
-        },
-        {
-          "id": "t_1_11",
-          "text": "Would you like a replacement or a repair?",
-          "audio": "assets/audio/t_1_11.mp3"
-        },
-        {
-          "id": "t_1_12",
-          "text": "If possible, I’d prefer a replacement. I use it almost every day for my cooking.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "n_4_19",
+          "text": "Ramesh enjoys his job because he learns something new every day and takes pride in his work.",
+          "audio": "assets/audio/n_4_19.mp3"
         }
       ]
     }

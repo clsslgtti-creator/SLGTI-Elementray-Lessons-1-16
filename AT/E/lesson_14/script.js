@@ -6,6 +6,7 @@ import { buildInteractive1Slides } from "./lib/interactive-1.js";
 import { buildInteractive2Slides } from "./lib/interactive-2.js";
 import { buildInteractive3Slides } from "./lib/interactive-3.js";
 import { buildInteractive4Slides } from "./lib/interactive-4.js";
+import { buildInteractive5Slides } from "./lib/interactive-5.js";
 import { buildActivityTwoSlides } from "./lib/activity-2.js";
 import { buildListeningOneSlides } from "./lib/listening-1.js";
 import { buildListeningTwoSlides } from "./lib/listening-2.js";
@@ -224,6 +225,7 @@ const activityBuilders = {
   "INTERACTIVE-2": buildInteractive2Slides,
   "INTERACTIVE-3": buildInteractive3Slides,
   "INTERACTIVE-4": buildInteractive4Slides,
+  "INTERACTIVE-5": buildInteractive5Slides,
   "LISTENING-1": buildListeningOneSlides,
   "LISTENING-2": buildListeningTwoSlides,
   "LISTENING-3": buildListeningThreeSlides,
@@ -993,9 +995,10 @@ const parseActivitySlideId = (slideId) => {
     game3: "a",
     game4: "a",
     game5: "a",
+    game6: "a",
   };
   const rolePattern =
-    "(model|pre-listening|listening|listen-repeat|reading|speaking|words-listen|words-repeat|words-read|sentences-listen|sentences-repeat|sentences-read|listening1-mcq|listening1-repeat|listening1-read|listening1-type|listening2-comprehension|listening5-matching|listening5-options|activity2-listen|activity2-repeat|activity2-match|game1|game2|game3|game4|game5)";
+    "(model|pre-listening|listening|listen-repeat|reading|speaking|words-listen|words-repeat|words-read|sentences-listen|sentences-repeat|sentences-read|listening1-mcq|listening1-repeat|listening1-read|listening1-type|listening2-comprehension|listening5-matching|listening5-options|activity2-listen|activity2-repeat|activity2-match|game1|game2|game3|game4|game5|game6)";
   const numberedPattern = new RegExp(
     `^activity-(\\d+)(?:-([a-z]))?-${rolePattern}$`
   );
