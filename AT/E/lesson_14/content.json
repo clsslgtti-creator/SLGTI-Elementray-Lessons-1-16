@@ -234,8 +234,8 @@
     "type": "INTERACTIVE-5",
     "instructions": {
       "activity_a": {
-        "text": "Answer the following  questions about yourself. \nඔබ ගැන පහත ප්‍රශ්නවලට පිළිතුරු දෙන්න.\nதயவுசெய்து கீழே உள்ள கேள்விகளுக்கு உங்களுக்கான பதில்களை அளியுங்கள்.",
-        "audio": "assets/audio/a_3_i_e.mp3"
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
       },
       "activity_b": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
@@ -432,223 +432,158 @@
       },
       "activity_b": [
         {
-          "id": "n_4_1",
-          "text": "Ramesh is a vehicle service technician at the training workshop.",
-          "audio": "assets/audio/n_4_1.mp3"
+          "id": "t_1_1",
+          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "audio": "assets/audio/t_1_1.mp3"
         },
         {
-          "id": "n_4_2",
-          "text": "He works in the maintenance bay every day.",
-          "audio": "assets/audio/n_4_2.mp3"
+          "id": "t_1_2",
+          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "audio": "assets/audio/t_1_2.mp3"
         },
         {
-          "id": "n_4_3",
-          "text": "He usually starts work at eight o’clock in the morning.",
-          "audio": "assets/audio/n_4_3.mp3"
+          "id": "t_1_3",
+          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "audio": "assets/audio/t_1_3.mp3"
         },
         {
-          "id": "n_4_4",
-          "text": "He checks the job card, prepares the tools, and opens the service record for each vehicle.",
-          "audio": "assets/audio/n_4_4.mp3"
+          "id": "t_1_4",
+          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "audio": "assets/audio/t_1_4.mp3"
         },
         {
-          "id": "n_4_5",
-          "text": "He always follows the service checklist carefully.",
-          "audio": "assets/audio/n_4_5.mp3"
+          "id": "t_1_5",
+          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "audio": "assets/audio/t_1_5.mp3"
         },
         {
-          "id": "n_4_6",
-          "text": "Ramesh inspects the car body, the tyres, and the lights.",
-          "audio": "assets/audio/n_4_6.mp3"
+          "id": "t_1_6",
+          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "audio": "assets/audio/t_1_6.mp3"
         },
         {
-          "id": "n_4_7",
-          "text": "He checks the oil level, brake fluid, and coolant.",
-          "audio": "assets/audio/n_4_7.mp3"
+          "id": "t_1_7",
+          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "audio": "assets/audio/t_1_7.mp3"
         },
         {
-          "id": "n_4_8",
-          "text": "He replaces any parts that look damaged or worn out.",
-          "audio": "assets/audio/n_4_8.mp3"
+          "id": "t_1_8",
+          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "audio": "assets/audio/t_1_8.mp3"
         },
         {
-          "id": "n_4_9",
-          "text": "He also cleans the air filter and checks the fan belt.",
-          "audio": "assets/audio/n_4_9.mp3"
+          "id": "t_1_9",
+          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "audio": "assets/audio/t_1_9.mp3"
         },
         {
-          "id": "n_4_10",
-          "text": "He often adjusts the battery terminals because they often get loose.",
-          "audio": "assets/audio/n_4_10.mp3"
-        },
-        {
-          "id": "n_4_11",
-          "text": "He uses a torque wrench to tighten the bolts on the wheel hub.",
-          "audio": "assets/audio/n_4_11.mp3"
-        },
-        {
-          "id": "n_4_12",
-          "text": "During every service, Ramesh tests the horn, wipers, and indicators.",
-          "audio": "assets/audio/n_4_12.mp3"
-        },
-        {
-          "id": "n_4_13",
-          "text": "He connects the diagnostic scanner to check the sensors.",
-          "audio": "assets/audio/n_4_13.mp3"
-        },
-        {
-          "id": "n_4_14",
-          "text": "He reads the error codes and explains them to his instructor.",
-          "audio": "assets/audio/n_4_14.mp3"
-        },
-        {
-          "id": "n_4_15",
-          "text": "He always completes the work on time and writes down all the details in the service log.",
-          "audio": "assets/audio/n_4_15.mp3"
-        },
-        {
-          "id": "n_4_16",
-          "text": "At the end of the day, Ramesh cleans the work area and puts the tools back in their places.",
-          "audio": "assets/audio/n_4_16.mp3"
-        },
-        {
-          "id": "n_4_17",
-          "text": "He checks the waste oil container and makes sure everything is safe and tidy before he leaves.",
-          "audio": "assets/audio/n_4_17.mp3"
-        },
-        {
-          "id": "n_4_18",
-          "text": "He never forgets to lock the toolbox and switch off the power supply.",
-          "audio": "assets/audio/n_4_18.mp3"
-        },
-        {
-          "id": "n_4_19",
-          "text": "Ramesh enjoys his job because he learns something new every day and takes pride in his work.",
-          "audio": "assets/audio/n_4_19.mp3"
+          "id": "t_1_10",
+          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "audio": "assets/audio/t_1_10.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "n_4_2",
-          "text": "Ramesh works in the maintenance bay every day.",
-          "audio": "assets/audio/n_4_2x.mp3"
+          "id": "t_1_1",
+          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "audio": "assets/audio/t_1_1.mp3"
         },
         {
-          "id": "n_4_4",
-          "text": "He checks the job card, prepares the tools, and opens the service record for each vehicle.",
-          "audio": "assets/audio/n_4_4.mp3"
+          "id": "t_1_2",
+          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "audio": "assets/audio/t_1_2.mp3"
         },
         {
-          "id": "n_4_8",
-          "text": "He replaces any parts that look damaged or worn out.",
-          "audio": "assets/audio/n_4_8.mp3"
+          "id": "t_1_3",
+          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "audio": "assets/audio/t_1_3.mp3"
         },
         {
-          "id": "n_4_9",
-          "text": "He also cleans the air filter and checks the fan belt.",
-          "audio": "assets/audio/n_4_9.mp3"
+          "id": "t_1_4",
+          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "audio": "assets/audio/t_1_4.mp3"
         },
         {
-          "id": "n_4_10",
-          "text": "He often adjusts the battery terminals because they often get loose.",
-          "audio": "assets/audio/n_4_10.mp3"
+          "id": "t_1_5",
+          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "audio": "assets/audio/t_1_5.mp3"
         },
         {
-          "id": "n_4_11",
-          "text": "He uses a torque wrench to tighten the bolts on the wheel hub.",
-          "audio": "assets/audio/n_4_11.mp3"
+          "id": "t_1_6",
+          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "audio": "assets/audio/t_1_6.mp3"
         },
         {
-          "id": "n_4_13",
-          "text": "He connects the diagnostic scanner to check the sensors.",
-          "audio": "assets/audio/n_4_13.mp3"
+          "id": "t_1_7",
+          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "audio": "assets/audio/t_1_7.mp3"
         },
         {
-          "id": "n_4_14",
-          "text": "He reads the error codes and explains them to his instructor.",
-          "audio": "assets/audio/n_4_14.mp3"
+          "id": "t_1_8",
+          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "audio": "assets/audio/t_1_8.mp3"
         },
         {
-          "id": "n_4_15",
-          "text": "He always completes the work on time and writes down all the details in the service log.",
-          "audio": "assets/audio/n_4_15.mp3"
+          "id": "t_1_9",
+          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "audio": "assets/audio/t_1_9.mp3"
         },
         {
-          "id": "n_4_16",
-          "text": "At the end of the day, Ramesh cleans the work area and puts the tools back in their places.",
-          "audio": "assets/audio/n_4_16.mp3"
-        },
-        {
-          "id": "n_4_18",
-          "text": "He never forgets to lock the toolbox and switch off the power supply.",
-          "audio": "assets/audio/n_4_18.mp3"
-        },
-        {
-          "id": "n_4_19",
-          "text": "Ramesh enjoys his job because he learns something new every day and takes pride in his work.",
-          "audio": "assets/audio/n_4_19.mp3"
+          "id": "t_1_10",
+          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "audio": "assets/audio/t_1_10.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "n_4_2",
-          "text": "Ramesh works in the maintenance bay every day.",
-          "audio": "assets/audio/n_4_2x.mp3"
+          "id": "t_1_1",
+          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "audio": "assets/audio/t_1_1.mp3"
         },
         {
-          "id": "n_4_4",
-          "text": "He checks the job card, prepares the tools, and opens the service record for each vehicle.",
-          "audio": "assets/audio/n_4_4.mp3"
+          "id": "t_1_2",
+          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "audio": "assets/audio/t_1_2.mp3"
         },
         {
-          "id": "n_4_8",
-          "text": "He replaces any parts that look damaged or worn out.",
-          "audio": "assets/audio/n_4_8.mp3"
+          "id": "t_1_3",
+          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "audio": "assets/audio/t_1_3.mp3"
         },
         {
-          "id": "n_4_9",
-          "text": "He also cleans the air filter and checks the fan belt.",
-          "audio": "assets/audio/n_4_9.mp3"
+          "id": "t_1_4",
+          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "audio": "assets/audio/t_1_4.mp3"
         },
         {
-          "id": "n_4_10",
-          "text": "He often adjusts the battery terminals because they often get loose.",
-          "audio": "assets/audio/n_4_10.mp3"
+          "id": "t_1_5",
+          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "audio": "assets/audio/t_1_5.mp3"
         },
         {
-          "id": "n_4_11",
-          "text": "He uses a torque wrench to tighten the bolts on the wheel hub.",
-          "audio": "assets/audio/n_4_11.mp3"
+          "id": "t_1_6",
+          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "audio": "assets/audio/t_1_6.mp3"
         },
         {
-          "id": "n_4_13",
-          "text": "He connects the diagnostic scanner to check the sensors.",
-          "audio": "assets/audio/n_4_13.mp3"
+          "id": "t_1_7",
+          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "audio": "assets/audio/t_1_7.mp3"
         },
         {
-          "id": "n_4_14",
-          "text": "He reads the error codes and explains them to his instructor.",
-          "audio": "assets/audio/n_4_14.mp3"
+          "id": "t_1_8",
+          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "audio": "assets/audio/t_1_8.mp3"
         },
         {
-          "id": "n_4_15",
-          "text": "He always completes the work on time and writes down all the details in the service log.",
-          "audio": "assets/audio/n_4_15.mp3"
+          "id": "t_1_9",
+          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "audio": "assets/audio/t_1_9.mp3"
         },
         {
-          "id": "n_4_16",
-          "text": "At the end of the day, Ramesh cleans the work area and puts the tools back in their places.",
-          "audio": "assets/audio/n_4_16.mp3"
-        },
-        {
-          "id": "n_4_18",
-          "text": "He never forgets to lock the toolbox and switch off the power supply.",
-          "audio": "assets/audio/n_4_18.mp3"
-        },
-        {
-          "id": "n_4_19",
-          "text": "Ramesh enjoys his job because he learns something new every day and takes pride in his work.",
-          "audio": "assets/audio/n_4_19.mp3"
+          "id": "t_1_10",
+          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "audio": "assets/audio/t_1_10.mp3"
         }
       ]
     }
