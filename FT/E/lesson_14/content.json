@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "flour",
+        "word_text": "fl'ou'r",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Mix the flour in a clean bowl.",
+        "sentence_text": "Mix the fl'ou'r in a clean bowl.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
+        "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "cow",
+        "word_text": "c'ow'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They use cow’s milk for caramel pudding.",
+        "sentence_text": "They use c'ow'’s milk for caramel pudding.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "brown",
+        "word_text": "br'ow'n",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "These buns often turn brown in the oven.",
+        "sentence_text": "These buns often turn br'ow'n in the oven.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.jpeg"
+        "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "towel",
+        "word_text": "t'ow'el",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "They are using  the kitchen towels now.",
+        "sentence_text": "They are using  the kitchen t'ow'els now.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

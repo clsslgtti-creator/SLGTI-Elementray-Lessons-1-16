@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "download",
+        "word_text": "d'ow'nload",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Download the latest software version.",
+        "sentence_text": "D'ow'nload the latest software version.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
+        "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "account",
+        "word_text": "acc'ou'nt",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He is logging in to his student account now.",
+        "sentence_text": "He is logging in to his student acc'ou'nt now.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "power",
+        "word_text": "p'ow'er",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "She never forgets to power off the PC.",
+        "sentence_text": "She never forgets to p'ow'er off the PC.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.jpeg"
+        "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "mouse",
+        "word_text": "m'ou'se",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Move the mouse to the right corner.",
+        "sentence_text": "Move the m'ou'se to the right corner.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "power",
+        "word_text": "p'ow'er",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Always switch off the main power.",
+        "sentence_text": "Always switch off the main p'ow'er.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "ground",
+        "word_text": "gr'ou'nd",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He usually connects the ground wire properly.",
+        "sentence_text": "He usually connects the gr'ou'nd wire properly.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sound",
+        "word_text": "s'ou'nd",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "A strange sound is coming from this motor right now.",
+        "sentence_text": "A strange s'ou'nd is coming from this motor right now.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.jpeg"
+        "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "shower",
+        "word_text": "sh'ow'er",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "There was a short circuit after the shower.",
+        "sentence_text": "There was a short circuit after the sh'ow'er.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_4.jpg"
       }
     ]
   },

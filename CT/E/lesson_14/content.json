@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "house",
+        "word_text": "h'ou'se",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The workers are building a new house now.",
+        "sentence_text": "The workers are building a new h'ou'se now.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "ground",
+        "word_text": "gr'ou'nd",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The ground floor is almost ready.",
+        "sentence_text": "The gr'ou'nd floor is almost ready.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "shower",
+        "word_text": "sh'ow'er",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Rainwater runs off after the shower.",
+        "sentence_text": "Rainwater runs off after the sh'ow'er.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.jpeg"
+        "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "cow",
+        "word_text": "c'ow'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "A cow often grazes near this site.",
+        "sentence_text": "A c'ow' often grazes near this site.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -138,7 +138,7 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_1.jpge",
+        "image": "assets/img/a_2_d_1.jpeg",
         "word": "cleaning the tools"
       },
       {

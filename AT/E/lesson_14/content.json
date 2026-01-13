@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "sound",
+        "word_text": "s'ou'nd",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Check the engine sound carefully.",
+        "sentence_text": "Check the engine s'ou'nd carefully.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "mount",
+        "word_text": "m'ou'nt",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He always mounts the battery on the holder properly.",
+        "sentence_text": "He always m'ou'nts the battery on the holder properly.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "loud",
+        "word_text": "l'ou'd",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The horn is making  a loud sound now.",
+        "sentence_text": "The horn is making  a l'ou'd s'ou'nd now.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "bounce",
+        "word_text": "b'ou'nce",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Do not bounce the tire too much.",
+        "sentence_text": "Do not b'ou'nce the tire too much.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
