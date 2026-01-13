@@ -380,52 +380,52 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "Why is Nimal starting work earlier today?",
-            "answer": "Because new trainees are visiting",
+            "question": "Why is Sanjaya starting work earlier today?",
+            "answer": "Because the network engineer is inspecting the server room",
             "options": [
-              "Because he came late yesterday",
-              "Because new trainees are visiting",
-              "Because the trainees asked him"
+              "Because he has an online test",
+              "Because the network engineer is inspecting the server room",
+              "Because his instructor is inspecting the server room"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Why is he preparing the diagnostic scanner?",
-            "answer": "Because the instructor is demonstrating sensor readings",
+            "question": "Why is he updating the antivirus software?",
+            "answer": "Because the instructor is explaining system protection",
             "options": [
-              "Because the instructor wants him to practise alone",
-              "Because the instructor is demonstrating sensor readings",
-              "Because the old scanner is broken"
+              "Because the internet was slow",
+              "Because the instructor is explaining system protection",
+              "Because the server was hacked"
             ]
           },
           {
             "id": "l_4_3",
-            "question": "Why is he sharing tools today?",
-            "answer": "Because Nimal’s toolbox is being repaired",
+            "question": "Why is he sharing a lab computer?",
+            "answer": "Because his desktop is under maintenance",
             "options": [
-              "Because Amal’s toolbox is being repaired",
-              "Because Nimal’s toolbox is being repaired",
-              "Because the instructor told him to"
+              "Because the internet is not working",
+              "Because his desktop is under maintenance",
+              "Because his friend's desk is under maintenance"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Why is Nimal inspecting the cooling fan?",
-            "answer": "Because it is making a strange noise",
+            "question": "Why is he testing the Wi-Fi connection?",
+            "answer": "Because it was unstable yesterday",
             "options": [
-              "Because it is part of his routine",
-              "Because it is making a strange noise",
-              "Because Amal is making a strange noise"
+              "Because it was unstable yesterday",
+              "Because it was unstable yesterday",
+              "Because the router is new"
             ]
           },
           {
             "id": "l_4_5",
-            "question": "Why is he cleaning the workshop floor this afternoon?",
-            "answer": "Because there has been an oil spill",
+            "question": "Why is he cleaning the keyboards this afternoon?",
+            "answer": "Because they are dusty after the practical session",
             "options": [
-              "Because it’s his turn on the schedule",
-              "Because there has been an oil spill",
-              "Because the instructor asked"
+              "Because it’s part of the routine",
+              "Because they are dusty after the practical session",
+              "Because the instructor told him to pack up early"
             ]
           }
         ]
@@ -433,157 +433,142 @@
       "activity_b": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Sanjaya works in the ICT training lab in Colombo.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "He starts work at eight-thirty every morning, but today he is starting earlier because the network engineer is inspecting the server room.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "He usually begins his day by checking the computer connections, but this morning he is updating the antivirus software because the instructor is explaining system protection.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "He normally uses his own USB drive and headset, but today he is sharing a lab computer because his desktop is under maintenance.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "He always backs up data, but now he is testing the Wi-Fi connection because it was unstable yesterday.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "Most days, Sanjaya installs applications and troubleshoots errors, but this week he is learning to configure firewalls.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "He usually checks the networking system, but today he is connecting the projector.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "He normally discusses the day’s schedule with his colleagues, but today they are all listening carefully to the Manager’s instructions about the inspection and day’s program.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "At the end of the day, he always shuts down the systems, but this afternoon he is cleaning the keyboards because they are dusty after the practical session.",
           "audio": "assets/audio/t_1_9.mp3"
-        },
-        {
-          "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
-          "audio": "assets/audio/t_1_10.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Sanjaya works in the ICT training lab in Colombo.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "He starts work at eight-thirty every morning, but today he is starting earlier because the network engineer is inspecting the server room.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "He usually begins his day by checking the computer connections, but this morning he is updating the antivirus software because the instructor is explaining system protection.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "He normally uses his own USB drive and headset, but today he is sharing a lab computer because his desktop is under maintenance.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "He always backs up data, but now he is testing the Wi-Fi connection because it was unstable yesterday.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "Most days, Sanjaya installs applications and troubleshoots errors, but this week he is learning to configure firewalls.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "He usually checks the networking system, but today he is connecting the projector.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "He normally discusses the day’s schedule with his colleagues, but today they are all listening carefully to the Manager’s instructions about the inspection and day’s program.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "At the end of the day, he always shuts down the systems, but this afternoon he is cleaning the keyboards because they are dusty after the practical session.",
           "audio": "assets/audio/t_1_9.mp3"
-        },
-        {
-          "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
-          "audio": "assets/audio/t_1_10.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Sanjaya works in the ICT training lab in Colombo.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "He starts work at eight-thirty every morning, but today he is starting earlier because the network engineer is inspecting the server room.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "He usually begins his day by checking the computer connections, but this morning he is updating the antivirus software because the instructor is explaining system protection.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "He normally uses his own USB drive and headset, but today he is sharing a lab computer because his desktop is under maintenance.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "He always backs up data, but now he is testing the Wi-Fi connection because it was unstable yesterday.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "Most days, Sanjaya installs applications and troubleshoots errors, but this week he is learning to configure firewalls.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "He usually checks the networking system, but today he is connecting the projector.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "He normally discusses the day’s schedule with his colleagues, but today they are all listening carefully to the Manager’s instructions about the inspection and day’s program.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "At the end of the day, he always shuts down the systems, but this afternoon he is cleaning the keyboards because they are dusty after the practical session.",
           "audio": "assets/audio/t_1_9.mp3"
-        },
-        {
-          "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
-          "audio": "assets/audio/t_1_10.mp3"
         }
       ]
     }

@@ -380,52 +380,52 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "Why is Nimal starting work earlier today?",
-            "answer": "Because new trainees are visiting",
+            "question": "Why is Thilina starting work earlier today?",
+            "answer": "Because a new engine has arrived for testing",
             "options": [
-              "Because he came late yesterday",
-              "Because new trainees are visiting",
-              "Because the trainees asked him"
+              "Because the instructor asked for volunteers",
+              "Because a new engine has arrived for testing",
+              "Because new pneumatic tools have arrived for testing"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Why is he preparing the diagnostic scanner?",
-            "answer": "Because the instructor is demonstrating sensor readings",
+            "question": "Why is he setting up the air compressor?",
+            "answer": "Because the instructor is demonstrating pneumatic tools",
             "options": [
-              "Because the instructor wants him to practise alone",
-              "Because the instructor is demonstrating sensor readings",
-              "Because the old scanner is broken"
+              "Because the hose is leaking",
+              "Because the instructor is demonstrating pneumatic tools",
+              "Because the instructor is demonstrating how to handle a new engine"
             ]
           },
           {
             "id": "l_4_3",
-            "question": "Why is he sharing tools today?",
-            "answer": "Because Nimal’s toolbox is being repaired",
+            "question": "Why is he borrowing tools from the tool room?",
+            "answer": "Because his kit is missing some parts",
             "options": [
-              "Because Amal’s toolbox is being repaired",
-              "Because Nimal’s toolbox is being repaired",
-              "Because the instructor told him to"
+              "Because the workshop is crowded",
+              "Because his kit is missing some parts",
+              "Because his instructor asked him"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Why is Nimal inspecting the cooling fan?",
-            "answer": "Because it is making a strange noise",
+            "question": "Why is he wearing a face shield today?",
+            "answer": "Because he is grinding metal components",
             "options": [
-              "Because it is part of his routine",
-              "Because it is making a strange noise",
-              "Because Amal is making a strange noise"
+              "Because the safety officer told him to",
+              "Because he is grinding metal components",
+              "Because it is very dusty"
             ]
           },
           {
             "id": "l_4_5",
-            "question": "Why is he cleaning the workshop floor this afternoon?",
-            "answer": "Because there has been an oil spill",
+            "question": "Why is he greasing the lathe machine this afternoon?",
+            "answer": "Because it has been making noise",
             "options": [
-              "Because it’s his turn on the schedule",
-              "Because there has been an oil spill",
-              "Because the instructor asked"
+              "Because it looks dirty",
+              "Because it has been making noise",
+              "Because the instructor has been making noise"
             ]
           }
         ]
@@ -433,157 +433,172 @@
       "activity_b": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Thilina works in the Mechanical Workshop at the institute in Kandy.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "He starts work at eight every morning, but today he is starting earlier because a new engine has arrived for testing.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "Everyone is excited because it is a new model, with the latest technology, so they all want to see it being tested.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "He usually begins his day by checking the lubricant levels, but this morning he is setting up the air compressor because the instructor is demonstrating how to operate pneumatic tools.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "He normally uses his own socket wrench set, but today he is borrowing tools from the tool room because his kit is missing a few parts.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "He always wears safety goggles, but now he is wearing an extra face shield because he is grinding metal components.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "Most days, Thilina repairs gear systems and cleans filters, but this week he is assembling a small diesel pump for a customer project.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "He usually checks the machinery with the instructor, but today he is inspecting the generator because it is making a strange noise.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "He normally discusses the work with his colleagues, but now he is listening carefully because the instructor is explaining how to check the carburetor.",
           "audio": "assets/audio/t_1_9.mp3"
         },
         {
           "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "text": "At the end of the day, he always wipes the workbench, but this afternoon he is greasing the lathe machine because it has been a bit stiff to use.",
           "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "He likes his work because he learns something new every day, and he is becoming more confident with every task he does.",
+          "audio": "assets/audio/t_1_11.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Thilina works in the Mechanical Workshop at the institute in Kandy.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "He starts work at eight every morning, but today he is starting earlier because a new engine has arrived for testing.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "Everyone is excited because it is a new model, with the latest technology, so they all want to see it being tested.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "He usually begins his day by checking the lubricant levels, but this morning he is setting up the air compressor because the instructor is demonstrating how to operate pneumatic tools.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "He normally uses his own socket wrench set, but today he is borrowing tools from the tool room because his kit is missing a few parts.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "He always wears safety goggles, but now he is wearing an extra face shield because he is grinding metal components.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "Most days, Thilina repairs gear systems and cleans filters, but this week he is assembling a small diesel pump for a customer project.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "He usually checks the machinery with the instructor, but today he is inspecting the generator because it is making a strange noise.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "He normally discusses the work with his colleagues, but now he is listening carefully because the instructor is explaining how to check the carburetor.",
           "audio": "assets/audio/t_1_9.mp3"
         },
         {
           "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "text": "At the end of the day, he always wipes the workbench, but this afternoon he is greasing the lathe machine because it has been a bit stiff to use.",
           "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "He likes his work because he learns something new every day, and he is becoming more confident with every task he does.",
+          "audio": "assets/audio/t_1_11.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Thilina works in the Mechanical Workshop at the institute in Kandy.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "He starts work at eight every morning, but today he is starting earlier because a new engine has arrived for testing.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "Everyone is excited because it is a new model, with the latest technology, so they all want to see it being tested.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "He usually begins his day by checking the lubricant levels, but this morning he is setting up the air compressor because the instructor is demonstrating how to operate pneumatic tools.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "He normally uses his own socket wrench set, but today he is borrowing tools from the tool room because his kit is missing a few parts.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "He always wears safety goggles, but now he is wearing an extra face shield because he is grinding metal components.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "Most days, Thilina repairs gear systems and cleans filters, but this week he is assembling a small diesel pump for a customer project.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "He usually checks the machinery with the instructor, but today he is inspecting the generator because it is making a strange noise.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "He normally discusses the work with his colleagues, but now he is listening carefully because the instructor is explaining how to check the carburetor.",
           "audio": "assets/audio/t_1_9.mp3"
         },
         {
           "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "text": "At the end of the day, he always wipes the workbench, but this afternoon he is greasing the lathe machine because it has been a bit stiff to use.",
           "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "He likes his work because he learns something new every day, and he is becoming more confident with every task he does.",
+          "audio": "assets/audio/t_1_11.mp3"
         }
       ]
     }
