@@ -728,7 +728,7 @@ export const createGameScene = (config = {}) => {
       this.phaseText.setDepth(3);
       this.gameUiElements.push(this.phaseText);
 
-      const badgeHeight = 68;
+      const badgeHeight = 60;
       const timerBadgeWidth = 200;
       this.timerPanel = createRoundedPanel(
         this,
@@ -752,14 +752,14 @@ export const createGameScene = (config = {}) => {
       };
       this.timerPanel.update(this.timerPanelBaseStyle);
       this.timerText = this.add
-        .text(50, -16, this.defaultTimerLabel, {
+        .text(0, 0, this.defaultTimerLabel, {
           fontFamily: 'Segoe UI, "Helvetica Neue", Arial, sans-serif',
           fontSize: "26px",
           color: "#1f2937",
           fontStyle: "bold",
         })
         .setOrigin(0.5);
-      this.timerBadge = this.add.container(timerBadgeWidth / 2 + 90, 108, [
+      this.timerBadge = this.add.container(250, 85, [
         this.timerPanel.graphics,
         this.timerText,
       ]);
@@ -781,7 +781,7 @@ export const createGameScene = (config = {}) => {
         lineWidth: 2,
       });
       this.scoreText = this.add
-        .text(-50, -16, `Score: 0/${this.totalQuestions}`, {
+        .text(0, 0, `Score: 0/${this.totalQuestions}`, {
           fontFamily: 'Segoe UI, "Helvetica Neue", Arial, sans-serif',
           fontSize: "26px",
           color: "#1d4ed8",
@@ -789,8 +789,8 @@ export const createGameScene = (config = {}) => {
         })
         .setOrigin(0.5);
       this.scoreBadge = this.add.container(
-        width - scoreBadgeWidth / 2 - 90,
-        108,
+        width - 250,
+        85,
         [this.scorePanel.graphics, this.scoreText]
       );
       this.scoreBadge.setDepth(3);
@@ -881,7 +881,7 @@ export const createGameScene = (config = {}) => {
         onSelect: (button) => this.handleOptionSelection("second", button),
       });
 
-      this.mainPanel = this.add.container(width / 2, panelCenterY, [
+      this.mainPanel = this.add.container(width / 2, panelCenterY + 30, [
         panel.graphics,
         this.imageContainer,
         this.sentenceText1,
@@ -914,7 +914,7 @@ export const createGameScene = (config = {}) => {
       });
       this.feedbackPanel = feedbackPanel;
       this.feedbackIcon = this.add
-        .image(-260, -70, "fill-blank-correct-img")
+        .image(-200, -130, "fill-blank-correct-img")
         .setDisplaySize(90, 90);
       this.feedbackLabel = this.add
         .text(0, -130, "", {
