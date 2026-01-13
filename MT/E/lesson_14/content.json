@@ -138,7 +138,7 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_1.png",
+        "image": "assets/img/a_2_d_1.jpeg",
         "word": "oiling the lathe machine"
       },
       {
@@ -170,7 +170,7 @@
     "dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.png",
+        "img": "assets/img/a_2_d_1.jpeg",
         "text_a": "Why are you oiling the lathe machine?",
         "text_b": "I’m oiling it because the parts are dry.",
         "text_c": "I always oil it before turning metal.",

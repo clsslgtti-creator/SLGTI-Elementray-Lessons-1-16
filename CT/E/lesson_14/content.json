@@ -138,7 +138,7 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_1.png",
+        "image": "assets/img/a_2_d_1.jpge",
         "word": "cleaning the tools"
       },
       {
@@ -148,7 +148,7 @@
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_3.png",
+        "image": "assets/img/a_2_d_3.jpeg",
         "word": "mixing the cement now"
       },
       {
@@ -170,7 +170,7 @@
     "dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.png",
+        "img": "assets/img/a_2_d_1.jpeg",
         "text_a": "Why are you cleaning the tools?",
         "text_b": "I’m cleaning them because they are dirty.",
         "text_c": "I always clean them after work.",
@@ -190,7 +190,7 @@
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.png",
+        "img": "assets/img/a_2_d_3.jpeg",
         "text_a": "Why are you mixing the cement now?",
         "text_b": "We’re mixing it because we need mortar.",
         "text_c": "We always mix it before laying bricks.",
