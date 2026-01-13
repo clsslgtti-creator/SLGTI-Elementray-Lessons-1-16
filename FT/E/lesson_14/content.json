@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "sound",
+        "word_text": "flour",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Check the engine sound carefully.",
+        "sentence_text": "They use cow’s milk for caramel pudding.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "mount",
+        "word_text": "cow",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He always mounts the battery on the holder properly.",
+        "sentence_text": "Mix the flour in a clean bowl.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "loud",
+        "word_text": "brown",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The horn is making  a loud sound now.",
+        "sentence_text": "These buns often turn brown in the oven.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "bounce",
+        "word_text": "towel",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Do not bounce the tire too much.",
+        "sentence_text": "They are using  the kitchen towels now.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -139,41 +139,41 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.png",
-        "word": "checking the tyre pressure"
+        "word": "washing the fruits"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "cleaning the air filter"
+        "word": "heating the milk"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_3.png",
-        "word": "tightening the wheel nuts"
+        "word": "using the weighing scale"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.png",
-        "word": "replacing the spark plugs"
+        "word": "wearing gloves"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_5.png",
-        "word": "washing the car"
+        "word": "checking the oven temperature"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_6.png",
-        "word": "the torque wrench"
+        "word": "sealing the bottles"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Why are you checking the tyre pressure?",
-        "text_b": "I’m checking it because I’m travelling a long distance.",
-        "text_c": "I always check it before I travel a long distance.",
+        "text_a": "Why are you washing the fruits?",
+        "text_b": "I’m washing them because they’re dusty.",
+        "text_c": "I always wash them before processing.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3"
@@ -181,9 +181,9 @@
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Why are you cleaning the air filter?",
-        "text_b": "I’m cleaning it because it’s full of dust.",
-        "text_c": "I always clean it after every service.",
+        "text_a": "Why are you heating the milk?",
+        "text_b": "I’m heating it because I’m making curd.",
+        "text_c": "I always heat it slowly before adding culture.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3"
@@ -191,9 +191,9 @@
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Why are you tightening the wheel nuts?",
-        "text_b": "I’m tightening them because they are loose.",
-        "text_c": "I always tighten them before a road test.",
+        "text_a": "Why are you using the weighing scale?",
+        "text_b": "I’m using it because I must measure flour.",
+        "text_c": "I always use it before mixing ingredients.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3"
@@ -201,9 +201,9 @@
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Why are you replacing the spark plugs?",
-        "text_b": "I’m replacing them because they are worn out.",
-        "text_c": "I always replace them after 5,000 kilometres.",
+        "text_a": "Why are you wearing gloves?",
+        "text_b": "I’m wearing them because of hygiene.",
+        "text_c": "I always wear them in the food lab.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3"
@@ -211,9 +211,9 @@
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Why are you washing the car?",
-        "text_b": "I’m washing it because it’s covered with mud.",
-        "text_c": "I always wash it after a repair.",
+        "text_a": "Why are you checking the oven temperature?",
+        "text_b": "I’m checking it because the temperature has to be accurate.",
+        "text_c": "I always check it before baking.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3"
@@ -221,9 +221,9 @@
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Why are you using the torque wrench?",
-        "text_b": "I’m using it because it gives the correct pressure.",
-        "text_c": "I always use it when fixing cylinder heads.",
+        "text_a": "Why are you sealing the bottles?",
+        "text_b": "I’m sealing them because we’re preserving jam.",
+        "text_c": "I always seal them right after filling.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3"
@@ -380,52 +380,52 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "Why is Nimal starting work earlier today?",
-            "answer": "Because new trainees are visiting",
+            "question": "Why is Kamal starting work earlier today?",
+            "answer": "Because a food safety officer is visiting",
             "options": [
-              "Because he came late yesterday",
-              "Because new trainees are visiting",
-              "Because the trainees asked him"
+              "Because there is a bakery competition",
+              "Because a food safety officer is visiting",
+              "Because he missed class yesterday"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Why is he preparing the diagnostic scanner?",
-            "answer": "Because the instructor is demonstrating sensor readings",
+            "question": "Why is he calibrating the thermometer?",
+            "answer": "Because the instructor is showing how to test product temperatures",
             "options": [
-              "Because the instructor wants him to practise alone",
-              "Because the instructor is demonstrating sensor readings",
-              "Because the old scanner is broken"
+              "Because it stopped working",
+              "Because the instructor is showing how to test product temperatures",
+              "Because the bakery manager is showing how to test product temperatures"
             ]
           },
           {
             "id": "l_4_3",
-            "question": "Why is he sharing tools today?",
-            "answer": "Because Nimal’s toolbox is being repaired",
+            "question": "Why is he borrowing gloves today?",
+            "answer": "Because his uniform is being washed",
             "options": [
-              "Because Amal’s toolbox is being repaired",
-              "Because Nimal’s toolbox is being repaired",
-              "Because the instructor told him to"
+              "Because he forgot them at home",
+              "Because his uniform is being washed",
+              "Because the instructor’s uniform is being washed"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Why is Nimal inspecting the cooling fan?",
-            "answer": "Because it is making a strange noise",
+            "question": "Why is he checking expiry dates?",
+            "answer": "Because he always labels food samples",
             "options": [
-              "Because it is part of his routine",
-              "Because it is making a strange noise",
-              "Because Amal is making a strange noise"
+              "Because he is preparing a new recipe",
+              "Because he always labels food samples",
+              "Because the instructor warned about spoiled ingredients"
             ]
           },
           {
             "id": "l_4_5",
-            "question": "Why is he cleaning the workshop floor this afternoon?",
-            "answer": "Because there has been an oil spill",
+            "question": "Why is he sanitizing the oven this afternoon?",
+            "answer": "Because it was used for meat preparation yesterday",
             "options": [
-              "Because it’s his turn on the schedule",
-              "Because there has been an oil spill",
-              "Because the instructor asked"
+              "Because it was used for meat preparation",
+              "Because it was used for meat preparation yesterday",
+              "Because he likes to keep it shiny"
             ]
           }
         ]
@@ -433,157 +433,142 @@
       "activity_b": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Kamal works in the Food Technology Laboratory in Matara.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "He starts work at eight-thirty every morning, but today he is starting earlier because a food safety officer is visiting.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "He usually begins his day by washing the utensils, but this morning he is calibrating the digital thermometer because the instructor is showing how to test product temperatures.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "He normally uses his own apron and gloves, but today he is borrowing a spare pair because his uniform is being washed.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "He always labels food samples, but now he is checking expiry dates on the ingredient containers.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "Most days, Kamal prepares fruit juice and jam samples, but this week he is baking bread for a quality control test.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "He usually checks the digital thermometer but today he has calibrated it already, so he doesn’t need to do it again.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "He normally bakes bread with other colleagues as well, but today they are all busy preparing for the safety officer’s visit and listening carefully because the instructor is explaining the program for the visit.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "At the end of the day, he always cleans the worktable, but this afternoon he is sanitizing the oven because it was used for meat preparation yesterday.",
           "audio": "assets/audio/t_1_9.mp3"
-        },
-        {
-          "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
-          "audio": "assets/audio/t_1_10.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Kamal works in the Food Technology Laboratory in Matara.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "He starts work at eight-thirty every morning, but today he is starting earlier because a food safety officer is visiting.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "He usually begins his day by washing the utensils, but this morning he is calibrating the digital thermometer because the instructor is showing how to test product temperatures.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "He normally uses his own apron and gloves, but today he is borrowing a spare pair because his uniform is being washed.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "He always labels food samples, but now he is checking expiry dates on the ingredient containers.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "Most days, Kamal prepares fruit juice and jam samples, but this week he is baking bread for a quality control test.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "He usually checks the digital thermometer but today he has calibrated it already, so he doesn’t need to do it again.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "He normally bakes bread with other colleagues as well, but today they are all busy preparing for the safety officer’s visit and listening carefully because the instructor is explaining the program for the visit.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "At the end of the day, he always cleans the worktable, but this afternoon he is sanitizing the oven because it was used for meat preparation yesterday.",
           "audio": "assets/audio/t_1_9.mp3"
-        },
-        {
-          "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
-          "audio": "assets/audio/t_1_10.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Kamal works in the Food Technology Laboratory in Matara.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "He starts work at eight-thirty every morning, but today he is starting earlier because a food safety officer is visiting.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "He usually begins his day by washing the utensils, but this morning he is calibrating the digital thermometer because the instructor is showing how to test product temperatures.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "He normally uses his own apron and gloves, but today he is borrowing a spare pair because his uniform is being washed.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "He always labels food samples, but now he is checking expiry dates on the ingredient containers.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "Most days, Kamal prepares fruit juice and jam samples, but this week he is baking bread for a quality control test.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "He usually checks the digital thermometer but today he has calibrated it already, so he doesn’t need to do it again.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "He normally bakes bread with other colleagues as well, but today they are all busy preparing for the safety officer’s visit and listening carefully because the instructor is explaining the program for the visit.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "At the end of the day, he always cleans the worktable, but this afternoon he is sanitizing the oven because it was used for meat preparation yesterday.",
           "audio": "assets/audio/t_1_9.mp3"
-        },
-        {
-          "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
-          "audio": "assets/audio/t_1_10.mp3"
         }
       ]
     }

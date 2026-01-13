@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "sound",
+        "word_text": "power",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Check the engine sound carefully.",
+        "sentence_text": "Always switch off the main power.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "mount",
+        "word_text": "ground",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He always mounts the battery on the holder properly.",
+        "sentence_text": "He usually connects the ground wire properly.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "loud",
+        "word_text": "sound",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The horn is making  a loud sound now.",
+        "sentence_text": "A strange sound is coming from this motor right now.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "bounce",
+        "word_text": "shower",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Do not bounce the tire too much.",
+        "sentence_text": "There was a short circuit after the shower.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -139,41 +139,41 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.png",
-        "word": "checking the tyre pressure"
+        "word": "switching off the main power"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "cleaning the air filter"
+        "word": "checking the fuse"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_3.png",
-        "word": "tightening the wheel nuts"
+        "word": "connecting the tester"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.png",
-        "word": "replacing the spark plugs"
+        "word": "wearing rubber gloves"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_5.png",
-        "word": "washing the car"
+        "word": "replacing the bulb"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_6.png",
-        "word": "the torque wrench"
+        "word": "labelling the wires"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Why are you checking the tyre pressure?",
-        "text_b": "I’m checking it because I’m travelling a long distance.",
-        "text_c": "I always check it before I travel a long distance.",
+        "text_a": "Why are you switching off the main power?",
+        "text_b": "I’m switching it off because I need to fix a wire.",
+        "text_c": "I always switch it off before starting any work.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3"
@@ -181,9 +181,9 @@
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Why are you cleaning the air filter?",
-        "text_b": "I’m cleaning it because it’s full of dust.",
-        "text_c": "I always clean it after every service.",
+        "text_a": "Why are you checking the fuse?",
+        "text_b": "I’m checking it because the lights are off.",
+        "text_c": "I always check it when the lights go off.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3"
@@ -191,9 +191,9 @@
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Why are you tightening the wheel nuts?",
-        "text_b": "I’m tightening them because they are loose.",
-        "text_c": "I always tighten them before a road test.",
+        "text_a": "Why are you connecting the tester?",
+        "text_b": "I’m connecting it because I must check the voltage.",
+        "text_c": "I always connect it before touching a wire.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3"
@@ -201,9 +201,9 @@
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Why are you replacing the spark plugs?",
-        "text_b": "I’m replacing them because they are worn out.",
-        "text_c": "I always replace them after 5,000 kilometres.",
+        "text_a": "Why are you wearing rubber gloves?",
+        "text_b": "I’m wearing them because I am repairing sockets.",
+        "text_c": "I always wear them when I repair sockets.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3"
@@ -211,9 +211,9 @@
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Why are you washing the car?",
-        "text_b": "I’m washing it because it’s covered with mud.",
-        "text_c": "I always wash it after a repair.",
+        "text_a": "Why are you replacing the bulb?",
+        "text_b": "I’m replacing it because it’s burnt out.",
+        "text_c": "I always replace bulbs when they are burnt out.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3"
@@ -221,9 +221,9 @@
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Why are you using the torque wrench?",
-        "text_b": "I’m using it because it gives the correct pressure.",
-        "text_c": "I always use it when fixing cylinder heads.",
+        "text_a": "Why are you labelling the wires?",
+        "text_b": "I’m labelling them because it will avoid confusion.",
+        "text_c": "I always label them after installation.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3"
@@ -380,52 +380,52 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "Why is Nimal starting work earlier today?",
-            "answer": "Because new trainees are visiting",
+            "question": "Why is Ramesh starting work earlier today?",
+            "answer": "Because the electrical inspector is visiting",
             "options": [
-              "Because he came late yesterday",
-              "Because new trainees are visiting",
-              "Because the trainees asked him"
+              "Because he forgot his assignment",
+              "Because the electrical inspector is visiting",
+              "Because there is a power cut"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Why is he preparing the diagnostic scanner?",
-            "answer": "Because the instructor is demonstrating sensor readings",
+            "question": "Why is he preparing the transformer kit?",
+            "answer": "Because the instructor is demonstrating insulation testing",
             "options": [
-              "Because the instructor wants him to practise alone",
-              "Because the instructor is demonstrating sensor readings",
-              "Because the old scanner is broken"
+              "Because the old one is damaged",
+              "Because the instructor is demonstrating insulation testing",
+              "Because the instructor is demonstrating installing a circuit breaker"
             ]
           },
           {
             "id": "l_4_3",
-            "question": "Why is he sharing tools today?",
-            "answer": "Because Nimal’s toolbox is being repaired",
+            "question": "Why is he sharing tools with Nalin?",
+            "answer": "Because his tool bag is being checked for safety",
             "options": [
-              "Because Amal’s toolbox is being repaired",
-              "Because Nimal’s toolbox is being repaired",
-              "Because the instructor told him to"
+              "Because Nalin lost his screwdriver",
+              "Because his tool bag is being checked for safety",
+              "Because Nalin’s tool bag is being checked for safety"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Why is Nimal inspecting the cooling fan?",
-            "answer": "Because it is making a strange noise",
+            "question": "Why is he wearing a full apron today?",
+            "answer": "Because he is handling live wires",
             "options": [
-              "Because it is part of his routine",
-              "Because it is making a strange noise",
-              "Because Amal is making a strange noise"
+              "Because it’s raining outside",
+              "Because he is handling live wires",
+              "Because it is the final exam"
             ]
           },
           {
             "id": "l_4_5",
-            "question": "Why is he cleaning the workshop floor this afternoon?",
-            "answer": "Because there has been an oil spill",
+            "question": "Why is he checking the fuse box this afternoon?",
+            "answer": "Because one circuit keeps tripping",
             "options": [
-              "Because it’s his turn on the schedule",
-              "Because there has been an oil spill",
-              "Because the instructor asked"
+              "Because it is part of the cleaning routine",
+              "Because one circuit keeps tripping",
+              "Because the instructor told him to test the lights"
             ]
           }
         ]
@@ -433,157 +433,142 @@
       "activity_b": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Ramesh works in the Electrical Workshop at the TVET Institute in Galle.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because the electrical inspector is visiting.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "He usually begins his day by checking the multimeter readings, but this morning he is preparing the transformer kit because the instructor is demonstrating how to test insulation.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "He normally uses his own pliers and screwdriver set, but today he is sharing tools with his classmate Nalin because his tool bag is being checked for safety.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "He always wears rubber gloves and safety shoes, but now he is wearing a full protective apron because he is handling live wires.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "Most days, Ramesh installs switches and connects wiring, but this week he is replacing fuse holders in the lighting panel.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "He usually checks the control panel with the instructor, but today he is inspecting it by himself as the inspector is busy with some other trainees.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "He normally has a colleague to assist him but today they are all busy getting things ready for the electrical inspector’s visit.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "At the end of the day, he always switches off the main supply, but this afternoon he is checking the fuse box because one circuit keeps tripping.",
           "audio": "assets/audio/t_1_9.mp3"
-        },
-        {
-          "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
-          "audio": "assets/audio/t_1_10.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Ramesh works in the Electrical Workshop at the TVET Institute in Galle.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because the electrical inspector is visiting.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "He usually begins his day by checking the multimeter readings, but this morning he is preparing the transformer kit because the instructor is demonstrating how to test insulation.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "He normally uses his own pliers and screwdriver set, but today he is sharing tools with his classmate Nalin because his tool bag is being checked for safety.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "He always wears rubber gloves and safety shoes, but now he is wearing a full protective apron because he is handling live wires.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "Most days, Ramesh installs switches and connects wiring, but this week he is replacing fuse holders in the lighting panel.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "He usually checks the control panel with the instructor, but today he is inspecting it by himself as the inspector is busy with some other trainees.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "He normally has a colleague to assist him but today they are all busy getting things ready for the electrical inspector’s visit.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "At the end of the day, he always switches off the main supply, but this afternoon he is checking the fuse box because one circuit keeps tripping.",
           "audio": "assets/audio/t_1_9.mp3"
-        },
-        {
-          "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
-          "audio": "assets/audio/t_1_10.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Ramesh works in the Electrical Workshop at the TVET Institute in Galle.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because the electrical inspector is visiting.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "He usually begins his day by checking the multimeter readings, but this morning he is preparing the transformer kit because the instructor is demonstrating how to test insulation.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "He normally uses his own pliers and screwdriver set, but today he is sharing tools with his classmate Nalin because his tool bag is being checked for safety.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "He always wears rubber gloves and safety shoes, but now he is wearing a full protective apron because he is handling live wires.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "Most days, Ramesh installs switches and connects wiring, but this week he is replacing fuse holders in the lighting panel.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "He usually checks the control panel with the instructor, but today he is inspecting it by himself as the inspector is busy with some other trainees.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "He normally has a colleague to assist him but today they are all busy getting things ready for the electrical inspector’s visit.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "At the end of the day, he always switches off the main supply, but this afternoon he is checking the fuse box because one circuit keeps tripping.",
           "audio": "assets/audio/t_1_9.mp3"
-        },
-        {
-          "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
-          "audio": "assets/audio/t_1_10.mp3"
         }
       ]
     }

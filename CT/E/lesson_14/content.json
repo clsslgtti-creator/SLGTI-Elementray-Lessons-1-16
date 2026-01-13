@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "sound",
+        "word_text": "house",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Check the engine sound carefully.",
+        "sentence_text": "The workers are building a new house now.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "mount",
+        "word_text": "ground",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He always mounts the battery on the holder properly.",
+        "sentence_text": "The ground floor is almost ready.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "loud",
+        "word_text": "shower",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The horn is making  a loud sound now.",
+        "sentence_text": "Rainwater runs off after the shower.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "bounce",
+        "word_text": "cow",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Do not bounce the tire too much.",
+        "sentence_text": "A cow often grazes near this site.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -139,41 +139,41 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.png",
-        "word": "checking the tyre pressure"
+        "word": "cleaning the tools"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "cleaning the air filter"
+        "word": "wearing the helmet"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_3.png",
-        "word": "tightening the wheel nuts"
+        "word": "mixing the cement now"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.png",
-        "word": "replacing the spark plugs"
+        "word": "checking the scaffolding"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_5.png",
-        "word": "washing the car"
+        "word": "measuring the beam"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_6.png",
-        "word": "the torque wrench"
+        "word": "covering the bricks"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Why are you checking the tyre pressure?",
-        "text_b": "I’m checking it because I’m travelling a long distance.",
-        "text_c": "I always check it before I travel a long distance.",
+        "text_a": "Why are you cleaning the tools?",
+        "text_b": "I’m cleaning them because they are dirty.",
+        "text_c": "I always clean them after work.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3"
@@ -181,9 +181,9 @@
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Why are you cleaning the air filter?",
-        "text_b": "I’m cleaning it because it’s full of dust.",
-        "text_c": "I always clean it after every service.",
+        "text_a": "Why are you wearing the helmet?",
+        "text_b": "I’m wearing it because it’s safe.",
+        "text_c": "I always wear it at the site.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3"
@@ -191,9 +191,9 @@
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Why are you tightening the wheel nuts?",
-        "text_b": "I’m tightening them because they are loose.",
-        "text_c": "I always tighten them before a road test.",
+        "text_a": "Why are you mixing the cement now?",
+        "text_b": "We’re mixing it because we need mortar.",
+        "text_c": "We always mix it before laying bricks.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3"
@@ -201,9 +201,9 @@
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Why are you replacing the spark plugs?",
-        "text_b": "I’m replacing them because they are worn out.",
-        "text_c": "I always replace them after 5,000 kilometres.",
+        "text_a": "Why are you checking the scaffolding?",
+        "text_b": "I’m checking it because it looks loose.",
+        "text_c": "I always check it before climbing.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3"
@@ -211,9 +211,9 @@
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Why are you washing the car?",
-        "text_b": "I’m washing it because it’s covered with mud.",
-        "text_c": "I always wash it after a repair.",
+        "text_a": "Why are you measuring the beam?",
+        "text_b": "I’m measuring it because it must be exact.",
+        "text_c": "I always measure things twice before cutting.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3"
@@ -221,9 +221,9 @@
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Why are you using the torque wrench?",
-        "text_b": "I’m using it because it gives the correct pressure.",
-        "text_c": "I always use it when fixing cylinder heads.",
+        "text_a": "Why are you covering the bricks?",
+        "text_b": "I’m covering them because it might rain.",
+        "text_c": "I always cover them at the end of the day.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3"
@@ -380,52 +380,52 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "Why is Nimal starting work earlier today?",
-            "answer": "Because new trainees are visiting",
+            "question": "Why is Amali starting work earlier today?",
+            "answer": "Because the site supervisor is checking safety equipment",
             "options": [
-              "Because he came late yesterday",
-              "Because new trainees are visiting",
-              "Because the trainees asked him"
+              "Because she missed work yesterday",
+              "Because the site supervisor is checking safety equipment",
+              "Because the site supervisor is checking the machinery"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Why is he preparing the diagnostic scanner?",
-            "answer": "Because the instructor is demonstrating sensor readings",
+            "question": "Why is she mixing concrete this morning?",
+            "answer": "Because the masons need extra mortar",
             "options": [
-              "Because the instructor wants him to practise alone",
-              "Because the instructor is demonstrating sensor readings",
-              "Because the old scanner is broken"
+              "Because she is repairing the store wall",
+              "Because the masons need extra mortar",
+              "Because the masons are too busy with other tasks"
             ]
           },
           {
             "id": "l_4_3",
-            "question": "Why is he sharing tools today?",
-            "answer": "Because Nimal’s toolbox is being repaired",
+            "question": "Why is she sharing tools with Ruwan?",
+            "answer": "Because her toolbox is locked in the store",
             "options": [
-              "Because Amal’s toolbox is being repaired",
-              "Because Nimal’s toolbox is being repaired",
-              "Because the instructor told him to"
+              "Because he forgot his own tools",
+              "Because her toolbox is locked in the store",
+              "Because the instructor asked them to work together"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Why is Nimal inspecting the cooling fan?",
-            "answer": "Because it is making a strange noise",
+            "question": "Why is she wearing a reflective vest today?",
+            "answer": "Because heavy vehicles are operating near the gate",
             "options": [
-              "Because it is part of his routine",
-              "Because it is making a strange noise",
-              "Because Amal is making a strange noise"
+              "Because the site manager gave her a new one",
+              "Because heavy vehicles are operating near the gate",
+              "Because heavy vehicles are not very safe today"
             ]
           },
           {
             "id": "l_4_5",
-            "question": "Why is he cleaning the workshop floor this afternoon?",
-            "answer": "Because there has been an oil spill",
+            "question": "Why is she covering the bricks with a tarpaulin this afternoon?",
+            "answer": "Because dark clouds are gathering and it might rain",
             "options": [
-              "Because it’s his turn on the schedule",
-              "Because there has been an oil spill",
-              "Because the instructor asked"
+              "Because she wants to protect them from dust",
+              "Because dark clouds are gathering and it might rain",
+              "Because the instructor told her to take a break"
             ]
           }
         ]
@@ -433,156 +433,156 @@
       "activity_b": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Amali works at a construction site in Kurunegala.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "She starts work at seven-thirty every morning, but today she is starting earlier because the site supervisor is checking the safety equipment.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "She usually begins her day by marking measurements on the foundation, but this morning she is mixing concrete because the masons need extra mortar for the wall.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "She normally uses her own trowel and measuring tape, but today she is sharing tools with her teammate Ruwan because her toolbox is locked in the store.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "She always wears her helmet and safety boots, but now she is wearing a reflective vest too because heavy vehicles are operating near the gate.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "Most days, Amali lays bricks and checks levels with the spirit level, but this week she is plastering a new wall section inside the training block.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "She usually carries sand and cement bags to the mixer, but today she is unloading bricks because the supplier delivered a new batch in the morning.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "She normally gets the help of her friends for a job like this, but today they are all busy with other work around the site, so she is doing it herself.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "At the end of the day, she always cleans the tools and stacks the wheelbarrows, but this afternoon she is covering the bricks with a tarpaulin because dark clouds are gathering and it might rain.",
           "audio": "assets/audio/t_1_9.mp3"
         },
         {
           "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "text": "She enjoys her training because she learns new building techniques every week, and she is becoming more confident at managing tasks on her own.",
           "audio": "assets/audio/t_1_10.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Amali works at a construction site in Kurunegala.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "She starts work at seven-thirty every morning, but today she is starting earlier because the site supervisor is checking the safety equipment.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "She usually begins her day by marking measurements on the foundation, but this morning she is mixing concrete because the masons need extra mortar for the wall.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "She normally uses her own trowel and measuring tape, but today she is sharing tools with her teammate Ruwan because her toolbox is locked in the store.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "She always wears her helmet and safety boots, but now she is wearing a reflective vest too because heavy vehicles are operating near the gate.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "Most days, Amali lays bricks and checks levels with the spirit level, but this week she is plastering a new wall section inside the training block.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "She usually carries sand and cement bags to the mixer, but today she is unloading bricks because the supplier delivered a new batch in the morning.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "She normally gets the help of her friends for a job like this, but today they are all busy with other work around the site, so she is doing it herself.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "At the end of the day, she always cleans the tools and stacks the wheelbarrows, but this afternoon she is covering the bricks with a tarpaulin because dark clouds are gathering and it might rain.",
           "audio": "assets/audio/t_1_9.mp3"
         },
         {
           "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "text": "She enjoys her training because she learns new building techniques every week, and she is becoming more confident at managing tasks on her own.",
           "audio": "assets/audio/t_1_10.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Amali works at a construction site in Kurunegala.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "She starts work at seven-thirty every morning, but today she is starting earlier because the site supervisor is checking the safety equipment.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "She usually begins her day by marking measurements on the foundation, but this morning she is mixing concrete because the masons need extra mortar for the wall.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "She normally uses her own trowel and measuring tape, but today she is sharing tools with her teammate Ruwan because her toolbox is locked in the store.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "She always wears her helmet and safety boots, but now she is wearing a reflective vest too because heavy vehicles are operating near the gate.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "Most days, Amali lays bricks and checks levels with the spirit level, but this week she is plastering a new wall section inside the training block.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "She usually carries sand and cement bags to the mixer, but today she is unloading bricks because the supplier delivered a new batch in the morning.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "She normally gets the help of her friends for a job like this, but today they are all busy with other work around the site, so she is doing it herself.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "At the end of the day, she always cleans the tools and stacks the wheelbarrows, but this afternoon she is covering the bricks with a tarpaulin because dark clouds are gathering and it might rain.",
           "audio": "assets/audio/t_1_9.mp3"
         },
         {
           "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "text": "She enjoys her training because she learns new building techniques every week, and she is becoming more confident at managing tasks on her own.",
           "audio": "assets/audio/t_1_10.mp3"
         }
       ]

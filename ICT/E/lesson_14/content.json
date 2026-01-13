@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "sound",
+        "word_text": "download",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Check the engine sound carefully.",
+        "sentence_text": "Download the latest software version.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "mount",
+        "word_text": "account",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He always mounts the battery on the holder properly.",
+        "sentence_text": "He is logging in to his student account now.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "loud",
+        "word_text": "power",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The horn is making  a loud sound now.",
+        "sentence_text": "She never forgets to power off the PC.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "bounce",
+        "word_text": "mouse",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Do not bounce the tire too much.",
+        "sentence_text": "Move the mouse to the right corner.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -139,41 +139,41 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.png",
-        "word": "checking the tyre pressure"
+        "word": "restarting the computer"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "cleaning the air filter"
+        "word": "typing the code again"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_3.png",
-        "word": "tightening the wheel nuts"
+        "word": "checking the firewall"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.png",
-        "word": "replacing the spark plugs"
+        "word": "updating the antivirus"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_5.png",
-        "word": "washing the car"
+        "word": "cleaning the keyboard"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_6.png",
-        "word": "the torque wrench"
+        "word": "saving the file on the drive"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Why are you checking the tyre pressure?",
-        "text_b": "I’m checking it because I’m travelling a long distance.",
-        "text_c": "I always check it before I travel a long distance.",
+        "text_a": "Why are you restarting the computer?",
+        "text_b": "I’m restarting it because it froze.",
+        "text_c": "I always restart it after a software update.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3"
@@ -181,9 +181,9 @@
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Why are you cleaning the air filter?",
-        "text_b": "I’m cleaning it because it’s full of dust.",
-        "text_c": "I always clean it after every service.",
+        "text_a": "Why are you typing the code again?",
+        "text_b": "I’m typing it because there was an error.",
+        "text_c": "I always type carefully when debugging.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3"
@@ -191,9 +191,9 @@
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Why are you tightening the wheel nuts?",
-        "text_b": "I’m tightening them because they are loose.",
-        "text_c": "I always tighten them before a road test.",
+        "text_a": "Why are you checking the firewall?",
+        "text_b": "I’m checking it because the network is slow.",
+        "text_c": "I always check it before connecting to the server.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3"
@@ -201,9 +201,9 @@
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Why are you replacing the spark plugs?",
-        "text_b": "I’m replacing them because they are worn out.",
-        "text_c": "I always replace them after 5,000 kilometres.",
+        "text_a": "Why are you updating the antivirus?",
+        "text_b": "I’m updating it because it’s outdated.",
+        "text_c": "I always update it once a week.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3"
@@ -211,9 +211,9 @@
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Why are you washing the car?",
-        "text_b": "I’m washing it because it’s covered with mud.",
-        "text_c": "I always wash it after a repair.",
+        "text_a": "Why are you cleaning the keyboard?",
+        "text_b": "I’m cleaning it because it’s full of dust.",
+        "text_c": "I always clean it after lab sessions.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3"
@@ -221,9 +221,9 @@
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Why are you using the torque wrench?",
-        "text_b": "I’m using it because it gives the correct pressure.",
-        "text_c": "I always use it when fixing cylinder heads.",
+        "text_a": "Why are you saving the file on the drive?",
+        "text_b": "I’m saving it because I need a backup.",
+        "text_c": "I always save it before shutting down.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3"

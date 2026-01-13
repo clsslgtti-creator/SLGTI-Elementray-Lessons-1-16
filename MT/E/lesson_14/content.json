@@ -35,7 +35,7 @@
         "id": "p_1",
         "word_text": "sound",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Check the engine sound carefully.",
+        "sentence_text": "The sound of the machine is smooth.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
@@ -43,23 +43,23 @@
         "id": "p_2",
         "word_text": "mount",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He always mounts the battery on the holder properly.",
+        "sentence_text": "They usually mount the tool firmly on the bench.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "loud",
+        "word_text": "count",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The horn is making  a loud sound now.",
+        "sentence_text": "He always  counts  the bolts before assembling the machine.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "bounce",
+        "word_text": "cowling",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Do not bounce the tire too much.",
+        "sentence_text": "I am cleaning the cowling now.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -139,41 +139,41 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.png",
-        "word": "checking the tyre pressure"
+        "word": "oiling the lathe machine"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "cleaning the air filter"
+        "word": "sharpening the cutting tool"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_3.png",
-        "word": "tightening the wheel nuts"
+        "word": "measuring the shaft"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.png",
-        "word": "replacing the spark plugs"
+        "word": "replacing the belt"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_5.png",
-        "word": "washing the car"
+        "word": "cleaning the vice"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_6.png",
-        "word": "the torque wrench"
+        "word": "adjusting the gear alignment"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Why are you checking the tyre pressure?",
-        "text_b": "I’m checking it because I’m travelling a long distance.",
-        "text_c": "I always check it before I travel a long distance.",
+        "text_a": "Why are you oiling the lathe machine?",
+        "text_b": "I’m oiling it because the parts are dry.",
+        "text_c": "I always oil it before turning metal.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3"
@@ -181,9 +181,9 @@
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Why are you cleaning the air filter?",
-        "text_b": "I’m cleaning it because it’s full of dust.",
-        "text_c": "I always clean it after every service.",
+        "text_a": "Why are you sharpening the cutting tool?",
+        "text_b": "I’m sharpening it because it became blunt.",
+        "text_c": "I always sharpen it before starting work.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3"
@@ -191,9 +191,9 @@
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Why are you tightening the wheel nuts?",
-        "text_b": "I’m tightening them because they are loose.",
-        "text_c": "I always tighten them before a road test.",
+        "text_a": "Why are you measuring the shaft?",
+        "text_b": "I’m measuring it because it must fit exactly.",
+        "text_c": "I always measure it with the vernier caliper.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3"
@@ -201,9 +201,9 @@
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Why are you replacing the spark plugs?",
-        "text_b": "I’m replacing them because they are worn out.",
-        "text_c": "I always replace them after 5,000 kilometres.",
+        "text_a": "Why are you replacing the belt?",
+        "text_b": "I’m replacing it because it slipped off.",
+        "text_c": "I always replace it when it looks worn.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3"
@@ -211,9 +211,9 @@
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Why are you washing the car?",
-        "text_b": "I’m washing it because it’s covered with mud.",
-        "text_c": "I always wash it after a repair.",
+        "text_a": "Why are you cleaning the vice?",
+        "text_b": "I’m cleaning it because it’s greasy.",
+        "text_c": "I always clean it after machining.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3"
@@ -221,9 +221,9 @@
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Why are you using the torque wrench?",
-        "text_b": "I’m using it because it gives the correct pressure.",
-        "text_c": "I always use it when fixing cylinder heads.",
+        "text_a": "Why are you adjusting the gear alignment?",
+        "text_b": "I’m adjusting it because it isn’t smooth.",
+        "text_c": "I always adjust it before testing the machine.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3"
