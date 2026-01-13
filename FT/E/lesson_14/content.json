@@ -1,0 +1,576 @@
+{
+  "meta": {
+    "lesson_no": 14,
+    "level": "Elementary",
+    "section": "Food Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /aʊ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "fl'ou'r",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Mix the fl'ou'r in a clean bowl.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.jpeg"
+      },
+      {
+        "id": "p_2",
+        "word_text": "c'ow'",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "They use c'ow'’s milk for caramel pudding.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "br'ow'n",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "These buns often turn br'ow'n in the oven.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "t'ow'el",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "They are using  the kitchen t'ow'els now.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-2",
+    "focus": "Focus Contrast between the Simple Present Tense and the Present Continuous Tense",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Read the answer and use the pause to ask the correct question. Then compare your response with the model question.\n පිළිතුර කියවා නිවැරදි ප්‍රශ්නය ඇසීමට විරාමය භාවිතා කරන්න. ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\n பதிலைக் கவனமாக வாசித்து, இடைவெளியில் சரியான கேள்வியை கேளுங்கள். பின்னர் உங்கள் கேள்வியை மாதிரி கேள்வியுடன் ஒப்பிடவும்.",
+        "audio": "assets/audio/a_2_i_f.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["I am crying because I am sad.", "I always cry when I am sad."],
+        [
+          "(NOW- Present Continuous)",
+          "(HABIT,ROUTINE,PATTERN - Simple Present)"
+        ]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "e_1",
+        "img": "assets/img/a_2_ex_1.jpeg",
+        "text_a": "Why are you drinking king coconut?",
+        "text_b": "I am drinking it because I am dehydrated.",
+        "text_c": "I always drink it when I am dehydrated.",
+        "audio_a": "assets/audio/a_2_ex_1_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_1_b.mp3",
+        "audio_c": "assets/audio/a_2_ex_1_c.mp3"
+      },
+      {
+        "id": "e_2",
+        "img": "assets/img/a_2_ex_2.jpeg",
+        "text_a": "Why are you biting your lips?",
+        "text_b": "I am biting them because I’m nervous.",
+        "text_c": "I always bite my lips when I am nervous.",
+        "audio_a": "assets/audio/a_2_ex_2_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_2_b.mp3",
+        "audio_c": "assets/audio/a_2_ex_2_c.mp3"
+      },
+      {
+        "id": "e_3",
+        "img": "assets/img/a_2_ex_3.png",
+        "text_a": "Why are you lying down?",
+        "text_b": "I am lying down because I am exhausted.",
+        "text_c": "I always lie down when I am exhausted.",
+        "audio_a": "assets/audio/a_2_ex_3_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_3_b.mp3",
+        "audio_c": "assets/audio/a_2_ex_3_c.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_1.png",
+        "word": "washing the fruits"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_2.png",
+        "word": "heating the milk"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_3.png",
+        "word": "using the weighing scale"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "wearing gloves"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "checking the oven temperature"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "sealing the bottles"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Why are you washing the fruits?",
+        "text_b": "I’m washing them because they’re dusty.",
+        "text_c": "I always wash them before processing.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Why are you heating the milk?",
+        "text_b": "I’m heating it because I’m making curd.",
+        "text_c": "I always heat it slowly before adding culture.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Why are you using the weighing scale?",
+        "text_b": "I’m using it because I must measure flour.",
+        "text_c": "I always use it before mixing ingredients.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Why are you wearing gloves?",
+        "text_b": "I’m wearing them because of hygiene.",
+        "text_c": "I always wear them in the food lab.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Why are you checking the oven temperature?",
+        "text_b": "I’m checking it because the temperature has to be accurate.",
+        "text_c": "I always check it before baking.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Why are you sealing the bottles?",
+        "text_b": "I’m sealing them because we’re preserving jam.",
+        "text_c": "I always seal them right after filling.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-5",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "image": "assets/img/a_3_b_1.png",
+            "sentence_1": "The baby ______ because it is hungry.",
+            "options_1": ["are crying", "is crying", "cries", "cry"],
+            "answer_1": "is crying",
+            "sentence_2": "It always ______ when it is hungry.",
+            "options_2": ["cry", "are crying", "is crying", "cries"],
+            "answer_2": "cries",
+            "full_sentance": "The baby is crying because it is hungry. It always cries when it is hungry.",
+            "audio": "assets/audio/a_3_b_1.mp3"
+          },
+          {
+            "id": "g_b_2",
+            "image": "assets/img/a_3_b_2.png",
+            "sentence_1": "She ______ because she is angry.",
+            "options_1": ["screaming", "is screaming", "screams", "scream"],
+            "answer_1": "is screaming",
+            "sentence_2": "She always ______ when she is angry.",
+            "options_2": ["screaming", "is screaming", "screams", "scream"],
+            "answer_2": "screams",
+            "full_sentance": "She is screaming because she is angry. She always screams when she is angry.",
+            "audio": "assets/audio/a_3_b_2.mp3"
+          },
+          {
+            "id": "g_b_3",
+            "image": "assets/img/a_3_b_3.png",
+            "sentence_1": "They ______ because they are cold.",
+            "options_1": ["are shivering", "shiver", "shivering", "shivers"],
+            "answer_1": "are shivering",
+            "sentence_2": "They always ______ when they are cold.",
+            "options_2": ["are shivering", "shiver", "shivering", "shivers"],
+            "answer_2": "shiver",
+            "full_sentance": "They are shivering because they are cold. They always shiver when they are cold.",
+            "audio": "assets/audio/a_3_b_3.mp3"
+          },
+          {
+            "id": "g_b_4",
+            "image": "assets/img/a_3_b_4.png",
+            "sentence_1": "He ______ his nails because he is nervous.",
+            "options_1": ["are bite", "is biting", "bites", "biting"],
+            "answer_1": "is biting",
+            "sentence_2": "He always ______ his nails when he is nervous.",
+            "options_2": ["are bite", "is biting", "bites", "biting"],
+            "answer_2": "bites",
+            "full_sentance": "He is biting his nails because he is nervous. He always bites his nails when he is nervous.",
+            "audio": "assets/audio/a_3_b_4.mp3"
+          },
+          {
+            "id": "g_b_5",
+            "image": "assets/img/a_3_b_5.png",
+            "sentence_1": "She ______ her eyes because she is scared.",
+            "options_1": ["closes", "close", "closing", "is closing"],
+            "answer_1": "is closing",
+            "sentence_2": "She always ______ her eyes when she is scared.",
+            "options_2": ["closes", "close", "closing", "is closing"],
+            "answer_2": "closes",
+            "full_sentance": "She is closing her eyes because she is scared. She always closes her eyes when she is scared.",
+            "audio": "assets/audio/a_3_b_5.mp3"
+          },
+          {
+            "id": "g_b_6",
+            "image": "assets/img/a_3_b_6.png",
+            "sentence_1": "The trainees ______ because they are hot.",
+            "options_1": ["is sweating", "are sweating", "sweats", "sweat"],
+            "answer_1": "are sweating",
+            "sentence_2": "They always ______ when they are hot.",
+            "options_2": ["is sweating", "are sweating", "sweats", "sweat"],
+            "answer_2": "sweat",
+            "full_sentance": "The trainees are sweating because they are hot. They always sweat when they are hot.",
+            "audio": "assets/audio/a_3_b_6.mp3"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "n_3_1",
+          "text": "The baby is crying because it is hungry. It always cries when it is hungry.",
+          "audio": "assets/audio/a_3_b_1.mp3"
+        },
+        {
+          "id": "n_3_2",
+          "text": "She is screaming because she is angry. She always screams when she is angry.",
+          "audio": "assets/audio/a_3_b_2.mp3"
+        },
+        {
+          "id": "n_3_3",
+          "text": "They are shivering because they are cold. They always shiver when they are cold.",
+          "audio": "assets/audio/a_3_b_3.mp3"
+        },
+        {
+          "id": "n_3_4",
+          "text": "He is biting his nails because he is nervous. He always bites his nails when he is nervous.",
+          "audio": "assets/audio/a_3_b_4.mp3"
+        },
+        {
+          "id": "n_3_5",
+          "text": "She is closing her eyes because she is scared. She always closes her eyes when she is scared.",
+          "audio": "assets/audio/a_3_b_5.mp3"
+        },
+        {
+          "id": "n_3_6",
+          "text": "The trainees are sweating because they are hot. They always sweat when they are hot.",
+          "audio": "assets/audio/a_3_b_6.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_4_1",
+            "question": "Why is Kamal starting work earlier today?",
+            "answer": "Because a food safety officer is visiting",
+            "options": [
+              "Because there is a bakery competition",
+              "Because a food safety officer is visiting",
+              "Because he missed class yesterday"
+            ]
+          },
+          {
+            "id": "l_4_2",
+            "question": "Why is he calibrating the thermometer?",
+            "answer": "Because the instructor is showing how to test product temperatures",
+            "options": [
+              "Because it stopped working",
+              "Because the instructor is showing how to test product temperatures",
+              "Because the bakery manager is showing how to test product temperatures"
+            ]
+          },
+          {
+            "id": "l_4_3",
+            "question": "Why is he borrowing gloves today?",
+            "answer": "Because his uniform is being washed",
+            "options": [
+              "Because he forgot them at home",
+              "Because his uniform is being washed",
+              "Because the instructor’s uniform is being washed"
+            ]
+          },
+          {
+            "id": "l_4_4",
+            "question": "Why is he checking expiry dates?",
+            "answer": "Because he always labels food samples",
+            "options": [
+              "Because he is preparing a new recipe",
+              "Because he always labels food samples",
+              "Because the instructor warned about spoiled ingredients"
+            ]
+          },
+          {
+            "id": "l_4_5",
+            "question": "Why is he sanitizing the oven this afternoon?",
+            "answer": "Because it was used for meat preparation yesterday",
+            "options": [
+              "Because it was used for meat preparation",
+              "Because it was used for meat preparation yesterday",
+              "Because he likes to keep it shiny"
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1_1",
+          "text": "Kamal works in the Food Technology Laboratory in Matara.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "He starts work at eight-thirty every morning, but today he is starting earlier because a food safety officer is visiting.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "He usually begins his day by washing the utensils, but this morning he is calibrating the digital thermometer because the instructor is showing how to test product temperatures.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "He normally uses his own apron and gloves, but today he is borrowing a spare pair because his uniform is being washed.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "He always labels food samples, but now he is checking expiry dates on the ingredient containers.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Most days, Kamal prepares fruit juice and jam samples, but this week he is baking bread for a quality control test.",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "He usually checks the digital thermometer but today he has calibrated it already, so he doesn’t need to do it again.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "He normally bakes bread with other colleagues as well, but today they are all busy preparing for the safety officer’s visit and listening carefully because the instructor is explaining the program for the visit.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "At the end of the day, he always cleans the worktable, but this afternoon he is sanitizing the oven because it was used for meat preparation yesterday.",
+          "audio": "assets/audio/t_1_9.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1_1",
+          "text": "Kamal works in the Food Technology Laboratory in Matara.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "He starts work at eight-thirty every morning, but today he is starting earlier because a food safety officer is visiting.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "He usually begins his day by washing the utensils, but this morning he is calibrating the digital thermometer because the instructor is showing how to test product temperatures.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "He normally uses his own apron and gloves, but today he is borrowing a spare pair because his uniform is being washed.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "He always labels food samples, but now he is checking expiry dates on the ingredient containers.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Most days, Kamal prepares fruit juice and jam samples, but this week he is baking bread for a quality control test.",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "He usually checks the digital thermometer but today he has calibrated it already, so he doesn’t need to do it again.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "He normally bakes bread with other colleagues as well, but today they are all busy preparing for the safety officer’s visit and listening carefully because the instructor is explaining the program for the visit.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "At the end of the day, he always cleans the worktable, but this afternoon he is sanitizing the oven because it was used for meat preparation yesterday.",
+          "audio": "assets/audio/t_1_9.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1_1",
+          "text": "Kamal works in the Food Technology Laboratory in Matara.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "He starts work at eight-thirty every morning, but today he is starting earlier because a food safety officer is visiting.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "He usually begins his day by washing the utensils, but this morning he is calibrating the digital thermometer because the instructor is showing how to test product temperatures.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "He normally uses his own apron and gloves, but today he is borrowing a spare pair because his uniform is being washed.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "He always labels food samples, but now he is checking expiry dates on the ingredient containers.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Most days, Kamal prepares fruit juice and jam samples, but this week he is baking bread for a quality control test.",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "He usually checks the digital thermometer but today he has calibrated it already, so he doesn’t need to do it again.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "He normally bakes bread with other colleagues as well, but today they are all busy preparing for the safety officer’s visit and listening carefully because the instructor is explaining the program for the visit.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "At the end of the day, he always cleans the worktable, but this afternoon he is sanitizing the oven because it was used for meat preparation yesterday.",
+          "audio": "assets/audio/t_1_9.mp3"
+        }
+      ]
+    }
+  }
+}
