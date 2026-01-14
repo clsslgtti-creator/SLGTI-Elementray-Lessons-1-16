@@ -174,7 +174,7 @@
         "img": "assets/img/a_2_d_1.jpeg",
         "text_a": "Is there a pair of anti-static gloves in the seminar hall?",
         "text_b": "Yes, there is.",
-        "text_c": "There is a very useful pair of anti-static gloves in the seminar hall.",
+        "text_c": "There is a pair of very useful anti-static gloves in the seminar hall.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3"
@@ -194,7 +194,7 @@
         "img": "assets/img/a_2_d_3.png",
         "text_a": "Is there a pair of blue-light safety glasses in the office?",
         "text_b": "Yes, there is.",
-        "text_c": "There is a very good pair of blue-light safety glasses in the office.",
+        "text_c": "There is a pair of very good blue-light safety glasses in the office.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3"

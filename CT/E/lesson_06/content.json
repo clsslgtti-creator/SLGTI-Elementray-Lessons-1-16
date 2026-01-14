@@ -184,7 +184,7 @@
         "img": "assets/img/a_2_d_2.png",
         "text_a": "Is there a pair of safety boots near the building?",
         "text_b": "Yes, there is.",
-        "text_c": "There is a very sturdy pair of safety boots near the building.",
+        "text_c": "There is a pair of very sturdy safety boots near the building.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3"
