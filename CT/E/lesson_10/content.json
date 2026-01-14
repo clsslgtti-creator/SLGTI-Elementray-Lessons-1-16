@@ -101,14 +101,14 @@
         ["It", null]
       ],
       [
-        ["Where does", "He", "live?"],
-        [null, "She", null],
-        [null, "It", null]
+        ["Where does", "he", "live?"],
+        [null, "she", null],
+        [null, "it", null]
       ],
       [
-        ["What does", "He", "do?"],
-        [null, "She", null],
-        [null, "It", null]
+        ["What does", "he", "do?"],
+        [null, "she", null],
+        [null, "it", null]
       ]
     ],
     "example_dialogues": [
@@ -116,7 +116,7 @@
         "id": "e_1",
         "img": "assets/img/a_2_ex_1.jpeg",
         "text_a": "What’s his name?",
-        "text_b": "His name is Nimal.",
+        "text_b": "His name is Andrew.",
         "text_c": "Where does he live?",
         "text_d": "He lives in Trinco.",
         "text_e": "What language does he speak?",

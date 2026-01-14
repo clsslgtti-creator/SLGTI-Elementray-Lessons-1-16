@@ -43,7 +43,7 @@
         "id": "p_2",
         "word_text": "w'or'd",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Type the w'or'd correctly in the document. ",
+        "sentence_text": "Type the w'or'd correctly in the document.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
@@ -101,14 +101,14 @@
         ["It", null]
       ],
       [
-        ["Where does", "He", "live?"],
-        [null, "She", null],
-        [null, "It", null]
+        ["Where does", "he", "live?"],
+        [null, "she", null],
+        [null, "it", null]
       ],
       [
-        ["What does", "He", "do?"],
-        [null, "She", null],
-        [null, "It", null]
+        ["What does", "he", "do?"],
+        [null, "she", null],
+        [null, "it", null]
       ]
     ],
     "example_dialogues": [
@@ -116,7 +116,7 @@
         "id": "e_1",
         "img": "assets/img/a_2_ex_1.jpeg",
         "text_a": "What’s his name?",
-        "text_b": "His name is Nimal.",
+        "text_b": "His name is Andrew.",
         "text_c": "Where does he live?",
         "text_d": "He lives in Trinco.",
         "text_e": "What language does he speak?",
@@ -455,7 +455,7 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What does Nimal do first?",
+            "question": "What does Ravi do first?",
             "answer": "He checks the task list and switches on the workstation.",
             "options": [
               "He checks the task list and switches on the workstation.",
@@ -508,7 +508,7 @@
       "activity_b": [
         {
           "id": "n_4_1",
-          "text": "Nimal is an ICT trainee in the computer lab.",
+          "text": "Ravi is an ICT trainee in the computer lab.",
           "audio": "assets/audio/n_4_1.mp3"
         },
         {
@@ -533,7 +533,7 @@
         },
         {
           "id": "n_4_6",
-          "text": "Nimal inspects the cables, routers, and switches.",
+          "text": "Ravi inspects the cables, routers, and switches.",
           "audio": "assets/audio/n_4_6.mp3"
         },
         {
@@ -553,7 +553,7 @@
         },
         {
           "id": "n_4_10",
-          "text": "During every routine, Nimal logs into the server, verifies the backups, and monitors the storage usage.",
+          "text": "During every routine, Ravi logs into the server, verifies the backups, and monitors the storage usage.",
           "audio": "assets/audio/n_4_10.mp3"
         },
         {
@@ -568,7 +568,7 @@
         },
         {
           "id": "n_4_13",
-          "text": "At the end of the day, Nimal shuts down the systems, disconnects the test devices, and stores the equipment.",
+          "text": "At the end of the day, Ravi shuts down the systems, disconnects the test devices, and stores the equipment.",
           "audio": "assets/audio/n_4_13.mp3"
         },
         {
@@ -578,14 +578,14 @@
         },
         {
           "id": "n_4_15",
-          "text": "Nimal enjoys his ICT training because he learns problem-solving and gains technical knowledge.",
+          "text": "Ravi enjoys his ICT training because he learns problem-solving and gains technical knowledge.",
           "audio": "assets/audio/n_4_15.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "n_4_2",
-          "text": "Nimal works on system maintenance every day.",
+          "text": "Ravi works on system maintenance every day.",
           "audio": "assets/audio/n_4_2x.mp3"
         },
         {
@@ -595,7 +595,7 @@
         },
         {
           "id": "n_4_6",
-          "text": "Nimal inspects the cables, routers, and switches.",
+          "text": "Ravi inspects the cables, routers, and switches.",
           "audio": "assets/audio/n_4_6.mp3"
         },
         {
@@ -615,7 +615,7 @@
         },
         {
           "id": "n_4_10",
-          "text": "During every routine, Nimal logs into the server, verifies the backups, and monitors the storage usage.",
+          "text": "During every routine, Ravi logs into the server, verifies the backups, and monitors the storage usage.",
           "audio": "assets/audio/n_4_10.mp3"
         },
         {
@@ -630,7 +630,7 @@
         },
         {
           "id": "n_4_13",
-          "text": "At the end of the day, Nimal shuts down the systems, disconnects the test devices, and stores the equipment.",
+          "text": "At the end of the day, Ravi shuts down the systems, disconnects the test devices, and stores the equipment.",
           "audio": "assets/audio/n_4_13.mp3"
         },
         {
@@ -640,14 +640,14 @@
         },
         {
           "id": "n_4_15",
-          "text": "Nimal enjoys his ICT training because he learns problem-solving and gains technical knowledge.",
+          "text": "Ravi enjoys his ICT training because he learns problem-solving and gains technical knowledge.",
           "audio": "assets/audio/n_4_15.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "n_4_2",
-          "text": "Nimal works on system maintenance every day.",
+          "text": "Ravi works on system maintenance every day.",
           "audio": "assets/audio/n_4_2x.mp3"
         },
         {
@@ -657,7 +657,7 @@
         },
         {
           "id": "n_4_6",
-          "text": "Nimal inspects the cables, routers, and switches.",
+          "text": "Ravi inspects the cables, routers, and switches.",
           "audio": "assets/audio/n_4_6.mp3"
         },
         {
@@ -677,7 +677,7 @@
         },
         {
           "id": "n_4_10",
-          "text": "During every routine, Nimal logs into the server, verifies the backups, and monitors the storage usage.",
+          "text": "During every routine, Ravi logs into the server, verifies the backups, and monitors the storage usage.",
           "audio": "assets/audio/n_4_10.mp3"
         },
         {
@@ -692,7 +692,7 @@
         },
         {
           "id": "n_4_13",
-          "text": "At the end of the day, Nimal shuts down the systems, disconnects the test devices, and stores the equipment.",
+          "text": "At the end of the day, Ravi shuts down the systems, disconnects the test devices, and stores the equipment.",
           "audio": "assets/audio/n_4_13.mp3"
         },
         {
@@ -702,7 +702,7 @@
         },
         {
           "id": "n_4_15",
-          "text": "Nimal enjoys his ICT training because he learns problem-solving and gains technical knowledge.",
+          "text": "Ravi enjoys his ICT training because he learns problem-solving and gains technical knowledge.",
           "audio": "assets/audio/n_4_15.mp3"
         }
       ]
