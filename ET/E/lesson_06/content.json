@@ -184,7 +184,7 @@
         "img": "assets/img/a_2_d_2.png",
         "text_a": "Is there a pair of safety gloves in the inspection area?",
         "text_b": "Yes, there is.",
-        "text_c": "There is a very thick pair of safety gloves in the inspection area.",
+        "text_c": "There is a pair of very thick safety gloves in the inspection area.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3"
@@ -214,7 +214,7 @@
         "img": "assets/img/a_2_d_5.png",
         "text_a": "Is there a pair of steel-toe boots in the corner?",
         "text_b": "Yes, there is.",
-        "text_c": "There is a very sturdy pair of steel-toe boots in the corner.",
+        "text_c": "There is a pair of very sturdy steel-toe boots in the corner.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3"

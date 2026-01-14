@@ -184,7 +184,7 @@
         "img": "assets/img/a_2_d_2.jpeg",
         "text_a": "Is there a pair of disposable gloves in the storage room?",
         "text_b": "Yes, there is.",
-        "text_c": "There is a very thin  pair of disposable gloves in the storage room.",
+        "text_c": "There is a pair of very thin disposable gloves in the storage room.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3"
