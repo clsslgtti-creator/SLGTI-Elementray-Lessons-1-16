@@ -1,6 +1,6 @@
 const DEFAULT_BACKGROUND_IMAGE = "assets/img/game/bg-6.jpg";
-const DEFAULT_TIMER_MS = 12000;
-const MIN_TIMER_MS = 6000;
+const DEFAULT_TIMER_MS = 20000;
+const MIN_TIMER_MS = 20000;
 const MAX_TIMER_MS = 60000;
 
 export const DEFAULT_FEEDBACK_ASSETS = {
@@ -1348,13 +1348,16 @@ export const createGameScene = (config = {}) => {
         : isCorrect
         ? "Correct!"
         : "Incorrect";
-      this.showFeedback(feedbackType, feedbackLabel, fullSentence);
-      const feedbackDuration = this.playFeedbackSound(feedbackType);
+      
+      this.scheduleEvent(2000, () => {
+        this.showFeedback(feedbackType, feedbackLabel, fullSentence);
+        const feedbackDuration = this.playFeedbackSound(feedbackType);
 
-      const delay = Math.min(Math.max(feedbackDuration + 200, 300), 1500);
-      this.scheduleEvent(delay, () => {
-        this.playSentenceAudio(question, () => {
-          this.scheduleEvent(800, () => this.advanceQuestion());
+        const delay = Math.min(Math.max(feedbackDuration + 200, 300), 1500);
+        this.scheduleEvent(delay, () => {
+          this.playSentenceAudio(question, () => {
+            this.scheduleEvent(800, () => this.advanceQuestion());
+          });
         });
       });
     }
