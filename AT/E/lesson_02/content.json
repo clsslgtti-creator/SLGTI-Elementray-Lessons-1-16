@@ -211,7 +211,7 @@
         "examples": [
           {
             "id": "e_1",
-            "sentence": "The correct tire pressure is 32 PSI. This tire has 38 PSI.\n\nThe pressure is ……………….",
+            "sentence": "The correct tyre pressure is 32 PSI. This tyre has 38 PSI.\n\nThe pressure is ……………….",
             "audio": "assets/audio/a_3_ex_1.mp3",
             "options": ["Too high", "Correct", "Too low"],
             "answer": "Too high",
@@ -237,7 +237,7 @@
           },
           {
             "id": "g_3",
-            "sentence": "The acceptable tire pressure is 30–32 PSI. The tire pressure in this wheel is 28 PSI.\n\nThe tire pressure in this wheel is ………………….",
+            "sentence": "The acceptable tyre pressure is 30–32 PSI. The tyre pressure in this wheel is 28 PSI.\n\nThe tyre pressure in this wheel is ………………….",
             "audio": "assets/audio/a_3_g_3.mp3",
             "options": ["Too low", "Correct", "Too high"],
             "answer": "Too low",
@@ -245,7 +245,7 @@
           },
           {
             "id": "g_4",
-            "sentence": "The standard depth of tire tread is 3–4 millimeters. The depth of this tire tread is 2 millimeters.\n\n The depth of this tire tread is ………………….",
+            "sentence": "The standard depth of tyre tread is 3–4 millimeters. The depth of this tyre tread is 2 millimeters.\n\n The depth of this tyre tread is ………………….",
             "audio": "assets/audio/a_3_g_4.mp3",
             "options": ["Too shallow", "Correct", "Too deep"],
             "answer": "Too shallow",
@@ -277,7 +277,7 @@
           },
           {
             "id": "g_8",
-            "sentence": "The safe tire pressure for a van is 34–36 PSI. The tire pressure of this van is 36 PSI. \n\n The tire pressure of this van is  ………………….",
+            "sentence": "The safe tyre pressure for a van is 34–36 PSI. The tyre pressure of this van is 36 PSI. \n\n The tyre pressure of this van is  ………………….",
             "audio": "assets/audio/a_3_g_8.mp3",
             "options": ["Too low", "Correct", "Too high"],
             "answer": "Correct",
@@ -355,7 +355,7 @@
           },
           {
             "id": "l_4_4",
-            "question": "What is the correct tire pressure reading?",
+            "question": "What is the correct tyre pressure reading?",
             "answer": "32 PSI",
             "options": ["28 PSI", "32 PSI", "36 PSI"]
           },
@@ -384,7 +384,7 @@
         },
         {
           "id": "n_4_3",
-          "text": "I am checking the depth of the tire tread.",
+          "text": "I am checking the depth of the tyre tread.",
           "audio": "assets/audio/a_4_n_3.mp3"
         },
         {
@@ -409,7 +409,7 @@
         },
         {
           "id": "n_4_8",
-          "text": "The tire tread is about 4 millimeters. The tire tread is about 1 millimeter too shallow.",
+          "text": "The tyre tread is about 4 millimeters. The tyre tread is about 1 millimeter too shallow.",
           "audio": "assets/audio/a_4_n_8.mp3"
         },
         {
@@ -436,7 +436,7 @@
         },
         {
           "id": "r_4_3",
-          "text": "I am checking the depth of the tire tread.",
+          "text": "I am checking the depth of the tyre tread.",
           "audio": "assets/audio/a_4_n_3.mp3"
         },
         {
@@ -461,7 +461,7 @@
         },
         {
           "id": "r_4_8",
-          "text": "The tire tread is about 4 millimeters. The tire tread is about 1 millimeter too shallow.",
+          "text": "The tyre tread is about 4 millimeters. The tyre tread is about 1 millimeter too shallow.",
           "audio": "assets/audio/a_4_n_8.mp3"
         },
         {
@@ -488,7 +488,7 @@
         },
         {
           "id": "r_4_3",
-          "text": "I am checking the depth of the tire tread.",
+          "text": "I am checking the depth of the tyre tread.",
           "audio": "assets/audio/a_4_n_3.mp3"
         },
         {
@@ -513,7 +513,7 @@
         },
         {
           "id": "r_4_8",
-          "text": "The tire tread is about 4 millimeters. The tire tread is about 1 millimeter too shallow.",
+          "text": "The tyre tread is about 4 millimeters. The tyre tread is about 1 millimeter too shallow.",
           "audio": "assets/audio/a_4_n_8.mp3"
         },
         {

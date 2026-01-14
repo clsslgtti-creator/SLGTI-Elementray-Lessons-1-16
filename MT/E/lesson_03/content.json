@@ -169,10 +169,10 @@
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
         "text_a": "What is she doing?",
-        "text_b": "She is changing a car tire.",
+        "text_b": "She is changing a car tyre.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
-        "keyword": "car tire"
+        "keyword": "car tyre"
       },
       {
         "id": "d_6",

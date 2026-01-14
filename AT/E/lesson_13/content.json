@@ -140,7 +140,7 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.png",
-        "word": "tire pressure gauge"
+        "word": "tyre pressure gauge"
       },
       {
         "id": "k_2",
@@ -172,7 +172,7 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "How often do you calibrate the tire pressure gauge?",
+        "text_a": "How often do you calibrate the tyre pressure gauge?",
         "text_b": "I calibrate it every week.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
