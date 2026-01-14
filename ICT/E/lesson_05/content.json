@@ -169,7 +169,7 @@
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
         "text_a": "Where is the Wi-Fi router?",
-        "text_b": " It is above the bookshelf.",
+        "text_b": "It is above the bookshelf.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       },
@@ -185,7 +185,7 @@
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
         "text_a": "Where is the LAN tester?",
-        "text_b": " It is behind the monitor.",
+        "text_b": "It is behind the monitor.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
