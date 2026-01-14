@@ -576,7 +576,7 @@ export const createGameScene = (config) => {
       this.gameUiElements.push(this.scoreBadge);
       this.topHudElements.push(this.scoreBadge);
       this.updateScore();
-      this.updateTimerText("Time: 10.0s");
+      this.updateTimerText("Time: 20.0s");
 
       const sentenceCardWidth = 1080;
       const sentenceCardHeight = 350;
@@ -1231,7 +1231,7 @@ export const createGameScene = (config) => {
       this.resetState();
       this.score = 0;
       this.updateScore();
-      this.updateTimerText("Time: 10.0s");
+      this.updateTimerText("Time: 20.0s");
 
       this.time.delayedCall(120, () => {
         this.runState = "running";
@@ -1250,7 +1250,7 @@ export const createGameScene = (config) => {
       this.stopSentenceAudio();
       this.timerEvent?.remove();
       this.timerEvent = null;
-      this.updateTimerText("Time: 10.0s");
+      this.updateTimerText("Time: 20.0s");
       this.hideFeedback();
       this.summaryBackdrop.setVisible(false);
       this.summaryBackdrop.setAlpha(0);
@@ -1328,7 +1328,7 @@ export const createGameScene = (config) => {
         const text = this.add
           .text(0, 0, "", {
             fontFamily: 'Segoe UI, "Helvetica Neue", Arial, sans-serif',
-            fontSize: 28,
+            fontSize: 26,
             color: "#475569",
             align: "center",
             fontStyle: "bold",
@@ -1532,7 +1532,7 @@ export const createGameScene = (config) => {
       this.enableOptionButtons(false);
       this.stopSentenceAudio();
       this.hideFeedback();
-      this.updateTimerText("Time: 10.0s");
+      this.updateTimerText("Time: 20.0s");
 
       if (
         this.examples.length &&
@@ -1738,9 +1738,9 @@ export const createGameScene = (config) => {
       const targetButton = this.optionButtons.find(
         (btn) => btn.value.toLowerCase() === entry.answer.toLowerCase()
       );
-      const highlightDelay = 500;
-      const feedbackDelay = highlightDelay + 800;
-      const advanceDelay = feedbackDelay + 900;
+      const highlightDelay = 5000;
+      const feedbackDelay = highlightDelay + 3000;
+      const advanceDelay = feedbackDelay + 1000;
 
       this.time.delayedCall(highlightDelay, () => {
         if (this.gameOver) {
@@ -1767,7 +1767,7 @@ export const createGameScene = (config) => {
     }
 
     startResponseTimer() {
-      const durationMs = 10000;
+      const durationMs = 20000;
       const tickInterval = 100;
       let remaining = durationMs;
       this.updateTimerText(`Time: ${(remaining / 1000).toFixed(1)}s`);
@@ -1781,7 +1781,7 @@ export const createGameScene = (config) => {
           if (remaining <= 0) {
             this.timerEvent?.remove();
             this.timerEvent = null;
-            this.updateTimerText("Time: 10.0s");
+            this.updateTimerText("Time: 20.0s");
             this.handleTimeout();
             return;
           }
@@ -1812,7 +1812,7 @@ export const createGameScene = (config) => {
       this.stopSentenceAudio();
       this.timerEvent?.remove();
       this.timerEvent = null;
-      this.updateTimerText("Time: 10.0s");
+      this.updateTimerText("Time: 20.0s");
 
       const current = this.questions[this.questionIndex];
       const isCorrect =
@@ -2059,7 +2059,7 @@ export const createGameScene = (config) => {
       this.stopSentenceAudio();
       this.timerEvent?.remove();
       this.timerEvent = null;
-      this.updateTimerText("Time: 10.0s");
+      this.updateTimerText("Time: 20.0s");
       this.hideFeedback();
       if (statusElement) {
         statusElement.textContent =
