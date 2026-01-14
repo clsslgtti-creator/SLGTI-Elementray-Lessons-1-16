@@ -482,10 +482,10 @@
           {
             "id": "l_4_4",
             "question": "Where does he record the details of the service?",
-            "answer": "In the diagnostic scanner.",
+            "answer": "In the service log.",
             "options": [
               "In the diagnostic scanner.",
-              "In the diagnostic scanner.",
+              "In the service log.",
               "On the workshop wall."
             ]
           },
