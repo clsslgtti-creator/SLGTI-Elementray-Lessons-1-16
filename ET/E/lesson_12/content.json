@@ -32,14 +32,6 @@
     },
     "content": [
       {
-        "id": "p_1",
-        "word_text": "w'i're",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Do you always connect the w'i're to the circuit?",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
-      },
-      {
         "id": "p_2",
         "word_text": "l'igh't",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
@@ -62,6 +54,14 @@
         "sentence_text": "T'igh'ten the screws on the socket.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
+      },
+      {
+        "id": "p_1",
+        "word_text": "w'i're",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Do you always connect the w'i're to the circuit?",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.jpeg"
       }
     ]
   },

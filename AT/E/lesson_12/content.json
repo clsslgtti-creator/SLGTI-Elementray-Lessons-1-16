@@ -33,9 +33,9 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "t'i're",
+        "word_text": "t'y're",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Do you check the t'i're pressure regularly?",
+        "sentence_text": "Do you check the t'y're pressure regularly?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },

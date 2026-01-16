@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "knife",
+        "word_text": "kn'i'fe",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Do you always use a sharp knife to cut vegetables?",
+        "sentence_text": "Do you always use a sharp kn'i'fe to cut vegetables?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "slice",
+        "word_text": "sl'i'ce",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Do you always slice the bread evenly?",
+        "sentence_text": "Do you always sl'i'ce the bread evenly?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "frying",
+        "word_text": "fr'y'ing",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The chef is frying fish in the pan.",
+        "sentence_text": "The chef is fr'y'ing fish in the pan.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "spice",
+        "word_text": "sp'i'ce",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Add some spice to the curry.",
+        "sentence_text": "Add some sp'i'ce to the curry.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.jpeg"
       }
