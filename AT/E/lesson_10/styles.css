@@ -1095,6 +1095,10 @@ body {
   width: 100%;
 }
 
+.listening-slide--matching {
+  overflow: visible;
+}
+
 .word-match-sentences {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
@@ -1117,6 +1121,10 @@ body {
   border: 1px dashed rgba(31, 41, 51, 0.15);
   border-radius: var(--radius-sm);
   background: rgba(31, 111, 235, 0.03);
+
+  position: sticky;
+  top: clamp(0.75rem, 2vw, 1.25rem);
+  z-index: 2;
 }
 
 .word-match-sentence {
