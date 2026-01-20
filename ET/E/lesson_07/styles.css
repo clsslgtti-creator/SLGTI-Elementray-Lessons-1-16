@@ -1081,9 +1081,11 @@ body {
 }
 
 .listening-option.is-selected:not(.is-incorrect) {
-  transform: translateY(-1px);
+  transform: none;
 
-  box-shadow: 0 12px 20px rgba(22, 163, 74, 0.18);
+  box-shadow: none;
+
+  border-color: #1d4ed8;
 }
 
 .listening-word-match {
@@ -1091,6 +1093,10 @@ body {
   flex-direction: column;
   gap: clamp(1.25rem, 3vw, 2rem);
   width: 100%;
+}
+
+.listening-slide--matching {
+  overflow: visible;
 }
 
 .word-match-sentences {
@@ -1115,6 +1121,10 @@ body {
   border: 1px dashed rgba(31, 41, 51, 0.15);
   border-radius: var(--radius-sm);
   background: rgba(31, 111, 235, 0.03);
+
+  position: sticky;
+  top: clamp(0.75rem, 2vw, 1.25rem);
+  z-index: 2;
 }
 
 .word-match-sentence {

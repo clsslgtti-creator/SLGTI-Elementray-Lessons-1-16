@@ -567,6 +567,7 @@ const buildMcqSlide = (questions = [], context = {}) => {
         id: normalizeString(item?.id) || `mcq_${index + 1}`,
         audio: audioUrl,
         answer,
+        answerNormalized: normalizeValue(answer),
         options: options.slice(0, 2),
       };
     })
@@ -577,6 +578,11 @@ const buildMcqSlide = (questions = [], context = {}) => {
     "slide slide--listening listening-slide listening-slide--mcq";
   buildHeading(slide, `${activityLabel}${subActivitySuffix}`);
   ensureInstructionAnchor(slide);
+  const instructionEl = slide.querySelector(".slide__instruction");
+  if (instructionEl) {
+    instructionEl.textContent =
+      "Listen to each recording twice, choose your answers, then check them.";
+  }
 
   const controls = document.createElement("div");
   controls.className = "slide__controls";
@@ -610,7 +616,7 @@ const buildMcqSlide = (questions = [], context = {}) => {
       button.className = "listening-option";
       button.textContent = option;
       button.dataset.optionValue = option;
-      button.disabled = true;
+      button.dataset.optionNormalized = normalizeValue(option);
       optionGroup.appendChild(button);
       return button;
     });
@@ -629,6 +635,7 @@ const buildMcqSlide = (questions = [], context = {}) => {
       card,
       buttons,
       feedback,
+      selectedNormalized: "",
     };
   });
 
@@ -639,12 +646,32 @@ const buildMcqSlide = (questions = [], context = {}) => {
     slide.appendChild(emptyState);
   }
 
+  const actions = document.createElement("div");
+  actions.className = "listening-mcq-actions";
+  const checkBtn = document.createElement("button");
+  checkBtn.type = "button";
+  checkBtn.className = "primary-btn listening-check-btn";
+  checkBtn.textContent = "Check Answers";
+  checkBtn.disabled = true;
+  const checkHint = document.createElement("span");
+  checkHint.className = "listening-check-hint";
+  checkHint.textContent =
+    "Please listen to the recording twice to check answers.";
+  const scoreEl = document.createElement("p");
+  scoreEl.className = "listening-score";
+  scoreEl.textContent = "";
+  actions.append(checkBtn, checkHint, scoreEl);
+  slide.appendChild(actions);
+
   let runController = null;
   let autoTriggered = false;
+  let isPlaying = false;
+  let playbackCompleted = false;
+  let answersChecked = false;
 
   const resetEntryState = (entry) => {
     entry.buttons.forEach((btn) => {
-      btn.disabled = true;
+      btn.disabled = false;
       btn.classList.remove(
         "is-selected",
         "is-correct",
@@ -661,99 +688,52 @@ const buildMcqSlide = (questions = [], context = {}) => {
     );
     entry.feedback.textContent = "";
     entry.feedback.className = "listening-feedback";
+    entry.selectedNormalized = "";
   };
 
   const resetAll = () => {
     entries.forEach(resetEntryState);
     status.textContent = "";
-    startBtn.disabled = false;
+  };
+  const updateButtonState = () => {
+    if (!entries.length) {
+      startBtn.disabled = true;
+      startBtn.textContent = "Start";
+    } else if (isPlaying) {
+      startBtn.disabled = true;
+      startBtn.textContent = "Playing...";
+    } else if (playbackCompleted) {
+      startBtn.disabled = true;
+      startBtn.textContent = "Playback finished";
+    } else {
+      startBtn.disabled = false;
+      startBtn.textContent = "Start";
+    }
+
+    checkBtn.disabled =
+      answersChecked || isPlaying || !playbackCompleted || !entries.length;
   };
 
-  const waitForSelection = (entry, { signal }) =>
-    new Promise((resolve) => {
-      let resolved = false;
+  updateButtonState();
 
-      const cleanup = () => {
-        timeoutId && window.clearTimeout(timeoutId);
-        entry.buttons.forEach((btn) => {
-          btn.disabled = true;
-          btn.removeEventListener("click", handleClick);
-        });
-        signal?.removeEventListener("abort", handleAbort);
-      };
-
-      const finalize = (result) => {
-        if (resolved) {
+  entries.forEach((entry) => {
+    entry.buttons.forEach((button) => {
+      button.addEventListener("click", () => {
+        if (answersChecked) {
           return;
         }
-        resolved = true;
-        cleanup();
-        resolve(result);
-      };
-
-      const handleClick = (event) => {
-        const value = normalizeString(event.currentTarget.dataset.optionValue);
-        finalize({ selected: value, timedOut: false, aborted: false });
-      };
-
-      const handleAbort = () => {
-        finalize({ selected: null, timedOut: false, aborted: true });
-      };
-
-      entry.buttons.forEach((btn) => {
-        btn.disabled = false;
-        btn.addEventListener("click", handleClick, { once: true });
-      });
-
-      const timeoutId = window.setTimeout(() => {
-        finalize({ selected: null, timedOut: true, aborted: false });
-      }, 5000);
-
-      signal?.addEventListener("abort", handleAbort, { once: true });
-    });
-
-  const applyFeedback = (entry, { selected, timedOut }) => {
-    const { answer } = entry.question;
-    const normalizedSelected = normalizeString(selected);
-    const isCorrect = normalizedSelected && normalizedSelected === answer;
-
-    entry.card.classList.add("has-feedback");
-    if (normalizedSelected) {
-      const selectedBtn = entry.buttons.find(
-        (btn) => normalizeString(btn.dataset.optionValue) === normalizedSelected
-      );
-      if (selectedBtn) {
-        selectedBtn.classList.add("is-selected");
-        selectedBtn.classList.add(
-          isCorrect ? "is-correct" : "is-incorrect"
+        const normalized = button.dataset.optionNormalized || "";
+        entry.selectedNormalized = normalized;
+        entry.buttons.forEach((btn) =>
+          btn.classList.remove("is-selected", "is-correct", "is-incorrect")
         );
-      }
-    }
-
-    const correctBtn = entry.buttons.find(
-      (btn) => normalizeString(btn.dataset.optionValue) === answer
-    );
-    correctBtn?.classList.add("is-correct");
-
-    let message = "";
-    if (isCorrect) {
-      entry.card.classList.add("is-correct");
-      message = "Correct!";
-      entry.feedback.textContent = message;
-      entry.feedback.classList.add("listening-feedback--positive");
-    } else if (timedOut) {
-      entry.card.classList.add("is-incorrect");
-      message = `Time's up! Answer: ${answer}`;
-      entry.feedback.textContent = message;
-      entry.feedback.classList.add("listening-feedback--neutral");
-    } else {
-      entry.card.classList.add("is-incorrect");
-      message = `Incorrect. Correct answer: ${answer}`;
-      entry.feedback.textContent = message;
-      entry.feedback.classList.add("listening-feedback--negative");
-    }
-    return message;
-  };
+        button.classList.add("is-selected");
+        entry.card.classList.remove("is-correct", "is-incorrect");
+        entry.feedback.textContent = "";
+        entry.feedback.className = "listening-feedback";
+      });
+    });
+  });
 
   const playQuestionAudio = async (entry, index, total, { signal }) => {
     const { audio } = entry.question;
@@ -784,10 +764,78 @@ const buildMcqSlide = (questions = [], context = {}) => {
     entry.card.classList.remove("is-playing");
   };
 
+  const checkAnswers = () => {
+    if (answersChecked || isPlaying || !playbackCompleted) {
+      return;
+    }
+    answersChecked = true;
+    let correctCount = 0;
+
+    entries.forEach((entry) => {
+      const selectedNormalized = entry.selectedNormalized;
+      const isCorrect =
+        selectedNormalized &&
+        selectedNormalized === entry.question.answerNormalized;
+      if (isCorrect) {
+        correctCount += 1;
+      }
+
+      entry.buttons.forEach((button) => {
+        button.disabled = true;
+      });
+
+      const selectedButton = entry.buttons.find(
+        (button) => button.dataset.optionNormalized === selectedNormalized
+      );
+      const correctButton = entry.buttons.find(
+        (button) =>
+          button.dataset.optionNormalized === entry.question.answerNormalized
+      );
+
+      if (selectedButton) {
+        selectedButton.classList.add("is-selected");
+        selectedButton.classList.add(
+          isCorrect ? "is-correct" : "is-incorrect"
+        );
+      }
+
+      correctButton?.classList.add("is-correct");
+      entry.card.classList.add(isCorrect ? "is-correct" : "is-incorrect");
+
+      entry.feedback.classList.remove(
+        "listening-feedback--positive",
+        "listening-feedback--negative",
+        "listening-feedback--neutral"
+      );
+
+      if (!selectedNormalized) {
+        entry.feedback.textContent = `No answer selected. Correct answer: ${entry.question.answer}`;
+        entry.feedback.classList.add("listening-feedback--neutral");
+      } else if (isCorrect) {
+        entry.feedback.textContent = "Correct!";
+        entry.feedback.classList.add("listening-feedback--positive");
+      } else {
+        entry.feedback.textContent = `Incorrect. Correct answer: ${entry.question.answer}`;
+        entry.feedback.classList.add("listening-feedback--negative");
+      }
+    });
+
+    if (entries.length) {
+      scoreEl.textContent = `Score: ${correctCount} / ${entries.length}`;
+      status.textContent = `You answered ${correctCount} of ${entries.length} correctly.`;
+      showCompletionModal({
+        title: "Results",
+        message: `You answered ${correctCount} out of ${entries.length} correctly.`,
+      });
+    }
+
+    updateButtonState();
+  };
+
   const runSequence = async () => {
     if (!entries.length) {
       status.textContent = "Questions are not available yet.";
-      startBtn.disabled = false;
+      updateButtonState();
       return;
     }
 
@@ -796,11 +844,14 @@ const buildMcqSlide = (questions = [], context = {}) => {
     const { signal } = runController;
 
     audioManager.stopAll();
-    entries.forEach(resetEntryState);
-    startBtn.disabled = true;
-    status.textContent = "";
+    entries.forEach((entry) => {
+      entry.card.classList.remove("is-active", "is-playing");
+    });
+    status.textContent = "Starting...";
+    isPlaying = true;
+    playbackCompleted = false;
+    updateButtonState();
 
-    let score = 0;
     try {
       for (let index = 0; index < entries.length; index += 1) {
         const entry = entries[index];
@@ -811,34 +862,6 @@ const buildMcqSlide = (questions = [], context = {}) => {
         if (signal.aborted) {
           break;
         }
-
-        status.textContent = "Choose the answer.";
-        const windowStart = performance.now();
-        const selection = await waitForSelection(entry, { signal });
-
-        if (selection.aborted) {
-          break;
-        }
-
-        const feedbackMessage = applyFeedback(entry, selection);
-        if (feedbackMessage) {
-          status.textContent = feedbackMessage;
-        }
-
-        if (
-          selection.selected &&
-          selection.selected === entry.question.answer
-        ) {
-          score += 1;
-        }
-
-        if (signal.aborted) {
-          break;
-        }
-
-        const elapsed = performance.now() - windowStart;
-        const remaining = Math.max(0, 5000 - elapsed);
-        await waitMs(remaining, { signal });
         entry.card.classList.remove("is-active");
       }
     } catch (error) {
@@ -850,16 +873,15 @@ const buildMcqSlide = (questions = [], context = {}) => {
       if (signal.aborted) {
         status.textContent = "Practice stopped.";
       } else {
-        status.textContent = `Practice complete. Score ${score}/${entries.length}.`;
-        showCompletionModal({
-          title: "Great Work!",
-          message: "You completed all of the listening questions.",
-        });
+        status.textContent =
+          "Playback complete. You can check your answers.";
+        playbackCompleted = true;
       }
-      startBtn.disabled = false;
       runController = null;
+      isPlaying = false;
       autoTriggered = false;
       slide._autoTriggered = false;
+      updateButtonState();
     }
   };
 
@@ -870,16 +892,21 @@ const buildMcqSlide = (questions = [], context = {}) => {
   };
 
   const triggerAutoPlay = () => {
-    if (autoTriggered) {
+    if (autoTriggered || isPlaying || playbackCompleted) {
       return;
     }
     startSequence();
   };
 
   startBtn.addEventListener("click", () => {
-    if (!autoTriggered) {
-      triggerAutoPlay();
+    if (isPlaying || playbackCompleted) {
+      return;
     }
+    triggerAutoPlay();
+  });
+
+  checkBtn.addEventListener("click", () => {
+    checkAnswers();
   });
 
   const autoPlay = {
@@ -893,10 +920,14 @@ const buildMcqSlide = (questions = [], context = {}) => {
     runController = null;
     audioManager.stopAll();
     entries.forEach(resetEntryState);
-    startBtn.disabled = false;
     status.textContent = "";
     autoTriggered = false;
     slide._autoTriggered = false;
+    isPlaying = false;
+    playbackCompleted = false;
+    answersChecked = false;
+    scoreEl.textContent = "";
+    updateButtonState();
   };
 
   const suffixSegment = context.subActivityLetter

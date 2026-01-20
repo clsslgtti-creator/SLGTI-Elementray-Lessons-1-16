@@ -1042,9 +1042,11 @@ body {
 }
 
 .listening-option.is-selected:not(.is-incorrect) {
-  transform: translateY(-1px);
+  transform: none;
 
-  box-shadow: 0 12px 20px rgba(22, 163, 74, 0.18);
+  box-shadow: none;
+
+  border-color: #1d4ed8;
 }
 
 .listening-feedback {
