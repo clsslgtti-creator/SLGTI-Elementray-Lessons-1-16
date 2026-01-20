@@ -1174,6 +1174,8 @@ const showSlide = (nextIndex) => {
   const nextSlide = slides[currentSlideIndex];
   nextSlide.element.classList.add("is-active");
   nextSlide.onEnter?.();
+
+  nextSlide._instructionComplete = false;
   handleInstructionForSlide(nextSlide);
   nextSlide.element.scrollTop = 0;
   nextSlide.element.querySelectorAll(".dialogue-grid").forEach((grid) => {
