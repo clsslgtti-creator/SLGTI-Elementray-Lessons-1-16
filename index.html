@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Lessons Index</title>
+    <title>SLGTI Elementray Lessons index</title>
     <style>
       * {
         box-sizing: border-box;
@@ -164,7 +164,7 @@
   </head>
   <body>
     <div class="container">
-      <h1>SLGTI Lessons Index</h1>
+      <h1>SLGTI Elementray Lessons index</h1>
       <div class="accordion" data-sections></div>
     </div>
 
@@ -189,7 +189,7 @@
 
       const createLessonMap = (overrides = {}) => {
         const lessons = {};
-        for (let i = 1; i <= 24; i += 1) {
+        for (let i = 1; i <= 32; i += 1) {
           const key = `lesson_${formatLessonId(i)}`;
           lessons[key] = Object.prototype.hasOwnProperty.call(overrides, key)
             ? overrides[key]
@@ -222,13 +222,6 @@
                 lesson_14: false,
               }),
             },
-            preIntermediate: {
-              label: "Pre-Intermediate",
-              code: "P",
-              lessons: createLessonMap({
-                lesson_01: false,
-              }),
-            },
           },
         },
         AT: {
@@ -252,13 +245,6 @@
                 lesson_12: false,
                 lesson_13: false,
                 lesson_14: false,
-              }),
-            },
-            preIntermediate: {
-              label: "Pre-Intermediate",
-              code: "P",
-              lessons: createLessonMap({
-                lesson_01: false,
               }),
             },
           },
@@ -286,13 +272,6 @@
                 lesson_14: false,
               }),
             },
-            preIntermediate: {
-              label: "Pre-Intermediate",
-              code: "P",
-              lessons: createLessonMap({
-                lesson_01: false,
-              }),
-            },
           },
         },
         ET: {
@@ -316,13 +295,6 @@
                 lesson_12: false,
                 lesson_13: false,
                 lesson_14: false,
-              }),
-            },
-            preIntermediate: {
-              label: "Pre-Intermediate",
-              code: "P",
-              lessons: createLessonMap({
-                lesson_01: false,
               }),
             },
           },
@@ -350,13 +322,6 @@
                 lesson_14: false,
               }),
             },
-            preIntermediate: {
-              label: "Pre-Intermediate",
-              code: "P",
-              lessons: createLessonMap({
-                lesson_01: false,
-              }),
-            },
           },
         },
         ICT: {
@@ -380,13 +345,6 @@
                 lesson_12: false,
                 lesson_13: false,
                 lesson_14: false,
-              }),
-            },
-            preIntermediate: {
-              label: "Pre-Intermediate",
-              code: "P",
-              lessons: createLessonMap({
-                lesson_01: false,
               }),
             },
           },
@@ -416,24 +374,12 @@
         sectionDetails.appendChild(sectionSummary);
 
         const sectionBody = document.createElement("div");
-        sectionBody.className = "accordion__body level-accordion";
+        sectionBody.className = "accordion__body";
 
-        const levelAccordions = [];
+        const lessonList = document.createElement("ul");
+        lessonList.className = "lesson-list";
 
         Object.entries(section.levels).forEach(([levelKey, level]) => {
-          const levelDetails = document.createElement("details");
-          levelDetails.className = "level";
-          levelAccordions.push(levelDetails);
-
-          const levelSummary = document.createElement("summary");
-          levelSummary.innerHTML = `
-            <span>${level.label}</span>
-          `;
-          levelDetails.appendChild(levelSummary);
-
-          const lessonList = document.createElement("ul");
-          lessonList.className = "lesson-list";
-
           Object.entries(level.lessons).forEach(([lessonKey, isLocked]) => {
             const listItem = document.createElement("li");
             const lessonNumber = lessonKey.replace("lesson_", "");
@@ -452,12 +398,9 @@
 
             lessonList.appendChild(listItem);
           });
-
-          levelDetails.appendChild(lessonList);
-          sectionBody.appendChild(levelDetails);
         });
 
-        setupAccordionGroup(levelAccordions);
+        sectionBody.appendChild(lessonList);
         sectionDetails.appendChild(sectionBody);
         sectionsContainer.appendChild(sectionDetails);
       });
