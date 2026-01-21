@@ -127,7 +127,7 @@ const buildInstructionBlock = (instruction) => {
 
   if (hasText) {
     const paragraph = document.createElement("p");
-    paragraph.className = "activity-instructions";
+    paragraph.className = "slide__instruction";
     paragraph.textContent = text;
     wrapper.appendChild(paragraph);
   }
