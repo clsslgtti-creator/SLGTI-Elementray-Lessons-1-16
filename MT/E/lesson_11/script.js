@@ -13,6 +13,7 @@ import { buildListeningThreeSlides } from "./lib/listening-3.js";
 import { buildListeningFourSlides } from "./lib/listening-4.js";
 import { buildListeningFiveSlides } from "./lib/listening-5.js";
 import { buildListeningSixSlides } from "./lib/listening-6.js";
+import { buildVideosSlides } from "./lib/videos.js";
 
 const slidesContainer = document.getElementById("slides");
 const progressIndicator = document.getElementById("progressIndicator");
@@ -215,6 +216,8 @@ const markLessonComplete = (index, totalSlides) => {
 };
 
 const activityBuilders = {
+
+  VIDEOS: buildVideosSlides,
   "SBS-1": buildSbsOneSlides,
   "SBS-3": buildSbsThreeSlides,
   "SBS-2": buildSbsTwoSlides,
@@ -1146,7 +1149,7 @@ const collectActivityEntries = (lessonData = {}) =>
         typeof value.focus === "string" && value.focus.trim().length
           ? value.focus.trim()
           : "";
-      const instructions = value.instructions ?? null;
+      const instructions = value.instructions ?? value.instrctions ?? null;
       return {
         key,
         type: rawType,
@@ -1318,10 +1321,11 @@ const buildLessonSlides = (lessonData) => {
           role: slideRoleInfo?.role,
           letter: slideRoleInfo?.letter,
         });
-        if (resolvedInstructions.audio) {
+        if (!slideObj.instructionAudio && resolvedInstructions.audio) {
           slideObj.instructionAudio = resolvedInstructions.audio;
         }
         const shouldInsertInstructions =
+          !slideObj.hasCustomInstructions &&
           resolvedInstructions.texts.length &&
           (!instructionsAreGeneral || index === 0);
         if (shouldInsertInstructions) {

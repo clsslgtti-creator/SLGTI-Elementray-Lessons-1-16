@@ -1,6 +1,7 @@
 import { buildMcqSlides } from "./lib/mcq.js";
 import { buildJumbledSlides } from "./lib/jumbled.js";
 import { buildListeningSlides } from "./lib/listening.js";
+import { buildVideosSlides } from "./lib/videos.js";
 
 const slidesContainer = document.getElementById("slides");
 const progressIndicator = document.getElementById("progressIndicator");
@@ -471,6 +472,8 @@ function updateScormScore(snapshot = getAssessmentSnapshot()) {
 }
 
 const activityBuilders = {
+
+  VIDEOS: buildVideosSlides,
   MCQ: buildMcqSlides,
   JUMBLED: buildJumbledSlides,
   LISTENING: buildListeningSlides,
@@ -1610,10 +1613,11 @@ const buildLessonSlides = (lessonData) => {
           role: slideRoleInfo?.role,
           letter: slideRoleInfo?.letter,
         });
-        if (resolvedInstructions.audio) {
+        if (!slideObj.instructionAudio && resolvedInstructions.audio) {
           slideObj.instructionAudio = resolvedInstructions.audio;
         }
         const shouldInsertInstructions =
+          !slideObj.hasCustomInstructions &&
           resolvedInstructions.texts.length &&
           (!instructionsAreGeneral || index === 0);
         if (shouldInsertInstructions) {
