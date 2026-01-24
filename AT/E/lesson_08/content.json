@@ -226,13 +226,13 @@
   "activity_3": {
     "type": "JUMBLED",
     "instruction": {
-      "text": "Rearrange these sentences in the correct order.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும்.",
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
       "audio": "assets/audio/a_3_i.mp3"
     },
     "content": [
       {
         "words": [
-          "the",
+          "The",
           "mechanic",
           "checks",
           "the",
@@ -244,76 +244,97 @@
         "sentence": "The mechanic checks the brakes every day."
       },
       {
-        "words": ["she", "didn’t", "drive", "the", "bus", "today", "."],
-        "sentence": "She didn’t drive the bus today."
+        "words": [
+          "She",
+          "was",
+          "happy",
+          "about",
+          "her",
+          "performance",
+          "yesterday",
+          "."
+        ],
+        "sentence": "She was happy about her performance yesterday."
       },
       {
-        "words": ["did", "they", "replace", "the", "clutch", "yesterday", "?"],
-        "sentence": "Did they replace the clutch yesterday?"
+        "words": ["There", "are", "many", "windows", "in", "my", "office", "."],
+        "sentence": "There are many windows in my office."
       },
       {
         "words": [
-          "the",
+          "The",
           "trainee",
-          "checks",
+          "is",
+          "checking",
           "the",
-          "tyre",
-          "pressure",
-          "daily",
+          "engine",
+          "right",
+          "now",
           "."
         ],
-        "sentence": "The trainee checks the tyre pressure daily."
+        "sentence": "The trainee is checking the engine right now."
       },
       {
-        "words": ["he", "washed", "the", "car", "in", "the", "garage", "."],
-        "sentence": "He washed the car in the garage."
+        "words": ["Are", "there", "tools", "in", "the", "garage", "?"],
+        "sentence": "Are there tools in the garage?"
       },
       {
-        "words": ["they", "do", "not", "fix", "engines", "at", "night", "."],
+        "words": ["They", "do", "not", "fix", "engines", "at", "night", "."],
         "sentence": "They do not fix engines at night."
       },
       {
         "words": [
-          "did",
-          "the",
+          "The",
           "worker",
-          "clean",
+          "cleans",
           "the",
-          "workshop",
+          "factory",
           "floor",
-          "?"
+          "every",
+          "day",
+          "."
         ],
-        "sentence": "Did the worker clean the workshop floor?"
+        "sentence": "The worker cleans the factory floor every day."
       },
       {
         "words": [
-          "the",
+          "The",
           "supervisor",
           "inspects",
           "the",
           "vehicles",
-          "each",
+          "every",
           "morning",
           "."
         ],
-        "sentence": "The supervisor inspects the vehicles each morning."
-      },
-      {
-        "words": ["she", "changed", "the", "battery", "last", "monday", "."],
-        "sentence": "She changed the battery last Monday."
+        "sentence": "The supervisor inspects the vehicles every morning."
       },
       {
         "words": [
-          "did",
+          "There",
+          "is",
+          "a",
+          "new",
+          "battery",
+          "in",
           "the",
-          "mechanic",
-          "test",
-          "the",
-          "windscreen",
-          "wipers",
-          "?"
+          "car",
+          "."
         ],
-        "sentence": "Did the mechanic test the windscreen wipers?"
+        "sentence": "There is a new battery in the car."
+      },
+      {
+        "words": [
+          "The",
+          "mechanic",
+          "was",
+          "late",
+          "for",
+          "work",
+          "yesterday",
+          "."
+        ],
+        "sentence": "The mechanic was late for work yesterday."
       }
     ]
   },

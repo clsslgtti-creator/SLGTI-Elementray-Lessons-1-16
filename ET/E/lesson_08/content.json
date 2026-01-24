@@ -226,13 +226,13 @@
   "activity_3": {
     "type": "JUMBLED",
     "instruction": {
-      "text": "Rearrange these sentences in the correct order.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும்.",
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
       "audio": "assets/audio/a_3_i.mp3"
     },
     "content": [
       {
         "words": [
-          "the",
+          "The",
           "electrician",
           "checks",
           "the",
@@ -244,56 +244,58 @@
         "sentence": "The electrician checks the light every morning."
       },
       {
-        "words": [
-          "did",
-          "they",
-          "test",
-          "the",
-          "wires",
-          "yesterday",
-          "morning",
-          "?"
-        ],
-        "sentence": "Did they test the wires yesterday morning?"
+        "words": ["The", "wires", "were", "too", "thin", "and", "weak", "."],
+        "sentence": "The wires were too thin and weak."
       },
       {
         "words": [
-          "he",
-          "connected",
-          "the",
+          "There",
+          "is",
+          "a",
           "cable",
+          "connected",
           "to",
           "the",
           "socket",
           "."
         ],
-        "sentence": "He connected the cable to the socket."
-      },
-      {
-        "words": ["she", "didn’t", "fix", "the", "fan", "properly", "."],
-        "sentence": "She didn’t fix the fan properly."
+        "sentence": "There is a cable connected to the socket."
       },
       {
         "words": [
+          "She",
+          "is",
+          "fixing",
           "the",
-          "students",
-          "measure",
+          "fan",
+          "at",
           "the",
-          "voltage",
-          "in",
-          "the",
-          "circuit",
+          "moment",
           "."
         ],
-        "sentence": "The students measure the voltage in the circuit."
+        "sentence": "She is fixing the fan at the moment."
       },
       {
-        "words": ["they", "did", "not", "check", "the", "fuse", "box", "."],
-        "sentence": "They did not check the fuse box."
+        "words": ["Are", "there", "students", "in", "the", "workshop", "?"],
+        "sentence": "Are there students in the workshop?"
       },
       {
         "words": [
-          "does",
+          "They",
+          "do",
+          "not",
+          "check",
+          "the",
+          "fuse",
+          "box",
+          "regularly",
+          "."
+        ],
+        "sentence": "They do not check the fuse box regularly."
+      },
+      {
+        "words": [
+          "Does",
           "the",
           "engineer",
           "replace",
@@ -306,42 +308,34 @@
       },
       {
         "words": [
-          "the",
+          "The",
           "instructor",
-          "taught",
+          "teaches",
           "earth",
           "wiring",
-          "yesterday",
-          "afternoon",
+          "every",
+          "term",
           "."
         ],
-        "sentence": "The instructor taught earth wiring yesterday afternoon."
+        "sentence": "The instructor teaches earth wiring every term."
       },
       {
         "words": [
-          "the",
-          "trainee",
-          "installs",
+          "There",
+          "is",
           "a",
+          "fused",
           "bulb",
           "in",
-          "class",
+          "the",
+          "classroom",
           "."
         ],
-        "sentence": "The trainee installs a bulb in class."
+        "sentence": "There is a fused bulb in the classroom."
       },
       {
-        "words": [
-          "he",
-          "changed",
-          "the",
-          "circuit",
-          "board",
-          "last",
-          "night",
-          "."
-        ],
-        "sentence": "He changed the circuit board last night."
+        "words": ["He", "was", "late", "for", "work", "yesterday", "."],
+        "sentence": "He was late for work yesterday."
       }
     ]
   },

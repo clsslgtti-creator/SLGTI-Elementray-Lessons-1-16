@@ -226,87 +226,105 @@
   "activity_3": {
     "type": "JUMBLED",
     "instruction": {
-      "text": "Rearrange these sentences in the correct order.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும்.",
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
       "audio": "assets/audio/a_3_i.mp3"
     },
     "content": [
       {
         "words": [
-          "the",
+          "The",
           "mason",
-          "builds",
-          "a",
-          "strong",
-          "wall",
-          "every",
-          "week",
+          "specializes",
+          "in",
+          "boundary",
+          "walls",
           "."
         ],
-        "sentence": "The mason builds a strong wall every week."
+        "sentence": "The mason specializes in boundary walls."
       },
       {
         "words": [
-          "they",
-          "did",
-          "not",
-          "finish",
+          "They",
+          "were",
+          "happy",
+          "about",
           "the",
-          "roof",
+          "work",
+          "done",
           "yesterday",
           "."
         ],
-        "sentence": "They did not finish the roof yesterday."
+        "sentence": "They were happy about the work done yesterday."
       },
       {
         "words": [
-          "did",
-          "the",
-          "engineer",
-          "check",
-          "the",
+          "There",
+          "are",
+          "ten",
           "cement",
           "bags",
+          "in",
+          "the",
+          "store",
+          "."
+        ],
+        "sentence": "There are ten cement bags in the store."
+      },
+      {
+        "words": [
+          "The",
+          "workers",
+          "are",
+          "unloading",
+          "bricks",
+          "at",
+          "the",
+          "moment",
+          "."
+        ],
+        "sentence": "The workers are unloading bricks at the moment."
+      },
+      {
+        "words": [
+          "Are",
+          "there",
+          "many",
+          "windows",
+          "in",
+          "the",
+          "building",
           "?"
         ],
-        "sentence": "Did the engineer check the cement bags?"
+        "sentence": "Are there many windows in the building?"
       },
       {
         "words": [
+          "She",
+          "doesn’t",
+          "measure",
           "the",
-          "workers",
-          "carry",
-          "bricks",
-          "to",
-          "the",
-          "site",
+          "beams",
+          "correctly",
           "."
         ],
-        "sentence": "The workers carry bricks to the site."
-      },
-      {
-        "words": ["he", "painted", "the", "door", "of", "the", "house", "."],
-        "sentence": "He painted the door of the house."
-      },
-      {
-        "words": ["she", "didn’t", "measure", "the", "beam", "correctly", "."],
-        "sentence": "She didn’t measure the beam correctly."
+        "sentence": "She doesn’t measure the beams correctly."
       },
       {
         "words": [
-          "the",
+          "The",
           "supervisor",
-          "checked",
+          "checks",
           "the",
           "scaffolding",
-          "last",
-          "night",
+          "every",
+          "morning",
           "."
         ],
-        "sentence": "The supervisor checked the scaffolding last night."
+        "sentence": "The supervisor checks the scaffolding every morning."
       },
       {
         "words": [
-          "do",
+          "Do",
           "they",
           "mix",
           "the",
@@ -320,19 +338,20 @@
       },
       {
         "words": [
-          "the",
-          "carpenter",
-          "cut",
-          "the",
+          "There",
+          "is",
+          "a",
+          "lot",
+          "of",
           "timber",
-          "last",
-          "friday",
+          "in",
+          "storage",
           "."
         ],
-        "sentence": "The carpenter cut the timber last Friday."
+        "sentence": "There is a lot of timber in storage."
       },
       {
-        "words": ["the", "builder", "uses", "a", "hammer", "and", "nails", "."],
+        "words": ["The", "builder", "uses", "a", "hammer", "and", "nails", "."],
         "sentence": "The builder uses a hammer and nails."
       }
     ]

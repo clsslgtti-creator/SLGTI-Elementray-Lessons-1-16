@@ -226,13 +226,13 @@
   "activity_3": {
     "type": "JUMBLED",
     "instruction": {
-      "text": "Rearrange these sentences in the correct order.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும்.",
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
       "audio": "assets/audio/a_3_i.mp3"
     },
     "content": [
       {
         "words": [
-          "the",
+          "The",
           "cook",
           "prepares",
           "rice",
@@ -245,37 +245,39 @@
       },
       {
         "words": [
-          "did",
-          "the",
+          "The",
           "trainee",
-          "boil",
-          "milk",
+          "was",
+          "very",
+          "good",
+          "at",
+          "the",
+          "practicals",
           "yesterday",
-          "morning",
-          "?"
+          "."
         ],
-        "sentence": "Did the trainee boil milk yesterday morning?"
+        "sentence": "The trainee was very good at the practicals yesterday."
       },
       {
-        "words": ["they", "bake", "bread", "in", "the", "oven", "daily", "."],
+        "words": ["They", "bake", "bread", "in", "the", "oven", "daily", "."],
         "sentence": "They bake bread in the oven daily."
       },
       {
         "words": [
-          "he",
-          "did",
-          "not",
-          "cut",
+          "There",
+          "are",
+          "many",
           "vegetables",
-          "yesterday",
-          "evening",
+          "in",
+          "the",
+          "fridge",
           "."
         ],
-        "sentence": "He did not cut vegetables yesterday evening."
+        "sentence": "There are many vegetables in the fridge."
       },
       {
         "words": [
-          "the",
+          "The",
           "instructor",
           "checks",
           "the",
@@ -287,34 +289,63 @@
         "sentence": "The instructor checks the refrigerator every day."
       },
       {
-        "words": ["she", "fried", "fish", "in", "oil", "last", "night", "."],
-        "sentence": "She fried fish in oil last night."
+        "words": [
+          "She",
+          "is",
+          "busy",
+          "frying",
+          "fish",
+          "at",
+          "the",
+          "moment",
+          "."
+        ],
+        "sentence": "She is busy frying fish at the moment."
       },
       {
-        "words": ["do", "they", "wash", "plates", "in", "the", "sink", "?"],
+        "words": ["Do", "they", "wash", "plates", "in", "the", "sink", "?"],
         "sentence": "Do they wash plates in the sink?"
       },
       {
         "words": [
-          "the",
+          "The",
           "students",
-          "measured",
+          "are",
+          "measuring",
           "the",
-          "flour",
+          "ingredients",
+          "right",
+          "now",
+          "."
+        ],
+        "sentence": "The students are measuring the ingredients right now."
+      },
+      {
+        "words": [
+          "Is",
+          "there",
+          "a",
+          "cutting",
+          "board",
           "in",
-          "class",
+          "the",
+          "kitchen",
+          "?"
+        ],
+        "sentence": "Is there a cutting board in the kitchen?"
+      },
+      {
+        "words": [
+          "The",
+          "baker",
+          "was",
+          "late",
+          "for",
+          "work",
           "yesterday",
           "."
         ],
-        "sentence": "The students measured the flour in class yesterday."
-      },
-      {
-        "words": ["he", "does", "not", "clean", "the", "cutting", "board", "."],
-        "sentence": "He does not clean the cutting board."
-      },
-      {
-        "words": ["the", "baker", "mixed", "spices", "in", "the", "dough", "."],
-        "sentence": "The baker mixed spices in the dough."
+        "sentence": "The baker was late for work yesterday."
       }
     ]
   },
