@@ -459,7 +459,7 @@
             "answer": "He checks the job card and prepares the tools.",
             "options": [
               "He checks the job card and prepares the tools.",
-              "He drives the cars to the paint shop.",
+              "He checks the job card and prepares the brake pads.",
               "He replaces the brake pads."
             ]
           },
@@ -467,7 +467,11 @@
             "id": "l_4_2",
             "question": "What does he use to tighten the bolts on the wheel hub?",
             "answer": "A torque wrench.",
-            "options": ["A screwdriver.", "A torque wrench.", "A hammer."]
+            "options": [
+              "A screwdriver.",
+              "A torque wrench.",
+              "A big sized wrench"
+            ]
           },
           {
             "id": "l_4_3",
@@ -476,7 +480,7 @@
             "options": [
               "He tests the horn, wipers, and indicators.",
               "He paints the car body.",
-              "He changes the tires only."
+              "He tests the horn, wipers, and suspension."
             ]
           },
           {
@@ -484,7 +488,7 @@
             "question": "Where does he record the details of the service?",
             "answer": "In the service log.",
             "options": [
-              "In the diagnostic scanner.",
+              "In the attendance log",
               "In the service log.",
               "On the workshop wall."
             ]
@@ -494,8 +498,8 @@
             "question": "What does Ramesh do before leaving the workshop?",
             "answer": "He locks the toolbox and switches off the power.",
             "options": [
-              "He forgets to clean the area.",
-              "He leaves all the tools on the bench.",
+              "He locks the toolbox and switches on the power.",
+              "He unlocks the toolbox and switches off the power.",
               "He locks the toolbox and switches off the power."
             ]
           }

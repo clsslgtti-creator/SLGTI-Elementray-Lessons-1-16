@@ -460,16 +460,16 @@
             "options": [
               "She prepares the scaffolding.",
               "She prepares the stainless-steel equipment.",
-              "She prepares the electrical cables."
+              "She prepares the stainless-steel cutlery."
             ]
           },
           {
             "id": "l_4_2",
             "question": "What does she often weigh?",
-            "answer": "He tests the horn, wipers, and indicators.",
+            "answer": "She weighs the ingredients on the digital scale.",
             "options": [
-              "She weighs the cement bags.",
-              "She weighs the bricks.",
+              "She weighs the flour bags on the digital scale.",
+              "She weighs the margarine on the scale.",
               "She weighs the ingredients on the digital scale."
             ]
           },
@@ -488,7 +488,7 @@
             "question": "What does she frequently supervise?",
             "answer": "The mixing of ingredients.",
             "options": [
-              "The cutting of timber.",
+              "The mixing of oil and sugar.",
               "The mixing of ingredients.",
               "The changing of tyres."
             ]
@@ -498,7 +498,7 @@
             "question": "What does she always do before leaving?",
             "answer": "She cleans, sterilizes, and removes waste.",
             "options": [
-              "She decorates the tools.",
+              "She cleans, wraps up extra food and removes waste.",
               "She hides the waste food.",
               "She cleans, sterilizes, and removes waste."
             ]
