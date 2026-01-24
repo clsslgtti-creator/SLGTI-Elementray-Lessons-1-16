@@ -460,14 +460,14 @@
             "options": [
               "He checks the duty chart and prepares his tools.",
               "He paints the finished wall.",
-              "He drives the cement mixer."
+              "He checks the duty chart and prepares his breakfast."
             ]
           },
           {
             "id": "l_4_2",
             "question": "What tool does he use to measure the height of the wall?",
             "answer": "A spirit level.",
-            "options": ["A wheelbarrow.", "A spirit level.", "A hammer."]
+            "options": ["A measuring tape.", "A spirit level.", "A spirit tape"]
           },
           {
             "id": "l_4_3",
@@ -476,7 +476,7 @@
             "options": [
               "He paints the scaffolding.",
               "He cuts blocks.",
-              "He mixes water."
+              "He cuts cement blocks."
             ]
           },
           {
@@ -485,7 +485,7 @@
             "answer": "In the site log.",
             "options": [
               "On the wall.",
-              "In the mixing bucket.",
+              "In the main office log.",
               "In the site log."
             ]
           },
@@ -494,7 +494,7 @@
             "question": "What does Kamal always do before leaving?",
             "answer": "He locks the storeroom and hands over the keys.",
             "options": [
-              "He forgets to clean the site.",
+              "He doesn’t lock the storeroom but hands over the keys.",
               "He leaves the bricks in the open.",
               "He locks the storeroom and hands over the keys."
             ]

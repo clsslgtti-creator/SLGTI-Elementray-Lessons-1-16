@@ -455,12 +455,12 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What does Ravi do first?",
+            "question": "What does Nimal do first?",
             "answer": "He checks the task list and switches on the workstation.",
             "options": [
               "He checks the task list and switches on the workstation.",
               "He paints the server room.",
-              "He repairs tyres."
+              "He checks the attendance list and switches on the workstation."
             ]
           },
           {
@@ -470,7 +470,7 @@
             "options": [
               "A broken transformer.",
               "A damaged LAN cable.",
-              "A mechanical seal."
+              "A damaged LEN cable."
             ]
           },
           {
@@ -490,7 +490,7 @@
             "options": [
               "He decorates them.",
               "He troubleshoots errors.",
-              "He ignores them."
+              "He troubleshoots any emergencies."
             ]
           },
           {
@@ -500,7 +500,7 @@
             "options": [
               "The router is painted.",
               "The server room is locked.",
-              "The tyres are inflated."
+              "The server room is unlocked."
             ]
           }
         ]

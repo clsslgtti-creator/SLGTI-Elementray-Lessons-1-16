@@ -460,14 +460,14 @@
             "options": [
               "He checks the duty schedule and gathers tools.",
               "He paints the workshop wall.",
-              "He repairs tyres."
+              "He checks the duty schedule and gathers tires."
             ]
           },
           {
             "id": "l_4_2",
             "question": "What does he often replace?",
             "answer": "A blown fuse.",
-            "options": ["A socket.", "A blown fuse.", "A transformer."]
+            "options": ["A broken fuse.", "A blown fuse.", "A transformer."]
           },
           {
             "id": "l_4_3",
@@ -476,7 +476,7 @@
             "options": [
               "He uses a torque wrench.",
               "He uses a megger.",
-              "He uses a hammer."
+              "He uses a musking tape."
             ]
           },
           {
@@ -486,7 +486,7 @@
             "options": [
               "On the wall chart.",
               "In the logbook.",
-              "In the toolbox."
+              "On the special chart in the office."
             ]
           },
           {
@@ -494,7 +494,7 @@
             "question": "What does he always do before leaving?",
             "answer": "He switches off the power and cleans the bench.",
             "options": [
-              "He leaves the power on.",
+              "He switches on the power and cleans the bench.",
               "He forgets the tools.",
               "He switches off the power and cleans the bench."
             ]

@@ -468,7 +468,7 @@
             "question": "What does she never forget?",
             "answer": "To lubricate the moving parts.",
             "options": [
-              "To lubricate moving parts.",
+              "To lubricate all the loose parts.",
               "To lubricate the moving parts.",
               "To paint the moving parts."
             ]
@@ -478,7 +478,7 @@
             "question": "What tools does she use to measure accuracy?",
             "answer": "She uses a vernier caliper and micrometer.",
             "options": [
-              "She uses a hammer and chisel.",
+              "She uses a screw caliper and micrometer.",
               "She uses a vernier caliper and micrometer.",
               "She uses a screwdriver and tester."
             ]
@@ -488,7 +488,7 @@
             "question": "What does she frequently clean?",
             "answer": "The surface of the machine.",
             "options": [
-              "The service log.",
+              "The inside of the machine.",
               "The oil tank.",
               "The surface of the machine."
             ]
