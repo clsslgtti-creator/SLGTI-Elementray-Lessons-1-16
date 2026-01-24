@@ -226,13 +226,13 @@
   "activity_3": {
     "type": "JUMBLED",
     "instruction": {
-      "text": "Rearrange these sentences in the correct order.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும்.",
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
       "audio": "assets/audio/a_3_i.mp3"
     },
     "content": [
       {
         "words": [
-          "the",
+          "The",
           "machinist",
           "operates",
           "the",
@@ -245,102 +245,116 @@
       },
       {
         "words": [
-          "they",
-          "did",
-          "not",
-          "oil",
+          "They",
+          "were",
+          "happy",
+          "with",
           "the",
-          "gears",
+          "repairs",
           "yesterday",
           "."
         ],
-        "sentence": "They did not oil the gears yesterday."
+        "sentence": "They were happy with the repairs yesterday."
       },
       {
         "words": [
-          "the",
-          "trainee",
-          "filed",
+          "There",
+          "is",
           "a",
           "metal",
           "piece",
-          "today",
+          "on",
+          "the",
+          "floor",
           "."
         ],
-        "sentence": "The trainee filed a metal piece today."
-      },
-      {
-        "words": ["did", "he", "polish", "the", "shaft", "last", "night", "?"],
-        "sentence": "Did he polish the shaft last night?"
+        "sentence": "There is a metal piece on the floor."
       },
       {
         "words": [
+          "He",
+          "is",
+          "polishing",
           "the",
-          "instructor",
-          "checks",
-          "the",
+          "stainless",
+          "steel",
+          "railing",
+          "now",
+          "."
+        ],
+        "sentence": "He is polishing the stainless steel railing now."
+      },
+      {
+        "words": [
+          "Are",
+          "there",
+          "any",
           "cutting",
           "tools",
-          "daily",
-          "."
+          "in",
+          "the",
+          "warehouse",
+          "?"
         ],
-        "sentence": "The instructor checks the cutting tools daily."
+        "sentence": "Are there any cutting tools in the warehouse?"
       },
       {
         "words": [
-          "she",
-          "tightened",
+          "She",
+          "tightens",
           "the",
           "bolts",
           "on",
           "the",
           "frame",
+          "daily",
           "."
         ],
-        "sentence": "She tightened the bolts on the frame."
+        "sentence": "She tightens the bolts on the frame daily."
       },
       {
         "words": [
-          "they",
+          "They",
           "do",
           "not",
           "measure",
           "the",
-          "part",
+          "rods",
           "correctly",
           "."
         ],
-        "sentence": "They do not measure the part correctly."
+        "sentence": "They do not measure the rods correctly."
       },
       {
         "words": [
-          "the",
+          "The",
           "students",
-          "adjusted",
+          "are",
+          "recording",
           "the",
-          "spanner",
-          "last",
-          "week",
+          "readings",
+          "right",
+          "now",
           "."
         ],
-        "sentence": "The students adjusted the spanner last week."
+        "sentence": "The students are recording the readings right now."
       },
       {
-        "words": ["he", "uses", "a", "drill", "in", "the", "workshop", "."],
+        "words": ["He", "uses", "a", "drill", "in", "the", "workshop", "."],
         "sentence": "He uses a drill in the workshop."
       },
       {
         "words": [
-          "did",
-          "the",
+          "The",
           "worker",
-          "sharpen",
-          "the",
-          "saw",
-          "blade",
-          "?"
+          "was",
+          "late",
+          "for",
+          "work",
+          "yesterday",
+          "."
         ],
-        "sentence": "Did the worker sharpen the saw blade?"
+        "sentence": "The worker was late for work yesterday."
       }
     ]
   },

@@ -19,8 +19,8 @@ const shuffleArray = (items = []) => {
 };
 
 const tokenizeSentence = (sentence) => {
-  const normalized = normalizeText(sentence).toLowerCase();
-  const matches = normalized.match(/[a-z0-9']+|[.?]/g);
+  const normalized = normalizeText(sentence);
+  const matches = normalized.match(/[A-Za-z0-9']+|[.?]/g);
   return matches ? matches : [];
 };
 

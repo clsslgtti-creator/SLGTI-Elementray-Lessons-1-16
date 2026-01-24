@@ -226,13 +226,13 @@
   "activity_3": {
     "type": "JUMBLED",
     "instruction": {
-      "text": "Rearrange these sentences in the correct order.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும்.",
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
       "audio": "assets/audio/a_3_i.mp3"
     },
     "content": [
       {
         "words": [
-          "the",
+          "The",
           "student",
           "types",
           "reports",
@@ -244,25 +244,36 @@
         "sentence": "The student types reports on the computer."
       },
       {
-        "words": ["she", "didn’t", "update", "the", "file", "today", "."],
-        "sentence": "She didn’t update the file today."
-      },
-      {
         "words": [
-          "did",
-          "the",
-          "trainee",
-          "install",
-          "the",
-          "software",
+          "She",
+          "is",
+          "upset",
+          "about",
+          "her",
+          "poor",
+          "performance",
           "yesterday",
-          "?"
+          "."
         ],
-        "sentence": "Did the trainee install the software yesterday?"
+        "sentence": "She is upset about her poor performance yesterday."
       },
       {
         "words": [
-          "they",
+          "There",
+          "is",
+          "new",
+          "software",
+          "available",
+          "online",
+          "for",
+          "this",
+          "."
+        ],
+        "sentence": "There is new software available online for this."
+      },
+      {
+        "words": [
+          "They",
           "check",
           "emails",
           "on",
@@ -275,50 +286,39 @@
       },
       {
         "words": [
-          "the",
-          "programmer",
-          "wrote",
-          "code",
+          "Are",
+          "there",
+          "extra",
+          "routers",
           "in",
           "the",
-          "lab",
-          "."
-        ],
-        "sentence": "The programmer wrote code in the lab."
-      },
-      {
-        "words": ["he", "did", "not", "save", "the", "new", "data", "."],
-        "sentence": "He did not save the new data."
-      },
-      {
-        "words": [
-          "did",
-          "she",
-          "print",
-          "the",
-          "document",
-          "this",
-          "morning",
+          "storage",
+          "room",
           "?"
         ],
-        "sentence": "Did she print the document this morning?"
+        "sentence": "Are there extra routers in the storage room?"
+      },
+      {
+        "words": ["He", "doesn’t", "save", "any", "new", "data", "."],
+        "sentence": "He doesn’t save any new data."
       },
       {
         "words": [
+          "Is",
+          "she",
+          "printing",
           "the",
-          "technician",
-          "repaired",
+          "document",
+          "at",
           "the",
-          "printer",
-          "last",
-          "week",
-          "."
+          "moment",
+          "?"
         ],
-        "sentence": "The technician repaired the printer last week."
+        "sentence": "Is she printing the document at the moment?"
       },
       {
         "words": [
-          "the",
+          "The",
           "instructor",
           "teaches",
           "databases",
@@ -330,17 +330,22 @@
         "sentence": "The instructor teaches databases in the class."
       },
       {
+        "words": ["He", "was", "late", "to", "work", "yesterday", "."],
+        "sentence": "He was late to work yesterday."
+      },
+      {
         "words": [
-          "he",
-          "uploaded",
+          "The",
+          "technicians",
+          "are",
+          "busy",
+          "repairing",
           "the",
-          "project",
-          "files",
-          "last",
-          "night",
+          "printers",
+          "now",
           "."
         ],
-        "sentence": "He uploaded the project files last night."
+        "sentence": "The technicians are busy repairing the printers now."
       }
     ]
   },
