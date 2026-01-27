@@ -223,7 +223,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/Wednesday.png",
+        "img": "assets/img/Wednesday-2.png",
         "text_a": "Do you and your friend play cricket on Friday?",
         "text_b": "No, we don’t.",
         "text_c": "When do you and your friend play cricket?",
@@ -390,238 +390,339 @@
     }
   },
   "activity_4": {
-    "type": "READING-1",
+    "type": "LISTENING-8",
     "instructions": {
-      "context": {
-        "text": "Read the passage below carefully before you attempt the activities.\nපහත පරිච්ඡේදය සලකා බලන්න. ඔබ ක්‍රියාකාරකම් උත්සාහ කිරීමට පෙර.\nகீழே உள்ள பகுதியை கவனமாகப் படியுங்கள்.",
-        "audio": "assets/audio/a_4_i_h.mp3"
-      },
       "activity_a": {
-        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_4_i_c.mp3"
+        "text": "Listen to the recording and match the verbs to the nouns.\nරෙකෝඩින් එක සවන් දී ක්‍රියා පදයන් නාම පදයන්ට ගැලපෙන්න.\nபதிவைக் கேட்டு வினைகள் மற்றும் பெயர்ச்சொற்களை பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_i.mp3"
       },
       "activity_b": {
-        "text": "Read the questions and choose the correct answer.\nප්‍රශ්න කියවන්න සහ නිවැරදි පිළිතුර තෝරන්න.\nகேள்விகளைப் படித்து சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
-        "audio": "assets/audio/a_4_i_f.mp3"
+        "text": "Listen to the audio which will be played twice and match  the correct frequency verb with the collocation/phrase. \nදෙවරක් වාදනය වන ශ්‍රව්‍යයට සවන් දී නිවැරදි සංඛ්‍යාත්මක ක්‍රියා පදය සමඟ එකතු කරන්න.\nஇருமுறை ஒலிப்பதிவைக் கேட்டு சரியான அடிக்கடி வினையை இணைக்கவும்.",
+        "audio": "assets/audio/a_4_i_j.mp3"
       },
       "activity_c": {
-        "text": "Put these jumbled words in the correct order, to make a sentence.\nමෙම අකුරු ගැටුම් නිවැරදි අනුපිළිවෙලට තබා වාක්‍යයක් සාදන්න.\nஇந்த குழப்பமான வார்த்தைகளை சரியான வரிசையில் வைத்து ஒரு வாக்கியமாக மாற்றுங்கள்.",
-        "audio": "assets/audio/a_4_i_g.mp3"
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
       }
-    },
-    "context": {
-      "title": "Food Mixer 2000 – Instruction Manual",
-      "cover": "assets/img/a_4.png",
-      "content": [
-        {
-          "section_number": "1",
-          "section_title": "Parts Identification",
-          "intro": "The Food Mixer 2000 is a powerful and efficient kitchen machine used for mixing, whipping, and kneading various food products.",
-          "subsections": [
-            {
-              "subtitle": "Main Parts",
-              "items": [
-                "Control Knob – used to select speed levels for different ingredients.",
-                "Mixing Bowl – holds up to 4 litres of dough or batter.",
-                "Whisk Attachment – used for whipping cream or beating eggs.",
-                "Dough Hook – for kneading bread or pastry dough.",
-                "Beater Blade – for mixing batters and sauces.",
-                "Splash Guard – prevents ingredients from spilling out during operation.",
-                "Power Cord – connects the mixer to the electrical outlet.",
-                "Overheat Indicator – lights up if the motor becomes too hot."
-              ]
-            }
-          ]
-        },
-        {
-          "section_number": "2",
-          "section_title": "Setup and Operation",
-          "steps": [
-            "Place the mixer on a flat, dry surface.",
-            "Attach the mixing bowl and lock it securely in position.",
-            "Insert the required attachment depending on your task.",
-            "Plug in the power cord and turn the control knob to the desired speed.",
-            "Start with a low speed for dry ingredients and increase gradually.",
-            "Do not run the mixer continuously for more than 10 minutes.",
-            "If the Overheat Indicator turns on, switch off the mixer and allow it to cool.",
-            "Always unplug the unit before removing or cleaning attachments.",
-            "Wipe the body with a damp cloth and dry it completely after use."
-          ]
-        },
-        {
-          "section_number": "3",
-          "section_title": "Safety Precautions",
-          "items": [
-            "Never place fingers or utensils inside the bowl while the mixer is running.",
-            "Avoid using the mixer with wet hands.",
-            "Do not immerse the motor housing in water.",
-            "Always ensure attachments are properly fitted before starting.",
-            "Use only original parts and accessories supplied by the manufacturer."
-          ]
-        },
-        {
-          "section_number": "4",
-          "section_title": "Maintenance",
-          "items": [
-            "Clean attachments immediately after use to prevent food residue.",
-            "Grease the moving parts lightly once every six months.",
-            "Store the mixer in a cool, dry place when not in use."
-          ]
-        }
-      ]
     },
     "content": {
       "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "knead",
-            "item_b": "to press and fold dough to make it smooth and elastic"
+            "item_a": "manages",
+            "item_b": "office documentation"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "attachment",
-            "item_b": "a removable tool or part added for a specific purpose"
+            "item_a": "maintains",
+            "item_b": "accurate staff and student records"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "residue",
-            "item_b": "a small amount of something that remains after the main part is gone"
+            "item_a": "checks",
+            "item_b": "details"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "indicator",
-            "item_b": "a signal or light showing the machine’s condition"
+            "item_a": "handles",
+            "item_b": "correspondence"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "accessory",
-            "item_b": "an additional item that supports the main equipment"
+            "item_a": "prepares",
+            "item_b": "reports"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "immerse",
-            "item_b": "to dip or submerge in a liquid"
+            "item_a": "plays",
+            "item_b": "a key role"
           }
         ]
       },
       "activity_b": {
-        "Questions": [
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "content": [
           {
-            "id": "l_4_1",
-            "question": "What are the main functions of the Food Mixer 2000?",
-            "answer": "Mixing, whipping, and kneading various food products",
-            "options": [
-              "Grinding and slicing food",
-              "Heating and blending food",
-              "Mixing, whipping, and kneading various food products"
-            ]
+            "id": "n_4_a_1",
+            "item_a": "always",
+            "item_b": "follows institutional procedures"
           },
           {
-            "id": "l_4_2",
-            "question": "Which attachment is used for kneading bread or pastry dough?",
-            "answer": "Dough Hook",
-            "options": ["Whisk Attachment", "Beater Blade", "Dough Hook"]
+            "id": "n_4_a_2",
+            "item_a": "never",
+            "item_b": "discloses confidential information"
           },
           {
-            "id": "l_4_3",
-            "question": "What should you do if the Overheat Indicator turns on?",
-            "answer": "Switch off the mixer and allow it to cool",
-            "options": [
-              "Add more ingredients to cool the motor",
-              "Switch off the mixer and allow it to cool",
-              "Turn the control knob to the highest speed"
-            ]
+            "id": "n_4_a_3",
+            "item_a": "sometimes",
+            "item_b": "uses her judgement"
           },
           {
-            "id": "l_4_4",
-            "question": "How long can the mixer safely run continuously?",
-            "answer": "No more than 10 minutes",
-            "options": [
-              "Up to 20 minutes",
-              "No more than 10 minutes",
-              "About 30 minutes"
-            ]
+            "id": "n_4_a_4",
+            "item_a": "rarely",
+            "item_b": "interacts with students"
           },
           {
-            "id": "l_4_5",
-            "question": "What is one key safety precaution when using the Food Mixer 2000?",
-            "answer": "Never place fingers or utensils inside the bowl while the mixer is running",
-            "options": [
-              "Use metal spoons inside the bowl while mixing",
-              "Plug in before attaching accessories",
-              "Never place fingers or utensils inside the bowl while the mixer is running"
-            ]
+            "id": "n_4_a_5",
+            "item_a": "hardly ever",
+            "item_b": "interacts with academic staff"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "usually",
+            "item_b": "supports all departments"
+          },
+          {
+            "id": "n_4_a_7",
+            "item_a": "often",
+            "item_b": "communicates  with external offices"
           }
         ]
       },
       "activity_c": [
         {
-          "words": [
-            "Unplug",
-            "the",
-            "unit",
-            "before",
-            "removing",
-            "attachments",
-            "."
-          ],
-          "sentence": "Unplug the unit before removing attachments."
+          "id": "t_2_1",
+          "text": "Today, I would like to present the role of an administrative assistant, a position essential to all six sections of our TVET institution.",
+          "audio": "assets/audio/t_2_1.mp3"
         },
         {
-          "words": [
-            "Clean",
-            "attachments",
-            "after",
-            "use",
-            "to",
-            "prevent",
-            "food",
-            "residue",
-            "."
-          ],
-          "sentence": "Clean attachments after use to prevent food residue."
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
         },
         {
-          "words": [
-            "Store",
-            "the",
-            "mixer",
-            "in",
-            "a",
-            "cool",
-            "dry",
-            "place",
-            "."
-          ],
-          "sentence": "Store the mixer in a cool, dry place."
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
         },
         {
-          "words": [
-            "Avoid",
-            "using",
-            "the",
-            "mixer",
-            "with",
-            "wet",
-            "hands",
-            "."
-          ],
-          "sentence": "Avoid using the mixer with wet hands."
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
         },
         {
-          "words": [
-            "Do",
-            "not",
-            "immerse",
-            "the",
-            "motor",
-            "housing",
-            "in",
-            "water",
-            "."
-          ],
-          "sentence": "Do not immerse the motor housing in water."
+          "id": "t_2_5",
+          "text": "This role does not teach classes and does not supervise workshop activities.",
+          "audio": "assets/audio/t_2_5.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_8",
+          "text": "Does the administrative assistant work with instructors regularly?",
+          "audio": "assets/audio/t_2_8.mp3"
+        },
+        {
+          "id": "t_2_9",
+          "text": "Yes.",
+          "audio": "assets/audio/t_2_9.mp3"
+        },
+        {
+          "id": "t_2_10",
+          "text": "Does this role support only one section?",
+          "audio": "assets/audio/t_2_10.mp3"
+        },
+        {
+          "id": "t_2_11",
+          "text": "No.",
+          "audio": "assets/audio/t_2_11.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_13",
+          "text": "This position plays a key role to ensure the smooth running of the institution.in smooth institutional management.",
+          "audio": "assets/audio/t_2_13.mp3"
+        },
+        {
+          "id": "t_2_14",
+          "text": "I will now outline the role of a caretaker, a position vital for safety and daily operations.",
+          "audio": "assets/audio/t_2_14.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_18",
+          "text": "This role does not handle office duties and does not repair specialised machines.",
+          "audio": "assets/audio/t_2_18.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_20",
+          "text": "Does the caretaker work every day?",
+          "audio": "assets/audio/t_2_20.mp3"
+        },
+        {
+          "id": "t_2_21",
+          "text": "Yes.",
+          "audio": "assets/audio/t_2_21.mp3"
+        },
+        {
+          "id": "t_2_22",
+          "text": "Does this role work only indoors?",
+          "audio": "assets/audio/t_2_22.mp3"
+        },
+        {
+          "id": "t_2_23",
+          "text": "No.",
+          "audio": "assets/audio/t_2_23.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
+        },
+        {
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
+        },
+        {
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
+        },
+        {
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
+        },
+        {
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
         }
       ]
     }

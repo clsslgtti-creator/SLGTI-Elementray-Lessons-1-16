@@ -223,7 +223,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/Wednesday.png",
+        "img": "assets/img/Wednesday-2.png",
         "text_a": "Do you and your friend play cricket on Friday?",
         "text_b": "No, we don’t.",
         "text_c": "When do you and your friend play cricket?",
@@ -390,288 +390,339 @@
     }
   },
   "activity_4": {
-    "type": "READING-1",
+    "type": "LISTENING-8",
     "instructions": {
-      "context": {
-        "text": "Read the passage below carefully before you attempt the activities.\nපහත පරිච්ඡේදය සලකා බලන්න. ඔබ ක්‍රියාකාරකම් උත්සාහ කිරීමට පෙර.\nகீழே உள்ள பகுதியை கவனமாகப் படியுங்கள்.",
-        "audio": "assets/audio/a_4_i_h.mp3"
-      },
       "activity_a": {
-        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_4_i_c.mp3"
+        "text": "Listen to the recording and match the verbs to the nouns.\nරෙකෝඩින් එක සවන් දී ක්‍රියා පදයන් නාම පදයන්ට ගැලපෙන්න.\nபதிவைக் கேட்டு வினைகள் மற்றும் பெயர்ச்சொற்களை பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_i.mp3"
       },
       "activity_b": {
-        "text": "Read the questions and choose the correct answer.\nප්‍රශ්න කියවන්න සහ නිවැරදි පිළිතුර තෝරන්න.\nகேள்விகளைப் படித்து சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
-        "audio": "assets/audio/a_4_i_f.mp3"
+        "text": "Listen to the audio which will be played twice and match  the correct frequency verb with the collocation/phrase. \nදෙවරක් වාදනය වන ශ්‍රව්‍යයට සවන් දී නිවැරදි සංඛ්‍යාත්මක ක්‍රියා පදය සමඟ එකතු කරන්න.\nஇருமுறை ஒலிப்பதிவைக் கேட்டு சரியான அடிக்கடி வினையை இணைக்கவும்.",
+        "audio": "assets/audio/a_4_i_j.mp3"
       },
       "activity_c": {
-        "text": "Put these jumbled words in the correct order, to make a sentence.\nමෙම අකුරු ගැටුම් නිවැරදි අනුපිළිවෙලට තබා වාක්‍යයක් සාදන්න.\nஇந்த குழப்பமான வார்த்தைகளை சரியான வரிசையில் வைத்து ஒரு வாக்கியமாக மாற்றுங்கள்.",
-        "audio": "assets/audio/a_4_i_g.mp3"
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
       }
-    },
-    "context": {
-      "title": "AUTOTUNE 500 – Digital Engine Analyser",
-      "cover": "assets/img/a_4.png",
-      "content": [
-        {
-          "section_number": "1",
-          "section_title": "Parts Identification",
-          "intro": "The AutoTune 500 Digital Engine Analyser is designed for diagnostic testing of petrol and diesel engines.",
-          "subsections": [
-            {
-              "subtitle": "Main Components",
-              "items": [
-                "Control Panel – contains the digital display, mode selector, and test buttons.",
-                "Probe Leads – connect to spark-plug wires or sensors for measurement.",
-                "RPM Clamp – measures engine speed directly from the ignition coil.",
-                "Battery Leads (Red/Black) – provide power and detect battery voltage.",
-                "USB Port – for connecting to a computer or diagnostic tablet.",
-                "Data Port (OBD-II) – interfaces with modern vehicles for ECU readings.",
-                "Cooling Fan Vent – prevents overheating during extended use.",
-                "Carrying Handle – for easy transport between work bays."
-              ]
-            }
-          ]
-        },
-        {
-          "section_number": "2",
-          "section_title": "Setup and Connection",
-          "steps": [
-            "Unpack the analyser and check for all accessories.",
-            "Connect the battery leads: red to positive (+), black to negative (–).",
-            "Attach the RPM clamp around the ignition cable if required.",
-            "Plug the OBD-II connector into the vehicle diagnostic port (usually under the dashboard).",
-            "Press the Power button to start the unit.",
-            "Select the test mode (RPM, Voltage, Timing, Emission, or Sensor Check) on the control panel.",
-            "For data logging, connect the USB cable to your computer and open the AutoTune Utility Software."
-          ]
-        },
-        {
-          "section_number": "3",
-          "section_title": "Operation",
-          "subsections": [
-            {
-              "subtitle": "Engine Test",
-              "items": [
-                "Choose “Engine Diagnostics”.",
-                "Start the vehicle engine.",
-                "The display will show RPM, voltage, and timing advance readings."
-              ]
-            },
-            {
-              "subtitle": "Battery & Charging Test",
-              "items": [
-                "Select “Battery Mode”.",
-                "Follow on-screen prompts to measure charge rate and alternator output."
-              ]
-            },
-            {
-              "subtitle": "Sensor Test",
-              "items": [
-                "Select the sensor type (e.g. oxygen sensor or throttle position sensor).",
-                "Observe live data on the screen or save results to the USB drive."
-              ]
-            },
-            {
-              "subtitle": "Data Export",
-              "items": [
-                "Connect to PC.",
-                "Open AutoTune Utility.",
-                "Click “Export Report” to generate a PDF summary."
-              ]
-            }
-          ]
-        },
-        {
-          "section_number": "4",
-          "section_title": "Troubleshooting and Maintenance",
-          "subsections": [
-            {
-              "subtitle": "Common Issues and Solutions",
-              "items": [
-                "No Power: Check clamps and vehicle battery connection.",
-                "No Reading: Ensure probes and OBD-II cable are firmly connected.",
-                "Inaccurate RPM Display: Adjust clamp position or recalibrate in settings.",
-                "Software Not Detecting Device: Reinstall the AutoTune driver or use another USB port."
-              ]
-            },
-            {
-              "subtitle": "Maintenance Tips",
-              "items": [
-                "Keep leads clean and store them in the provided case.",
-                "Wipe the screen and body with a dry, lint-free cloth.",
-                "Do not expose it to rain or high humidity.",
-                "Update firmware via the official AutoTune website every six months."
-              ]
-            }
-          ]
-        },
-        {
-          "section_number": "5",
-          "section_title": "Safety Precautions",
-          "items": [
-            "Always turn off the engine before connecting or disconnecting cables.",
-            "Keep cables away from hot engine parts.",
-            "Use only original accessories.",
-            "Do not attempt to open the unit; servicing must be done by authorised technicians."
-          ]
-        }
-      ]
     },
     "content": {
       "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "emission",
-            "item_b": "the production and discharge of something, especially gas or radiation"
+            "item_a": "manages",
+            "item_b": "office documentation"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "probe",
-            "item_b": "a wire or connector used to detect electrical signals from engine parts"
+            "item_a": "maintains",
+            "item_b": "accurate staff and student records"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "RPM clamp",
-            "item_b": "a tool that measures engine speed using ignition pulses"
+            "item_a": "checks",
+            "item_b": "details"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "diagnostics",
-            "item_b": "the process of identifying vehicle faults using electronic tools"
+            "item_a": "handles",
+            "item_b": "correspondence"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "calibrate",
-            "item_b": "to adjust a measuring instrument for accurate readings"
+            "item_a": "prepares",
+            "item_b": "reports"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "troubleshooting",
-            "item_b": "analysing and solving technical problems"
+            "item_a": "plays",
+            "item_b": "a key role"
           }
         ]
       },
       "activity_b": {
-        "Questions": [
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "content": [
           {
-            "id": "l_4_1",
-            "question": "What is the main purpose of the AutoTune 500 Digital Engine Analyser?",
-            "answer": "To perform diagnostic testing of petrol and diesel engines",
-            "options": [
-              "To clean vehicle fuel injectors",
-              "To charge automotive batteries",
-              "To perform diagnostic testing of petrol and diesel engines"
-            ]
+            "id": "n_4_a_1",
+            "item_a": "always",
+            "item_b": "follows institutional procedures"
           },
           {
-            "id": "l_4_2",
-            "question": "Which component connects the analyser to the vehicle’s ECU for readings?",
-            "answer": "Data Port (OBD-II)",
-            "options": ["USB Port", "RPM Clamp", "Data Port (OBD-II)"]
+            "id": "n_4_a_2",
+            "item_a": "never",
+            "item_b": "discloses confidential information"
           },
           {
-            "id": "l_4_3",
-            "question": "What should you do if the software does not detect the device?",
-            "answer": "Reinstall the AutoTune driver or use another USB port",
-            "options": [
-              "Replace the OBD-II connector",
-              "Reinstall the AutoTune driver or use another USB port",
-              "Restart the vehicle engine"
-            ]
+            "id": "n_4_a_3",
+            "item_a": "sometimes",
+            "item_b": "uses her judgement"
           },
           {
-            "id": "l_4_4",
-            "question": "How often should the firmware be updated?",
-            "answer": "Every six months",
-            "options": ["Every month", "Once a year", "Every six months"]
+            "id": "n_4_a_4",
+            "item_a": "rarely",
+            "item_b": "interacts with students"
           },
           {
-            "id": "l_4_5",
-            "question": "What safety precautions must be followed before connecting or disconnecting cables?",
-            "answer": "Turn off the engine",
-            "options": [
-              "Keep the ignition on",
-              "Turn off the engine",
-              "Disconnect the OBD-II port"
-            ]
+            "id": "n_4_a_5",
+            "item_a": "hardly ever",
+            "item_b": "interacts with academic staff"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "usually",
+            "item_b": "supports all departments"
+          },
+          {
+            "id": "n_4_a_7",
+            "item_a": "often",
+            "item_b": "communicates  with external offices"
           }
         ]
       },
       "activity_c": [
         {
-          "words": [
-            "Unpack",
-            "the",
-            "analyser",
-            "and",
-            "check",
-            "for",
-            "all",
-            "accessories",
-            "."
-          ],
-          "sentence": "Unpack the analyser and check for all accessories."
+          "id": "t_2_1",
+          "text": "Today, I would like to present the role of an administrative assistant, a position essential to all six sections of our TVET institution.",
+          "audio": "assets/audio/t_2_1.mp3"
         },
         {
-          "words": [
-            "Keep",
-            "leads",
-            "clean",
-            "and",
-            "store",
-            "them",
-            "in",
-            "the",
-            "provided",
-            "case",
-            "."
-          ],
-          "sentence": "Keep leads clean and store them in the provided case."
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
         },
         {
-          "words": [
-            "Keep",
-            "cables",
-            "away",
-            "from",
-            "hot",
-            "engine",
-            "parts",
-            "."
-          ],
-          "sentence": "Keep cables away from hot engine parts."
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
         },
         {
-          "words": [
-            "Wipe",
-            "the",
-            "screen",
-            "and",
-            "body",
-            "with",
-            "a",
-            "dry",
-            "cloth",
-            "."
-          ],
-          "sentence": "Wipe the screen and body with a dry cloth."
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
         },
         {
-          "words": [
-            "Do",
-            "not",
-            "expose",
-            "yourself",
-            "to",
-            "rain",
-            "or",
-            "high",
-            "humidity",
-            "."
-          ],
-          "sentence": "Do not expose yourself to rain or high humidity."
+          "id": "t_2_5",
+          "text": "This role does not teach classes and does not supervise workshop activities.",
+          "audio": "assets/audio/t_2_5.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_8",
+          "text": "Does the administrative assistant work with instructors regularly?",
+          "audio": "assets/audio/t_2_8.mp3"
+        },
+        {
+          "id": "t_2_9",
+          "text": "Yes.",
+          "audio": "assets/audio/t_2_9.mp3"
+        },
+        {
+          "id": "t_2_10",
+          "text": "Does this role support only one section?",
+          "audio": "assets/audio/t_2_10.mp3"
+        },
+        {
+          "id": "t_2_11",
+          "text": "No.",
+          "audio": "assets/audio/t_2_11.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_13",
+          "text": "This position plays a key role to ensure the smooth running of the institution.in smooth institutional management.",
+          "audio": "assets/audio/t_2_13.mp3"
+        },
+        {
+          "id": "t_2_14",
+          "text": "I will now outline the role of a caretaker, a position vital for safety and daily operations.",
+          "audio": "assets/audio/t_2_14.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_18",
+          "text": "This role does not handle office duties and does not repair specialised machines.",
+          "audio": "assets/audio/t_2_18.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_20",
+          "text": "Does the caretaker work every day?",
+          "audio": "assets/audio/t_2_20.mp3"
+        },
+        {
+          "id": "t_2_21",
+          "text": "Yes.",
+          "audio": "assets/audio/t_2_21.mp3"
+        },
+        {
+          "id": "t_2_22",
+          "text": "Does this role work only indoors?",
+          "audio": "assets/audio/t_2_22.mp3"
+        },
+        {
+          "id": "t_2_23",
+          "text": "No.",
+          "audio": "assets/audio/t_2_23.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
+        },
+        {
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
+        },
+        {
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
+        },
+        {
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
+        },
+        {
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
         }
       ]
     }

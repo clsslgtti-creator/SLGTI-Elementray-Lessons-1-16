@@ -223,7 +223,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/Wednesday.png",
+        "img": "assets/img/Wednesday-2.png",
         "text_a": "Do you and your friend play cricket on Friday?",
         "text_b": "No, we don’t.",
         "text_c": "When do you and your friend play cricket?",
@@ -390,241 +390,339 @@
     }
   },
   "activity_4": {
-    "type": "READING-1",
+    "type": "LISTENING-8",
     "instructions": {
-      "context": {
-        "text": "Read the passage below carefully before you attempt the activities.\nපහත පරිච්ඡේදය සලකා බලන්න. ඔබ ක්‍රියාකාරකම් උත්සාහ කිරීමට පෙර.\nகீழே உள்ள பகுதியை கவனமாகப் படியுங்கள்.",
-        "audio": "assets/audio/a_4_i_h.mp3"
-      },
       "activity_a": {
-        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_4_i_c.mp3"
+        "text": "Listen to the recording and match the verbs to the nouns.\nරෙකෝඩින් එක සවන් දී ක්‍රියා පදයන් නාම පදයන්ට ගැලපෙන්න.\nபதிவைக் கேட்டு வினைகள் மற்றும் பெயர்ச்சொற்களை பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_i.mp3"
       },
       "activity_b": {
-        "text": "Read the questions and choose the correct answer.\nප්‍රශ්න කියවන්න සහ නිවැරදි පිළිතුර තෝරන්න.\nகேள்விகளைப் படித்து சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
-        "audio": "assets/audio/a_4_i_f.mp3"
+        "text": "Listen to the audio which will be played twice and match  the correct frequency verb with the collocation/phrase. \nදෙවරක් වාදනය වන ශ්‍රව්‍යයට සවන් දී නිවැරදි සංඛ්‍යාත්මක ක්‍රියා පදය සමඟ එකතු කරන්න.\nஇருமுறை ஒலிப்பதிவைக் கேட்டு சரியான அடிக்கடி வினையை இணைக்கவும்.",
+        "audio": "assets/audio/a_4_i_j.mp3"
       },
       "activity_c": {
-        "text": "Put these jumbled words in the correct order, to make a sentence.\nමෙම අකුරු ගැටුම් නිවැරදි අනුපිළිවෙලට තබා වාක්‍යයක් සාදන්න.\nஇந்த குழப்பமான வார்த்தைகளை சரியான வரிசையில் வைத்து ஒரு வாக்கியமாக மாற்றுங்கள்.",
-        "audio": "assets/audio/a_4_i_g.mp3"
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
       }
-    },
-    "context": {
-      "title": "BUILDLINE 400 – Digital Laser Level",
-      "cover": "assets/img/a_4.png",
-      "content": [
-        {
-          "section_number": "1",
-          "section_title": "Parts Identification",
-          "intro": "The BuildLine 400 Digital Laser Level helps construction workers measure level and alignment with precision.",
-          "subsections": [
-            {
-              "subtitle": "Main Components",
-              "items": [
-                "Laser Emitter – projects a visible horizontal or vertical beam for alignment.",
-                "Control Panel – includes the power button, mode selector, and sensitivity settings.",
-                "Tripod Mount – attaches the laser level securely for stable positioning.",
-                "Battery Compartment – holds rechargeable lithium batteries.",
-                "Receiver Sensor – detects the laser beam over long distances.",
-                "Bubble Vials – assist in manual levelling during setup.",
-                "Charging Port – used to recharge the internal battery.",
-                "Carrying Case – protects the device during transport."
-              ]
-            }
-          ]
-        },
-        {
-          "section_number": "2",
-          "section_title": "Setup and Operation",
-          "steps": [
-            "Unpack the unit and ensure all parts are included.",
-            "Attach the tripod mount on a firm surface.",
-            "Insert the batteries and press the Power button.",
-            "Adjust the bubble vials to ensure the laser is level.",
-            "Select Horizontal or Vertical Mode using the control panel.",
-            "Position the receiver sensor where the beam should fall.",
-            "Once aligned, mark the reference point or install materials accordingly.",
-            "After use, turn off the unit and store it in the carrying case."
-          ]
-        },
-        {
-          "section_number": "3",
-          "section_title": "Maintenance and Troubleshooting",
-          "subsections": [
-            {
-              "subtitle": "Common Issues and Solutions",
-              "items": [
-                "Laser Not Visible: Check battery charge or clean the laser window.",
-                "Inaccurate Level Line: Re-level the tripod or recalibrate the device.",
-                "Receiver Not Detecting Beam: Ensure there’s no bright sunlight interference.",
-                "Power Failure: Recharge the battery fully or check the charger connection."
-              ]
-            },
-            {
-              "subtitle": "Maintenance Tips",
-              "items": [
-                "Keep the laser lens and bubble vials clean.",
-                "Do not expose the unit to rain or extreme heat.",
-                "Calibrate the laser every three months for accuracy.",
-                "Use only the recommended charger.",
-                "Store in a dry, dust-free environment."
-              ]
-            }
-          ]
-        },
-        {
-          "section_number": "4",
-          "section_title": "Safety Precautions",
-          "items": [
-            "Never stare directly into the laser beam.",
-            "Do not point the beam at people or reflective surfaces.",
-            "Ensure the tripod is stable before operating.",
-            "Turn off the laser before moving it between locations.",
-            "Use protective gloves and boots when working on uneven ground."
-          ]
-        }
-      ]
     },
     "content": {
       "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "alignment",
-            "item_b": "the arrangement of parts or surfaces in a straight or correct position"
+            "item_a": "manages",
+            "item_b": "office documentation"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "tripod",
-            "item_b": "a three-legged stand used to hold a device steady"
+            "item_a": "maintains",
+            "item_b": "accurate staff and student records"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "calibrate",
-            "item_b": "to adjust a measuring instrument to ensure correct readings"
+            "item_a": "checks",
+            "item_b": "details"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "extreme",
-            "item_b": "something at the highest degree or furthest range of intensity or distance"
+            "item_a": "handles",
+            "item_b": "correspondence"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "reflective",
-            "item_b": "capable of reflecting light or other radiation"
+            "item_a": "prepares",
+            "item_b": "reports"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "receiver",
-            "item_b": "a sensor that detects or captures a signal such as a laser beam"
+            "item_a": "plays",
+            "item_b": "a key role"
           }
         ]
       },
       "activity_b": {
-        "Questions": [
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "content": [
           {
-            "id": "l_4_1",
-            "question": "What is the main purpose of the BuildLine 400 Digital Laser Level?",
-            "answer": "To measure level and alignment with precision",
-            "options": [
-              "To measure temperature and humidity",
-              "To measure level and alignment with precision",
-              "To detect metal objects in walls"
-            ]
+            "id": "n_4_a_1",
+            "item_a": "always",
+            "item_b": "follows institutional procedures"
           },
           {
-            "id": "l_4_2",
-            "question": "Which part projects the visible beam for alignment?",
-            "answer": "Laser Emitter",
-            "options": ["Receiver Sensor", "Bubble Vials", "Laser Emitter"]
+            "id": "n_4_a_2",
+            "item_a": "never",
+            "item_b": "discloses confidential information"
           },
           {
-            "id": "l_4_3",
-            "question": "What should be done if the laser line appears inaccurate?",
-            "answer": "Re-level the tripod or recalibrate the device",
-            "options": [
-              "Replace the laser lens",
-              "Re-level the tripod or recalibrate the device",
-              "Increase the laser brightness"
-            ]
+            "id": "n_4_a_3",
+            "item_a": "sometimes",
+            "item_b": "uses her judgement"
           },
           {
-            "id": "l_4_4",
-            "question": "How often should the laser be calibrated for accuracy?",
-            "answer": "Every three months",
-            "options": ["Every month", "Every three months", "Once a year"]
+            "id": "n_4_a_4",
+            "item_a": "rarely",
+            "item_b": "interacts with students"
           },
           {
-            "id": "l_4_5",
-            "question": "What is one important safety precaution when using the BuildLine 400?",
-            "answer": "Never stare directly into the laser beam",
-            "options": [
-              "Always point the beam toward shiny surfaces",
-              "Never stare directly into the laser beam",
-              "Turn on the laser before adjusting the tripod"
-            ]
+            "id": "n_4_a_5",
+            "item_a": "hardly ever",
+            "item_b": "interacts with academic staff"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "usually",
+            "item_b": "supports all departments"
+          },
+          {
+            "id": "n_4_a_7",
+            "item_a": "often",
+            "item_b": "communicates  with external offices"
           }
         ]
       },
       "activity_c": [
         {
-          "words": [
-            "Unpack",
-            "the",
-            "unit",
-            "and",
-            "ensure",
-            "all",
-            "parts",
-            "are",
-            "included",
-            "."
-          ],
-          "sentence": "Unpack the unit and ensure all parts are included."
+          "id": "t_2_1",
+          "text": "Today, I would like to present the role of an administrative assistant, a position essential to all six sections of our TVET institution.",
+          "audio": "assets/audio/t_2_1.mp3"
         },
         {
-          "words": [
-            "Do",
-            "not",
-            "expose",
-            "the",
-            "unit",
-            "to",
-            "extreme",
-            "heat",
-            "."
-          ],
-          "sentence": "Do not expose the unit to extreme heat."
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
         },
         {
-          "words": [
-            "Calibrate",
-            "the",
-            "laser",
-            "every",
-            "three",
-            "months",
-            "."
-          ],
-          "sentence": "Calibrate the laser every three months."
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
         },
         {
-          "words": ["Store", "in", "a", "dry", "dust-free", "environment", "."],
-          "sentence": "Store in a dry, dust-free environment."
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
         },
         {
-          "words": [
-            "Do",
-            "not",
-            "point",
-            "the",
-            "beam",
-            "at",
-            "reflective",
-            "surfaces",
-            "."
-          ],
-          "sentence": "Do not point the beam at reflective surfaces."
+          "id": "t_2_5",
+          "text": "This role does not teach classes and does not supervise workshop activities.",
+          "audio": "assets/audio/t_2_5.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_8",
+          "text": "Does the administrative assistant work with instructors regularly?",
+          "audio": "assets/audio/t_2_8.mp3"
+        },
+        {
+          "id": "t_2_9",
+          "text": "Yes.",
+          "audio": "assets/audio/t_2_9.mp3"
+        },
+        {
+          "id": "t_2_10",
+          "text": "Does this role support only one section?",
+          "audio": "assets/audio/t_2_10.mp3"
+        },
+        {
+          "id": "t_2_11",
+          "text": "No.",
+          "audio": "assets/audio/t_2_11.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_13",
+          "text": "This position plays a key role to ensure the smooth running of the institution.in smooth institutional management.",
+          "audio": "assets/audio/t_2_13.mp3"
+        },
+        {
+          "id": "t_2_14",
+          "text": "I will now outline the role of a caretaker, a position vital for safety and daily operations.",
+          "audio": "assets/audio/t_2_14.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_18",
+          "text": "This role does not handle office duties and does not repair specialised machines.",
+          "audio": "assets/audio/t_2_18.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_20",
+          "text": "Does the caretaker work every day?",
+          "audio": "assets/audio/t_2_20.mp3"
+        },
+        {
+          "id": "t_2_21",
+          "text": "Yes.",
+          "audio": "assets/audio/t_2_21.mp3"
+        },
+        {
+          "id": "t_2_22",
+          "text": "Does this role work only indoors?",
+          "audio": "assets/audio/t_2_22.mp3"
+        },
+        {
+          "id": "t_2_23",
+          "text": "No.",
+          "audio": "assets/audio/t_2_23.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
+        },
+        {
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
+        },
+        {
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
+        },
+        {
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
+        },
+        {
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
         }
       ]
     }

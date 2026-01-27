@@ -223,7 +223,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/Wednesday.png",
+        "img": "assets/img/Wednesday-2.png",
         "text_a": "Do you and your friend play cricket on Friday?",
         "text_b": "No, we don’t.",
         "text_c": "When do you and your friend play cricket?",
@@ -390,243 +390,339 @@
     }
   },
   "activity_4": {
-    "type": "READING-1",
+    "type": "LISTENING-8",
     "instructions": {
-      "context": {
-        "text": "Read the passage below carefully before you attempt the activities.\nපහත පරිච්ඡේදය සලකා බලන්න. ඔබ ක්‍රියාකාරකම් උත්සාහ කිරීමට පෙර.\nகீழே உள்ள பகுதியை கவனமாகப் படியுங்கள்.",
-        "audio": "assets/audio/a_4_i_h.mp3"
-      },
       "activity_a": {
-        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_4_i_c.mp3"
+        "text": "Listen to the recording and match the verbs to the nouns.\nරෙකෝඩින් එක සවන් දී ක්‍රියා පදයන් නාම පදයන්ට ගැලපෙන්න.\nபதிவைக் கேட்டு வினைகள் மற்றும் பெயர்ச்சொற்களை பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_i.mp3"
       },
       "activity_b": {
-        "text": "Read the questions and choose the correct answer.\nප්‍රශ්න කියවන්න සහ නිවැරදි පිළිතුර තෝරන්න.\nகேள்விகளைப் படித்து சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
-        "audio": "assets/audio/a_4_i_f.mp3"
+        "text": "Listen to the audio which will be played twice and match  the correct frequency verb with the collocation/phrase. \nදෙවරක් වාදනය වන ශ්‍රව්‍යයට සවන් දී නිවැරදි සංඛ්‍යාත්මක ක්‍රියා පදය සමඟ එකතු කරන්න.\nஇருமுறை ஒலிப்பதிவைக் கேட்டு சரியான அடிக்கடி வினையை இணைக்கவும்.",
+        "audio": "assets/audio/a_4_i_j.mp3"
       },
       "activity_c": {
-        "text": "Put these jumbled words in the correct order, to make a sentence.\nමෙම අකුරු ගැටුම් නිවැරදි අනුපිළිවෙලට තබා වාක්‍යයක් සාදන්න.\nஇந்த குழப்பமான வார்த்தைகளை சரியான வரிசையில் வைத்து ஒரு வாக்கியமாக மாற்றுங்கள்.",
-        "audio": "assets/audio/a_4_i_g.mp3"
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
       }
-    },
-    "context": {
-      "title": "ELECTROTEST 250 – Digital Multimeter",
-      "cover": "assets/img/a_4.png",
-      "content": [
-        {
-          "section_number": "1",
-          "section_title": "Parts Identification",
-          "intro": "The ElectroTest 250 Digital Multimeter is a versatile device used to measure electrical quantities such as voltage, current, and resistance in electrical systems.",
-          "subsections": [
-            {
-              "subtitle": "Main Components",
-              "items": [
-                "LCD Display – shows the measurement readings clearly.",
-                "Function Selector Dial – used to choose the type of measurement (V, A, Ω, continuity, etc.).",
-                "Input Terminals (COM, VΩmA, 10A) – connection points for test leads.",
-                "Test Leads (Red & Black) – connect the multimeter to the circuit or component under test.",
-                "Power Button – turns the device on or off.",
-                "Hold Button – freezes the reading on the screen.",
-                "Battery Compartment – located at the back of the unit.",
-                "Protective Rubber Casing – shields the meter from damage in workshop environments."
-              ]
-            }
-          ]
-        },
-        {
-          "section_number": "2",
-          "section_title": "Setup and Operation",
-          "steps": [
-            "Insert a fresh 9V battery into the compartment before use.",
-            "Connect the black lead to the COM terminal and the red lead to the correct terminal for your measurement.",
-            "Turn the selector dial to the desired function (e.g., DC voltage).",
-            "Place the leads across the component or circuit to take a reading.",
-            "Observe the measurement on the LCD display.",
-            "Press the Hold button if you want to freeze the value.",
-            "When finished, turn off the multimeter and disconnect the leads."
-          ],
-          "notes": [
-            "Warning: Always start with the highest range and move down gradually to avoid damaging the unit."
-          ]
-        },
-        {
-          "section_number": "3",
-          "section_title": "Maintenance and Troubleshooting",
-          "subsections": [
-            {
-              "subtitle": "Common Issues and Solutions",
-              "items": [
-                "No Display: Check or replace the battery.",
-                "Fluctuating Readings: Ensure leads are properly connected; avoid contact with wet surfaces.",
-                "No Continuity Beep: Replace the internal fuse if necessary.",
-                "Overload Symbol Appears: Measurement range is too low — increase it using the selector dial."
-              ]
-            },
-            {
-              "subtitle": "Maintenance Tips",
-              "items": [
-                "Keep the test leads clean and untangled.",
-                "Store the multimeter in its protective case.",
-                "Avoid measuring live circuits above the maximum rated voltage.",
-                "Calibrate annually for professional accuracy."
-              ]
-            }
-          ]
-        },
-        {
-          "section_number": "4",
-          "section_title": "Safety Precautions",
-          "items": [
-            "Never use a damaged test lead or probe.",
-            "Do not measure current in household mains without proper training.",
-            "Always disconnect power before testing resistance.",
-            "Avoid exposure to moisture and direct sunlight.",
-            "Turn off the unit after each use to extend battery life."
-          ]
-        }
-      ]
     },
     "content": {
       "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "voltage",
-            "item_b": "the electrical force that makes current flow in a circuit"
+            "item_a": "manages",
+            "item_b": "office documentation"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "resistance",
-            "item_b": "the opposition to electric current flow, measured in ohms"
+            "item_a": "maintains",
+            "item_b": "accurate staff and student records"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "continuity",
-            "item_b": "a complete circuit path that allows current to flow"
+            "item_a": "checks",
+            "item_b": "details"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "overload",
-            "item_b": "a condition where current exceeds a circuit’s safe limit"
+            "item_a": "handles",
+            "item_b": "correspondence"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "calibrate",
-            "item_b": "to adjust an instrument for correct and precise readings"
+            "item_a": "prepares",
+            "item_b": "reports"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "versatile",
-            "item_b": "able to adapt to many different functions"
+            "item_a": "plays",
+            "item_b": "a key role"
           }
         ]
       },
       "activity_b": {
-        "Questions": [
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "content": [
           {
-            "id": "l_4_1",
-            "question": "What is the main purpose of the ElectroTest 250 Digital Multimeter?",
-            "answer": "To measure voltage, current, and resistance",
-            "options": [
-              "To generate electrical signals",
-              "To measure voltage, current, and resistance",
-              "To control power flow in circuits"
-            ]
+            "id": "n_4_a_1",
+            "item_a": "always",
+            "item_b": "follows institutional procedures"
           },
           {
-            "id": "l_4_2",
-            "question": "Which component is used to select the measurement type such as voltage or resistance?",
-            "answer": "Function Selector Dial",
-            "options": ["LCD Display", "Function Selector Dial", "Power Button"]
+            "id": "n_4_a_2",
+            "item_a": "never",
+            "item_b": "discloses confidential information"
           },
           {
-            "id": "l_4_3",
-            "question": "What should you do before using the multimeter?",
-            "answer": "Insert a fresh 9V battery into the compartment",
-            "options": [
-              "Connect it directly to a live circuit",
-              "Insert a fresh 9V battery into the compartment",
-              "Replace the internal fuse"
-            ]
+            "id": "n_4_a_3",
+            "item_a": "sometimes",
+            "item_b": "uses her judgement"
           },
           {
-            "id": "l_4_4",
-            "question": "What causes an overload symbol to appear on the screen?",
-            "answer": "Measurement range is too low",
-            "options": [
-              "Weak battery",
-              "Dirty test leads",
-              "Measurement range is too low"
-            ]
+            "id": "n_4_a_4",
+            "item_a": "rarely",
+            "item_b": "interacts with students"
           },
           {
-            "id": "l_4_5",
-            "question": "Which safety precaution must always be followed when testing resistance?",
-            "answer": "Disconnect power before testing",
-            "options": [
-              "Hold the test leads together firmly",
-              "Disconnect power before testing",
-              "Turn the selector dial rapidly"
-            ]
+            "id": "n_4_a_5",
+            "item_a": "hardly ever",
+            "item_b": "interacts with academic staff"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "usually",
+            "item_b": "supports all departments"
+          },
+          {
+            "id": "n_4_a_7",
+            "item_a": "often",
+            "item_b": "communicates  with external offices"
           }
         ]
       },
       "activity_c": [
         {
-          "words": [
-            "Avoid",
-            "measuring",
-            "live",
-            "circuits",
-            "above",
-            "the",
-            "maximum",
-            "voltage",
-            "."
-          ],
-          "sentence": "Avoid measuring live circuits above the maximum voltage."
+          "id": "t_2_1",
+          "text": "Today, I would like to present the role of an administrative assistant, a position essential to all six sections of our TVET institution.",
+          "audio": "assets/audio/t_2_1.mp3"
         },
         {
-          "words": [
-            "Calibrate",
-            "annually",
-            "for",
-            "professional",
-            "accuracy",
-            "."
-          ],
-          "sentence": "Calibrate annually for professional accuracy."
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
         },
         {
-          "words": [
-            "Do",
-            "not",
-            "measure",
-            "current",
-            "in",
-            "household",
-            "mains",
-            "without",
-            "training",
-            "."
-          ],
-          "sentence": "Do not measure current in household mains without training."
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
         },
         {
-          "words": [
-            "Always",
-            "disconnect",
-            "power",
-            "before",
-            "testing",
-            "resistance",
-            "."
-          ],
-          "sentence": "Always disconnect power before testing resistance."
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
         },
         {
-          "words": ["Turn", "off", "the", "unit", "after", "each", "use", "."],
-          "sentence": "Turn off the unit after each use."
+          "id": "t_2_5",
+          "text": "This role does not teach classes and does not supervise workshop activities.",
+          "audio": "assets/audio/t_2_5.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_8",
+          "text": "Does the administrative assistant work with instructors regularly?",
+          "audio": "assets/audio/t_2_8.mp3"
+        },
+        {
+          "id": "t_2_9",
+          "text": "Yes.",
+          "audio": "assets/audio/t_2_9.mp3"
+        },
+        {
+          "id": "t_2_10",
+          "text": "Does this role support only one section?",
+          "audio": "assets/audio/t_2_10.mp3"
+        },
+        {
+          "id": "t_2_11",
+          "text": "No.",
+          "audio": "assets/audio/t_2_11.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_13",
+          "text": "This position plays a key role to ensure the smooth running of the institution.in smooth institutional management.",
+          "audio": "assets/audio/t_2_13.mp3"
+        },
+        {
+          "id": "t_2_14",
+          "text": "I will now outline the role of a caretaker, a position vital for safety and daily operations.",
+          "audio": "assets/audio/t_2_14.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_18",
+          "text": "This role does not handle office duties and does not repair specialised machines.",
+          "audio": "assets/audio/t_2_18.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_20",
+          "text": "Does the caretaker work every day?",
+          "audio": "assets/audio/t_2_20.mp3"
+        },
+        {
+          "id": "t_2_21",
+          "text": "Yes.",
+          "audio": "assets/audio/t_2_21.mp3"
+        },
+        {
+          "id": "t_2_22",
+          "text": "Does this role work only indoors?",
+          "audio": "assets/audio/t_2_22.mp3"
+        },
+        {
+          "id": "t_2_23",
+          "text": "No.",
+          "audio": "assets/audio/t_2_23.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
+        },
+        {
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
+        },
+        {
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
+        },
+        {
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
+        },
+        {
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
         }
       ]
     }
