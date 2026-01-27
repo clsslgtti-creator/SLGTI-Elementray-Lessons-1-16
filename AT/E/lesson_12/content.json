@@ -394,11 +394,11 @@
     "instructions": {
       "activity_a": {
         "text": "Listen to the recording and match the verbs to the nouns.\nරෙකෝඩින් එක සවන් දී ක්‍රියා පදයන් නාම පදයන්ට ගැලපෙන්න.\nபதிவைக் கேட்டு வினைகள் மற்றும் பெயர்ச்சொற்களை பொருத்துங்கள்.",
-        "audio": "assets/audio/a_4_i_c.mp3"
+        "audio": "assets/audio/a_4_i_i.mp3"
       },
       "activity_b": {
         "text": "Listen to the audio which will be played twice and match  the correct frequency verb with the collocation/phrase. \nදෙවරක් වාදනය වන ශ්‍රව්‍යයට සවන් දී නිවැරදි සංඛ්‍යාත්මක ක්‍රියා පදය සමඟ එකතු කරන්න.\nஇருமுறை ஒலிப்பதிவைக் கேட்டு சரியான அடிக்கடி வினையை இணைக்கவும்.",
-        "audio": "assets/audio/a_4_i_a.mp3"
+        "audio": "assets/audio/a_4_i_j.mp3"
       },
       "activity_c": {
         "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
@@ -491,313 +491,238 @@
       },
       "activity_c": [
         {
-          "id": "t_1_1",
-          "text": "Every weekday, Kamal arrives at the TVET institute at around a quarter to eight.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_2_1",
+          "text": "Today, I would like to present the role of an administrative assistant, a position essential to all six sections of our TVET institution.",
+          "audio": "assets/audio/t_2_1.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "Does he come late?",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "No, he doesn’t.",
-          "audio": "assets/audio/t_1_3.mp3"
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
         },
         {
-          "id": "t_1_4",
-          "text": "He always comes early because he likes to start the day on time.",
-          "audio": "assets/audio/t_1_4.mp3"
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "He stands in line with the other trainees for the morning assembly.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_2_5",
+          "text": "This role does not teach classes and does not supervise workshop activities.",
+          "audio": "assets/audio/t_2_5.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "He doesn’t talk while the instructor takes attendance and gives short safety reminders.",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
         },
         {
-          "id": "t_1_7",
-          "text": "The timetable shows theory sessions in the morning and practical training in the afternoon.",
-          "audio": "assets/audio/t_1_7.mp3"
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "On Mondays, Kamal studies occupational safety and basic science.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_2_8",
+          "text": "Does the administrative assistant work with instructors regularly?",
+          "audio": "assets/audio/t_2_8.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "On Wednesday morning, he has communication skills training.",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "t_2_9",
+          "text": "Yes.",
+          "audio": "assets/audio/t_2_9.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "Does he enjoy it?",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_2_10",
+          "text": "Does this role support only one section?",
+          "audio": "assets/audio/t_2_10.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "Yes, he does.",
-          "audio": "assets/audio/t_1_11.mp3"
+          "id": "t_2_11",
+          "text": "No.",
+          "audio": "assets/audio/t_2_11.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "He likes to improve his speaking and writing.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
         },
         {
-          "id": "t_1_13",
-          "text": "On Friday afternoon, he works in the workshop for the weekly evaluation.",
-          "audio": "assets/audio/t_1_13.mp3"
+          "id": "t_2_13",
+          "text": "This position plays a key role to ensure the smooth running of the institution.in smooth institutional management.",
+          "audio": "assets/audio/t_2_13.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "He doesn’t skip any task because every session matters.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_2_14",
+          "text": "I will now outline the role of a caretaker, a position vital for safety and daily operations.",
+          "audio": "assets/audio/t_2_14.mp3"
         },
         {
-          "id": "t_1_15",
-          "text": "At 8:00 a.m., the first class starts.",
-          "audio": "assets/audio/t_1_15.mp3"
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "Does Kamal go to the workshop first?",
-          "audio": "assets/audio/t_1_16.mp3"
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "No, he doesn’t.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
         },
         {
-          "id": "t_1_18",
-          "text": "He stays in the classroom for theory.",
-          "audio": "assets/audio/t_1_18.mp3"
+          "id": "t_2_18",
+          "text": "This role does not handle office duties and does not repair specialised machines.",
+          "audio": "assets/audio/t_2_18.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "He doesn’t use the equipment before ten o’clock.",
-          "audio": "assets/audio/t_1_19.mp3"
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "His instructor wants him to complete the written exercises first.",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_2_20",
+          "text": "Does the caretaker work every day?",
+          "audio": "assets/audio/t_2_20.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "At 10:30, Kamal has a tea break.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "id": "t_2_21",
+          "text": "Yes.",
+          "audio": "assets/audio/t_2_21.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "He usually drinks tea in the canteen.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_2_22",
+          "text": "Does this role work only indoors?",
+          "audio": "assets/audio/t_2_22.mp3"
         },
         {
-          "id": "t_1_23",
-          "text": "But sometimes he sits under the trees with his friends.",
-          "audio": "assets/audio/t_1_23.mp3"
+          "id": "t_2_23",
+          "text": "No.",
+          "audio": "assets/audio/t_2_23.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "Do they eat snacks every day?",
-          "audio": "assets/audio/t_1_24.mp3"
-        },
-        {
-          "id": "t_1_25",
-          "text": "No, they don’t.",
-          "audio": "assets/audio/t_1_25.mp3"
-        },
-        {
-          "id": "t_1_26",
-          "text": "They have snacks only on Mondays, Wednesdays and Fridays.",
-          "audio": "assets/audio/t_1_26.mp3"
-        },
-        {
-          "id": "t_1_27",
-          "text": "After the break, Kamal goes to the training area.",
-          "audio": "assets/audio/t_1_27.mp3"
-        },
-        {
-          "id": "t_1_28",
-          "text": "He uses different tools and follows safety procedures carefully.",
-          "audio": "assets/audio/t_1_28.mp3"
-        },
-        {
-          "id": "t_1_29",
-          "text": "He doesn’t forget to use gloves or goggles.",
-          "audio": "assets/audio/t_1_29.mp3"
-        },
-        {
-          "id": "t_1_30",
-          "text": "His instructor walks around and checks his performance.",
-          "audio": "assets/audio/t_1_30.mp3"
-        },
-        {
-          "id": "t_1_31",
-          "text": "He eats lunch at 12:30 and cleans his table.",
-          "audio": "assets/audio/t_1_31.mp3"
-        },
-        {
-          "id": "t_1_32",
-          "text": "He doesn’t leave any waste behind, even if he is in a hurry.",
-          "audio": "assets/audio/t_1_32.mp3"
-        },
-        {
-          "id": "t_1_33",
-          "text": "The day ends at 4:15 p.m.",
-          "audio": "assets/audio/t_1_33.mp3"
-        },
-        {
-          "id": "t_1_34",
-          "text": "Does he feel tired?",
-          "audio": "assets/audio/t_1_34.mp3"
-        },
-        {
-          "id": "t_1_35",
-          "text": "Yes, he does, but he feels proud too.",
-          "audio": "assets/audio/t_1_35.mp3"
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_1_1",
-          "text": "Every weekday, Kamal arrives at the TVET institute at around a quarter to eight.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "Does he come late?",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "He stands in line with the other trainees for the morning assembly.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "He doesn’t talk while the instructor takes attendance and gives short safety reminders.",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "On Mondays, Kamal studies occupational safety and basic science.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "Does he enjoy it?",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "He doesn’t skip any task because every session matters.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "He doesn’t use the equipment before ten o’clock.",
-          "audio": "assets/audio/t_1_19.mp3"
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "He usually drinks tea in the canteen.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
         },
         {
-          "id": "t_1_23",
-          "text": "But sometimes he sits under the trees with his friends.",
-          "audio": "assets/audio/t_1_23.mp3"
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
         },
         {
-          "id": "t_1_28",
-          "text": "He uses different tools and follows safety procedures carefully.",
-          "audio": "assets/audio/t_1_28.mp3"
-        },
-        {
-          "id": "t_1_29",
-          "text": "He doesn’t forget to use gloves or goggles.",
-          "audio": "assets/audio/t_1_29.mp3"
-        },
-        {
-          "id": "t_1_34",
-          "text": "Does he feel tired?",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
         }
       ],
       "activity_e": [
         {
-          "id": "t_1_1",
-          "text": "Every weekday, Kamal arrives at the TVET institute at around a quarter to eight.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "Does he come late?",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "He stands in line with the other trainees for the morning assembly.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "He doesn’t talk while the instructor takes attendance and gives short safety reminders.",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "On Mondays, Kamal studies occupational safety and basic science.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "Does he enjoy it?",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "He doesn’t skip any task because every session matters.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "He doesn’t use the equipment before ten o’clock.",
-          "audio": "assets/audio/t_1_19.mp3"
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "He usually drinks tea in the canteen.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
         },
         {
-          "id": "t_1_23",
-          "text": "But sometimes he sits under the trees with his friends.",
-          "audio": "assets/audio/t_1_23.mp3"
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
         },
         {
-          "id": "t_1_28",
-          "text": "He uses different tools and follows safety procedures carefully.",
-          "audio": "assets/audio/t_1_28.mp3"
-        },
-        {
-          "id": "t_1_29",
-          "text": "He doesn’t forget to use gloves or goggles.",
-          "audio": "assets/audio/t_1_29.mp3"
-        },
-        {
-          "id": "t_1_34",
-          "text": "Does he feel tired?",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
         }
       ]
     }

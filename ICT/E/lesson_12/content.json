@@ -390,265 +390,339 @@
     }
   },
   "activity_4": {
-    "type": "READING-1",
+    "type": "LISTENING-8",
     "instructions": {
-      "context": {
-        "text": "Read the passage below carefully before you attempt the activities.\nපහත පරිච්ඡේදය සලකා බලන්න. ඔබ ක්‍රියාකාරකම් උත්සාහ කිරීමට පෙර.\nகீழே உள்ள பகுதியை கவனமாகப் படியுங்கள்.",
-        "audio": "assets/audio/a_4_i_h.mp3"
-      },
       "activity_a": {
-        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_4_i_c.mp3"
+        "text": "Listen to the recording and match the verbs to the nouns.\nරෙකෝඩින් එක සවන් දී ක්‍රියා පදයන් නාම පදයන්ට ගැලපෙන්න.\nபதிவைக் கேட்டு வினைகள் மற்றும் பெயர்ச்சொற்களை பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_i.mp3"
       },
       "activity_b": {
-        "text": "Read the questions and choose the correct answer.\nප්‍රශ්න කියවන්න සහ නිවැරදි පිළිතුර තෝරන්න.\nகேள்விகளைப் படித்து சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
-        "audio": "assets/audio/a_4_i_f.mp3"
+        "text": "Listen to the audio which will be played twice and match  the correct frequency verb with the collocation/phrase. \nදෙවරක් වාදනය වන ශ්‍රව්‍යයට සවන් දී නිවැරදි සංඛ්‍යාත්මක ක්‍රියා පදය සමඟ එකතු කරන්න.\nஇருமுறை ஒலிப்பதிவைக் கேட்டு சரியான அடிக்கடி வினையை இணைக்கவும்.",
+        "audio": "assets/audio/a_4_i_j.mp3"
       },
       "activity_c": {
-        "text": "Put these jumbled words in the correct order, to make a sentence.\nමෙම අකුරු ගැටුම් නිවැරදි අනුපිළිවෙලට තබා වාක්‍යයක් සාදන්න.\nஇந்த குழப்பமான வார்த்தைகளை சரியான வரிசையில் வைத்து ஒரு வாக்கியமாக மாற்றுங்கள்.",
-        "audio": "assets/audio/a_4_i_g.mp3"
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
       }
-    },
-    "context": {
-      "title": "SmartPrint 3200 – 3-in-1 Multifunction Peripheral (Printer, Scanner & Photocopier)",
-      "cover": "assets/img/a_4.png",
-      "content": [
-        {
-          "section_number": "0",
-          "section_title": "Introduction",
-          "intro": "This manual provides comprehensive guidance on installing, configuring, operating, and maintaining the SmartPrint 3200 multifunction peripheral (MFP). The document is intended for ICT trainees and professionals familiar with computer peripherals, networking, and device drivers."
-        },
-        {
-          "section_number": "1",
-          "section_title": "Device Architecture and Components",
-          "intro": "The SmartPrint 3200 combines printing, scanning, and photocopying functions into a single compact unit. It incorporates advanced control logic, embedded firmware, and multiple connectivity interfaces.",
-          "subsections": [
-            {
-              "subtitle": "Key Components",
-              "items": [
-                "Control Interface – touch-enabled LCD panel for navigating menus and device settings.",
-                "Automatic Document Feeder (ADF) – allows batch scanning and copying of multiple pages.",
-                "Scanner Glass – supports high-resolution optical scanning (up to 1200 dpi).",
-                "Paper Input and Output Assemblies – manage document flow during print and copy operations.",
-                "Ink Cartridge Module – hosts individual colour cartridges for precision output.",
-                "Connectivity Ports – USB 2.0, Ethernet (optional), and Wi-Fi Direct for network integration.",
-                "Status LEDs – indicate power, ink, and network status.",
-                "Firmware Access Panel – used during software updates and diagnostics."
-              ]
-            }
-          ]
-        },
-        {
-          "section_number": "2",
-          "section_title": "Installation and Configuration",
-          "steps": [
-            "Unpack and inspect all components. Ensure the device is placed on a flat, stable surface.",
-            "Connect the power cord and press the Power button to initialise the system.",
-            "Install the ink cartridges in the correct colour slots and close the access panel securely.",
-            "Load A4 or Letter-size paper into the input tray.",
-            "Connect the device using USB, Wi-Fi Direct, or LAN (optional).",
-            "Install the SmartPrint Driver Package and Device Management Utility from the manufacturer’s website.",
-            "Execute a test print to confirm successful installation.",
-            "Perform a firmware check under “Settings → Maintenance → Firmware Update” and update if necessary."
-          ],
-          "notes": [
-            "USB Connection: Attach the cable to the computer and allow the operating system to detect the peripheral.",
-            "Wi-Fi Direct: Activate Wi-Fi mode via the control interface and authenticate using the SmartPrint Utility.",
-            "LAN (optional): Connect via Ethernet cable and configure the IP address manually or through DHCP."
-          ]
-        },
-        {
-          "section_number": "3",
-          "section_title": "Operational Procedures",
-          "subsections": [
-            {
-              "subtitle": "Printing",
-              "items": [
-                "Open the desired document and select “SmartPrint 3200” from the printer list.",
-                "Configure page orientation, duplex settings, and print quality.",
-                "Click Print to execute the job; the system will buffer and queue the document."
-              ]
-            },
-            {
-              "subtitle": "Scanning",
-              "items": [
-                "Access the SmartPrint Scan Utility on the workstation.",
-                "Choose the input source (Scanner Glass or ADF).",
-                "Select file format (PDF, JPEG, PNG) and resolution (300–1200 dpi).",
-                "Specify the destination folder or connected device, then click Scan."
-              ]
-            },
-            {
-              "subtitle": "Copying",
-              "items": [
-                "Place the document face-down on the scanner glass or load it into the ADF.",
-                "From the control interface, select Copy.",
-                "Choose Black & White or Colour mode, adjust copy density, and initiate the task."
-              ]
-            }
-          ]
-        },
-        {
-          "section_number": "4",
-          "section_title": "Maintenance and Troubleshooting",
-          "subsections": [
-            {
-              "subtitle": "Routine Maintenance",
-              "items": [
-                "Clean the scanner glass with a lint-free cloth.",
-                "Run the “Head Cleaning” cycle weekly to maintain print quality.",
-                "Update firmware periodically to ensure compatibility and security.",
-                "Replace consumables before depletion to prevent print head clogging."
-              ]
-            }
-          ]
-        }
-      ]
     },
     "content": {
       "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "combine",
-            "item_b": "bringing together different parts or functions"
+            "item_a": "manages",
+            "item_b": "office documentation"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "multifunction",
-            "item_b": "having or fulfilling several different uses"
+            "item_a": "maintains",
+            "item_b": "accurate staff and student records"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "consumables",
-            "item_b": "items that are used up relatively quickly"
+            "item_a": "checks",
+            "item_b": "details"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "authenticate",
-            "item_b": "to prove that something is genuine or valid"
+            "item_a": "handles",
+            "item_b": "correspondence"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "familiar",
-            "item_b": "well known or easy to recognise"
+            "item_a": "prepares",
+            "item_b": "reports"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "navigating",
-            "item_b": "planning or directing the course or way around something"
+            "item_a": "plays",
+            "item_b": "a key role"
           }
         ]
       },
       "activity_b": {
-        "Questions": [
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "content": [
           {
-            "id": "l_4_1",
-            "question": "What are the three main functions of the SmartPrint 3200?",
-            "answer": "Printing, scanning, and photocopying",
-            "options": [
-              "Printing, faxing, and laminating",
-              "Printing, scanning, and photocopying",
-              "Editing, typing, and filing"
-            ]
+            "id": "n_4_a_1",
+            "item_a": "always",
+            "item_b": "follows institutional procedures"
           },
           {
-            "id": "l_4_2",
-            "question": "Which component allows batch scanning and copying of multiple pages?",
-            "answer": "Automatic Document Feeder (ADF)",
-            "options": [
-              "Scanner Glass",
-              "Automatic Document Feeder (ADF)",
-              "Ink Cartridge Module"
-            ]
+            "id": "n_4_a_2",
+            "item_a": "never",
+            "item_b": "discloses confidential information"
           },
           {
-            "id": "l_4_3",
-            "question": "How many ways can the SmartPrint 3200 connect to a computer network?",
-            "answer": "3 ways",
-            "options": ["2 ways", "3 ways", "1 way"]
+            "id": "n_4_a_3",
+            "item_a": "sometimes",
+            "item_b": "uses her judgement"
           },
           {
-            "id": "l_4_4",
-            "question": "What should be done once the ink cartridges are put in the correct colour slots?",
-            "answer": "Close the Access panel",
-            "options": [
-              "Reinstall the print driver manually",
-              "Close the Access panel",
-              "Restart the device and clear all print jobs"
-            ]
+            "id": "n_4_a_4",
+            "item_a": "rarely",
+            "item_b": "interacts with students"
           },
           {
-            "id": "l_4_5",
-            "question": "What is one recommended maintenance activity to maintain print quality?",
-            "answer": "Run the “Head Cleaning” cycle weekly",
-            "options": [
-              "Replace the ink cartridge every day",
-              "Keep the paper tray empty when not in use",
-              "Run the “Head Cleaning” cycle weekly"
-            ]
+            "id": "n_4_a_5",
+            "item_a": "hardly ever",
+            "item_b": "interacts with academic staff"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "usually",
+            "item_b": "supports all departments"
+          },
+          {
+            "id": "n_4_a_7",
+            "item_a": "often",
+            "item_b": "communicates  with external offices"
           }
         ]
       },
       "activity_c": [
         {
-          "words": ["Unpack", "and", "inspect", "all", "components", "."],
-          "sentence": "Unpack and inspect all components."
+          "id": "t_2_1",
+          "text": "Today, I would like to present the role of an administrative assistant, a position essential to all six sections of our TVET institution.",
+          "audio": "assets/audio/t_2_1.mp3"
         },
         {
-          "words": [
-            "Ensure",
-            "the",
-            "device",
-            "is",
-            "placed",
-            "on",
-            "a",
-            "stable",
-            "surface",
-            "."
-          ],
-          "sentence": "Ensure the device is placed on a stable surface."
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
         },
         {
-          "words": [
-            "Clean",
-            "the",
-            "scanner",
-            "glass",
-            "with",
-            "a",
-            "lint-free",
-            "cloth",
-            "."
-          ],
-          "sentence": "Clean the scanner glass with a lint-free cloth."
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
         },
         {
-          "words": [
-            "Update",
-            "firmware",
-            "periodically",
-            "to",
-            "ensure",
-            "compatibility",
-            "."
-          ],
-          "sentence": "Update firmware periodically to ensure compatibility."
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
         },
         {
-          "words": [
-            "Execute",
-            "a",
-            "test",
-            "print",
-            "to",
-            "confirm",
-            "successful",
-            "installation",
-            "."
-          ],
-          "sentence": "Execute a test print to confirm successful installation."
+          "id": "t_2_5",
+          "text": "This role does not teach classes and does not supervise workshop activities.",
+          "audio": "assets/audio/t_2_5.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_8",
+          "text": "Does the administrative assistant work with instructors regularly?",
+          "audio": "assets/audio/t_2_8.mp3"
+        },
+        {
+          "id": "t_2_9",
+          "text": "Yes.",
+          "audio": "assets/audio/t_2_9.mp3"
+        },
+        {
+          "id": "t_2_10",
+          "text": "Does this role support only one section?",
+          "audio": "assets/audio/t_2_10.mp3"
+        },
+        {
+          "id": "t_2_11",
+          "text": "No.",
+          "audio": "assets/audio/t_2_11.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_13",
+          "text": "This position plays a key role to ensure the smooth running of the institution.in smooth institutional management.",
+          "audio": "assets/audio/t_2_13.mp3"
+        },
+        {
+          "id": "t_2_14",
+          "text": "I will now outline the role of a caretaker, a position vital for safety and daily operations.",
+          "audio": "assets/audio/t_2_14.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_18",
+          "text": "This role does not handle office duties and does not repair specialised machines.",
+          "audio": "assets/audio/t_2_18.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_20",
+          "text": "Does the caretaker work every day?",
+          "audio": "assets/audio/t_2_20.mp3"
+        },
+        {
+          "id": "t_2_21",
+          "text": "Yes.",
+          "audio": "assets/audio/t_2_21.mp3"
+        },
+        {
+          "id": "t_2_22",
+          "text": "Does this role work only indoors?",
+          "audio": "assets/audio/t_2_22.mp3"
+        },
+        {
+          "id": "t_2_23",
+          "text": "No.",
+          "audio": "assets/audio/t_2_23.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
+        },
+        {
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
+        },
+        {
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_2_2",
+          "text": "An administrative assistant usually manages office documentation and maintains accurate student and staff records.",
+          "audio": "assets/audio/t_2_2.mp3"
+        },
+        {
+          "id": "t_2_3",
+          "text": "This role often handles correspondence, prepares reports, and supports daily office operations.",
+          "audio": "assets/audio/t_2_3.mp3"
+        },
+        {
+          "id": "t_2_4",
+          "text": "The administrative assistant always follows institutional procedures and checks details carefully.",
+          "audio": "assets/audio/t_2_4.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "The assistant never discloses confidential information and sometimes uses her judgement in handling difficult situations.",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "She rarely interacts with students, and hardly ever interacts with academic staff.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "The administrative assistant usually supports all departments and often communicates with external offices.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "A caretaker usually opens and secures buildings and maintains clean surroundings.",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "This role often checks utilities, monitors facilities, and ensures safe access for staff and trainees.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "The caretaker always follows safety routines and regularly inspects common areas.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "The caretaker never leaves premises unsecured after working hours.",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "The caretaker often works outdoors and usually completes final security checks before closing.",
+          "audio": "assets/audio/t_2_24.mp3"
         }
       ]
     }
