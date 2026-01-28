@@ -266,70 +266,70 @@
           {
             "id": "g_m_1",
             "sentence": "What does a mechanical foreman do?\n\nA mechanical foreman supervises technicians and checks repair work on machines.",
-            "audio": "assets/audio/a_3_m_1.mp3",
+            "audio": "assets/audio/g_a_3_m_1.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_m_2",
             "sentence": "What does a mechanical foreman do?\n\nHe plans daily tasks and assigns jobs to fitters and welders.",
-            "audio": "assets/audio/a_3_m_2.mp3",
+            "audio": "assets/audio/g_a_3_m_2.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_m_3",
             "sentence": "What does a mechanical foreman do?\n\nHe inspects engines, pumps, and compressors for unusual sounds.",
-            "audio": "assets/audio/a_3_m_3.mp3",
+            "audio": "assets/audio/g_a_3_m_3.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_m_4",
             "sentence": "What does a mechanical foreman do?\n\nHe doesn’t lock out the power supply before maintenance.",
-            "audio": "assets/audio/a_3_m_4.mp3",
+            "audio": "assets/audio/g_a_3_m_4.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
             "id": "g_m_5",
             "sentence": "What does a mechanical foreman do?\n\nHe uses measuring tools such as micrometers and vernier callipers.",
-            "audio": "assets/audio/a_3_m_5.mp3",
+            "audio": "assets/audio/g_a_3_m_5.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_m_6",
             "sentence": "What does a mechanical foreman do?\n\nHe does not ignore oil leaks or overheating problems in machines.",
-            "audio": "assets/audio/a_3_m_6.mp3",
+            "audio": "assets/audio/g_a_3_m_6.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_m_7",
             "sentence": "What does a mechanical foreman do?\n\nHe orders spare parts and ensures the workshop has enough tools.",
-            "audio": "assets/audio/a_3_m_7.mp3",
+            "audio": "assets/audio/g_a_3_m_7.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_m_8",
             "sentence": "What does a mechanical foreman do?\n\nHe checks alignment and adjusts belts, pulleys, and bearings.",
-            "audio": "assets/audio/a_3_m_8.mp3",
+            "audio": "assets/audio/g_a_3_m_8.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_m_9",
             "sentence": "What does a mechanical foreman do?\n\nHe does not record the completed jobs or report faults to the manager.",
-            "audio": "assets/audio/a_3_m_9.mp3",
+            "audio": "assets/audio/g_a_3_m_9.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
             "id": "g_m_10",
             "sentence": "What does a mechanical foreman do?\n\nHe monitors safety practices and trains workers on proper handling of equipment.",
-            "audio": "assets/audio/a_3_m_10.mp3",
+            "audio": "assets/audio/g_a_3_m_10.mp3",
             "options": ["True", "False"],
             "answer": "True"
           }

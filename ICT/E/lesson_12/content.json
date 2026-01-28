@@ -266,70 +266,70 @@
           {
             "id": "g_i_1",
             "sentence": "What does an IT specialist do?\n\nAn IT specialist installs and updates operating systems on company computers.",
-            "audio": "assets/audio/a_3_i_1.mp3",
+            "audio": "assets/audio/g_a_3_i_1.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_i_2",
             "sentence": "What does an IT specialist do?\n\nHe checks network connections and fixes internet problems quickly.",
-            "audio": "assets/audio/a_3_i_2.mp3",
+            "audio": "assets/audio/g_a_3_i_2.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_i_3",
             "sentence": "What does an IT specialist do?\n\nHe backs up important data and protects files from viruses.",
-            "audio": "assets/audio/a_3_i_3.mp3",
+            "audio": "assets/audio/g_a_3_i_3.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_i_4",
             "sentence": "What does an IT specialist do?\n\nHe doesn’t log error reports after solving technical issues.",
-            "audio": "assets/audio/a_3_i_4.mp3",
+            "audio": "assets/audio/g_a_3_i_4.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
             "id": "g_i_5",
             "sentence": "What does an IT specialist do?\n\nHe uses diagnostic software to detect hardware and software faults.",
-            "audio": "assets/audio/a_3_i_5.mp3",
+            "audio": "assets/audio/g_a_3_i_5.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_i_6",
             "sentence": "What does an IT specialist do?\n\nHe does not ignore user complaints about slow systems.",
-            "audio": "assets/audio/a_3_i_6.mp3",
+            "audio": "assets/audio/g_a_3_i_6.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_i_7",
             "sentence": "What does an IT specialist do?\n\nHe replaces faulty cables and configures routers and printers.",
-            "audio": "assets/audio/a_3_i_7.mp3",
+            "audio": "assets/audio/g_a_3_i_7.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_i_8",
             "sentence": "What does an IT specialist do?\n\nHe runs security scans and installs antivirus updates regularly.",
-            "audio": "assets/audio/a_3_i_8.mp3",
+            "audio": "assets/audio/g_a_3_i_8.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_i_9",
             "sentence": "What does an IT specialist do?\n\nHe does not check the power supply before opening a computer case.",
-            "audio": "assets/audio/a_3_i_9.mp3",
+            "audio": "assets/audio/g_a_3_i_9.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
             "id": "g_i_10",
             "sentence": "What does an IT specialist do?\n\nHe trains staff to use applications and explains troubleshooting steps.",
-            "audio": "assets/audio/a_3_i_10.mp3",
+            "audio": "assets/audio/g_a_3_i_10.mp3",
             "options": ["True", "False"],
             "answer": "True"
           }
