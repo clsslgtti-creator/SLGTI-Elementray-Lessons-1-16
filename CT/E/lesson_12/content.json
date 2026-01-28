@@ -266,70 +266,70 @@
           {
             "id": "g_c_1",
             "sentence": "What does a construction foreman do?\n\nA construction foreman supervises workers and checks daily progress on site.",
-            "audio": "assets/audio/a_3_c_1.mp3",
+            "audio": "assets/audio/g_a_3_c_1.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_c_2",
             "sentence": "What does a construction foreman do?\n\nHe reads blueprints and explains the layout to the masons and carpenters.",
-            "audio": "assets/audio/a_3_c_2.mp3",
+            "audio": "assets/audio/g_a_3_c_2.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_c_3",
             "sentence": "What does a construction foreman do?\n\nHe plans the next day’s work and assigns tasks to each team.",
-            "audio": "assets/audio/a_3_c_3.mp3",
+            "audio": "assets/audio/g_a_3_c_3.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_c_4",
             "sentence": "What does a construction foreman do?\n\nHe doesn’t check the scaffold before workers start climbing.",
-            "audio": "assets/audio/a_3_c_4.mp3",
+            "audio": "assets/audio/g_a_3_c_4.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
             "id": "g_c_5",
             "sentence": "What does a construction foreman do?\n\nHe uses measuring tapes, spirit levels, and marking tools during inspection.",
-            "audio": "assets/audio/a_3_c_5.mp3",
+            "audio": "assets/audio/g_a_3_c_5.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_c_6",
             "sentence": "What does a construction foreman do?\n\nHe does not ignore safety rules or missing helmets on the site.",
-            "audio": "assets/audio/a_3_c_6.mp3",
+            "audio": "assets/audio/g_a_3_c_6.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_c_7",
             "sentence": "What does a construction foreman do?\n\nHe checks the quality of concrete and ensures it cures properly.",
-            "audio": "assets/audio/a_3_c_7.mp3",
+            "audio": "assets/audio/g_a_3_c_7.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_c_8",
             "sentence": "What does a construction foreman do?\n\nHe orders materials like sand, cement, and steel rods in advance.",
-            "audio": "assets/audio/a_3_c_8.mp3",
+            "audio": "assets/audio/g_a_3_c_8.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_c_9",
             "sentence": "What does a construction foreman do?\n\nHe does not record the daily work report or attendance of workers accurately.",
-            "audio": "assets/audio/a_3_c_9.mp3",
+            "audio": "assets/audio/g_a_3_c_9.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
             "id": "g_c_10",
             "sentence": "What does a construction foreman do?\n\nHe coordinates with the site engineer and reports any construction delays.",
-            "audio": "assets/audio/a_3_c_10.mp3",
+            "audio": "assets/audio/g_a_3_c_10.mp3",
             "options": ["True", "False"],
             "answer": "True"
           }

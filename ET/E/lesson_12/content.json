@@ -266,70 +266,70 @@
           {
             "id": "g_e_1",
             "sentence": "What does an electrical technician do?\n\nAn electrical technician installs and maintains wiring systems in buildings.",
-            "audio": "assets/audio/a_3_e_1.mp3",
+            "audio": "assets/audio/g_a_3_e_1.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_e_2",
             "sentence": "What does an electrical technician do?\n\nHe tests circuits and repairs damaged cables during maintenance work.",
-            "audio": "assets/audio/a_3_e_2.mp3",
+            "audio": "assets/audio/g_a_3_e_2.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_e_3",
             "sentence": "What does an electrical technician do?\n\nHe uses tools such as pliers, multimeters, and screwdrivers every day.",
-            "audio": "assets/audio/a_3_e_3.mp3",
+            "audio": "assets/audio/g_a_3_e_3.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_e_4",
             "sentence": "What does an electrical technician do?\n\nHe doesn’t switch off the main power before connecting new wires.",
-            "audio": "assets/audio/a_3_e_4.mp3",
+            "audio": "assets/audio/g_a_3_e_4.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
             "id": "g_e_5",
             "sentence": "What does an electrical technician do?\n\nHe reads circuit diagrams and follows electrical blueprints carefully.",
-            "audio": "assets/audio/a_3_e_5.mp3",
+            "audio": "assets/audio/g_a_3_e_5.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_e_6",
             "sentence": "What does an electrical technician do?\n\nHe does not ignore safety rules when working with live wires.",
-            "audio": "assets/audio/a_3_e_6.mp3",
+            "audio": "assets/audio/g_a_3_e_6.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_e_7",
             "sentence": "What does an electrical technician do?\n\nHe checks voltage levels and replaces blown fuses when needed.",
-            "audio": "assets/audio/a_3_e_7.mp3",
+            "audio": "assets/audio/g_a_3_e_7.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_e_8",
             "sentence": "What does an electrical technician do?\n\nHe connects lighting fixtures, switches, and sockets correctly.",
-            "audio": "assets/audio/a_3_e_8.mp3",
+            "audio": "assets/audio/g_a_3_e_8.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_e_9",
             "sentence": "What does an electrical technician do?\n\nHe does not wear insulated gloves or safety boots while repairing circuits.",
-            "audio": "assets/audio/a_3_e_9.mp3",
+            "audio": "assets/audio/g_a_3_e_9.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
             "id": "g_e_10",
             "sentence": "What does an electrical technician do?\n\nHe records all test results and reports faults to the supervisor.",
-            "audio": "assets/audio/a_3_e_10.mp3",
+            "audio": "assets/audio/g_a_3_e_10.mp3",
             "options": ["True", "False"],
             "answer": "True"
           }
