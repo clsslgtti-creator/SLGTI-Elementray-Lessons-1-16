@@ -266,70 +266,70 @@
           {
             "id": "g_b_1",
             "sentence": "What does an automobile mechanic do?\n\nAn automobile mechanic inspects engines and detects mechanical faults.",
-            "audio": "assets/audio/a_3_b_1.mp3",
+            "audio": "assets/audio/g_a_3_b_1.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_b_2",
             "sentence": "What does an automobile mechanic do?\n\nHe drains old engine oil and refills it with new oil after every service.",
-            "audio": "assets/audio/a_3_b_2.mp3",
+            "audio": "assets/audio/g_a_3_b_2.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_b_3",
             "sentence": "What does an automobile mechanic do?\n\nHe replaces air filters and spark plugs when they are dirty or worn out.",
-            "audio": "assets/audio/a_3_b_3.mp3",
+            "audio": "assets/audio/g_a_3_b_3.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_b_4",
             "sentence": "What does an automobile mechanic do?\n\nHe doesn’t tighten the wheel nuts after changing the tyre.",
-            "audio": "assets/audio/a_3_b_4.mp3",
+            "audio": "assets/audio/g_a_3_b_4.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
             "id": "g_b_5",
             "sentence": "What does an automobile mechanic do?\n\nHe uses diagnostic equipment to scan the vehicle’s electronic system.",
-            "audio": "assets/audio/a_3_b_5.mp3",
+            "audio": "assets/audio/g_a_3_b_5.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_b_6",
             "sentence": "What does an automobile mechanic do?\n\nHe does not ignore warning lights on the dashboard during inspection.",
-            "audio": "assets/audio/a_3_b_6.mp3",
+            "audio": "assets/audio/g_a_3_b_6.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_b_7",
             "sentence": "What does an automobile mechanic do?\n\nHe adjusts the brake system and checks the fluid level carefully.",
-            "audio": "assets/audio/a_3_b_7.mp3",
+            "audio": "assets/audio/g_a_3_b_7.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_b_8",
             "sentence": "What does an automobile mechanic do?\n\nHe cleans the fuel injectors to improve engine performance.",
-            "audio": "assets/audio/a_3_b_8.mp3",
+            "audio": "assets/audio/g_a_3_b_8.mp3",
             "options": ["True", "False"],
             "answer": "True"
           },
           {
             "id": "g_b_9",
             "sentence": "What does an automobile mechanic do?\n\nHe does not test-drive the vehicle after completing the repair.",
-            "audio": "assets/audio/a_3_b_9.mp3",
+            "audio": "assets/audio/g_a_3_b_9.mp3",
             "options": ["True", "False"],
             "answer": "False"
           },
           {
             "id": "g_b_10",
             "sentence": "What does an automobile mechanic do?\n\nHe records maintenance details and updates the service logbook.",
-            "audio": "assets/audio/a_3_b_10.mp3",
+            "audio": "assets/audio/g_a_3_b_10.mp3",
             "options": ["True", "False"],
             "answer": "True"
           }
