@@ -61,7 +61,7 @@
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
         "sentence_text": "Does the instructor always replace the filt'e'r in the pump?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_4.jpeg"
       }
     ]
   },
@@ -627,7 +627,7 @@
         },
         {
           "id": "t_1_14",
-          "text": "He doesn’t miss any task because every session helps him become a better technician.",
+          "text": "He doesn’t miss any tasks because every session helps him become a better technician.",
           "audio": "assets/audio/t_1_14.mp3"
         },
         {
@@ -769,7 +769,7 @@
         },
         {
           "id": "t_1_14",
-          "text": "He doesn’t miss any task because every session helps him become a better technician.",
+          "text": "He doesn’t miss any tasks because every session helps him become a better technician.",
           "audio": "assets/audio/t_1_14.mp3"
         },
         {
@@ -836,7 +836,7 @@
         },
         {
           "id": "t_1_14",
-          "text": "He doesn’t miss any task because every session helps him become a better technician.",
+          "text": "He doesn’t miss any tasks because every session helps him become a better technician.",
           "audio": "assets/audio/t_1_14.mp3"
         },
         {
