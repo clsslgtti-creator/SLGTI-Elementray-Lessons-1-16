@@ -1,0 +1,713 @@
+{
+  "meta": {
+    "lesson_no": 15,
+    "level": "Elementary",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /əʊ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "motorbike",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Start the motorbike before others arrive.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.jpeg"
+      },
+      {
+        "id": "p_2",
+        "word_text": "road",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "He never parks new vehicles on the road.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "spoke",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "They always check the front spoke carefully.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "cone",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The instructor is placing the safety cone near the gate right now.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Contrast the Simple Present Tense and the Present Continuous Tense",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["A: What are you doing?!"],
+        ["B: I’m ___________________ ."],
+        ["A: That’s strange! Do you USUALLY  _____________________ ?"],
+        ["B: No, I NEVER _____________ , but I’m _________________ TODAY."],
+        ["A: Why are you doing THAT?!"],
+        ["B: Because my ________________ is broken."],
+        ["A: I’m sorry to hear that."]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "e_1",
+        "img": "assets/img/a_2_ex_1.png",
+        "text_a": "What are you doing?",
+        "text_b": "I am boiling water on a clay stove.",
+        "text_c": "That’s strange. Do you usually boil water on a clay stove?",
+        "text_d": "No, I never boil water on a clay stove, but I am boiling water on a clay stove today.",
+        "text_e": "Why are you doing that?",
+        "text_f": "Because the gas cylinder is empty.",
+        "text_g": "I’m sorry to hear that.",
+        "audio_a": "assets/audio/a_2_ex_1_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_1_b.mp3",
+        "audio_c": "assets/audio/a_2_ex_1_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_1_d.mp3",
+        "audio_e": "assets/audio/a_2_ex_1_e.mp3",
+        "audio_f": "assets/audio/a_2_ex_1_f.mp3",
+        "audio_g": "assets/audio/a_2_ex_1_g.mp3"
+      },
+      {
+        "id": "e_2",
+        "img": "assets/img/a_2_ex_2.png",
+        "text_a": "What are you doing?",
+        "text_b": "I am sleeping on the roof tonight.",
+        "text_c": "That’s strange. Do you usually sleep on the roof?",
+        "text_d": "No, I never sleep on the roof, but I am sleeping on the roof tonight.",
+        "text_e": "Why are you doing that?",
+        "text_f": "Because it is too hot inside.",
+        "text_g": "I’m sorry to hear that.",
+        "audio_a": "assets/audio/a_2_ex_2_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_2_b.mp3",
+        "audio_c": "assets/audio/a_2_ex_2_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_2_d.mp3",
+        "audio_e": "assets/audio/a_2_ex_2_e.mp3",
+        "audio_f": "assets/audio/a_2_ex_2_f.mp3",
+        "audio_g": "assets/audio/a_2_ex_2_g.mp3"
+      },
+      {
+        "id": "e_3",
+        "img": "assets/img/a_2_ex_3.png",
+        "text_a": "What are you doing?",
+        "text_b": "I am reading with a candle.",
+        "text_c": "That’s strange. Do you usually read with a candle?",
+        "text_d": "No, I never read with a candle, but I am reading with a candle today.",
+        "text_e": "Why are you doing that?",
+        "text_f": "Because there is a power cut.",
+        "text_g": "I’m sorry to hear that.",
+        "audio_a": "assets/audio/a_2_ex_3_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_3_b.mp3",
+        "audio_c": "assets/audio/a_2_ex_3_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_3_d.mp3",
+        "audio_e": "assets/audio/a_2_ex_3_e.mp3",
+        "audio_f": "assets/audio/a_2_ex_3_f.mp3",
+        "audio_g": "assets/audio/a_2_ex_3_g.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_1.png",
+        "word": "frying pappadam on the balcony"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_2.jpeg",
+        "word": "phone as a hotspot"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_3.png",
+        "word": "fixing my bike in the living room"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "carrying groceries in a bucket"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "standing in line at the petrol shed"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "working  upstairs"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "What are you doing?",
+        "text_b": "I’m frying pappadam on the balcony.",
+        "text_c": "That’s strange. Do you usually fry pappadam on the balcony?",
+        "text_d": "No, I never fry pappadam on the balcony, but I am frying pappadam on the balcony today.",
+        "text_e": "Why are you doing that?",
+        "text_f": "Because the kitchen is wet.",
+        "text_g": "I’m sorry to hear that.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3",
+        "audio_e": "assets/audio/a_2_d_1_e.mp3",
+        "audio_f": "assets/audio/a_2_d_1_f.mp3",
+        "audio_g": "assets/audio/a_2_d_1_g.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "What are you doing?",
+        "text_b": "I’m using my phone as a hotspot.",
+        "text_c": "That’s strange. Do you usually use your phone as a hotspot?",
+        "text_d": "No, I never use my phone as a hotspot, but I am using my phone as a hotspot today.",
+        "text_e": "Why are you doing that?",
+        "text_f": "Because the Wi-Fi isn’t working.",
+        "text_g": "I’m sorry to hear that.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3",
+        "audio_e": "assets/audio/a_2_d_2_e.mp3",
+        "audio_f": "assets/audio/a_2_d_2_f.mp3",
+        "audio_g": "assets/audio/a_2_d_2_g.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "What are you doing?",
+        "text_b": "I’m fixing my bike in the living room.",
+        "text_c": "That’s strange. Do you usually fix your bike in the living room?",
+        "text_d": "No, I never fix my bike in the living room, but I am fixing my bike in the living room today.",
+        "text_e": "Why are you doing that?",
+        "text_f": "Because it’s raining outside.",
+        "text_g": "I’m sorry to hear that.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3",
+        "audio_e": "assets/audio/a_2_d_3_e.mp3",
+        "audio_f": "assets/audio/a_2_d_3_f.mp3",
+        "audio_g": "assets/audio/a_2_d_3_g.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "What are you doing?",
+        "text_b": "I’m carrying groceries in a bucket.",
+        "text_c": "That’s strange. Do you usually carry groceries in a bucket?",
+        "text_d": "No, I never carry groceries in a bucket, but I am carrying groceries in a bucket today.",
+        "text_e": "Why are you doing that?",
+        "text_f": "Because my shopping bag is torn.",
+        "text_g": "I’m sorry to hear that.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_4_d.mp3",
+        "audio_e": "assets/audio/a_2_d_4_e.mp3",
+        "audio_f": "assets/audio/a_2_d_4_f.mp3",
+        "audio_g": "assets/audio/a_2_d_4_g.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "What are you doing?",
+        "text_b": "I’m standing in line at the petrol shed.",
+        "text_c": "That’s strange. Do you usually stand in line at the petrol shed?",
+        "text_d": "No, I never stand in line at the petrol shed, but I am standing in line at the petrol shed today.",
+        "text_e": "Why are you doing that?",
+        "text_f": "Because there’s a fuel shortage.",
+        "text_g": "I’m sorry to hear that.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3",
+        "audio_e": "assets/audio/a_2_d_5_e.mp3",
+        "audio_f": "assets/audio/a_2_d_5_f.mp3",
+        "audio_g": "assets/audio/a_2_d_5_g.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "What are you doing?",
+        "text_b": "I’m working upstairs.",
+        "text_c": "That’s strange. Do you usually work upstairs?",
+        "text_d": "No, I never work upstairs, but I am working upstairs today.",
+        "text_e": "Why are you doing that?",
+        "text_f": "Because the ground floor is flooded.",
+        "text_g": "I’m sorry to hear that.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_6_d.mp3",
+        "audio_e": "assets/audio/a_2_d_6_e.mp3",
+        "audio_f": "assets/audio/a_2_d_6_f.mp3",
+        "audio_g": "assets/audio/a_2_d_6_g.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "examples": [
+          {
+            "id": "e_1",
+            "sentence": "Amal __________ the spark plugs every day.",
+            "options": ["is tighten", "is tighten", "tightens", "tighten"],
+            "answer": "He repairs dents and scratches on cars.",
+            "image": "assets/img/a_3_1.png"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "The mechanics __________ the engine mounts every morning at around 8 a.m.",
+            "options": ["is adjusting", "adjusts", "adjust", "adjusting"],
+            "answer": "adjust",
+            "image": "assets/img/a_3_1.png"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "The trainees __________ the oil filters every afternoon.",
+            "options": ["removes", "is remove", "are removes", "remove"],
+            "answer": "remove",
+            "image": "assets/img/a_3_1.png"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "Kasun often __________ the brake pads before a test drive.",
+            "options": ["checks now", "is checking", "check", "checks"],
+            "answer": "checks",
+            "image": "assets/img/a_3_1.png"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "Sunil always __________ off the workshop lights before closing.",
+            "options": ["switching", "is switches", "switches now", "switches"],
+            "answer": "switches",
+            "image": "assets/img/a_3_1.png"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "Right now, Amal __________ the gear alignment.",
+            "options": ["checks", "is check", "is checking", "are checking"],
+            "answer": "is checking",
+            "image": "assets/img/a_3_1.png"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "Today, the mechanic __________ the fuel injectors.",
+            "options": ["repairs", "repair", "repairing", "is repairing"],
+            "answer": "is repairing",
+            "image": "assets/img/a_3_1.png"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "At the moment, the trainees __________ the wheel alignment.",
+            "options": [
+              "adjust",
+              "adjust now",
+              "is adjusting",
+              "are adjusting"
+            ],
+            "answer": "are adjusting",
+            "image": "assets/img/a_3_1.png"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "This week, the mechanics __________ the suspension system.",
+            "options": [
+              "are prepares",
+              "prepares",
+              "is repairing",
+              "are repairing"
+            ],
+            "answer": "are repairing",
+            "image": "assets/img/a_3_1.png"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "Right now, Suraj __________ the exhaust pipe.",
+            "options": ["cleaning", "cleans", "is cleans", "is cleaning"],
+            "answer": "is cleaning",
+            "image": "assets/img/a_3_1.png"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "The mechanics __________ new gaskets every morning.",
+            "options": ["are replacing", "is replacing", "replaces", "replace"],
+            "answer": "replace",
+            "image": "assets/img/a_3_1.png"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "n_3_1",
+          "text": "He repairs dents and scratches on cars.",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
+        },
+        {
+          "id": "n_3_2",
+          "text": "He fixes damaged doors, fenders, and bumpers.",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
+        },
+        {
+          "id": "n_3_3",
+          "text": "He uses special tools to fit metal parts together.",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
+        },
+        {
+          "id": "n_3_4",
+          "text": "He sands and smooths the car body.",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
+        },
+        {
+          "id": "n_3_5",
+          "text": "He prepares the surface for painting.",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
+        },
+        {
+          "id": "n_3_6",
+          "text": "He makes the car look new again.",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_4_1",
+            "question": "Why is Nimal starting work earlier today?",
+            "answer": "Because new trainees are visiting",
+            "options": [
+              "Because he came late yesterday",
+              "Because new trainees are visiting",
+              "Because the trainees asked him"
+            ]
+          },
+          {
+            "id": "l_4_2",
+            "question": "Why is he preparing the diagnostic scanner?",
+            "answer": "Because the instructor is demonstrating sensor readings",
+            "options": [
+              "Because the instructor wants him to practise alone",
+              "Because the instructor is demonstrating sensor readings",
+              "Because the old scanner is broken"
+            ]
+          },
+          {
+            "id": "l_4_3",
+            "question": "Why is he sharing tools today?",
+            "answer": "Because Nimal’s toolbox is being repaired",
+            "options": [
+              "Because Amal’s toolbox is being repaired",
+              "Because Nimal’s toolbox is being repaired",
+              "Because the instructor told him to"
+            ]
+          },
+          {
+            "id": "l_4_4",
+            "question": "Why is Nimal inspecting the cooling fan?",
+            "answer": "Because it is making a strange noise",
+            "options": [
+              "Because it is part of his routine",
+              "Because it is making a strange noise",
+              "Because Amal is making a strange noise"
+            ]
+          },
+          {
+            "id": "l_4_5",
+            "question": "Why is he cleaning the workshop floor this afternoon?",
+            "answer": "Because there has been an oil spill",
+            "options": [
+              "Because it’s his turn on the schedule",
+              "Because there has been an oil spill",
+              "Because the instructor asked"
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1_1",
+          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "audio": "assets/audio/t_1_10.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1_1",
+          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "audio": "assets/audio/t_1_10.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1_1",
+          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "audio": "assets/audio/t_1_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
