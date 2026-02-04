@@ -1,4 +1,10 @@
-const DEFAULT_OPTION_LABELS = ["Option A", "Option B", "Option C"];
+const MAX_OPTION_COUNT = 4;
+const DEFAULT_OPTION_LABELS = [
+  "Option A",
+  "Option B",
+  "Option C",
+  "Option D",
+];
 
 export const sanitizeOptions = (
   rawOptions = [],
@@ -12,7 +18,7 @@ export const sanitizeOptions = (
 
   const fallbackPool =
     fallback.length >= 2
-      ? fallback.slice(0, 3)
+      ? fallback.slice(0, MAX_OPTION_COUNT)
       : DEFAULT_OPTION_LABELS.slice(0, 2);
 
   if (!Array.isArray(rawOptions)) {
@@ -24,7 +30,7 @@ export const sanitizeOptions = (
     .filter((option) => option.length);
 
   if (trimmed.length >= 2) {
-    return trimmed.slice(0, 3);
+    return trimmed.slice(0, MAX_OPTION_COUNT);
   }
 
   if (trimmed.length === 1) {
@@ -305,6 +311,7 @@ export const createGameScene = (config) => {
     );
 
   const maxOptionCount = Math.max(
+    MAX_OPTION_COUNT,
     fallbackOptions.length,
     deriveMaxOptionCount(examples),
     deriveMaxOptionCount(questions),
@@ -1284,9 +1291,10 @@ export const createGameScene = (config) => {
     createOptionButtons(width, height, maxOptions) {
       const visibleCount = Math.max(maxOptions || 0, 2);
       const useCompactLayout = visibleCount >= 3;
-      const buttonWidth = useCompactLayout ? 307 : 410;
-      const buttonHeight = 150;
-      const baseY = height - 140;
+      const useExtraCompact = visibleCount >= 4;
+      const buttonWidth = useExtraCompact ? 230 : useCompactLayout ? 307 : 410;
+      const buttonHeight = useExtraCompact ? 140 : 150;
+      const baseY = height - (useExtraCompact ? 130 : 140);
 
       this.optionButtonMetrics = {
         buttonWidth,
@@ -1337,11 +1345,11 @@ export const createGameScene = (config) => {
         const text = this.add
           .text(0, 0, "", {
             fontFamily: 'Segoe UI, "Helvetica Neue", Arial, sans-serif',
-            fontSize: 26,
+            fontSize: useExtraCompact ? 24 : 26,
             color: "#475569",
             align: "center",
             fontStyle: "bold",
-            wordWrap: { width: buttonWidth - 40 },
+            wordWrap: { width: buttonWidth - 36 },
           })
           .setOrigin(0.5);
 
@@ -1456,9 +1464,16 @@ export const createGameScene = (config) => {
         this.sys.game.config.height;
       const metrics = this.optionButtonMetrics || {};
       const baseY = metrics.baseY ?? height - 140;
+      const buttonWidth = metrics.buttonWidth ?? 300;
 
       let spacing = 0;
-      spacing = 400;
+      if (total > 1) {
+        const maxSpacing = Math.max(
+          0,
+          (width - buttonWidth - 200) / (total - 1)
+        );
+        spacing = Math.min(400, maxSpacing);
+      }
 
       const positions = [];
       const centerIndex = (total - 1) / 2;
