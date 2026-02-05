@@ -322,91 +322,96 @@
         "examples": [
           {
             "id": "e_1",
-            "sentence": "Amal __________ the spark plugs every day.",
-            "options": ["is tighten", "is tighten", "tightens", "tighten"],
-            "answer": "He repairs dents and scratches on cars.",
+            "sentence": "The mechanics __________ valves every morning.",
+            "options": ["repaired", "repairs", "repair", "repairing"],
+            "answer": "repair",
             "image": "assets/img/a_3_1.png"
           }
         ],
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "The mechanics __________ the engine mounts every morning at around 8 a.m.",
-            "options": ["is adjusting", "adjusts", "adjust", "adjusting"],
-            "answer": "adjust",
+            "sentence": "The trainees __________ air compressors every day at around 7 a.m.",
+            "options": ["checks", "is checking", "checked", "check"],
+            "answer": "check",
             "image": "assets/img/a_3_1.png"
           },
           {
             "id": "g_b_2",
-            "sentence": "The trainees __________ the oil filters every afternoon.",
-            "options": ["removes", "is remove", "are removes", "remove"],
-            "answer": "remove",
+            "sentence": "The workers __________ spare bearings for the machine.",
+            "options": ["prepares", "preparing", "are prepares", "prepare"],
+            "answer": "prepare",
             "image": "assets/img/a_3_1.png"
           },
           {
             "id": "g_b_3",
-            "sentence": "Kasun often __________ the brake pads before a test drive.",
-            "options": ["checks now", "is checking", "check", "checks"],
+            "sentence": "Ramesh often __________ the lathe machine before using it.",
+            "options": ["checking", "checks now", "check", "checks"],
             "answer": "checks",
             "image": "assets/img/a_3_1.png"
           },
           {
             "id": "g_b_4",
-            "sentence": "Sunil always __________ off the workshop lights before closing.",
-            "options": ["switching", "is switches", "switches now", "switches"],
-            "answer": "switches",
+            "sentence": "The technicians always __________ coolant before operating the machine.",
+            "options": ["adds", "adding", "is adds", "add"],
+            "answer": "add",
             "image": "assets/img/a_3_1.png"
           },
           {
             "id": "g_b_5",
-            "sentence": "Right now, Amal __________ the gear alignment.",
-            "options": ["checks", "is check", "is checking", "are checking"],
-            "answer": "is checking",
-            "image": "assets/img/a_3_1.png"
-          },
-          {
-            "id": "g_b_6",
-            "sentence": "Today, the mechanic __________ the fuel injectors.",
-            "options": ["repairs", "repair", "repairing", "is repairing"],
+            "sentence": "Right now, the mechanic __________ the gearbox.",
+            "options": ["repairs", "is repair", "is repairing", "repairing"],
             "answer": "is repairing",
             "image": "assets/img/a_3_1.png"
           },
           {
-            "id": "g_b_7",
-            "sentence": "At the moment, the trainees __________ the wheel alignment.",
+            "id": "g_b_6",
+            "sentence": "Today, the supervisor __________ the hydraulic press.",
             "options": [
-              "adjust",
-              "adjust now",
-              "is adjusting",
-              "are adjusting"
+              "inspecting",
+              "are inspecting",
+              "inspects",
+              "is inspecting"
             ],
-            "answer": "are adjusting",
+            "answer": "is inspecting",
+            "image": "assets/img/a_3_1.png"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "At the moment, the workers __________ the broken belt.",
+            "options": ["fixing", "is fixing", "are fixing", "fixes"],
+            "answer": "are fixing",
             "image": "assets/img/a_3_1.png"
           },
           {
             "id": "g_b_8",
-            "sentence": "This week, the mechanics __________ the suspension system.",
+            "sentence": "This week, the trainees __________ a diesel pump.",
             "options": [
-              "are prepares",
-              "prepares",
-              "is repairing",
-              "are repairing"
+              "assembling",
+              "is assembling",
+              "is assembling",
+              "are assembling"
             ],
-            "answer": "are repairing",
+            "answer": "are assembling",
             "image": "assets/img/a_3_1.png"
           },
           {
             "id": "g_b_9",
-            "sentence": "Right now, Suraj __________ the exhaust pipe.",
-            "options": ["cleaning", "cleans", "is cleans", "is cleaning"],
-            "answer": "is cleaning",
+            "sentence": "Right now, the helpers __________ metal shavings.",
+            "options": ["sweeps", "sweep", "is sweep", "are sweeping"],
+            "answer": "are sweeping",
             "image": "assets/img/a_3_1.png"
           },
           {
             "id": "g_b_10",
-            "sentence": "The mechanics __________ new gaskets every morning.",
-            "options": ["are replacing", "is replacing", "replaces", "replace"],
-            "answer": "replace",
+            "sentence": "The mechanics __________ tool sets before starting work.",
+            "options": [
+              "are organize",
+              "organizes",
+              "is organizing",
+              "organize"
+            ],
+            "answer": "organize",
             "image": "assets/img/a_3_1.png"
           }
         ]
@@ -414,57 +419,57 @@
       "activity_b": [
         {
           "id": "n_3_1",
-          "text": "Amal tightens the spark plugs every day.",
+          "text": "The mechanics repair valves every morning.",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "n_3_2",
-          "text": "The mechanics adjust the engine mounts every morning at around 8 a.m.",
+          "text": "The trainees check air compressors every day at around 7 a.m.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "n_3_3",
-          "text": "The trainees remove the oil filters every afternoon.",
+          "text": "The workers prepare spare bearings for the machine.",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "n_3_4",
-          "text": "Kasun often checks the brake pads before a test drive.",
+          "text": "Ramesh often checks the lathe machine before using it.",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "n_3_5",
-          "text": "Sunil always switches the workshop lights off before closing.",
+          "text": "The technicians add coolant before operating.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "n_3_6",
-          "text": "Right now, Amal is checking the gear alignment.",
+          "text": "Right now, the mechanic is repairing the gearbox.",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "n_3_7",
-          "text": "Today, the mechanic is repairing the fuel injectors.",
+          "text": "Today, the supervisor is inspecting the hydraulic press.",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "n_3_8",
-          "text": "At the moment, the trainees are aligning the wheel alignment.",
+          "text": "At the moment, the workers are fixing the broken belt.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         },
         {
           "id": "n_3_9",
-          "text": "This week, the mechanics are repairing the suspension system.",
+          "text": "This week, the trainees are assembling a diesel pump.",
           "audio": "assets/audio/a_3_b_g_9.mp3"
         },
         {
           "id": "n_3_10",
-          "text": "Right now, Suraj is cleaning the exhaust pipe.",
+          "text": "Right now, the helpers are sweeping metal shavings.",
           "audio": "assets/audio/a_3_b_g_10.mp3"
         },
         {
           "id": "n_3_11",
-          "text": "The mechanics replace new gaskets every morning.",
+          "text": "The mechanics organize tool sets before starting.",
           "audio": "assets/audio/a_3_b_g_11.mp3"
         }
       ]
