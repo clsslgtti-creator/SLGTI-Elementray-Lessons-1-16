@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "motorbike",
+        "word_text": "m'o'torbike",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Start the motorbike before others arrive.",
+        "sentence_text": "Start the m'o'torbike before others arrive.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "road",
+        "word_text": "r'oa'd",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He never parks new vehicles on the road.",
+        "sentence_text": "He never parks new vehicles on the r'oa'd.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "spoke",
+        "word_text": "sp'o'ke",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "They always check the front spoke carefully.",
+        "sentence_text": "They always check the front sp'o'ke carefully.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "cone",
+        "word_text": "c'o'ne",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The instructor is placing the safety cone near the gate right now.",
+        "sentence_text": "The instructor is placing the safety c'o'ne near the gate right now.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -116,13 +116,13 @@
         "text_e": "Why are you doing that?",
         "text_f": "Because the gas cylinder is empty.",
         "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_ex_1_a.mp3",
+        "audio_a": "assets/audio/a_2_x_a.mp3",
         "audio_b": "assets/audio/a_2_ex_1_b.mp3",
         "audio_c": "assets/audio/a_2_ex_1_c.mp3",
         "audio_d": "assets/audio/a_2_ex_1_d.mp3",
-        "audio_e": "assets/audio/a_2_ex_1_e.mp3",
+        "audio_e": "assets/audio/a_2_x_e.mp3",
         "audio_f": "assets/audio/a_2_ex_1_f.mp3",
-        "audio_g": "assets/audio/a_2_ex_1_g.mp3"
+        "audio_g": "assets/audio/a_2_x_g.mp3"
       },
       {
         "id": "e_2",
@@ -134,13 +134,13 @@
         "text_e": "Why are you doing that?",
         "text_f": "Because it is too hot inside.",
         "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_ex_2_a.mp3",
+        "audio_a": "assets/audio/a_2_x_a.mp3",
         "audio_b": "assets/audio/a_2_ex_2_b.mp3",
         "audio_c": "assets/audio/a_2_ex_2_c.mp3",
         "audio_d": "assets/audio/a_2_ex_2_d.mp3",
-        "audio_e": "assets/audio/a_2_ex_2_e.mp3",
+        "audio_e": "assets/audio/a_2_x_e.mp3",
         "audio_f": "assets/audio/a_2_ex_2_f.mp3",
-        "audio_g": "assets/audio/a_2_ex_2_g.mp3"
+        "audio_g": "assets/audio/a_2_x_g.mp3"
       },
       {
         "id": "e_3",
@@ -152,13 +152,13 @@
         "text_e": "Why are you doing that?",
         "text_f": "Because there is a power cut.",
         "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_ex_3_a.mp3",
+        "audio_a": "assets/audio/a_2_x_a.mp3",
         "audio_b": "assets/audio/a_2_ex_3_b.mp3",
         "audio_c": "assets/audio/a_2_ex_3_c.mp3",
         "audio_d": "assets/audio/a_2_ex_3_d.mp3",
-        "audio_e": "assets/audio/a_2_ex_3_e.mp3",
+        "audio_e": "assets/audio/a_2_x_e.mp3",
         "audio_f": "assets/audio/a_2_ex_3_f.mp3",
-        "audio_g": "assets/audio/a_2_ex_3_g.mp3"
+        "audio_g": "assets/audio/a_2_x_g.mp3"
       }
     ],
     "keywords": [
@@ -204,13 +204,13 @@
         "text_e": "Why are you doing that?",
         "text_f": "Because the kitchen is wet.",
         "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_a": "assets/audio/a_2_x_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
         "audio_d": "assets/audio/a_2_d_1_d.mp3",
-        "audio_e": "assets/audio/a_2_d_1_e.mp3",
+        "audio_e": "assets/audio/a_2_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_1_f.mp3",
-        "audio_g": "assets/audio/a_2_d_1_g.mp3"
+        "audio_g": "assets/audio/a_2_x_g.mp3"
       },
       {
         "id": "d_2",
@@ -222,13 +222,13 @@
         "text_e": "Why are you doing that?",
         "text_f": "Because the Wi-Fi isn’t working.",
         "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_a": "assets/audio/a_2_x_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3",
         "audio_d": "assets/audio/a_2_d_2_d.mp3",
-        "audio_e": "assets/audio/a_2_d_2_e.mp3",
+        "audio_e": "assets/audio/a_2_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_2_f.mp3",
-        "audio_g": "assets/audio/a_2_d_2_g.mp3"
+        "audio_g": "assets/audio/a_2_x_g.mp3"
       },
       {
         "id": "d_3",
@@ -240,13 +240,13 @@
         "text_e": "Why are you doing that?",
         "text_f": "Because it’s raining outside.",
         "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_a": "assets/audio/a_2_x_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3",
         "audio_d": "assets/audio/a_2_d_3_d.mp3",
-        "audio_e": "assets/audio/a_2_d_3_e.mp3",
+        "audio_e": "assets/audio/a_2_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_3_f.mp3",
-        "audio_g": "assets/audio/a_2_d_3_g.mp3"
+        "audio_g": "assets/audio/a_2_x_g.mp3"
       },
       {
         "id": "d_4",
@@ -258,13 +258,13 @@
         "text_e": "Why are you doing that?",
         "text_f": "Because my shopping bag is torn.",
         "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_a": "assets/audio/a_2_x_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3",
         "audio_d": "assets/audio/a_2_d_4_d.mp3",
-        "audio_e": "assets/audio/a_2_d_4_e.mp3",
+        "audio_e": "assets/audio/a_2_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_4_f.mp3",
-        "audio_g": "assets/audio/a_2_d_4_g.mp3"
+        "audio_g": "assets/audio/a_2_x_g.mp3"
       },
       {
         "id": "d_5",
@@ -276,13 +276,13 @@
         "text_e": "Why are you doing that?",
         "text_f": "Because there’s a fuel shortage.",
         "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_a": "assets/audio/a_2_x_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3",
         "audio_d": "assets/audio/a_2_d_5_d.mp3",
-        "audio_e": "assets/audio/a_2_d_5_e.mp3",
+        "audio_e": "assets/audio/a_2_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_5_f.mp3",
-        "audio_g": "assets/audio/a_2_d_5_g.mp3"
+        "audio_g": "assets/audio/a_2_x_g.mp3"
       },
       {
         "id": "d_6",
@@ -294,13 +294,13 @@
         "text_e": "Why are you doing that?",
         "text_f": "Because the ground floor is flooded.",
         "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_a": "assets/audio/a_2_x_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3",
         "audio_d": "assets/audio/a_2_d_6_d.mp3",
-        "audio_e": "assets/audio/a_2_d_6_e.mp3",
+        "audio_e": "assets/audio/a_2_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_6_f.mp3",
-        "audio_g": "assets/audio/a_2_d_6_g.mp3"
+        "audio_g": "assets/audio/a_2_x_g.mp3"
       }
     ]
   },
