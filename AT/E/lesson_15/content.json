@@ -414,33 +414,58 @@
       "activity_b": [
         {
           "id": "n_3_1",
-          "text": "He repairs dents and scratches on cars.",
+          "text": "Amal tightens the spark plugs every day.",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "n_3_2",
-          "text": "He fixes damaged doors, fenders, and bumpers.",
+          "text": "The mechanics adjust the engine mounts every morning at around 8 a.m.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "n_3_3",
-          "text": "He uses special tools to fit metal parts together.",
+          "text": "The trainees remove the oil filters every afternoon.",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "n_3_4",
-          "text": "He sands and smooths the car body.",
+          "text": "Kasun often checks the brake pads before a test drive.",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "n_3_5",
-          "text": "He prepares the surface for painting.",
+          "text": "Sunil always switches the workshop lights off before closing.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "n_3_6",
-          "text": "He makes the car look new again.",
+          "text": "Right now, Amal is checking the gear alignment.",
           "audio": "assets/audio/a_3_b_g_6.mp3"
+        },
+        {
+          "id": "n_3_7",
+          "text": "Today, the mechanic is repairing the fuel injectors.",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
+        },
+        {
+          "id": "n_3_8",
+          "text": "At the moment, the trainees are aligning the wheel alignment.",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
+        },
+        {
+          "id": "n_3_9",
+          "text": "This week, the mechanics are repairing the suspension system.",
+          "audio": "assets/audio/a_3_b_g_9.mp3"
+        },
+        {
+          "id": "n_3_10",
+          "text": "Right now, Suraj is cleaning the exhaust pipe.",
+          "audio": "assets/audio/a_3_b_g_10.mp3"
+        },
+        {
+          "id": "n_3_11",
+          "text": "The mechanics replace new gaskets every morning.",
+          "audio": "assets/audio/a_3_b_g_11.mp3"
         }
       ]
     }
@@ -471,210 +496,380 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "Why is Nimal starting work earlier today?",
-            "answer": "Because new trainees are visiting",
+            "question": "Why is Ruwan boiling water outside?",
+            "answer": "His gas cylinder is empty, and there is a power cut",
             "options": [
-              "Because he came late yesterday",
-              "Because new trainees are visiting",
-              "Because the trainees asked him"
+              "His gas cylinder is empty but the neighbours lent him another cooker",
+              "His gas cylinder is empty, and there is a power cut",
+              "He prefers using a kerosene stove"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Why is he preparing the diagnostic scanner?",
-            "answer": "Because the instructor is demonstrating sensor readings",
+            "question": "What are the people in the neighbourhood doing?",
+            "answer": "Standing outside and talking",
             "options": [
-              "Because the instructor wants him to practise alone",
-              "Because the instructor is demonstrating sensor readings",
-              "Because the old scanner is broken"
+              "Attending a village meeting",
+              "Watching TV and relaxing",
+              "Standing outside and talking"
             ]
           },
           {
             "id": "l_4_3",
-            "question": "Why is he sharing tools today?",
-            "answer": "Because Nimal’s toolbox is being repaired",
+            "question": "Why does Amma want the water boiled?",
+            "answer": "She wants to make tea",
             "options": [
-              "Because Amal’s toolbox is being repaired",
-              "Because Nimal’s toolbox is being repaired",
-              "Because the instructor told him to"
+              "She wants to make tea",
+              "She wants to drink tea herself",
+              "She needs hot water for guests"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Why is Nimal inspecting the cooling fan?",
-            "answer": "Because it is making a strange noise",
+            "question": "How does Ruwan feel about the situation at the end?",
+            "answer": "He feels relaxed and calm",
             "options": [
-              "Because it is part of his routine",
-              "Because it is making a strange noise",
-              "Because Amal is making a strange noise"
+              "He is annoyed",
+              "He feels relaxed and calm",
+              "He wants to buy a new stove immediately"
             ]
           },
           {
             "id": "l_4_5",
-            "question": "Why is he cleaning the workshop floor this afternoon?",
-            "answer": "Because there has been an oil spill",
+            "question": "What does Anusha say about the weather?",
+            "answer": "It is nice and better than standing in the rain",
             "options": [
-              "Because it’s his turn on the schedule",
-              "Because there has been an oil spill",
-              "Because the instructor asked"
+              "It is raining heavily",
+              "It is nice but she has to stand in the rain",
+              "It is nice and better than standing in the rain"
             ]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_3_1",
+          "text": "Hey, what are you doing?",
+          "audio": "assets/audio/t_3_1.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_3_2",
+          "text": "Why are you sitting outside like this?",
+          "audio": "assets/audio/t_3_2.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
-          "audio": "assets/audio/t_1_3.mp3"
+          "id": "t_3_3",
+          "text": "Ah, long story.",
+          "audio": "assets/audio/t_3_3.mp3"
         },
         {
-          "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
-          "audio": "assets/audio/t_1_4.mp3"
+          "id": "t_3_4",
+          "text": "I’m boiling water on this rusty old kerosene stove.",
+          "audio": "assets/audio/t_3_4.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_3_5",
+          "text": "Seriously?",
+          "audio": "assets/audio/t_3_5.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "t_3_6",
+          "text": "That’s annoying.",
+          "audio": "assets/audio/t_3_6.mp3"
         },
         {
-          "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
-          "audio": "assets/audio/t_1_7.mp3"
+          "id": "t_3_7",
+          "text": "Do you usually boil water like this?",
+          "audio": "assets/audio/t_3_7.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_3_8",
+          "text": "No, I don’t.",
+          "audio": "assets/audio/t_3_8.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "t_3_9",
+          "text": "I normally use a gas cooker or the electric kettle, but today everything is upside down.",
+          "audio": "assets/audio/t_3_9.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_3_10",
+          "text": "What happened?",
+          "audio": "assets/audio/t_3_10.mp3"
+        },
+        {
+          "id": "t_3_11",
+          "text": "Power cut ?",
+          "audio": "assets/audio/t_3_11.mp3"
+        },
+        {
+          "id": "t_3_12",
+          "text": "Yeah.",
+          "audio": "assets/audio/t_3_12.mp3"
+        },
+        {
+          "id": "t_3_13",
+          "text": "The power just went off again.",
+          "audio": "assets/audio/t_3_13.mp3"
+        },
+        {
+          "id": "t_3_14",
+          "text": "And not just a normal one.",
+          "audio": "assets/audio/t_3_14.mp3"
+        },
+        {
+          "id": "t_3_15",
+          "text": "The whole neighbourhood is out.",
+          "audio": "assets/audio/t_3_15.mp3"
+        },
+        {
+          "id": "t_3_16",
+          "text": "Even the shops nearby are dark.",
+          "audio": "assets/audio/t_3_16.mp3"
+        },
+        {
+          "id": "t_3_17",
+          "text": "I checked the street; half the people are outside like it’s a village meeting.",
+          "audio": "assets/audio/t_3_17.mp3"
+        },
+        {
+          "id": "t_3_18",
+          "text": "Ha, typical Sri Lankan situation.",
+          "audio": "assets/audio/t_3_18.mp3"
+        },
+        {
+          "id": "t_3_19",
+          "text": "Everyone comes out and starts talking!",
+          "audio": "assets/audio/t_3_19.mp3"
+        },
+        {
+          "id": "t_3_20",
+          "text": "Exactly.",
+          "audio": "assets/audio/t_3_20.mp3"
+        },
+        {
+          "id": "t_3_21",
+          "text": "My uncle from next door is already discussing politics with the vegetable seller.",
+          "audio": "assets/audio/t_3_21.mp3"
+        },
+        {
+          "id": "t_3_22",
+          "text": "They’ve been shouting for twenty minutes.",
+          "audio": "assets/audio/t_3_22.mp3"
+        },
+        {
+          "id": "t_3_23",
+          "text": "So why are you boiling water now?",
+          "audio": "assets/audio/t_3_23.mp3"
+        },
+        {
+          "id": "t_3_24",
+          "text": "Amma wants to make tea.",
+          "audio": "assets/audio/t_3_24.mp3"
+        },
+        {
+          "id": "t_3_25",
+          "text": "You know how she is—whatever happens, tea must be made.",
+          "audio": "assets/audio/t_3_25.mp3"
+        },
+        {
+          "id": "t_3_26",
+          "text": "That sounds like every Sri Lankan mother.",
+          "audio": "assets/audio/t_3_26.mp3"
+        },
+        {
+          "id": "t_3_27",
+          "text": "And to make things worse, the gas cylinder is also empty.",
+          "audio": "assets/audio/t_3_27.mp3"
+        },
+        {
+          "id": "t_3_28",
+          "text": "So I had to drag out this old stove from the storeroom.",
+          "audio": "assets/audio/t_3_28.mp3"
+        },
+        {
+          "id": "t_3_29",
+          "text": "I didn’t even know it still worked.",
+          "audio": "assets/audio/t_3_29.mp3"
+        },
+        {
+          "id": "t_3_30",
+          "text": "Poor thing.",
+          "audio": "assets/audio/t_3_30.mp3"
+        },
+        {
+          "id": "t_3_31",
+          "text": "At least the weather is nice.",
+          "audio": "assets/audio/t_3_31.mp3"
+        },
+        {
+          "id": "t_3_32",
+          "text": "It’s better than standing in the rain.",
+          "audio": "assets/audio/t_3_32.mp3"
+        },
+        {
+          "id": "t_3_33",
+          "text": "True.",
+          "audio": "assets/audio/t_3_33.mp3"
+        },
+        {
+          "id": "t_3_34",
+          "text": "Actually, this feels a bit relaxing.",
+          "audio": "assets/audio/t_3_34.mp3"
+        },
+        {
+          "id": "t_3_35",
+          "text": "No TV, no Wi-Fi, no noise.",
+          "audio": "assets/audio/t_3_35.mp3"
+        },
+        {
+          "id": "t_3_36",
+          "text": "Maybe the power cut is telling you to slow down.",
+          "audio": "assets/audio/t_3_36.mp3"
+        },
+        {
+          "id": "t_3_37",
+          "text": "Maybe!",
+          "audio": "assets/audio/t_3_37.mp3"
+        },
+        {
+          "id": "t_3_38",
+          "text": "But once the water boils, I'm making a nice hot cup of tea for both of us.",
+          "audio": "assets/audio/t_3_38.mp3"
+        },
+        {
+          "id": "t_3_39",
+          "text": "Eyy, good idea.",
+          "audio": "assets/audio/t_3_39.mp3"
+        },
+        {
+          "id": "t_3_40",
+          "text": "At least something positive came out of this drama.",
+          "audio": "assets/audio/t_3_40.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_3_1",
+          "text": "Hey, what are you doing?",
+          "audio": "assets/audio/t_3_1.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_3_6",
+          "text": "That’s annoying.",
+          "audio": "assets/audio/t_3_6.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
-          "audio": "assets/audio/t_1_3.mp3"
+          "id": "t_3_9",
+          "text": "I normally use a gas cooker or the electric kettle, but today everything is upside down.",
+          "audio": "assets/audio/t_3_9.mp3"
         },
         {
-          "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
-          "audio": "assets/audio/t_1_4.mp3"
+          "id": "t_3_13",
+          "text": "The power just went off again.",
+          "audio": "assets/audio/t_3_13.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_3_15",
+          "text": "The whole neighbourhood is out.",
+          "audio": "assets/audio/t_3_15.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "t_3_17",
+          "text": "I checked the street; half the people are outside like it’s a village meeting.",
+          "audio": "assets/audio/t_3_17.mp3"
         },
         {
-          "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
-          "audio": "assets/audio/t_1_7.mp3"
+          "id": "t_3_21",
+          "text": "My uncle from next door is already discussing politics with the vegetable seller.",
+          "audio": "assets/audio/t_3_21.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_3_24",
+          "text": "Amma wants to make tea.",
+          "audio": "assets/audio/t_3_24.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "t_3_27",
+          "text": "And to make things worse, the gas cylinder is also empty.",
+          "audio": "assets/audio/t_3_27.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_3_29",
+          "text": "I didn’t even know it still worked.",
+          "audio": "assets/audio/t_3_29.mp3"
+        },
+        {
+          "id": "t_3_34",
+          "text": "Actually, this feels a bit relaxing.",
+          "audio": "assets/audio/t_3_34.mp3"
+        },
+        {
+          "id": "t_3_38",
+          "text": "But once the water boils, I'm making a nice hot cup of tea for both of us.",
+          "audio": "assets/audio/t_3_38.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_3_1",
+          "text": "Hey, what are you doing?",
+          "audio": "assets/audio/t_3_1.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_3_6",
+          "text": "That’s annoying.",
+          "audio": "assets/audio/t_3_6.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
-          "audio": "assets/audio/t_1_3.mp3"
+          "id": "t_3_9",
+          "text": "I normally use a gas cooker or the electric kettle, but today everything is upside down.",
+          "audio": "assets/audio/t_3_9.mp3"
         },
         {
-          "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
-          "audio": "assets/audio/t_1_4.mp3"
+          "id": "t_3_13",
+          "text": "The power just went off again.",
+          "audio": "assets/audio/t_3_13.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_3_15",
+          "text": "The whole neighbourhood is out.",
+          "audio": "assets/audio/t_3_15.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "t_3_17",
+          "text": "I checked the street; half the people are outside like it’s a village meeting.",
+          "audio": "assets/audio/t_3_17.mp3"
         },
         {
-          "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
-          "audio": "assets/audio/t_1_7.mp3"
+          "id": "t_3_21",
+          "text": "My uncle from next door is already discussing politics with the vegetable seller.",
+          "audio": "assets/audio/t_3_21.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_3_24",
+          "text": "Amma wants to make tea.",
+          "audio": "assets/audio/t_3_24.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "t_3_27",
+          "text": "And to make things worse, the gas cylinder is also empty.",
+          "audio": "assets/audio/t_3_27.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_3_29",
+          "text": "I didn’t even know it still worked.",
+          "audio": "assets/audio/t_3_29.mp3"
+        },
+        {
+          "id": "t_3_34",
+          "text": "Actually, this feels a bit relaxing.",
+          "audio": "assets/audio/t_3_34.mp3"
+        },
+        {
+          "id": "t_3_38",
+          "text": "But once the water boils, I'm making a nice hot cup of tea for both of us.",
+          "audio": "assets/audio/t_3_38.mp3"
         }
       ]
     }
