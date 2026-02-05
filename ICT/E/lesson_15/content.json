@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "upload",
+        "word_text": "upl'oa'd",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Upload the file to the portal.",
+        "sentence_text": "Upl'oa'd the file to the portal.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "code",
+        "word_text": "c'o'de",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He is writing the code for the tool right now.",
+        "sentence_text": "He is writing the c'o'de for the tool right now.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "phone",
+        "word_text": "ph'o'ne",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The teacher never answers the phone during class.",
+        "sentence_text": "The teacher never answers the ph'o'ne during class.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "mobile",
+        "word_text": "m'o'bile",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "They usually charge their mobiles in the lab.",
+        "sentence_text": "They usually charge their m'o'biles in the lab.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

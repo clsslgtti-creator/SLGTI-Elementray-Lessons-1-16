@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "motor",
+        "word_text": "m'o'tor",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Inspect the motor after lunch.",
+        "sentence_text": "Inspect the m'o'tor after lunch.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "flow",
+        "word_text": "fl'o'w",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They are checking  the water flow in the pipe right now.",
+        "sentence_text": "They are checking  the water fl'o'w in the pipe right now.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "stroke",
+        "word_text": "str'o'ke",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "She is setting  the piston stroke correctly this time.",
+        "sentence_text": "She is setting  the piston str'o'ke correctly this time.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "rotate",
+        "word_text": "r'o'tate",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The mechanic usually rotates the gear by hand.",
+        "sentence_text": "The mechanic usually r'o'tates the gear by hand.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

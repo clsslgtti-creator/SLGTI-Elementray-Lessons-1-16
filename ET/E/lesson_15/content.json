@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "load",
+        "word_text": "l'oa'd",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "He is trying to reduce the load on the line right now.",
+        "sentence_text": "He is trying to reduce the l'oa'd on the line right now.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "overload",
+        "word_text": "overl'o'ad",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Avoid an overload on the circuit.",
+        "sentence_text": "Avoid an overl'o'ad on the circuit.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "ohm",
+        "word_text": "'o'hm",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "They always record the reading in ohm.",
+        "sentence_text": "They always record the reading in 'o'hm.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "remote",
+        "word_text": "rem'o'te",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "They usually use the remote control  to stop the pump.",
+        "sentence_text": "They usually use the rem'o'te control  to stop the pump.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

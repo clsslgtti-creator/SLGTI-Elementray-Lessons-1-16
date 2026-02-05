@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "stove",
+        "word_text": "st'o've",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "He is heating the pan on the stove right now.",
+        "sentence_text": "He is heating the pan on the st'o've right now.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "bowl",
+        "word_text": "b'ow'l",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The trainees are mixing the batter in a metal bowl now.",
+        "sentence_text": "The trainees are mixing the batter in a metal b'ow'l now.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "oats",
+        "word_text": "'oa'ts",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "He always adds milk to the oats at the very end.",
+        "sentence_text": "He always adds milk to the 'oa'ts at the very end.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "toast",
+        "word_text": "t'oa'st",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The waiter usually serves him the toast with butter.",
+        "sentence_text": "The waiter usually serves him the t'oa'st with butter.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

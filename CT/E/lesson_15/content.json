@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "road",
+        "word_text": "r'oa'd",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The foreman is marking  a safe path on the road now.",
+        "sentence_text": "The foreman is marking  a safe path on the r'oa'd now.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "stone",
+        "word_text": "st'o'ne",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He always lifts bricks and  stones with care.",
+        "sentence_text": "He always lifts bricks and  st'o'nes with care.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "load",
+        "word_text": "l'oa'd",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "They are trying to reduce the load on the scaffold at the moment.",
+        "sentence_text": "They are trying to reduce the l'oa'd on the scaffold at the moment.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "rope",
+        "word_text": "r'o'pe",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Pull the rope firmly.",
+        "sentence_text": "Pull the r'o'pe firmly.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
