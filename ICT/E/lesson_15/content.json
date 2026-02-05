@@ -325,7 +325,7 @@
             "sentence": "The students __________ the desktop units every morning.",
             "options": ["cleaning", "cleans", "cleaned", "clean"],
             "answer": "clean",
-            "image": "assets/img/a_3_1.png"
+            "image": "assets/img/a_3_1.jpeg"
           }
         ],
         "content": [
@@ -334,35 +334,35 @@
             "sentence": "The programmers __________ new features every day at around 9 a.m.",
             "options": ["writes", "writing", "write", "wrote"],
             "answer": "write",
-            "image": "assets/img/a_3_1.png"
+            "image": "assets/img/a_3_1.jpeg"
           },
           {
             "id": "g_b_2",
             "sentence": "The trainees __________ software for the workshop.",
             "options": ["prepares", "is prepare", "are prepares", "prepare"],
             "answer": "prepare",
-            "image": "assets/img/a_3_1.png"
+            "image": "assets/img/a_3_1.jpeg"
           },
           {
             "id": "g_b_3",
             "sentence": "Thilini often __________ drivers before installing them.",
             "options": ["running", "run now", "is running", "runs"],
             "answer": "runs",
-            "image": "assets/img/a_3_1.png"
+            "image": "assets/img/a_3_1.jpeg"
           },
           {
             "id": "g_b_4",
             "sentence": "The IT assistants always __________ updates before shutdown.",
             "options": ["installs", "installing", "is installs", "install"],
             "answer": "install",
-            "image": "assets/img/a_3_1.png"
+            "image": "assets/img/a_3_1.jpeg"
           },
           {
             "id": "g_b_5",
             "sentence": "Right now, the technicians __________ the motherboard.",
             "options": ["checks", "is check", "are checking", "are check"],
             "answer": "are checking",
-            "image": "assets/img/a_3_1.png"
+            "image": "assets/img/a_3_1.jpeg"
           },
           {
             "id": "g_b_6",
@@ -374,7 +374,7 @@
               "is configuring"
             ],
             "answer": "is configuring",
-            "image": "assets/img/a_3_1.png"
+            "image": "assets/img/a_3_1.jpeg"
           },
           {
             "id": "g_b_7",
@@ -386,7 +386,7 @@
               "repairs"
             ],
             "answer": "are repairing",
-            "image": "assets/img/a_3_1.png"
+            "image": "assets/img/a_3_1.jpeg"
           },
           {
             "id": "g_b_8",
@@ -398,21 +398,21 @@
               "are developing"
             ],
             "answer": "are developing",
-            "image": "assets/img/a_3_1.png"
+            "image": "assets/img/a_3_1.jpeg"
           },
           {
             "id": "g_b_9",
             "sentence": "Right now, the helpers __________ external hard drives.",
             "options": ["scanned", "scans", "is scanning", "are scanning"],
             "answer": "are scanning",
-            "image": "assets/img/a_3_1.png"
+            "image": "assets/img/a_3_1.jpeg"
           },
           {
             "id": "g_b_10",
             "sentence": "The IT students __________ backup files every morning.",
             "options": ["makes", "is making", "are making", "make"],
             "answer": "make",
-            "image": "assets/img/a_3_1.png"
+            "image": "assets/img/a_3_1.jpeg"
           }
         ]
       },
