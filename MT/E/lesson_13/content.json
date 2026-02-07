@@ -32,14 +32,6 @@
     },
     "content": [
       {
-        "id": "p_1",
-        "word_text": "j'oi'nt",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Always tighten the pipe j'oi'nt carefully.",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
-      },
-      {
         "id": "p_2",
         "word_text": "c'oi'l",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
@@ -57,11 +49,19 @@
       },
       {
         "id": "p_4",
-        "word_text": "n'oi'sy",
+        "word_text": "n'oi'se",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
         "sentence_text": "This lathe machine is always very n'oi'sy.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
+      },
+       {
+        "id": "p_1",
+        "word_text": "j'oi'nt",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Always tighten the pipe j'oi'nt carefully.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.jpeg"
       }
     ]
   },
